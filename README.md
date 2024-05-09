@@ -1,0 +1,2 @@
+# SaveOurShip2Experimental-ChineseSimplified
+SaveOurShip2Experimental 的简体中文翻译。
