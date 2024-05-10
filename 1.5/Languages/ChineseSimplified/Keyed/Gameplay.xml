@@ -1,0 +1,407 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!-- 世界/轨道 -->
+	<SoS.MoveWest>舰船向西\n短距移动</SoS.MoveWest>
+	<SoS.MoveWestDesc>让船按轨道向西移动。</SoS.MoveWestDesc>
+	<SoS.MoveEast>舰船向东\n短距移动</SoS.MoveEast>
+	<SoS.MoveEastDesc>让船按轨道向东移动。</SoS.MoveEastDesc>
+	<SoS.MoveStop>停止舰船移动</SoS.MoveStop>
+	<SoS.MoveStopDesc>反向推进进入同步轨道。</SoS.MoveStopDesc>
+	<SoS.AbandonHome>弃船\n（没事别点）</SoS.AbandonHome>
+	<SoS.AbandonHomeDesc>放弃当前舰船，船上的殖民者会全部消失。</SoS.AbandonHomeDesc>
+	<SoS.LeaveGraveyard>抛弃沉船漂浮物</SoS.LeaveGraveyard>
+	<SoS.LeaveGraveyardDesc>让这些残骸变成太空垃圾。</SoS.LeaveGraveyardDesc>
+	<SoS.ForceExitAndRemoveMapCountdown>在 {0} 后落入大气。</SoS.ForceExitAndRemoveMapCountdown>
+	<SoS.BurnUpPlayer>轨道无法维持！</SoS.BurnUpPlayer>
+	<SoS.BurnUpPlayerDesc>由于失去了最后一座舰桥，地图不能再维持它的轨道，将在{0}天后落入大气！\n\n上面的一切都会被摧毁！</SoS.BurnUpPlayerDesc>
+	<SoS.BurnUpPlayerPrevented>建造飞船舰桥等相关设备可以稳定轨道。</SoS.BurnUpPlayerPrevented>
+	<SoS.BurnUpCountdown>在 {0} 后落入大气！</SoS.BurnUpCountdown>
+	<SoS.BurnUpCountdownTip>这张地图将在 {0} 后落入大气。上面的一切都会被摧毁。</SoS.BurnUpCountdownTip>
+	<!-- 战斗 -->
+	<SoS.CombatTooltip>显示敌舰与你舰之间的距离，以及所有正在飞行的炮弹和穿梭机。\n\n红色：激光、实弹炮的射程\n绿色：等离子的射程\n蓝色：轨道炮的射程\n紫色：鱼雷射程\n小色条：大型武器的最大射程但不精准</SoS.CombatTooltip>
+	<SoS.CombatRetreat>撤退</SoS.CombatRetreat>
+	<SoS.CombatRetreatDesc>尽量远离敌舰</SoS.CombatRetreatDesc>
+	<SoS.CombatStop>停止</SoS.CombatStop>
+	<SoS.CombatStopDesc>切断引擎电源</SoS.CombatStopDesc>
+	<SoS.CombatMaintain>保持距离</SoS.CombatMaintain>
+	<SoS.CombatMaintainDesc>保持与敌舰间的距离</SoS.CombatMaintainDesc>
+	<SoS.CombatAdvance>推进</SoS.CombatAdvance>
+	<SoS.CombatAdvanceDesc>尽量接近敌舰</SoS.CombatAdvanceDesc>
+	<SoS.CombatEscape>脱离战斗</SoS.CombatEscape>
+	<SoS.CombatEscapeDesc>脱离战斗，同时留下所有还在敌舰上的人</SoS.CombatEscapeDesc>
+	<SoS.CombatAbandonPawns>警告！\n\n脱离战斗会使所有还在敌舰上的殖民者被留在敌舰上！</SoS.CombatAbandonPawns>
+	<SoS.CombatShieldBroken>由于热容不足，我们的护盾损坏了！</SoS.CombatShieldBroken>
+	<SoS.CombatShieldBrokenEnemy>敌人的护盾因缺乏热容而损坏！</SoS.CombatShieldBrokenEnemy>
+	<SoS.CombatPodDestroyedPlayer>你的穿梭机被敌人的点防御系统摧毁！如果有船员幸存，他们的弹射座椅会送他们回到你的舰船。</SoS.CombatPodDestroyedPlayer>
+	<SoS.CombatPodDestroyedEnemy>敌人的穿梭机被你的点防御系统摧毁！</SoS.CombatPodDestroyedEnemy>
+	<SoS.WithdrawShip>撤离舰船</SoS.WithdrawShip>
+	<SoS.WithdrawShipDesc>让这艘船脱离战斗</SoS.WithdrawShipDesc>
+	<SoS.WithdrawShipLast>最后一艘船不能撤退</SoS.WithdrawShipLast>
+	<SoS.CombatConfirmWithdraw>把这艘船撤离进坟场？要是你输了或者逃跑，那么敌舰会攻击你撤进坟场的舰船。</SoS.CombatConfirmWithdraw>
+	<SoS.WrecksPreventMove>地图上的残骸不能移动！</SoS.WrecksPreventMove>
+	<SoS.RemoveWrecks>移除残骸</SoS.RemoveWrecks>
+	<SoS.RemoveWrecksDesc>将地图上的所有残骸移除，它们将被摧毁。</SoS.RemoveWrecksDesc>
+	<SoS.RemoveWrecksConfirm>移除地图上所有残骸？\n\n这将移除任何无法移动的船只或残骸！他们会被太空碎片摧毁。</SoS.RemoveWrecksConfirm>
+	<SoS.WithdrawWrecks>撤出残骸</SoS.WithdrawWrecks>
+	<SoS.WithdrawWrecksDesc>从战斗中撤出所有残骸</SoS.WithdrawWrecksDesc>
+	<SoS.WithdrawWrecksConfirm>把所有残骸撤进坟场？如果你输了或者逃跑，敌人将攻击你的坟场。如果你赢了可以用打捞港捞回少量燃料。</SoS.WithdrawWrecksConfirm>
+	<SoS.ScuttleShip>发射所有逃生舱</SoS.ScuttleShip>
+	<SoS.ScuttleShipDesc>发射所有逃生舱到星球上的指定地点。</SoS.ScuttleShipDesc>
+	<SoS.ScuttleShipPods>不能弃船，有飞行器在往返途中！</SoS.ScuttleShipPods>
+	<SoS.NoLoadedPods>没有可装载的飞行器</SoS.NoLoadedPods>
+	<SoS.LaunchCryptoNotLoaded>飞行器没有装载</SoS.LaunchCryptoNotLoaded>
+	<SoS.SelectWeapons>选择</SoS.SelectWeapons>
+	<SoS.SelectWeaponsDesc>选择连接的舰对舰武器</SoS.SelectWeaponsDesc>
+	<SoS.HoldFire>停火</SoS.HoldFire>
+	<SoS.HoldFireDesc>停止所有连接的舰对舰武器向敌舰开火</SoS.HoldFireDesc>
+	<SoS.TogglePointDefense>停止所有连接的舰对舰武器向敌舰开火</SoS.TogglePointDefense>
+	<SoS.TogglePointDefenseDesc>停止所有连接的舰对舰武器向敌舰开火</SoS.TogglePointDefenseDesc>
+	<SoS.NotAtMaxRange>不在最大射程内</SoS.NotAtMaxRange>
+	<SoS.OnUnstableMap>飞船不在稳定轨道上。</SoS.OnUnstableMap>
+	<SoS.EnemyShipRetreating>敌舰正在试图撤退！</SoS.EnemyShipRetreating>
+	<SoS.EnemyShipRetreated>敌舰逃走了！</SoS.EnemyShipRetreated>
+	<SoS.EnemyShipAdrift>敌舰已进入漂浮状态，正在慢慢失去轨道！</SoS.EnemyShipAdrift>
+	<!-- 打捞、捕获 -->
+	<SoS.ReturnShip>移回</SoS.ReturnShip>
+	<SoS.ReturnShipDesc>将舰船移回你的稳定轨道</SoS.ReturnShipDesc>
+	<SoS.CaptureShip>捕获</SoS.CaptureShip>
+	<SoS.CaptureShipDesc>将舰船移到你的地图上</SoS.CaptureShipDesc>
+	<SoS.LaunchFailPawns>发现非玩家殖民地小人：{0}，起飞中止。</SoS.LaunchFailPawns>
+	<SoS.MoveFailFaction>来自另一个阵营的舰船靠近目标区域。</SoS.MoveFailFaction>
+	<SoS.MoveWreckCommand>移动残骸</SoS.MoveWreckCommand>
+	<SoS.MoveWreckCommandDesc>移动你的地图上被选中的残骸。</SoS.MoveWreckCommandDesc>
+	<SoS.MoveWreckFlipCommand>翻转残骸</SoS.MoveWreckFlipCommand>
+	<SoS.MoveWreckFlipCommandDesc>移动并翻转在你的地图上被选中的残骸</SoS.MoveWreckFlipCommandDesc>
+	<SoS.MoveWreckRotCommand>旋转残骸</SoS.MoveWreckRotCommand>
+	<SoS.MoveWreckRotCommandDesc>移动并逆时针旋转在你的地图上被选中的残骸</SoS.MoveWreckRotCommandDesc>
+	<SoS.SalvageCommand>检索 {0} 上的残骸</SoS.SalvageCommand>
+	<SoS.SalvageCommandDesc>找到目标地图 {0} 上的所有残骸</SoS.SalvageCommandDesc>
+	<SoS.SalvageBeam>检索 {0} 上的碎片</SoS.SalvageBeam>
+	<SoS.SalvageBeamDesc>找到目标地图 {0} 上的所有松散的、自由漂浮的碎片。</SoS.SalvageBeamDesc>
+	<SoS.SalvageStablize>稳定 {0} 轨道</SoS.SalvageStablize>
+	<SoS.SalvageStablizeFuel>稳定需要 {0} 单位的燃料！</SoS.SalvageStablizeFuel>
+	<SoS.SalvageStablizeDesc>稳定 {0} 的轨道。这需要足够的打捞港，并消耗你的舰船引擎中的燃料。</SoS.SalvageStablizeDesc>
+	<SoS.SalvageStablizeConfirm>稳定 {0} 的轨道。这需要足够的打捞港，并将会消耗你的舰船引擎中 {1} 单位的燃料。</SoS.SalvageStablizeConfirm>
+	<SoS.SalvageDisabled>在飞船战中或者有敌人在地图上！</SoS.SalvageDisabled>
+	<SoS.SalvageAbandonConfirm>你确定要放弃目标吗？\n任何与它相连或在上面的东西都会落入大气中被烧毁！</SoS.SalvageAbandonConfirm>
+	<SoS.SalvageBridge>不能用打捞港移动完整的舰船，夺取或摧毁舰桥。</SoS.SalvageBridge>
+	<SoS.SalvageCount>没有足够的打捞港。捕获所选目标需要打捞港空间 {0} ，而舰船上只有 {1}</SoS.SalvageCount>
+	<SoS.SalvageNoSpace>打捞港没有足够的空间。</SoS.SalvageNoSpace>
+	<SoS.SalvageEnemiesPresent>在收拾掉所有敌人后可以使用打捞港捕获。</SoS.SalvageEnemiesPresent>
+	<SoS.ClaimWrecksCommand>占领残骸</SoS.ClaimWrecksCommand>
+	<SoS.ClaimWrecksCommandDesc>占领这张地图上的所有残骸。</SoS.ClaimWrecksCommandDesc>
+	<SoS.ClaimWrecksSuccess>占领 {0} 个建筑！</SoS.ClaimWrecksSuccess>
+	<SoS.ClaimWrecksDisabled>有敌人在地图上！</SoS.ClaimWrecksDisabled>
+	<SoS.RemoveWrecksCommand>移除残骸</SoS.RemoveWrecksCommand>
+	<SoS.RemoveWrecksCommandDesc>移除这张地图上的所有残骸。</SoS.RemoveWrecksCommandDesc>
+	<!-- 建造限制 -->
+	<SoS.PlaceOnShipHull>必须建造在船体镀层上。</SoS.PlaceOnShipHull>
+	<SoS.EnginePlaceRotation>必须和其它引擎朝向同一方向！</SoS.EnginePlaceRotation>
+	<!-- comms/trade -->
+	<SoS.TradeComms>联络 </SoS.TradeComms>
+	<SoS.TradeTradeWith>要求与他们进行交易。</SoS.TradeTradeWith>
+	<SoS.TradeTradeDecline>{0} 因为你的恶名不想与你交易。</SoS.TradeTradeDecline>
+	<SoS.PirateTradeDemand>要求他们交出货物（这是海盗行为！会增加你的恶名值）</SoS.PirateTradeDemand>
+	<SoS.TradeTryingToFlee> 关闭了通讯并试图逃离！</SoS.TradeTryingToFlee>
+	<SoS.TradeAttack>追上去！</SoS.TradeAttack>
+	<SoS.TradeFlee>让他们走。</SoS.TradeFlee>
+	<SoS.TradePayBounty>支付你的赏金以消除恶名（需要：{0} 银）</SoS.TradePayBounty>
+	<SoS.NotEnoughForBounty>需要有 {0} 银在轨道交易信标的范围内</SoS.NotEnoughForBounty>
+	<SoS.PirateHail>一艘海盗船在向你招手。\n</SoS.PirateHail>
+	<SoS.PirateHailPirate>他们肯定知道你名声。</SoS.PirateHailPirate>
+	<SoS.PirateHailNormal>如果你无视他们的话他们很可能会攻击你。</SoS.PirateHailNormal>
+	<SoS.PirateTalk>与未知的海盗船通讯\n\n\n</SoS.PirateTalk>
+	<SoS.PirateTalkPirate>他们知道你的名声，他们问你是否想要进行交易。</SoS.PirateTalkPirate>
+	<SoS.PirateTalkParley>他们现在愿意和你们做交易。</SoS.PirateTalkParley>
+	<SoS.PirateTalkPaid>无视掉。</SoS.PirateTalkPaid>
+	<SoS.PirateTalkNormal>他们要求你交出价值 {0} 银的贵重物品。\n\n要是你视而不见的话那么他们最终会攻击你。\n\n你可以尝试进行谈判或使用古老的海盗识别码，但这可能会使他们愤怒并立即攻击你。</SoS.PirateTalkNormal>
+	<SoS.PirateTrade>和他们交易</SoS.PirateTrade>
+	<SoS.PirateDemand>乖乖交钱</SoS.PirateDemand>
+	<SoS.PirateDemandFail>白银不足：{0}</SoS.PirateDemandFail>
+	<SoS.PirateParley>谈一谈？</SoS.PirateParley>
+	<SoS.PirateParleyFail>谈判失败</SoS.PirateParleyFail>
+	<SoS.PirateParleyFailDesc>你与海盗谈判失败了。他们开始进攻。</SoS.PirateParleyFailDesc>
+	<SoS.PirateParleyWin>谈判成功</SoS.PirateParleyWin>
+	<SoS.PirateParleyWinDesc>你设法说服了海盗不要打劫你的船。</SoS.PirateParleyWinDesc>
+	<SoS.PirateAttacksBetray>海盗背叛代码</SoS.PirateAttacksBetray>
+	<SoS.PirateAttacksBetrayDesc>看来劫匪之间没有荣誉可言</SoS.PirateAttacksBetrayDesc>
+	<SoS.PirateAttacksPay>海盗攻击</SoS.PirateAttacksPay>
+	<SoS.PirateAttacksPayDesc>海盗们认为你给的报酬不够好，他们转头开始攻击你。</SoS.PirateAttacksPayDesc>
+	<SoS.PirateAttacksWait>海盗攻击</SoS.PirateAttacksWait>
+	<SoS.PirateAttacksWaitDesc>海盗们决定不等了并开始对你发动攻击。</SoS.PirateAttacksWaitDesc>
+	<SelectEverything>选择一切</SelectEverything>
+	<SelectEverythingDesc>选择一切。</SelectEverythingDesc>
+	<!-- 舰桥 -->
+	<SoS.StatsShipName>舰船名称：{0}</SoS.StatsShipName>
+	<SoS.StatsNotoriety>恶名值：{0}</SoS.StatsNotoriety>
+	<SoS.StatsShipMass>舰船重量：{0}</SoS.StatsShipMass>
+	<SoS.StatsShipMaxTakeoff>舰船最大起飞重量：{0}</SoS.StatsShipMaxTakeoff>
+	<SoS.StatsShipEnergy>舰船储能：{0} / {1} Wd</SoS.StatsShipEnergy>
+	<SoS.StatsShipHeat>舰船热容：{0} / {1} HU{2}</SoS.StatsShipHeat>
+	<SoS.StatsShipCombatRating>战斗评级：{0}</SoS.StatsShipCombatRating>
+	<SoS.StatsShipCombatThrust>Thrust/Weight ratio: {0}</SoS.StatsShipCombatThrust>
+	<SoS.ReportInterReady>Ready for interstellar travel.</SoS.ReportInterReady>
+	<SoS.ReportInterNotReady>Not ready for interstellar travel:</SoS.ReportInterNotReady>
+	<SoS.ReportNeedPilot>Ship requires either a pilot or an AI core.</SoS.ReportNeedPilot>
+	<SoS.NeedsMoreFuel>Ship has {0} units of fuel, but requires {1} in engine fuel tanks.</SoS.NeedsMoreFuel>
+	<SoS.NeedsMorePower>Ship requires {0} Wd of stored power.</SoS.NeedsMorePower>
+	<SoS.NeedsMoreJTEngines>Ship requires more JT engines due to its size.</SoS.NeedsMoreJTEngines>
+	<SoS.PlanetLeave>Go to new planet</SoS.PlanetLeave>
+	<SoS.PlanetLeaveDesc>Leave this planet behind and find a new rimworld to settle</SoS.PlanetLeaveDesc>
+	<SoS.ToggleScanShips>Scan for ships</SoS.ToggleScanShips>
+	<SoS.ToggleScanShipsDesc>Toggle scanning for other ships</SoS.ToggleScanShipsDesc>
+	<SoS.ToggleScanSites>Scan for sites</SoS.ToggleScanSites>
+	<SoS.ToggleScanSitesDesc>Toggle scanning for orbital sites</SoS.ToggleScanSitesDesc>
+	<SoS.ToggleShields>Toggle shields</SoS.ToggleShields>
+	<SoS.ToggleShieldsDesc>Activate or deactivate your ship's shields</SoS.ToggleShieldsDesc>
+	<SoS.ToggleCloak>Toggle cloaking device</SoS.ToggleCloak>
+	<SoS.ToggleCloakDesc>Activate or deactivate your ship's cloaking device</SoS.ToggleCloakDesc>
+	<SoS.ShipInfo>Ship info</SoS.ShipInfo>
+	<SoS.ShipInfoDesc>Shows ship statistics and readiness for interstellar travel.</SoS.ShipInfoDesc>
+	<SoS.Rename>Rename ship</SoS.Rename>
+	<SoS.RenameDesc>Give this ship a new name</SoS.RenameDesc>
+	<SoS.Move>Move ship</SoS.Move>
+	<SoS.MoveDesc>Move the ship elsewhere on this map</SoS.MoveDesc>
+	<SoS.MoveFlip>Flip ship</SoS.MoveFlip>
+	<SoS.MoveFlipDesc>Flip the ship horizontally</SoS.MoveFlipDesc>
+	<SoS.MoveRot>Rotate ship</SoS.MoveRot>
+	<SoS.MoveRotNo>Ship has non-rotatable, non-even sided buildings!</SoS.MoveRotNo>
+	<SoS.MoveRotDesc>Rotate the ship counter clockwise</SoS.MoveRotDesc>
+	<SoS.MoveFail>Move failed!</SoS.MoveFail>
+	<SoS.MoveFailDesc>Ship move failed! Recheck your ship and reload if things are out of place or broken. This is most often caused by modded buildings that do not despawn properly.\nFailed by moving: {0}</SoS.MoveFailDesc>
+	<SoS.MoveFailRCS>Not enough RCS thrusters to move ship, required {0}</SoS.MoveFailRCS>
+	<SoS.MoveFailFuel>Not enough fuel to move ship, required {0} fuel</SoS.MoveFailFuel>
+	<SoS.MoveFailPilot>Ship requires a pilot to move.</SoS.MoveFailPilot>
+	<SoS.Land>Land ship</SoS.Land>
+	<SoS.LandDesc>Land this ship near </SoS.LandDesc>
+	<SoS.Rebuild>Rebuild ship parts</SoS.Rebuild>
+	<SoS.RebuildDesc>Places blueprints for destroyed buildings on this ship.</SoS.RebuildDesc>
+	<!-- story -->
+	<SoS.QuestPillarA>Attack KSS Horizon</SoS.QuestPillarA>
+	<SoS.QuestPillarADesc>Attempt to engage the ancient terraforming station and recover an archotech pillar</SoS.QuestPillarADesc>
+	<SoS.QuestPillarB>Raid moon base</SoS.QuestPillarB>
+	<SoS.QuestPillarBDesc>Attack the mechanoid moon base and attempt to recover an archotech pillar.\n\nThis will also provoke a mechanoid warship!</SoS.QuestPillarBDesc>
+	<!-- scan -->
+	<SoS.scanRegion>Scan</SoS.scanRegion>
+	<SoS.scanRegionDesc>Reveal an area on the planet's surface.</SoS.scanRegionDesc>
+	<SoS.ScanMap>Observe area</SoS.ScanMap>
+	<SoS.ScanMapDesc>View a single map from orbit</SoS.ScanMapDesc>
+	<SoS.ScanMapStop>End observation</SoS.ScanMapStop>
+	<SoS.ScanMapStopDesc>Stop observing {0}. This will cause the map to de-spawn unless colonists are present.</SoS.ScanMapStopDesc>
+	<!-- engines -->
+	<SoS.ToggleEngines>Engage ship engines</SoS.ToggleEngines>
+	<SoS.ToggleEnginesDesc>Engage ship engines to clear hazards.</SoS.ToggleEnginesDesc>
+	<!-- airlock -->
+	<SoS.ToggleDock>Toggle extender</SoS.ToggleDock>
+	<SoS.ToggleDockDesc>Extend or retract the airlock extender up to 3 tiles away</SoS.ToggleDockDesc>
+	<SoS.AirlockHacked>Airlock hack successful!</SoS.AirlockHacked>
+	<SoS.AirlockHackFailed>Airlock hacking failed!</SoS.AirlockHackFailed>
+	<SoS.AirlockBreached>Airlock breached!</SoS.AirlockBreached>
+	<!-- unfold -->
+	<SoS.UnfoldStatus>Status: </SoS.UnfoldStatus>
+	<SoS.UnfoldRetracted>Retracted</SoS.UnfoldRetracted>
+	<SoS.UnfoldExtended>Extended</SoS.UnfoldExtended>
+	<SoS.UnfoldExtending>Extending</SoS.UnfoldExtending>
+	<SoS.UnfoldRetracting>Retracting</SoS.UnfoldRetracting>
+	<SoS.UnfoldBlocked>Must place free of obstructions or other extendables.</SoS.UnfoldBlocked>
+	<!-- heat -->
+    <SoS.HeatStored>Grid heat stored/capacity: {0} HU / {1} HU ({2})</SoS.HeatStored>
+	<SoS.HeatWithPower>Use power for heating</SoS.HeatWithPower>
+	<SoS.HeatWithPowerDesc>Use power for heating when not enough heat is present in the network.</SoS.HeatWithPowerDesc>
+	<SoS.PurgeHeat>Emergency heat purge</SoS.PurgeHeat>
+	<SoS.PurgeHeatDesc>Eject molten silver into space to rapidly lower your ship's stored heat.\n\nThis will cause your shields to drop!</SoS.PurgeHeatDesc>
+	<SoS.HeatPurge>Vent coolant</SoS.HeatPurge>
+	<SoS.HeatPurgeDesc>Begin venting coolant from heatsinks. All shields, weapons, and cloaks on this heat network will shut down, and heatsinks will vent heat five times as quickly.\n\nThis process depletes coolant and reduces the overall capacity of the heat network, and cannot be canceled once it has begun. Outside of combat, depleted capacity will slowly recover.</SoS.HeatPurgeDesc>
+	<SoS.HeatPurgeVenting>Already venting</SoS.HeatPurgeVenting>
+	<SoS.HeatPurgeNotEnough>Not enough heat in network for purge</SoS.HeatPurgeNotEnough>
+	<SoS.CloakBroken>Cloak disengaged due to heat depleetion</SoS.CloakBroken>
+	<!-- turret -->
+	<SoS.TurretNotInShipCombat>Warning: Turret will not fire because you are not in ship combat.</SoS.TurretNotInShipCombat>
+	<SoS.TurretInPointDefense>Warning: Turret will not target the enemy ship because it is set to Point Defense mode</SoS.TurretInPointDefense>
+	<SoS.TurretExtractTorpedo>Extract torpedoes</SoS.TurretExtractTorpedo>
+	<SoS.TurretExtractTorpedoDesc>Unloads the current torpedoes so they can be replaced with different ammunition.</SoS.TurretExtractTorpedoDesc>
+	<SoS.TurretExtractOneTorpedo>Extract one torpedo</SoS.TurretExtractOneTorpedo>
+	<SoS.TurretExtractOneTorpedoDesc>Unloads just one torpedo so it can be replaced with different ammunition.</SoS.TurretExtractOneTorpedoDesc>
+	<SoS.TurretExtract>Extract</SoS.TurretExtract>
+	<SoS.TurretOptimalRange>Use optimal range</SoS.TurretOptimalRange>
+	<SoS.TurretOptimalRangeDesc>Enable to only fire on targets within optimal range</SoS.TurretOptimalRangeDesc>
+	<SoS.TurretPointDefense>Point Defense mode</SoS.TurretPointDefense>
+	<SoS.TurretPointDefenseDesc>Use this turret to intercept incoming torpedoes and shuttles</SoS.TurretPointDefenseDesc>
+	<SoS.TorpedoAllowedDesc>Toggle to prevent or allow firing of this type of torpedo.</SoS.TorpedoAllowedDesc>
+	<SoS.TorpedoNotLoaded>Not loaded</SoS.TorpedoNotLoaded>
+	<SoS.TorpedoFullyLoaded>Fully loaded</SoS.TorpedoFullyLoaded>
+	<SoS.TorpedoNone>No torpedoes</SoS.TorpedoNone>
+	<SoS.AmplifierCount>Amplifiers: {0}</SoS.AmplifierCount>
+	<SoS.SpinalCapNotFound>Spinal capacitor not found.</SoS.SpinalCapNotFound>
+	<SoS.CannotFireDueToHeat>{0} cannot fire: not enough heatsink capacity</SoS.CannotFireDueToHeat>
+	<SoS.CannotFireDueToPower>{0} cannot fire: not enough power</SoS.CannotFireDueToPower>
+	<SoS.CannotFireDueToAmmo>{0} cannot fire: not enough ammo</SoS.CannotFireDueToAmmo>
+	<!-- shield -->
+	<SoS.ShieldRadius>Radius current/set: {0}/{1}</SoS.ShieldRadius>
+	<SoS.ResetShieldRadius>Reset shield radius</SoS.ResetShieldRadius>
+	<SoS.ResetShieldRadiusDesc>Reset shield radius to 40.</SoS.ResetShieldRadiusDesc>
+	<SoS.DecShieldRadius>Decrease shield radius</SoS.DecShieldRadius>
+	<SoS.IncShieldRadius>Increase shield radius</SoS.IncShieldRadius>
+	<SoS.FoamFill>Fill destroyed</SoS.FoamFill>
+	<SoS.FoamFillDesc>Fill destroyed areas of your ship with hullfoam from its distributors.</SoS.FoamFillDesc>
+	<SoS.FoamFillDisabled>Nothing to fill or no fuel in distributors.</SoS.FoamFillDisabled>
+	
+	<!-- reactor -->
+	<SoS.ReactorOverdrive>Overdrive I</SoS.ReactorOverdrive>
+	<SoS.ReactorOverdriveDesc>Increase reactor output, at the cost of increased heat production and fuel consumption.</SoS.ReactorOverdriveDesc>
+	<SoS.ReactorOverdrive2>Overdrive II</SoS.ReactorOverdrive2>
+	<SoS.ReactorOverdrive2Desc>Greatly increase reactor output, at the cost of increased heat production and fuel consumption. Increases instability, risking fire and radiation leaks.</SoS.ReactorOverdrive2Desc>
+	<SoS.ReactorOverdrive3>Overdrive III</SoS.ReactorOverdrive3>
+	<SoS.ReactorOverdrive3Desc>Vastly increase reactor output, at the cost of increased heat production and fuel consumption. Increases instability, risking fire and radiation leaks.</SoS.ReactorOverdrive3Desc>
+	<!-- blueprints -->
+	<SoS.BlueprintDisabled>Requires starflight basics research</SoS.BlueprintDisabled>
+	<SoS.BlueprintFailed>Blueprint placement failed! Area must support heavy construction and be clear of non-owned objects and mountain roof.</SoS.BlueprintFailed>
+	<SoS.BlueprintPlace1>Ship frame blueprints</SoS.BlueprintPlace1>
+	<SoS.BlueprintPlace1Desc>Place ship plating and outer hull blueprints. Construct this before placing ship hull!</SoS.BlueprintPlace1Desc>
+	<SoS.BlueprintPlace2>Ship hull blueprints</SoS.BlueprintPlace2>
+	<SoS.BlueprintPlace2Desc>Place ship hull blueprints. Construct this before placing interior blueprints!</SoS.BlueprintPlace2Desc>
+	<SoS.BlueprintPlace3>Ship interior blueprints</SoS.BlueprintPlace3>
+	<SoS.BlueprintPlace3Desc>Place ship interior blueprints. Construct frame and hull blueprints before placing these!</SoS.BlueprintPlace3Desc>
+	<!-- pawns/eva -->
+	<SoS.DamagedReactorHurtsPawn>{0} is suffering radiation burns from a damaged reactor!</SoS.DamagedReactorHurtsPawn>
+	<SoS.EVACapable>EVA capable.</SoS.EVACapable>
+	<!-- holo/spore -->
+	<SoS.SpawnHologram>Spawn formgel</SoS.SpawnHologram>
+	<SoS.SpawnHologramDesc>Assemble a formgel through which this consciousness can affect the world</SoS.SpawnHologramDesc>
+	<SoS.DespawnHologram>Decohere formgel</SoS.DespawnHologram>
+	<SoS.DespawnHologramDesc>Destroy the formgel controlled by this device. Breeding a new mechanite swarm to replace it will take one day</SoS.DespawnHologramDesc>
+	<SoS.RenameAI>Rename AI</SoS.RenameAI>
+	<SoS.RenameAIDesc>Give this AI a new name</SoS.RenameAIDesc>
+	<SoS.InstallConsciousness>Install consciousness</SoS.InstallConsciousness>
+	<SoS.InstallConsciousnessThisOne>Install consciousness: {0}</SoS.InstallConsciousnessThisOne>
+	<SoS.InstallConsciousnessDesc>Install a consciousness into this device</SoS.InstallConsciousnessDesc>
+	<SoS.InstallCore>Install AI core</SoS.InstallCore>
+	<SoS.InstallCoreDesc>Order your colonists to install an AI core in this device</SoS.InstallCoreDesc>
+	<SoS.NoBrains>No consciousness available</SoS.NoBrains>
+	<SoS.NoCores>No persona cores available</SoS.NoCores>
+	<SoS.SpawnHologramDelay>Formgel swarm regenerating: available in {0}</SoS.SpawnHologramDelay>
+	<SoS.HologramColor>Formgel Color</SoS.HologramColor>
+	<SoS.HologramColorDesc>Choose the color for this mind's formgel</SoS.HologramColorDesc>
+	<SoS.EquipRanged>Ranged mode</SoS.EquipRanged>
+	<SoS.EquipRangedDesc>Equip this hologram with a ranged laser attack</SoS.EquipRangedDesc>
+	<SoS.EquipMelee>Melee mode</SoS.EquipMelee>
+	<SoS.EquipMeleeDesc>Equip this hologram with a blade and an energy shield</SoS.EquipMeleeDesc>
+	<SoS.ResurrectBrain>Resurrect</SoS.ResurrectBrain>
+	<SoS.ResurrectBrainDesc>Use a resurrector mech serum to construct a new body for this consciousness</SoS.ResurrectBrainDesc>
+	<SoS.ArchoGift>Unlocks archotech gifts</SoS.ArchoGift>
+	<SoS.ArchotechGoodwillPlus>Psychically increase goodwill (+10, costs {0} field strength)</SoS.ArchotechGoodwillPlus>
+	<SoS.ArchotechGoodwillMinus>Psychically decrease goodwill (-10, costs {0} field strength)</SoS.ArchotechGoodwillMinus>
+	<SoS.ArchotechFieldStrengthLow>Insufficient field strength</SoS.ArchotechFieldStrengthLow>
+	<SoS.ArchotechSoothe>Psychic soothe</SoS.ArchotechSoothe>
+	<SoS.ArchotechSootheDesc>Perform a psychic soothe on one map (costs {0} field strength)</SoS.ArchotechSootheDesc>
+	<SoS.ArchotechShock>Psychic shock</SoS.ArchotechShock>
+	<SoS.ArchotechShockDesc>Inflict psychic shock on one pawn (costs {0} field strength)</SoS.ArchotechShockDesc>
+	<SoS.ArchotechInsanity>Psychic insanity</SoS.ArchotechInsanity>
+	<SoS.ArchotechInsanityDesc>Inflict psychic insanity on one pawn (costs {0} field strength)</SoS.ArchotechInsanityDesc>
+	<SoS.ArchotechPsylink>Psylink</SoS.ArchotechPsylink>
+	<SoS.ArchotechPsylinkDesc>Grant a level of psylink to one pawn (costs {0} field strength)</SoS.ArchotechPsylinkDesc>
+	<SoS.ArchotechSoulLink>Link psychic presence</SoS.ArchotechSoulLink>
+	<SoS.ArchotechSoulLinkDesc>Connect one pawn to this archotech spore. If the subject's body is destroyed, the psychic pattern can be directly downloaded into an afterlife casket, exactly as it was before death. (costs {0} field strength)</SoS.ArchotechSoulLinkDesc>
+	<SoS.ArchotechSoulDownload>Download psychic presence ({0})</SoS.ArchotechSoulDownload>
+	<SoS.ArchotechSoulDownloadDesc>Download {0}'s consciousness into an empty afterlife casket.</SoS.ArchotechSoulDownloadDesc>
+	<SoS.ArchotechOptimizeMatter>Optimize matter</SoS.ArchotechOptimizeMatter>
+	<SoS.ArchotechOptimizeMatterDesc>Automatically convert standard hull to archotech hull in a slowly widening radius. This will not affect large structures such as heatsinks or shield generators.</SoS.ArchotechOptimizeMatterDesc>
+	<SoS.ArchotechGiftParticles>Auto gift particles</SoS.ArchotechGiftParticles>
+	<SoS.ArchotechGiftParticlesDesc>Automatically accept and convert spore rewards to exotic particles</SoS.ArchotechGiftParticlesDesc>
+	<SoS.ArchotechDemandGift>Demand gift</SoS.ArchotechDemandGift>
+	<SoS.ArchotechDemandGiftDesc>Demand an immediate gift from your archotech spore. This will result in a stacking -40 mood penalty!</SoS.ArchotechDemandGiftDesc>
+	<SoS.ArchotechNoGiftsUnlocked>No gifts unlocked by research</SoS.ArchotechNoGiftsUnlocked>
+	<SoS.ArchotechEvolve>Initiate archotech evolution</SoS.ArchotechEvolve>
+	<SoS.ArchotechEvolveDesc>Evolve your archotech spore into a true archotech, and usher in a new age for this world.\n\nThis will end the game!</SoS.ArchotechEvolveDesc>
+	<SoS.ArchotechMoodLow>Archotech spore unhappy</SoS.ArchotechMoodLow>
+	<SoS.ArchotechMoodLowDesc>Your archotech spore's mood is low, and it may decide to start playing "pranks" on your crew.\n\nThe spore's mood can be improved slowly by having colonists meditate nearby, or quickly by sacrificing prisoners to it.</SoS.ArchotechMoodLowDesc>
+	<SoS.ArchotechMoodLowNoRoyDesc>Your archotech spore's mood is low, and it may decide to start playing "pranks" on your crew.\n\nThe spore's mood can be improved by sacrificing prisoners' brains to it.</SoS.ArchotechMoodLowNoRoyDesc>
+	<!-- archoanimals -->
+	<SoS.ArchoAnimalSuddenDeath>By some cosmic event an archo animal appeared for a brief moment only to vanish soon after. Maybe it is a sign of things to come.</SoS.ArchoAnimalSuddenDeath>
+	<SoS.ArchoAnimalSporeDeath>Without an Archotech to guide it, {0} has perished.</SoS.ArchoAnimalSporeDeath>
+	<SoS.CraftArchocat>Spawn archocat</SoS.CraftArchocat>
+	<SoS.CraftArchomutt>Spawn archomutt</SoS.CraftArchomutt>
+	<SoS.CraftArchostrich>Spawn archostrich</SoS.CraftArchostrich>
+	<SoS.CraftArchoffalo>Spawn archoffalo</SoS.CraftArchoffalo>
+	<SoS.CraftArchospider>Spawn archospider</SoS.CraftArchospider>
+	<SoS.CraftArcholope>Spawn archolope</SoS.CraftArcholope>
+	<SoS.CraftArchotortoise>Spawn archotortoise</SoS.CraftArchotortoise>
+	<SoS.CraftArchopanda>Spawn archopanda</SoS.CraftArchopanda>
+	<SoS.CraftArchojerboa>Spawn archojerboa</SoS.CraftArchojerboa>
+	<SoS.CraftArchothrumbo>Spawn archothrumbo</SoS.CraftArchothrumbo>
+	<SoS.ArcholifeChangeSkin>Change animal appearance</SoS.ArcholifeChangeSkin>
+	<SoS.ArcholifeChangeSkinDesc>This creature seems able to change shape at will, but only between a few discrete forms.</SoS.ArcholifeChangeSkinDesc>
+	<!-- mechanites -->
+	<SoS.MechanitesInHomeArea>Mechanites!</SoS.MechanitesInHomeArea>
+    <SoS.MechanitesInHomeAreaDesc>Disassembler mechanites have infested the home area.</SoS.MechanitesInHomeAreaDesc>
+	<!-- shuttles -->
+	<SoS.ShuttleMissionFloatBoard>Mission: Boarding Party</SoS.ShuttleMissionFloatBoard>
+	<SoS.ShuttleMissionFloatBoardWarn>Mission: Boarding Party (WARNING!)</SoS.ShuttleMissionFloatBoardWarn>
+	<SoS.ShuttleMissionFloatIntercept>Mission: Intercept Torpedoes/Fighters</SoS.ShuttleMissionFloatIntercept>
+	<SoS.ShuttleMissionFloatStrafe>Mission: Strafe Enemy Ship</SoS.ShuttleMissionFloatStrafe>
+	<SoS.ShuttleMissionFloatTorpedo>Mission: Torpedo Enemy Ship</SoS.ShuttleMissionFloatTorpedo>
+	<SoS.ShuttleMissionFloatReturn>Return to Ship</SoS.ShuttleMissionFloatReturn>
+	<SoS.ShuttleRetreat>Your shuttle is retreating due to damaged hull!</SoS.ShuttleRetreat>
+	<SoS.EnemyShuttleRetreat>Enemy shuttle is retreating due to damaged hull!</SoS.EnemyShuttleRetreat>
+	<SoS.ShuttleRetreatFuel>Your shuttle is retreating due to low fuel!</SoS.ShuttleRetreatFuel>
+	<SoS.EnemyShuttleRetreatFuel>Enemy shuttle is retreating due to low fuel!</SoS.EnemyShuttleRetreatFuel>
+	<SoS.ShuttleOutOfTorps>Your shuttle is out of torpedoes and has begun retreating!</SoS.ShuttleOutOfTorps>
+	<SoS.EnemyShuttleOutOfTorps>Enemy shuttle is out of torpedoes and has begun retreating!</SoS.EnemyShuttleOutOfTorps>
+	<SoS.BoardingShuttleArrived>Your boarding shuttle has arrived!</SoS.BoardingShuttleArrived>
+	<SoS.EnemyBoardingShuttleArrived>Enemy boarding shuttle has arrived!</SoS.EnemyBoardingShuttleArrived>
+	<SoS.ShuttleMissionBoarding>Board enemy ship</SoS.ShuttleMissionBoarding>
+	<SoS.ShuttleMissionBoardingDesc>Send this shuttle to board the enemy ship. It will be vulnerable to point-defense weaponry. If the enemy has active engines, the shuttle will take longer to arrive.</SoS.ShuttleMissionBoardingDesc>
+	<SoS.ShuttleMissionBoardingDisabled>Shuttle under roof and not on suitable bay!</SoS.ShuttleMissionBoardingDisabled>
+	<SoS.ShuttleMissionBoardingWarn>Board enemy ship (WARNING!)</SoS.ShuttleMissionBoardingWarn>
+	<SoS.ShuttleMissionBoardingWarnDesc>WARNING: Enemy ship has active engines and might not have room to land on!\nSend this shuttle to board the enemy ship. It will be vulnerable to point-defense weaponry. If the enemy has active engines, the shuttle will take longer to arrive.</SoS.ShuttleMissionBoardingWarnDesc>
+	<SoS.ShuttleMissionBoardingReturn>Return to ship</SoS.ShuttleMissionBoardingReturn>
+	<SoS.ShuttleMissionBoardingReturnDesc>Send this shuttle back to your ship. If enemy point-defense weapons remain online, it will be vulnerable to attack.</SoS.ShuttleMissionBoardingReturnDesc>
+	<SoS.ShuttleMissionIntercept>Intercept</SoS.ShuttleMissionIntercept>
+	<SoS.ShuttleMissionInterceptDesc>Send this shuttle to intercept incoming torpedoes and enemy shuttlecraft.\n\nIt will continue its mission until it runs low on fuel or is sufficiently damaged, or you recall it manually.</SoS.ShuttleMissionInterceptDesc>
+	<SoS.ShuttleMissionStrafe>Strafe enemy ship</SoS.ShuttleMissionStrafe>
+	<SoS.ShuttleMissionStrafeDesc>Send this shuttle to strafe the enemy ship with its turrets. It will be vulnerable to point-defense weaponry. If the enemy has active engines, the shuttle will take longer to arrive.\n\nIt will continue its mission until it runs low on fuel or is sufficiently damaged, or you recall it manually.</SoS.ShuttleMissionStrafeDesc>
+	<SoS.ShuttleMissionBomb>Torpedo enemy ship</SoS.ShuttleMissionBomb>
+	<SoS.ShuttleMissionBombDesc>Send this shuttle to fire torpedoes from close range. It will be extremely vulnerable to point-defense weaponry, but its torpedoes will not be. If the enemy has active engines, the shuttle will take longer to arrive.\n\nIt will continue its mission until it runs low on fuel runs out of torpedoes, is sufficiently damaged, or you recall it manually.</SoS.ShuttleMissionBombDesc>
+	<SoS.RecallShuttle>{0} (mission: {1})</SoS.RecallShuttle>
+	<SoS.RecallShuttleDesc>Change this shuttle's mission.</SoS.RecallShuttleDesc>
+	<SoS.RetreatAtHealth>Retreat at shuttle health</SoS.RetreatAtHealth>
+	<SoS.RetreatAtHealthDesc>This shuttle will automatically retreat when its health drops below this percentage.</SoS.RetreatAtHealthDesc>
+	<SoS.CancelBoarding>Cancel boarding action? Your shuttle will return to your ship.</SoS.CancelBoarding>
+	<SoS.NoHardpoints>Shuttle does not have enough hardpoints for this turret.</SoS.NoHardpoints>
+	<SoS.NotEnoughCargoSpace>This upgrade would reduce cargo capacity below zero.</SoS.NotEnoughCargoSpace>
+	<SoS.HoverJump>Local flight</SoS.HoverJump>
+	<SoS.HoverJump.Desc>Launch and land in the same tile, at the cost of 5 fuel</SoS.HoverJump.Desc>
+	<SoS.TargetShuttles>Set shuttle target</SoS.TargetShuttles>
+	<SoS.TargetShuttlesDesc>Choose where shuttles on strafing and bombing missions should aim</SoS.TargetShuttlesDesc>
+	<SoS.ToggleField>Toggle hull access</SoS.ToggleField>
+	<SoS.ToggleFieldDesc>Allow pawns and vehicles to pass through this region of permeable hull.</SoS.ToggleFieldDesc>
+	
+	<!-- obsolete/unused
+	<SoS.PirateTradeEmpire>Our act of piracy against the Empire has not gone unnoticed!</SoS.PirateTradeEmpire>
+	<SoS.MoveFailPawns>Player pawn in {0}, ship move aborted.</SoS.MoveFailPawns>
+	<SoS.TargetEnd>Stop targeting</SoS.TargetEnd>
+	<SoS.TargetEndDesc>Stop targeting your current target with your weapons.</SoS.TargetEndDesc>
+	<ShipTorpedoLoaded>Loaded: {0}</ShipTorpedoLoaded>
+	<MustNotPlaceOnShipPart>Space occupied.</MustNotPlaceOnShipPart>
+	<MustPlaceInsideShip>Must place inside a fully enclosed ship hull.</MustPlaceInsideShip>
+	<MustPlaceNearSpinalMountPort>Must place adjacent to a spinal-mount module</MustPlaceNearSpinalMountPort>
+	<MustPlaceInsideShipFramework>Must place in a room bordered only by ship parts.</MustPlaceInsideShipFramework>
+	<MeditationFocusPerPillarAbstract>{1} per nearby archotech pillar (max {0})</MeditationFocusPerPillarAbstract>
+	<MeditationFocusPerPillar>{2} per nearby archotech pillar ({0} / {1})</MeditationFocusPerPillar>
+	<SporeNeedsName>Your archotech spore requests that you grant it a name.</SporeNeedsName>
+	<NoSalvageBays>No salvage bays available</NoSalvageBays>
+	<SalvageShip>Salvage enemy ship</SalvageShip>
+	<SalvageShipCancel>Abandon enemy ship</SalvageShipCancel>
+	<SalvageShipCancelDesc>Leave the enemy ship behind without salvaging it. Do not do this if any of your crew are still aboard.</SalvageShipCancelDesc>
+	<ShipWallLightDisco>Disco Mode</ShipWallLightDisco>
+	<ShipWallLightDiscoDesc>Set this light to cycle through the color spectrum</ShipWallLightDiscoDesc>
+	<SoSHologramDrug>Simulate Drug</SoSHologramDrug>
+	<SoSHologramDrugDesc>Affect this mind with a simulated version of an organic drug.</SoSHologramDrugDesc>
+	<SoSHologramDrugTaken>Effects of {1} applied to {0}</SoSHologramDrugTaken>
+	<SoSHologramRelay>Relay hologram</SoSHologramRelay>
+	<SoSHologramRelayDesc>Temporarily transfer a hologram to this location, even across great distances</SoSHologramRelayDesc>
+	<SoSHologramRelayStop>Stop relaying hologram</SoSHologramRelayStop>
+	<SoSHologramRelayStopDesc>Return {0} to the hologram's original map</SoSHologramRelayStopDesc>
+	<SoSHologramApparel>Wear holographic apparel</SoSHologramApparel>
+	<SoSHologramApparelDesc>Simulate apparel on this hologram</SoSHologramApparelDesc> -->
+</LanguageData>
