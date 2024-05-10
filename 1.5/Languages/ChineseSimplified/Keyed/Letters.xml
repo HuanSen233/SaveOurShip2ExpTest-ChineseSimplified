@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<!-- override -->
-	<JourneyOffer>A friendly AI from your past named Charlon Whitestone has sent you a message!\n\nHe reveals that he has a spacecraft hidden on this planet, and sends you its world coordinates.\n\nIf you can reach the ship, Charlon will take you into orbit. From there, perhaps you can discover a way to improve the ship's engine and journey to the stars.</JourneyOffer>
-	<EscapeShipFoundLabel>Ship found</EscapeShipFoundLabel>
-	<EscapeShipFound>You've reached the coordinates sent by Charlon Whitestone and discovered the hidden spacecraft.\n\nThe ship is ready for launch, but its chemfuel engines can only get you into orbit. To go further, you will need to somehow acquire a Johnson-Tanaka drive. Perhaps clues can be found amidst orbital debris...</EscapeShipFound>
+	<!-- 覆盖 -->
+	<JourneyOffer>一个曾被你起名为沙隆·白石的友好AI向我们发来了一条讯息！\n\n他透露说他在这颗星球上有一艘太空飞船，并把坐标发给了你。\n\n如果你能前往飞船，沙隆会带你进入环绕这颗星球的轨道。在那里，也许你能找到办法来改进飞船的引擎和进行星际旅行。</JourneyOffer>
+	<EscapeShipFoundLabel>发现飞船</EscapeShipFoundLabel>
+	<EscapeShipFound>你抵达了沙隆·白石给你的坐标\n\n飞船早已准备好发射，但是他的化学燃料引擎只能把你送入轨道。你需要设法弄到一个 约翰逊-田中驱动器 以此更进一步。也许可以在空间碎片中找到线索......</EscapeShipFound>
 	
-	<!-- misc -->
-	<SoS.LetterLabelShortCircuitDesc>A fault in an electrical conduit has caused a short circuit. Luckily, your capacitor array's fuse prevented it from discharging.</SoS.LetterLabelShortCircuitDesc>
-	<SoS.EncounterStart>Derelict</SoS.EncounterStart>
-	<SoS.EncounterStartDesc>You have approached a derelict that will burn up in the atmosphere in {0}.\n\nYou can send a boarding party to investigate or move it to your map with the salvage bay. Once secured it can be salvaged, repaired or repurposed.</SoS.EncounterStartDesc>
-	<SoS.EncounterAmbush>Ambush!</SoS.EncounterAmbush>
-	<SoS.EncounterAmbushDesc>As you approach the {0} it begins to power up its shields and weapons.\nPrepare for battle!</SoS.EncounterAmbushDesc>
-	<SoS.CombatStart>Ship battle</SoS.CombatStart>
-	<SoS.CombatStartDesc>A hostile ship is approaching! Scans identify it as a {0}.</SoS.CombatStartDesc>
-	<SoS.CombatFleetDesc>A hostile fleet is approaching!</SoS.CombatFleetDesc>
-	<SoS.WinShipBattle>Ship battle won</SoS.WinShipBattle>
-	<SoS.WinShipBattleDesc>With the destruction of the last enemy ships control systems, it has been reduced to a derelict. It will re-enter the atmosphere and burn up in {0}.\n\nYou may manually retrieve cargo and prisoners via a boarding party or use your salvage bay to move it to your map. Be prepared to fight off any enemies still aboard.</SoS.WinShipBattleDesc>
-	<SoS.WinShipBattleHackDesc>With the capture of the last enemy ships control systems, it is now adrift. It will re-enter the atmosphere and burn up in {0}.\n\nIf it can move on its own, you can send it to your map with the bridge otherwise use your salvage bay to retrieve it.</SoS.WinShipBattleHackDesc>
-	<SoS.SpaceAsteroids>Asteroid field</SoS.SpaceAsteroids>
-	<SoS.SpaceAsteroidsDesc>Ship has entered an asteroid field. Engage engines to evade or brace for impact!</SoS.SpaceAsteroidsDesc>
-	<SoS.PawnsLostReEntry>Atmospheric re-entry</SoS.PawnsLostReEntry>
-	<SoS.PawnsLostReEntryDesc>The following people and animals have perished due to atmospheric re-entry:</SoS.PawnsLostReEntryDesc>
+	<!-- 事件 -->
+	<SoS.LetterLabelShortCircuitDesc>电力管道的故障引起了短路。\n\n幸运的是，你的电容器的保险丝及时阻止了它放电。</SoS.LetterLabelShortCircuitDesc>
+	<SoS.EncounterStart>站点残骸</SoS.EncounterStart>
+	<SoS.EncounterStartDesc>你正在接近一个将在 {0} 后落入大气的废弃物。\n\n你可以派一队船员去调查或者将它移动到你的地图上。一旦将其安全控制，就可以对它进行打捞、修复或者拆了重新利用。</SoS.EncounterStartDesc>
+	<SoS.EncounterAmbush>伏击！</SoS.EncounterAmbush>
+	<SoS.EncounterAmbushDesc>当你接近 {0} 时，它开始启动它的护盾和武器\n准备战斗！</SoS.EncounterAmbushDesc>
+	<SoS.CombatStart>舰船战</SoS.CombatStart>
+	<SoS.CombatStartDesc>一艘敌舰正在接近！扫描系统显示这是 {0} 。</SoS.CombatStartDesc>
+	<SoS.CombatFleetDesc>敌方舰队正在接近！</SoS.CombatFleetDesc>
+	<SoS.WinShipBattle>船战胜利</SoS.WinShipBattle>
+	<SoS.WinShipBattleDesc>随着最后一艘敌舰的控制系统被摧毁，它已然成了一块大号的空间碎片。它将在 {0} 后落入大气并被其烧毁。\n\n你可以通过跳帮队登船手动取回货物和俘虏人员，或者使用打捞港将其移动到你的地图上。两种选择无论哪项都请准备好击退船上剩余的敌人。</SoS.WinShipBattleDesc>
+	<SoS.WinShipBattleHackDesc>随着最后一艘敌舰的控制系统被夺取，他已然成为了一只待宰羔羊。它将在 {0} 后落入大气并被其烧毁。\n\n如果它还有移动能力的话，你可以选择将其连同舰桥一起开回你的地图，或者使用打捞港来捞它回去。</SoS.WinShipBattleHackDesc>
+	<SoS.SpaceAsteroids>小行星区域</SoS.SpaceAsteroids>
+	<SoS.SpaceAsteroidsDesc>飞船已进入小行星区域。发动引擎躲避或者准备撞击！</SoS.SpaceAsteroidsDesc>
+	<SoS.PawnsLostReEntry>落入大气</SoS.PawnsLostReEntry>
+	<SoS.PawnsLostReEntryDesc>这些人和动物因落入大气而被其烧毁：</SoS.PawnsLostReEntryDesc>
 	
-	<!-- scan -->
-	<SoS.TraderScan>Trade ship detected</SoS.TraderScan>
-	<SoS.TraderScanDesc>Using your ship's sensors, {0} has detected a nearby trade ship. You can hail the ship using a communications console to initiate trade, or use your bridge to attack it.</SoS.TraderScanDesc>
-	<SoS.EnemyScan>Ship detected</SoS.EnemyScan>
-	<SoS.EnemyScanDesc>Using your ship's sensors, {0} has detected a nearby ship. The ship appears to be {1}. It does not respond to hails, but makes no move to attack. You can use your bridge to order an attack, or wait for it to leave peaceably.</SoS.EnemyScanDesc>
+	<!-- 扫描 -->
+	<SoS.TraderScan>检测到商船</SoS.TraderScan>
+	<SoS.TraderScanDesc>{0} 使用舰船的扫描系统检测到附近有一艘商船。你可以使用通讯台呼叫商船来发起贸易，或者在舰桥处选择攻击它。</SoS.TraderScanDesc>
+	<SoS.EnemyScan>检测到舰船</SoS.EnemyScan>
+	<SoS.EnemyScanDesc>{0} 使用舰船的扫描系统检测到附近有一艘舰船。这艘船看起来是 {1} 。它对呼叫没有反应，但也没有进攻的动作。你可以在舰桥处选择攻击它，或者等它和平的离开。</SoS.EnemyScanDesc>
 	<SoS.DerelictScan>Derelict detected</SoS.DerelictScan>
 	<SoS.DerelictScanDesc>Using your ship's sensors, {0} has detected a nearby derelict. The ship appears to be {1}. It does not respond to hails and appears to be powered down. You can use your bridge to order an investigation, or wait for it to burn up in the atmosphere.</SoS.DerelictScanDesc>
 	<SoS.FoundOrbitalSite>Starship bow detected!</SoS.FoundOrbitalSite>
