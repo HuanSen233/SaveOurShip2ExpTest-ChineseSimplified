@@ -16,10 +16,10 @@
 	<SoS.BurnUpPlayerDesc>由于失去了最后一座舰桥，地图不能再维持它的轨道，将在{0}天后落入大气！\n\n上面的一切都会被摧毁！</SoS.BurnUpPlayerDesc>
 	<SoS.BurnUpPlayerPrevented>建造飞船舰桥等相关设备可以稳定轨道。</SoS.BurnUpPlayerPrevented>
 	<SoS.BurnUpCountdown>在 {0} 后落入大气！</SoS.BurnUpCountdown>
-	<SoS.BurnUpCountdownTip>这张地图将在 {0} 后落入大气。上面的一切都会被摧毁。</SoS.BurnUpCountdownTip>
+	<SoS.BurnUpCountdownTip>这张地图将在 {0}后落入大气。上面的一切都会被摧毁。</SoS.BurnUpCountdownTip>
 	<!-- 战斗 -->
 	<SoS.CombatTooltip>显示敌舰与你舰之间的距离，以及所有正在飞行的炮弹和穿梭机。\n\n红色：激光、实弹炮的射程\n绿色：等离子的射程\n蓝色：轨道炮的射程\n紫色：鱼雷射程\n小色条：大型武器的最大射程但不精准</SoS.CombatTooltip>
-	<SoS.CombatRetreat>撤退</SoS.CombatRetreat>
+	<SoS.CombatRetreat>后撤</SoS.CombatRetreat>
 	<SoS.CombatRetreatDesc>尽量远离敌舰</SoS.CombatRetreatDesc>
 	<SoS.CombatStop>停止</SoS.CombatStop>
 	<SoS.CombatStopDesc>切断引擎电源</SoS.CombatStopDesc>
@@ -50,7 +50,7 @@
 	<SoS.ScuttleShipPods>不能弃船，有飞行器在往返途中！</SoS.ScuttleShipPods>
 	<SoS.NoLoadedPods>没有可装载的飞行器</SoS.NoLoadedPods>
 	<SoS.LaunchCryptoNotLoaded>飞行器没有装载</SoS.LaunchCryptoNotLoaded>
-	<SoS.SelectWeapons>选择</SoS.SelectWeapons>
+	<SoS.SelectWeapons>选择武器</SoS.SelectWeapons>
 	<SoS.SelectWeaponsDesc>选择连接的舰对舰武器</SoS.SelectWeaponsDesc>
 	<SoS.HoldFire>停火</SoS.HoldFire>
 	<SoS.HoldFireDesc>停止所有连接的舰对舰武器向敌舰开火</SoS.HoldFireDesc>
@@ -266,7 +266,7 @@
 	<SoS.DamagedReactorHurtsPawn>{0} 正在被反应堆产生的辐射灼伤！</SoS.DamagedReactorHurtsPawn>
 	<SoS.EVACapable>EVA 兼容</SoS.EVACapable>
 	<!-- 凝胶体、孢子 -->
-	<SoS.SpawnHologram>生成微械凝胶体</SoS.SpawnHologram>
+	<SoS.SpawnHologram>生成\n微械凝胶体</SoS.SpawnHologram>
 	<SoS.SpawnHologramDesc>这个装置的意识可以通过微械凝胶体来影响现实。</SoS.SpawnHologramDesc>
 	<SoS.DespawnHologram>驱散微械凝胶体</SoS.DespawnHologram>
 	<SoS.DespawnHologramDesc>摧毁这个装置控制的微械凝胶体。培育一群新的微械蜂群来取代它需要一天的世界。</SoS.DespawnHologramDesc>
@@ -375,33 +375,14 @@
 	<SoS.TargetShuttlesDesc>设定执行射击和雷击任务的穿梭机应该瞄准的位置。</SoS.TargetShuttlesDesc>
 	<SoS.ToggleField>切换船体通道</SoS.ToggleField>
 	<SoS.ToggleFieldDesc>允许小人和车辆通过这个可通行的船体</SoS.ToggleFieldDesc>
-	
-	<!-- obsolete/unused
-	<SoS.PirateTradeEmpire>Our act of piracy against the Empire has not gone unnoticed!</SoS.PirateTradeEmpire>
-	<SoS.MoveFailPawns>Player pawn in {0}, ship move aborted.</SoS.MoveFailPawns>
-	<SoS.TargetEnd>Stop targeting</SoS.TargetEnd>
-	<SoS.TargetEndDesc>Stop targeting your current target with your weapons.</SoS.TargetEndDesc>
-	<ShipTorpedoLoaded>Loaded: {0}</ShipTorpedoLoaded>
-	<MustNotPlaceOnShipPart>Space occupied.</MustNotPlaceOnShipPart>
-	<MustPlaceInsideShip>Must place inside a fully enclosed ship hull.</MustPlaceInsideShip>
-	<MustPlaceNearSpinalMountPort>Must place adjacent to a spinal-mount module</MustPlaceNearSpinalMountPort>
-	<MustPlaceInsideShipFramework>Must place in a room bordered only by ship parts.</MustPlaceInsideShipFramework>
-	<MeditationFocusPerPillarAbstract>{1} per nearby archotech pillar (max {0})</MeditationFocusPerPillarAbstract>
-	<MeditationFocusPerPillar>{2} per nearby archotech pillar ({0} / {1})</MeditationFocusPerPillar>
-	<SporeNeedsName>Your archotech spore requests that you grant it a name.</SporeNeedsName>
-	<NoSalvageBays>No salvage bays available</NoSalvageBays>
-	<SalvageShip>Salvage enemy ship</SalvageShip>
-	<SalvageShipCancel>Abandon enemy ship</SalvageShipCancel>
-	<SalvageShipCancelDesc>Leave the enemy ship behind without salvaging it. Do not do this if any of your crew are still aboard.</SalvageShipCancelDesc>
-	<ShipWallLightDisco>Disco Mode</ShipWallLightDisco>
-	<ShipWallLightDiscoDesc>Set this light to cycle through the color spectrum</ShipWallLightDiscoDesc>
-	<SoSHologramDrug>Simulate Drug</SoSHologramDrug>
-	<SoSHologramDrugDesc>Affect this mind with a simulated version of an organic drug.</SoSHologramDrugDesc>
-	<SoSHologramDrugTaken>Effects of {1} applied to {0}</SoSHologramDrugTaken>
-	<SoSHologramRelay>Relay hologram</SoSHologramRelay>
-	<SoSHologramRelayDesc>Temporarily transfer a hologram to this location, even across great distances</SoSHologramRelayDesc>
-	<SoSHologramRelayStop>Stop relaying hologram</SoSHologramRelayStop>
-	<SoSHologramRelayStopDesc>Return {0} to the hologram's original map</SoSHologramRelayStopDesc>
-	<SoSHologramApparel>Wear holographic apparel</SoSHologramApparel>
-	<SoSHologramApparelDesc>Simulate apparel on this hologram</SoSHologramApparelDesc> -->
+	<SoSRestoreHull>修复船体</SoSRestoreHull>
+	<SoSRestoreHullDesc>在残骸处建造新的船体</SoSRestoreHullDesc>
+	<SoSAlreadyRestoring>这个区域已经在修复中了！</SoSAlreadyRestoring>
+	<SoSMustDesignateWreckage>指定飞船残骸</SoSMustDesignateWreckage>
+	<SoS.UnDockWarning>警告：在停靠时移动船舶将收回所有气闸。</SoS.UnDockWarning>
+	<SoS.ExpelSuperheatedAir>排出过热空气</SoS.ExpelSuperheatedAir>
+	<SoS.ExpelSuperheatedAirDesc>使用这个通风口排出房间中的过热空气。该过程会对你的舰船生命维持系统造成损坏，房间中每四格空间将会损失一点生命值，这些伤害会均分到多个生命维持系统上。</SoS.ExpelSuperheatedAirDesc>
+	<SoS.AirNotSuperheated>空气温度并不高</SoS.AirNotSuperheated>
+	<SoS.NoLifeSupport>没有有效的生命维持系统</SoS.NoLifeSupport>
+
 </LanguageData>
