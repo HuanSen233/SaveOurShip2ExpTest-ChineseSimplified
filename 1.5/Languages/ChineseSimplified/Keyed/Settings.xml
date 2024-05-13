@@ -1,51 +1,49 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	<SoS.Settings.ShowVersionUI>SOS2EXP {0}</SoS.Settings.ShowVersionUI>
-	<SoS.Settings.RenderPlanet>Dynamic planet rendering</SoS.Settings.RenderPlanet>
-	<SoS.Settings.RenderPlanet.Desc>If checked, orbital maps will show a day/night cycle on the planet. Disable this option if the game runs slowly in space. Default: off</SoS.Settings.RenderPlanet.Desc>
+	<SoS.Settings.RenderPlanet>动态星球渲染</SoS.Settings.RenderPlanet>
+	<SoS.Settings.RenderPlanet.Desc>如果启用，太空地图将显示星球上的昼夜周期变化。如果在太空地图中游戏运行变慢请禁用此选项。默认：关</SoS.Settings.RenderPlanet.Desc>
 	
-	<SoS.Settings.UI>Interface settings:</SoS.Settings.UI>
-	<SoS.Settings.UseSplashScreen>SoS splash screen</SoS.Settings.UseSplashScreen>
-	<SoS.Settings.UseSplashScreen.Desc>If checked, RimWorld will use SoS2's new splash screen. Restart the game after changing this setting. Default: on</SoS.Settings.UseSplashScreen.Desc>
-	<SoS.Settings.PersistShipUI>Persistent ship UI</SoS.Settings.PersistShipUI>
-	<SoS.Settings.PersistShipUI.Desc>If checked, will show your ship power and heat even out of combat. Default: off</SoS.Settings.PersistShipUI.Desc>
-	<SoS.Settings.OffsetUIx>Ship UI offset X</SoS.Settings.OffsetUIx>
-	<SoS.Settings.OffsetUIx.Desc>UI offset horizontal from the center of your screen.</SoS.Settings.OffsetUIx.Desc>
-	<SoS.Settings.OffsetUIy>Ship UI offset Y</SoS.Settings.OffsetUIy>
-	<SoS.Settings.OffsetUIy.Desc>UI offset vertical from bellow the pawn bar.</SoS.Settings.OffsetUIy.Desc>
+	<SoS.Settings.UI>界面设置：</SoS.Settings.UI>
+	<SoS.Settings.UseSplashScreen>SoS主菜单背景</SoS.Settings.UseSplashScreen>
+	<SoS.Settings.UseSplashScreen.Desc>如果启用，游戏将主界面背景将会使用SoS2的背景图。更改此项后需重新启动游戏。默认：关</SoS.Settings.UseSplashScreen.Desc>
+	<SoS.Settings.PersistShipUI>持续显示船舶UI</SoS.Settings.PersistShipUI>
+	<SoS.Settings.PersistShipUI.Desc>如果启用，将持续显示舰船的能量和热熔，即使不在战斗中。默认：关</SoS.Settings.PersistShipUI.Desc>
+	<SoS.Settings.OffsetUIx>船舶UI偏移 X轴（水平）</SoS.Settings.OffsetUIx>
+	<SoS.Settings.OffsetUIx.Desc>UI将会基于屏幕中心水平偏移</SoS.Settings.OffsetUIx.Desc>
+	<SoS.Settings.OffsetUIy>船舶UI偏移 Y轴（垂直）</SoS.Settings.OffsetUIy>
+	<SoS.Settings.OffsetUIy.Desc>UI将会基于屏幕中心垂直偏移</SoS.Settings.OffsetUIy.Desc>
 	
-	<SoS.Settings.Misc>Misc settings:</SoS.Settings.Misc>
-	<SoS.Settings.EasyMode>Easy boarding mode</SoS.Settings.EasyMode>
-	<SoS.Settings.EasyMode.Desc>If checked, will prevent player pawns in shuttles from dying to point defense. Default: off</SoS.Settings.EasyMode.Desc>
-	<SoS.Settings.ShipMapPhysics>Ship map physics</SoS.Settings.ShipMapPhysics>
-	<SoS.Settings.ShipMapPhysics.Desc>If enabled pawns and things not on a ship while it is moving will be sent to the graveyard. This will also restrict shuttle landings to bays or outer hull. Default: off</SoS.Settings.ShipMapPhysics.Desc>
-	<SoS.Settings.ArchoRemove>Failsafe: Archolife Spawning</SoS.Settings.ArchoRemove>
-	<SoS.Settings.ArchoRemove.Desc>If a third-party mod spawns archolife creatures before the archotech spore has been built, this setting will cause them to vanish. Default: off</SoS.Settings.ArchoRemove.Desc>
-	<SoS.Settings.ArchoKill>Archotech creatures die without spore</SoS.Settings.ArchoKill>
-	<SoS.Settings.ArchoKill.Desc>If the archotech spore is destroyed, all archolife creatures will die. Default: off</SoS.Settings.ArchoKill.Desc>
-	<SoS.Settings.Debug>Debug mode</SoS.Settings.Debug>
-	<SoS.Settings.Debug.Desc>Will draw ship area and list all ships/wrecks on map on screen with mouse over for details and add more info to the log. Default: off</SoS.Settings.Debug.Desc>
+	<SoS.Settings.Misc>事件设置：</SoS.Settings.Misc>
+	<SoS.Settings.EasyMode>简单跳帮模式</SoS.Settings.EasyMode>
+	<SoS.Settings.EasyMode.Desc>如果启用，将防止载有玩家小人的穿梭机被敌方舰船点防御系统击落。默认：关</SoS.Settings.EasyMode.Desc>
+	<SoS.Settings.ShipMapPhysics>船舶地图物理</SoS.Settings.ShipMapPhysics>
+	<SoS.Settings.ShipMapPhysics.Desc>如果启用，当舰船移动时将把不在船上的小人和物品送去坟场。这也会限制穿梭机只能降落在穿梭机停机坪或舰船外。默认：关</SoS.Settings.ShipMapPhysics.Desc>
+	<SoS.Settings.ArchoRemove>限制超凡生物生成</SoS.Settings.ArchoRemove>
+	<SoS.Settings.ArchoRemove.Desc>如果第三方模组在超凡科技孢子被建造前生成了超凡生物，那么这个选项会将它们删除。默认：关</SoS.Settings.ArchoRemove.Desc>
+	<SoS.Settings.ArchoKill>超凡生物不能失去孢子</SoS.Settings.ArchoKill>
+	<SoS.Settings.ArchoKill.Desc>如果超凡科技孢子被破坏，所有的超凡生物都将死亡。默认：关</SoS.Settings.ArchoKill.Desc>
+	<SoS.Settings.Debug>调试模式</SoS.Settings.Debug>
+	<SoS.Settings.Debug.Desc>绘制船舶区域，并在屏幕上列出所有舰船、残骸，鼠标悬停其之上将把该物体的更多详细信息添加进日志。默认：off</SoS.Settings.Debug.Desc>
 	
-	<!--SoS.Settings.UseVacuumPathfinding>Use vacuum pathfinding</SoS.Settings.UseVacuumPathfinding>
-	<SoS.Settings.UseVacuumPathfinding.Desc>If checked, pawns without EVA gear will attempt to avoid vacuum areas. This can break compatibility with other mods which alter pathfinding. Restart the game after changing this setting.</SoS.Settings.UseVacuumPathfinding.Desc-->
+	<SoS.Settings.Gameplay>游戏体验设置：</SoS.Settings.Gameplay>
+	<SoS.Settings.DifficultySoS>舰船战难度系数（最小：{0} 最大：{1} 默认：{2} 当前：{3}）</SoS.Settings.DifficultySoS>
+	<SoS.Settings.DifficultySoS.Desc>影响敌舰的大小和强度。</SoS.Settings.DifficultySoS.Desc>
+	<SoS.Settings.FrequencySoS>舰船战频率（最小：{0} 最大：{1} 默认：{2} 当前：{3}）</SoS.Settings.FrequencySoS>
+	<SoS.Settings.FrequencySoS.Desc>值越高意味着来打你的敌舰会来得越频繁。</SoS.Settings.FrequencySoS.Desc>
+	<SoS.Settings.NavyShipChance>海军生成几率（最小：{0} 最大：{1} 默认：{2} 当前：{3}）</SoS.Settings.NavyShipChance>
+	<SoS.Settings.NavyShipChance.Desc>专门来找你茬的敌舰生成几率。</SoS.Settings.NavyShipChance.Desc>
+	<SoS.Settings.FleetChance>舰队生成几率（最小：{0} 最大：{1} 默认：{2} 当前：{3}）</SoS.Settings.FleetChance>
+	<SoS.Settings.FleetChance.Desc>增加未知敌舰还有商船是船队的几率。此选项在很低或很高的战斗评级时将不会生效</SoS.Settings.FleetChance.Desc>
 	
-	<SoS.Settings.Gameplay>Gameplay settings:</SoS.Settings.Gameplay>
-	<SoS.Settings.DifficultySoS>Ship combat difficulty factor (Min: {0} Max: {1} Default: {2} Current: {3})</SoS.Settings.DifficultySoS>
-	<SoS.Settings.DifficultySoS.Desc>Affects the size and strength of enemy ships.</SoS.Settings.DifficultySoS.Desc>
-	<SoS.Settings.FrequencySoS>Ship Combat Frequency (Min: {0} Max: {1} Default: {2} Current: {3})</SoS.Settings.FrequencySoS>
-	<SoS.Settings.FrequencySoS.Desc>Higher values mean less cooldown time between ship battles.</SoS.Settings.FrequencySoS.Desc>
-	<SoS.Settings.NavyShipChance>Navy chance (Min: {0} Max: {1} Default: {2} Current: {3})</SoS.Settings.NavyShipChance>
-	<SoS.Settings.NavyShipChance.Desc>How likely navies will appear in random encounters.</SoS.Settings.NavyShipChance.Desc>
-	<SoS.Settings.FleetChance>Random fleet chance (Min: {0} Max: {1} Default: {2} Current: {3})</SoS.Settings.FleetChance>
-	<SoS.Settings.FleetChance.Desc>Chance for random unknown enemy ships and traders to be fleets. Will be ignored at very low or high combat rating.</SoS.Settings.FleetChance.Desc>
+	<SoS.Settings.Travel>星际旅行设置：</SoS.Settings.Travel>
+	<SoS.Settings.MinTravelTime>最短旅程时间（最小：{0} 最大：{1} 默认：{2} 当前：{3}）</SoS.Settings.MinTravelTime>
+	<SoS.Settings.MinTravelTime.Desc>航行到新星球所需的最短时间。</SoS.Settings.MinTravelTime.Desc>
+	<SoS.Settings.MaxTravelTime>最长旅程时间（最小：{0} 最大：{1} 默认：{2} 当前：{3}）</SoS.Settings.MaxTravelTime>
+	<SoS.Settings.MaxTravelTime.Desc>航行到新星球所需的最长时间。</SoS.Settings.MaxTravelTime.Desc>
 	
-	<SoS.Settings.Travel>Travel settings:</SoS.Settings.Travel>
-	<SoS.Settings.MinTravelTime>Minimum travel time (Min: {0} Max: {1} Default: {2} Current: {3})</SoS.Settings.MinTravelTime>
-	<SoS.Settings.MinTravelTime.Desc>Minimum number of years that pass when traveling to a new world.</SoS.Settings.MinTravelTime.Desc>
-	<SoS.Settings.MaxTravelTime>Maximum travel time (Min: {0} Max: {1} Default: {2} Current: {3})</SoS.Settings.MaxTravelTime>
-	<SoS.Settings.MaxTravelTime.Desc>Maximum number of years that pass when traveling to a new world.</SoS.Settings.MaxTravelTime.Desc>
-	
-	<SoS.Settings.Danger>Dangerous settings (change at your own risk):</SoS.Settings.Danger>
-	<SoS.Settings.EnemyMapSize>Enemy fleet map size override (Min: {0} Max: {1} Default: {2} Current: {3})</SoS.Settings.EnemyMapSize>
-	<SoS.Settings.EnemyMapSize.Desc>Will allow fleets to spawn on larger maps with more and larger ships above CR 2000.</SoS.Settings.EnemyMapSize.Desc>
+	<SoS.Settings.Danger>危险设置（改了后果自负）：</SoS.Settings.Danger>
+	<SoS.Settings.EnemyMapSize>覆盖敌人舰队地图大小（最小：{0} 最大：{1} 默认：{2} 当前：{3}）</SoS.Settings.EnemyMapSize>
+	<SoS.Settings.EnemyMapSize.Desc>舰队在更大的地图上会生成更对舰船，并且超过2000点战斗评级。</SoS.Settings.EnemyMapSize.Desc>
+
 </LanguageData>

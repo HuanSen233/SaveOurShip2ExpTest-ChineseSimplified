@@ -67,6 +67,7 @@
 	<SoS.CaptureShip>捕获</SoS.CaptureShip>
 	<SoS.CaptureShipDesc>将舰船移到你的地图上</SoS.CaptureShipDesc>
 	<SoS.LaunchFailPawns>发现非玩家殖民地小人：{0}，起飞中止。</SoS.LaunchFailPawns>
+	<SoS.MoveFailImmobile>没有领航员、足够的燃料或RCS推进器！</SoS.MoveFailImmobile>
 	<SoS.MoveFailFaction>来自另一个阵营的舰船靠近目标区域。</SoS.MoveFailFaction>
 	<SoS.MoveWreckCommand>移动残骸</SoS.MoveWreckCommand>
 	<SoS.MoveWreckCommandDesc>移动你的地图上被选中的残骸。</SoS.MoveWreckCommandDesc>
@@ -212,9 +213,12 @@
 	<SoS.PurgeHeatDesc>将融化的银喷射进太空，以迅速降低舰船热容网络中的蓄热。\n\n这会使你的护盾关闭！</SoS.PurgeHeatDesc>
 	<SoS.HeatPurge>主动散热</SoS.HeatPurge>
 	<SoS.HeatPurgeDesc>将冷却剂排出散热系统。散热器排热速度提高五倍，但所有武器、护盾和隐形装置都将关闭。\n\n消耗冷却剂会导致热容网络中的冷却剂罐的热容上限降低，且一旦开始就不可取消。在非战斗状态下冷却剂罐的热容上限会缓慢恢复。</SoS.HeatPurgeDesc>
-	<SoS.HeatPurgeVenting>Already venting</SoS.HeatPurgeVenting>
-	<SoS.HeatPurgeNotEnough>Not enough heat in network for purge</SoS.HeatPurgeNotEnough>
-	<SoS.CloakBroken>Cloak disengaged due to heat depleetion</SoS.CloakBroken>
+	<SoS.HeatPurgeVenting>蓄热排散完毕</SoS.HeatPurgeVenting>
+	<SoS.HeatPurgeNotEnough>热容网络中没有足够的冷却剂用于排散蓄热</SoS.HeatPurgeNotEnough>
+	<SoS.CloakBroken>冷却剂不足，隐形关闭</SoS.CloakBroken>
+	<SoS.HeatCritical>危险！极端高温！</SoS.HeatCritical>
+	<SoS.HeatNotConnected>没有连接到热容网络</SoS.HeatNotConnected>
+	<SoS.HeatTurretEnergy>开火所需热容：</SoS.HeatTurretEnergy>
 	<!-- 炮塔 -->
 	<SoS.TurretNotInShipCombat>警告：炮塔处于非舰船战状态所以不会开火。</SoS.TurretNotInShipCombat>
 	<SoS.TurretInPointDefense>警告：炮塔处于点防御模式所以不会瞄准敌舰。</SoS.TurretInPointDefense>
@@ -245,8 +249,8 @@
 	<SoS.FoamFill>填补损伤</SoS.FoamFill>
 	<SoS.FoamFillDesc>让舰船上的泡沫船舶填补器填补舰船受损区域。</SoS.FoamFillDesc>
 	<SoS.FoamFillDisabled>不需要填补或泡沫船舶填补器缺少填补泡沫。</SoS.FoamFillDisabled>
-	
 	<!-- 反应堆 -->
+	<SoS.ReactorInstability>不稳定性：{0}</SoS.ReactorInstability>
 	<SoS.ReactorOverdrive>超频 I</SoS.ReactorOverdrive>
 	<SoS.ReactorOverdriveDesc>增加反应堆产出的能量，代价是发热量和燃料消耗增加。</SoS.ReactorOverdriveDesc>
 	<SoS.ReactorOverdrive2>超频 II</SoS.ReactorOverdrive2>
@@ -265,6 +269,10 @@
 	<!-- 小人、EVA -->
 	<SoS.DamagedReactorHurtsPawn>{0} 正在被反应堆产生的辐射灼伤！</SoS.DamagedReactorHurtsPawn>
 	<SoS.EVACapable>EVA 兼容</SoS.EVACapable>
+	<SoS.AtmosphereVacuum>真空环境</SoS.AtmosphereVacuum>
+	<SoS.Atmosphere>可呼吸环境</SoS.Atmosphere>
+	<SoS.AtmosphereNonBreathable>非气密环境</SoS.AtmosphereNonBreathable>
+	<SoS.AtmosphereBreach>该空间存在漏洞！</SoS.AtmosphereBreach>
 	<!-- 凝胶体、孢子 -->
 	<SoS.SpawnHologram>生成\n微械凝胶体</SoS.SpawnHologram>
 	<SoS.SpawnHologramDesc>这个装置的意识可以通过微械凝胶体来影响现实。</SoS.SpawnHologramDesc>
@@ -375,6 +383,7 @@
 	<SoS.TargetShuttlesDesc>设定执行射击和雷击任务的穿梭机应该瞄准的位置。</SoS.TargetShuttlesDesc>
 	<SoS.ToggleField>切换船体通道</SoS.ToggleField>
 	<SoS.ToggleFieldDesc>允许小人和车辆通过这个可通行的船体</SoS.ToggleFieldDesc>
+	
 	<SoSRestoreHull>修复船体</SoSRestoreHull>
 	<SoSRestoreHullDesc>在残骸处建造新的船体</SoSRestoreHullDesc>
 	<SoSAlreadyRestoring>这个区域已经在修复中了！</SoSAlreadyRestoring>
