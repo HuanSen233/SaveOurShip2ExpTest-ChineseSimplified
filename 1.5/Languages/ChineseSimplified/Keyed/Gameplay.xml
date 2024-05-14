@@ -272,7 +272,7 @@
 	<SoS.AtmosphereVacuum>真空环境</SoS.AtmosphereVacuum>
 	<SoS.Atmosphere>可呼吸环境</SoS.Atmosphere>
 	<SoS.AtmosphereNonBreathable>非气密环境</SoS.AtmosphereNonBreathable>
-	<SoS.AtmosphereBreach>该空间存在漏洞！</SoS.AtmosphereBreach>
+	<SoS.AtmosphereBreach>该空间不合规！</SoS.AtmosphereBreach>
 	<!-- 凝胶体、孢子 -->
 	<SoS.SpawnHologram>生成\n微械凝胶体</SoS.SpawnHologram>
 	<SoS.SpawnHologramDesc>这个装置的意识可以通过微械凝胶体来影响现实。</SoS.SpawnHologramDesc>
