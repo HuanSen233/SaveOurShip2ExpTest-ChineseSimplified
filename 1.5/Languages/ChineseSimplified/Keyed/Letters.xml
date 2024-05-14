@@ -31,7 +31,7 @@
 	<SoS.DerelictScan>检测到残骸</SoS.DerelictScan>
 	<SoS.DerelictScanDesc>{0} 使用舰船的扫描系统检测到附近有一片废弃物。它看起来像是 {1} 。它似乎因为电力系统下线导致对呼叫没有反应。你可以在舰桥处选择调查它，或者等它落入大气并被烧毁。</SoS.DerelictScanDesc>
 	<SoS.FoundOrbitalSite>检测到星际飞船船首！</SoS.FoundOrbitalSite>
-	<SoS.FoundSiteAI>这是它的AI</SoS.FoundSiteAI>
+	<SoS.FoundSiteAI>AI扫描</SoS.FoundSiteAI>
 	<SoS.FoundSiteSpecial>{0} 使用舰船的扫描系统检测一个较大且相对完整的空间碎片。它似乎是把你最初的殖民者带到这颗星球的那艘船的一部分！\n\n这可能是你获得一个还在工作的 约翰逊-田中驱动器，甚至拯救仍处于低温休眠中的同伴的最好机会，但无论目的如何都不要低估在那里行动的危险性。</SoS.FoundSiteSpecial>
 	<SoS.FoundSiteSpecialTribal>{0} 使用舰船的扫描系统检测一个较大且相对完整的空间碎片。它很可能是传说中的“浩空旅人”的一部分，就是它把你部落的远祖带到这个世界上！\n\n这可能是你获得一个还在工作的 约翰逊-田中驱动器 的最好机会，但无论目的如何都不要低估在那里行动的危险性。</SoS.FoundSiteSpecialTribal>
 	<SoS.FoundSiteSpecialSpace>{0} 使用舰船的扫描系统检测一个较大且相对完整的空间碎片。它似乎是某艘大型星际客轮的船头。\n\n这可能是你获得一个还在工作的 约翰逊-田中驱动器 的最好机会，但无论目的如何都不要低估在那里行动的危险性。</SoS.FoundSiteSpecialSpace>
