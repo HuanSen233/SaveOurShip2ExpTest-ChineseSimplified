@@ -218,8 +218,8 @@
 	<SoS.CloakBroken>冷却剂不足，隐形关闭</SoS.CloakBroken>
 	<SoS.HeatCritical>危险！极端高温！</SoS.HeatCritical>
 	<SoS.HeatNotConnected>没有连接到热容网络</SoS.HeatNotConnected>
-	<SoS.HeatTurretEnergy>开火所需热容：</SoS.HeatTurretEnergy>
 	<!-- 炮塔 -->
+	<SoS.HeatTurretEnergy>开火所需能量：</SoS.HeatTurretEnergy>
 	<SoS.TurretNotInShipCombat>警告：炮塔处于非舰船战状态所以不会开火。</SoS.TurretNotInShipCombat>
 	<SoS.TurretInPointDefense>警告：炮塔处于点防御模式所以不会瞄准敌舰。</SoS.TurretInPointDefense>
 	<SoS.TurretExtractTorpedo>取出鱼雷</SoS.TurretExtractTorpedo>
