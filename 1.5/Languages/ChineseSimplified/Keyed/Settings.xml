@@ -13,6 +13,8 @@
 	<SoS.Settings.OffsetUIx.Desc>UI将会基于屏幕中心水平偏移</SoS.Settings.OffsetUIx.Desc>
 	<SoS.Settings.OffsetUIy>船舶UI偏移 Y轴（垂直）</SoS.Settings.OffsetUIy>
 	<SoS.Settings.OffsetUIy.Desc>UI将会基于屏幕中心垂直偏移</SoS.Settings.OffsetUIy.Desc>
+	<SoS.Settings.ShuttlesToDisplay>穿梭机UI数量</SoS.Settings.ShuttlesToDisplay>
+	<SoS.Settings.ShuttlesToDisplay.Desc>战斗中穿梭机UI的最大显示数量，受损程度更高的穿梭机的UI将会被优先显示。如果为0，则显示屏幕所能承载的最大数量。</SoS.Settings.ShuttlesToDisplay.Desc>
 	
 	<SoS.Settings.Misc>事件设置：</SoS.Settings.Misc>
 	<SoS.Settings.EasyMode>简单跳帮模式</SoS.Settings.EasyMode>
