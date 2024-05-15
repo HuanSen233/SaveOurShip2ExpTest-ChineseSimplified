@@ -357,6 +357,7 @@
 	<SoS.EnemyShuttleOutOfTorps>敌方穿梭机的鱼雷用光了，现在正在撤退！</SoS.EnemyShuttleOutOfTorps>
 	<SoS.BoardingShuttleArrived>你的跳帮队已抵达！</SoS.BoardingShuttleArrived>
 	<SoS.EnemyBoardingShuttleArrived>敌方跳帮队已抵达！</SoS.EnemyBoardingShuttleArrived>
+	<SoS.EnemyBoardingShuttleAborted>地方跳帮队正在撤退！</SoS.EnemyBoardingShuttleAborted>
 	<SoS.ShuttleMissionBoarding>登上敌舰</SoS.ShuttleMissionBoarding>
 	<SoS.ShuttleMissionBoardingDesc>派这艘穿梭机登上敌舰。它很容易受到点防御武器的攻击。如果敌舰引擎经常工作，那么穿梭机需要更长时间到达。</SoS.ShuttleMissionBoardingDesc>
 	<SoS.ShuttleMissionBoardingDisabled>穿梭机需要合适的停靠港才能在屋顶下起飞！</SoS.ShuttleMissionBoardingDisabled>
