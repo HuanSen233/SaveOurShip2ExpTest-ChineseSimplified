@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <Ship_Beam_Unpowered.label>标准船体(无线路)</Ship_Beam_Unpowered.label>
+    <Ship_Beam_Unpowered.description>飞船船体的外部结构部件，但不包括电缆和热能导管。</Ship_Beam_Unpowered.description>
+    <Ship_Beam.label>标准船体</Ship_Beam.label>
+    <Ship_Beam.description>飞船船体的外部结构部件，其中包括电缆、热能导管和维生气体导管。</Ship_Beam.description>
+    <Ship_Corner_OneOne.label>标准船体斜角(1x1)</Ship_Corner_OneOne.label>
+    <Ship_Corner_OneOneFlip.label>标准船体斜角(1x1)翻转</Ship_Corner_OneOneFlip.label>
+    <Ship_Corner_OneTwo.label>标准船体斜角(1x2)</Ship_Corner_OneTwo.label>
+    <Ship_Corner_OneTwoFlip.label>标准船体斜角(1x2)翻转</Ship_Corner_OneTwoFlip.label>
+    <Ship_Corner_OneThree.label>标准船体斜角(1x3)</Ship_Corner_OneThree.label>
+    <Ship_Corner_OneThreeFlip.label>标准船体斜角(1x3)翻转</Ship_Corner_OneThreeFlip.label>
+    <Ship_Beams.description>有角度的船体装甲。</Ship_Beams.description>
+    <ShipInside_SolarGenerator.label>标准船体太阳能发电机</ShipInside_SolarGenerator.label>
+    <ShipInside_SolarGenerator.description>利用太阳光来发电。在太空可输出600W，在星球表面可输出300W。不能在黑暗或人造光源环境中工作。</ShipInside_SolarGenerator.description>
+    <ShipInside_PassiveVent.label>标准船体通风口</ShipInside_PassiveVent.label>
+    <ShipInside_PassiveVent.description>与热容网络交换热量，将舰船内部冷却或加热到所需温度。在热容网络没有中蓄热时可以选择使用电力加热房间。</ShipInside_PassiveVent.description>
+    <text.label>text</text.label>
+    <text.description>text</text.description>
+
+</LanguageData>

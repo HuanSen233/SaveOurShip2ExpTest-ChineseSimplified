@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <Holodeck_Basic.label>全息投影仪</Holodeck_Basic.label>
+    <Holodeck_Basic.description>一个链接了一台游戏电脑的简易全息投影仪。只能进行简单的模拟。用户将根据选择的模拟程序逐渐获得对应技能经验。</Holodeck_Basic.description>
+    <Holodeck_Standard.label>先进全息投影仪</Holodeck_Standard.label>
+    <Holodeck_Standard.description>一个非常先进的全息投影仪，其配备了广泛且趣味丰富的模拟程序。用户将根据选择的模拟程序逐渐获得对应技能经验。</Holodeck_Standard.description>
+    <Holodeck_AI.label>智能全息投影仪</Holodeck_AI.label>
+    <Holodeck_AI.description>由AI控制的最先进的全息投影仪。它能为用户带来无尽且能自由定制的乐趣。用户将根据选择的模拟程序逐渐获得对应技能经验。</Holodeck_AI.description>
+    <TelescopeSpace.label>太空望远镜</TelescopeSpace.label>
+    <TelescopeSpace.description>一款专为业余天文爱好者设计的先进望远镜。天文研究对于某些人来说是一种能令他们放松的爱好。其配有自己的加固窗口槽，因此可以在屋顶和飞船舱顶下使用。</TelescopeSpace.description>
+    
+</LanguageData>

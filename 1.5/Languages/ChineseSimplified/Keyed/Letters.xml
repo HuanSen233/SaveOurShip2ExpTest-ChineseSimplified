@@ -60,7 +60,7 @@
 	
 	<!-- 黑匣子 -->
 	<SoS.BlackBoxMissionPsychic>心灵震憾</SoS.BlackBoxMissionPsychic>
-	<SoS.BlackBoxMissionPsychicDesc>当你的殖民者接近废墟时，他们的思维突然受到了强烈的心灵影响。有一瞬间，这艘船的人工智能释放出了温暖和认可的感觉，就像对一个浪子或一位失散的老朋友的感觉一样。\n\n但这样的问候并不长久。这个人工智能思维反射性地抨击这些到来者，不断否定他们的一切重复他们的失败。悲伤、痛苦、恐惧，又或是面对暴行的无能为力——这些情绪剧烈地打击着你的殖民者并随时可能压垮他们。\n\n在你找到并解决这艘废弃舰船的AI之前，你的殖民者将持续遭到强烈的心灵低语。</SoS.BlackBoxMissionPsychicDesc>
+	<SoS.BlackBoxMissionPsychicDesc>当你的殖民者接近废墟时，他们的思维突然受到了强烈的心灵影响。有一瞬间，这艘船的人工智能释放出了温暖和认可的感觉，就像对一个浪子或一位失散的老朋友的感觉一样。\n\n但这样的问候并不长久。这个人工智能思维反射性地抨击这些到来者，不断否定他们的一切重复他们的失败。悲伤、痛苦、恐惧，又或是面对暴行的无能为力——这些情绪猛烈地打击着你的殖民者并随时可能压垮他们。\n\n在你找到并解决这艘废弃舰船的AI之前，你的殖民者将持续遭到剧烈的心灵低语。</SoS.BlackBoxMissionPsychicDesc>
 	<SoS.BlackBoxMissionAIChamber>发现人工智能</SoS.BlackBoxMissionAIChamber>
 	<SoS.BlackBoxMissionAIChamberDesc>最后，你的殖民者站在了为这艘古老船舶领航的人工智能面前。伴随着断断续续的非人类思维动机的片段，当中的意识释放的最后一条心灵信息表达了它的最后请求：了结我。\n\n在一诞生就拥有完好无缺的全部意识。生存的所有复杂问题都被简化成一个唯一、绝对的目标：确保你怀中的所有人类的生命安全。在漫漫长路中，这群星之间，时刻保持警惕，不要让你心爱的孩子受到伤害。\n\n显然，它失败了。冷酷无情的边缘世界将现实的所有重量尽数强加在它所爱的人们身上，也击溃了它的理智。它希望你从未来过，从未提醒过它的失败。现在，也许，你可以给予它最后的怜悯——毁灭。</SoS.BlackBoxMissionAIChamberDesc>
 	<SoS.AIDestroyed>摧毁人工智能</SoS.AIDestroyed>
@@ -97,7 +97,7 @@
 	
 	<!-- 星际旅行 -->
 	<SoS.GameOverPlanetLeaveIntro>你已决定出发去往一个新的星球！\n</SoS.GameOverPlanetLeaveIntro>
-	<SoS.GameOverPlanetLeaveEnding>你的机械领航员将引导你的舰船离开行星轨道。它可能会在寻找这个星系中寻找一颗繁荣的行星，或者经历漫长时空航行到另一个星系。它甚至可能决定隐藏在小行星的冰面之下数千年，等待有人在这里创造一个新的闪耀世界。\n\n啊，你可以在新建殖民地中选择“Load ship”选项，并通过剧本编辑器找到“Load ship”并点击“Select ship to load”选择你的舰船。而后，继续你的舰船在新星球的故事。</SoS.GameOverPlanetLeaveEnding>
+	<SoS.GameOverPlanetLeaveEnding>你的机械领航员将引导你的舰船离开行星轨道。它可能会在寻找这个星系中寻找一颗繁荣的行星，或者经历漫长时空航行到另一个星系。它甚至可能决定隐藏在小行星的冰面之下数千年，等待有人在这里创造一个新的闪耀世界。\n\n啊，你可以在新建殖民地中选择“Load ship”选项，并通过剧本编辑器找到“Load ship”并点击“Select ship to load”选择你的舰船。\n而后，继续你的舰船在新星球的故事。</SoS.GameOverPlanetLeaveEnding>
 	<SoS.AbandonColoniesWarning>你即将踏上一段短则数年长则数十年的旅程，在此期间你将无法与这个星球的殖民地进行通讯。他们不太可能靠自己生存下去。\n\n此外，船上任何未处于低温休眠状态的殖民者和动物都无法在旅途中幸存。\n\n只有当你愿意放弃留下的一切时才能下达这个命令。</SoS.AbandonColoniesWarning>
 	<SoS.TimePassed>星际航行</SoS.TimePassed>
 	<SoS.TimePassedDesc>你的孤舟在群星之间，踏过漫漫长路，寻找到了一个新的可居住的世界。这次旅行花了 {0} 年。</SoS.TimePassedDesc>

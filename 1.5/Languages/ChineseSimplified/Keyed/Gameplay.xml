@@ -7,7 +7,7 @@
 	<SoS.MoveEastDesc>让船按轨道向东移动。</SoS.MoveEastDesc>
 	<SoS.MoveStop>停止舰船移动</SoS.MoveStop>
 	<SoS.MoveStopDesc>反向推进进入同步轨道。</SoS.MoveStopDesc>
-	<SoS.AbandonHome>弃船\n（没事别点）</SoS.AbandonHome>
+	<SoS.AbandonHome>弃船\n(没事别点)</SoS.AbandonHome>
 	<SoS.AbandonHomeDesc>放弃当前舰船，船上的殖民者会全部消失。</SoS.AbandonHomeDesc>
 	<SoS.LeaveGraveyard>抛弃沉船漂浮物</SoS.LeaveGraveyard>
 	<SoS.LeaveGraveyardDesc>让这些残骸变成太空垃圾。</SoS.LeaveGraveyardDesc>
