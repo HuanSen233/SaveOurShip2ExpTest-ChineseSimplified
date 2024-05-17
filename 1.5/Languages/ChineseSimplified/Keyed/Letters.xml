@@ -2,9 +2,9 @@
 <LanguageData>
 
 	<!-- 覆盖 -->
-	<JourneyOffer>一个曾被你起名为沙隆·白石的友好AI向我们发来了一条讯息！\n\n他透露说他在这颗星球上有一艘太空飞船，并把坐标发给了你。\n\n如果你能前往飞船，沙隆会带你进入环绕这颗星球的轨道。在那里，也许你能找到办法来改进飞船的引擎和进行星际旅行。</JourneyOffer>
+	<JourneyOffer>一个曾被你起名为沙隆·白石的友好AI向我们发来了一条讯息！\n\n他透露说他在这颗星球上有一艘太空飞船，并把坐标发给了你。\n\n如果你能前往飞船，沙隆会带你进入环绕这颗星球的轨道。在那里，也许你能找到办法来改进飞船的推进器和进行星际旅行。</JourneyOffer>
 	<EscapeShipFoundLabel>发现飞船</EscapeShipFoundLabel>
-	<EscapeShipFound>你抵达了沙隆·白石给你的坐标\n\n飞船早已准备好发射，但是他的化学燃料引擎只能把你送入轨道。你需要设法弄到一个 约翰逊-田中驱动器 以此更进一步。也许可以在空间碎片中找到线索......</EscapeShipFound>
+	<EscapeShipFound>你抵达了沙隆·白石给你的坐标\n\n飞船早已准备好发射，但是他的化学燃料推进器只能把你送入轨道。你需要设法弄到一个 约翰逊-田中驱动器 以此更进一步。也许可以在空间碎片中找到线索......</EscapeShipFound>
 	
 	<!-- 事件 -->
 	<SoS.LetterLabelShortCircuitDesc>电力管道的故障引起了短路。\n\n幸运的是，你的电容器的保险丝及时阻止了它放电。</SoS.LetterLabelShortCircuitDesc>
@@ -19,7 +19,7 @@
 	<SoS.WinShipBattleDesc>随着最后一艘敌舰的控制系统被摧毁，它已然成了一块大号的空间碎片。它将在 {0}后落入大气并被其烧毁。\n\n你可以通过跳帮队登船手动取回货物和俘虏人员，或者使用打捞港将其移动到你的地图上。两种选择无论哪项都请准备好击退船上剩余的敌人。</SoS.WinShipBattleDesc>
 	<SoS.WinShipBattleHackDesc>随着最后一艘敌舰的控制系统被夺取，他已然成为了一只待宰羔羊。它将在 {0}后落入大气并被其烧毁。\n\n如果它还有移动能力的话，你可以选择将其连同舰桥一起开回你的地图，或者使用打捞港来捞它回去。</SoS.WinShipBattleHackDesc>
 	<SoS.SpaceAsteroids>小行星区域</SoS.SpaceAsteroids>
-	<SoS.SpaceAsteroidsDesc>飞船已进入小行星区域。发动引擎躲避或者准备撞击！</SoS.SpaceAsteroidsDesc>
+	<SoS.SpaceAsteroidsDesc>飞船已进入小行星区域。发动推进器躲避或者准备撞击！</SoS.SpaceAsteroidsDesc>
 	<SoS.PawnsLostReEntry>落入大气</SoS.PawnsLostReEntry>
 	<SoS.PawnsLostReEntryDesc>这些人和动物因落入大气而被其烧毁：</SoS.PawnsLostReEntryDesc>
 	
@@ -83,7 +83,7 @@
 	<SoS.HibernateComplete>能量排放完成</SoS.HibernateComplete>
 	<SoS.HibernateCompleteDesc>约翰逊-田中驱动器 已完成能量排放。你的殖民者现在可以安全的拆除它并取回其中的纠缠流形。</SoS.HibernateCompleteDesc>
 	<SoS.ImpactSiteFound>发现撞击地点</SoS.ImpactSiteFound>
-	<SoS.ImpactSiteFoundDesc>你已到达幸存的古老飞船引擎的撞击地点。\n\n约翰逊-田中驱动器中积蓄了大量能量，在这种情况下不能安全的拆除它。你需要手动触发能量排放。\n\n你的殖民者计算出整个排放过程会持续大约15天，这期间其所喷发的能量特征能在很远的地方被探测到，这类能量特征表示具备星际飞行的能力，将会吸引到绝望的掠夺者和致命的机械族。\n\n你将遭受前所未有的猛烈袭击。确保第一时间做好防御。</SoS.ImpactSiteFoundDesc>
+	<SoS.ImpactSiteFoundDesc>你已到达幸存的古老飞船推进器的撞击地点。\n\n约翰逊-田中驱动器中积蓄了大量能量，在这种情况下不能安全的拆除它。你需要手动触发能量排放。\n\n你的殖民者计算出整个排放过程会持续大约15天，这期间其所喷发的能量特征能在很远的地方被探测到，这类能量特征表示具备星际飞行的能力，将会吸引到绝望的掠夺者和致命的机械族。\n\n你将遭受前所未有的猛烈袭击。确保第一时间做好防御。</SoS.ImpactSiteFoundDesc>
 	
 	<!-- 超凡柱子 -->
 	<SoS.ArchotechLostPillar>超凡科技柱丢失</SoS.ArchotechLostPillar>

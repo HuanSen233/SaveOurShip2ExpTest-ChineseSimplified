@@ -22,7 +22,7 @@
 	<SoS.CombatRetreat>后撤</SoS.CombatRetreat>
 	<SoS.CombatRetreatDesc>尽量远离敌舰</SoS.CombatRetreatDesc>
 	<SoS.CombatStop>停止</SoS.CombatStop>
-	<SoS.CombatStopDesc>切断引擎电源</SoS.CombatStopDesc>
+	<SoS.CombatStopDesc>切断推进器电源</SoS.CombatStopDesc>
 	<SoS.CombatMaintain>保持距离</SoS.CombatMaintain>
 	<SoS.CombatMaintainDesc>保持与敌舰间的距离</SoS.CombatMaintainDesc>
 	<SoS.CombatAdvance>推进</SoS.CombatAdvance>
@@ -79,13 +79,13 @@
 	<SoS.SalvageBeamDesc>找到目标地图 {0} 上的所有松散的、自由漂浮的碎片。</SoS.SalvageBeamDesc>
 	<SoS.SalvageStablize>稳定 {0} 轨道</SoS.SalvageStablize>
 	<SoS.SalvageStablizeFuel>稳定需要 {0} 单位的燃料！</SoS.SalvageStablizeFuel>
-	<SoS.SalvageStablizeDesc>稳定 {0} 的轨道。这需要足够的打捞港，并消耗你的舰船引擎中的燃料。</SoS.SalvageStablizeDesc>
-	<SoS.SalvageStablizeConfirm>稳定 {0} 的轨道。这需要足够的打捞港，并将会消耗你的舰船引擎中 {1} 单位的燃料。</SoS.SalvageStablizeConfirm>
+	<SoS.SalvageStablizeDesc>稳定 {0} 的轨道。这需要足够的打捞港，并消耗你的舰船推进器中的燃料。</SoS.SalvageStablizeDesc>
+	<SoS.SalvageStablizeConfirm>稳定 {0} 的轨道。这需要足够的打捞港，并将会消耗你的舰船推进器中 {1} 单位的燃料。</SoS.SalvageStablizeConfirm>
 	<SoS.SalvageDisabled>在飞船战中或者有敌人在地图上！</SoS.SalvageDisabled>
 	<SoS.SalvageAbandonConfirm>你确定要放弃目标吗？\n任何与它相连或在上面的东西都会落入大气中被烧毁！</SoS.SalvageAbandonConfirm>
 	<SoS.SalvageBridge>不能用打捞港移动完整的舰船，夺取或摧毁舰桥。</SoS.SalvageBridge>
 	<SoS.SalvageFailMass>在可以移动的舰船上没有足够的打捞港。捕获所选目标需要打捞港空间 {0}，而舰船上只有 {1}</SoS.SalvageFailMass>
-	<SoS.SalvageFailFuel>你的舰船引擎中没有足够的燃料。需要有 {0} 单位燃料，而实际只有 {1}</SoS.SalvageFailFuel>
+	<SoS.SalvageFailFuel>你的舰船推进器中没有足够的燃料。需要有 {0} 单位燃料，而实际只有 {1}</SoS.SalvageFailFuel>
 	<SoS.SalvageNoSpace>打捞港没有足够的空间。</SoS.SalvageNoSpace>
 	<SoS.SalvageEnemiesPresent>在收拾掉所有敌人后可以使用打捞港捕获。</SoS.SalvageEnemiesPresent>
 	<SoS.ClaimWrecksCommand>占领残骸</SoS.ClaimWrecksCommand>
@@ -96,7 +96,7 @@
 	<SoS.RemoveWrecksCommandDesc>移除这张地图上的所有残骸。</SoS.RemoveWrecksCommandDesc>
 	<!-- 建造限制 -->
 	<SoS.PlaceOnShipHull>必须建造在船体镀层上。</SoS.PlaceOnShipHull>
-	<SoS.EnginePlaceRotation>必须和其它引擎朝向同一方向！</SoS.EnginePlaceRotation>
+	<SoS.EnginePlaceRotation>必须和其它推进器朝向同一方向！</SoS.EnginePlaceRotation>
 	<!-- 通讯、贸易 -->
 	<SoS.TradeComms>联络 </SoS.TradeComms>
 	<SoS.TradeTradeWith>要求与他们进行交易。</SoS.TradeTradeWith>
@@ -143,7 +143,7 @@
 	<SoS.ReportInterReady>为星际旅行做好准备。</SoS.ReportInterReady>
 	<SoS.ReportInterNotReady>这些没有准备好星际旅行：</SoS.ReportInterNotReady>
 	<SoS.ReportNeedPilot>舰船需要领航员在舰桥或有AI核心。</SoS.ReportNeedPilot>
-	<SoS.NeedsMoreFuel>需要 {1} 单位燃料在引擎中，但引擎里只有 {0} 单位燃料。</SoS.NeedsMoreFuel>
+	<SoS.NeedsMoreFuel>需要 {1} 单位燃料在推进器中，但推进器里只有 {0} 单位燃料。</SoS.NeedsMoreFuel>
 	<SoS.NeedsMorePower>舰船需要 {0} Wd 电量在储能设备中。</SoS.NeedsMorePower>
 	<SoS.NeedsMoreJTEngines>需要更多的 约翰逊-田中驱动器 才能驱动这艘大船。</SoS.NeedsMoreJTEngines>
 	<SoS.PlanetLeave>前往新星球</SoS.PlanetLeave>
@@ -190,9 +190,9 @@
 	<SoS.ScanMapDesc>观察星球表面的一片区域</SoS.ScanMapDesc>
 	<SoS.ScanMapStop>结束观察</SoS.ScanMapStop>
 	<SoS.ScanMapStopDesc>停止观察 {0}。除非有殖民者在场否则这会导致地图刷新。</SoS.ScanMapStopDesc>
-	<!-- 引擎 -->
-	<SoS.ToggleEngines>启动舰船引擎</SoS.ToggleEngines>
-	<SoS.ToggleEnginesDesc>启动舰船引擎以规避危险。</SoS.ToggleEnginesDesc>
+	<!-- 推进器 -->
+	<SoS.ToggleEngines>启动舰船推进器</SoS.ToggleEngines>
+	<SoS.ToggleEnginesDesc>启动舰船推进器以规避危险。</SoS.ToggleEnginesDesc>
 	<!-- 气闸 -->
 	<SoS.ToggleDock>切换扩展器</SoS.ToggleDock>
 	<SoS.ToggleDockDesc>将气闸扩展器伸长至3格外</SoS.ToggleDockDesc>
@@ -360,18 +360,18 @@
 	<SoS.EnemyBoardingShuttleArrived>敌方跳帮队已抵达！</SoS.EnemyBoardingShuttleArrived>
 	<SoS.EnemyBoardingShuttleAborted>地方跳帮队正在撤退！</SoS.EnemyBoardingShuttleAborted>
 	<SoS.ShuttleMissionBoarding>登上敌舰</SoS.ShuttleMissionBoarding>
-	<SoS.ShuttleMissionBoardingDesc>派这艘穿梭机登上敌舰。它很容易受到点防御武器的攻击。如果敌舰引擎经常工作，那么穿梭机需要更长时间到达。</SoS.ShuttleMissionBoardingDesc>
+	<SoS.ShuttleMissionBoardingDesc>派这艘穿梭机登上敌舰。它很容易受到点防御武器的攻击。如果敌舰推进器经常工作，那么穿梭机需要更长时间到达。</SoS.ShuttleMissionBoardingDesc>
 	<SoS.ShuttleMissionBoardingDisabled>穿梭机需要合适的停靠港才能在屋顶下起飞！</SoS.ShuttleMissionBoardingDisabled>
 	<SoS.ShuttleMissionBoardingWarn>登上敌舰（警告！）</SoS.ShuttleMissionBoardingWarn>
-	<SoS.ShuttleMissionBoardingWarnDesc>警告：敌舰引擎正在工作，可能没有合适的空隙抵达！派这艘穿梭机登上敌舰。它很容易受到点防御武器的攻击。如果敌舰引擎经常工作，那么穿梭机需要更长时间到达。</SoS.ShuttleMissionBoardingWarnDesc>
+	<SoS.ShuttleMissionBoardingWarnDesc>警告：敌舰推进器正在工作，可能没有合适的空隙抵达！派这艘穿梭机登上敌舰。它很容易受到点防御武器的攻击。如果敌舰推进器经常工作，那么穿梭机需要更长时间到达。</SoS.ShuttleMissionBoardingWarnDesc>
 	<SoS.ShuttleMissionBoardingReturn>返回舰船</SoS.ShuttleMissionBoardingReturn>
 	<SoS.ShuttleMissionBoardingReturnDesc>让穿梭机回到你的舰船。如果敌人的点防御系统正在工作，那么它将很容易受到攻击。</SoS.ShuttleMissionBoardingReturnDesc>
 	<SoS.ShuttleMissionIntercept>拦截</SoS.ShuttleMissionIntercept>
 	<SoS.ShuttleMissionInterceptDesc>派这艘穿梭机拦截来袭的鱼雷和敌方穿梭机。\n\n它将一直执行任务直到燃料不足或严重损坏，你可以中途将其召回。</SoS.ShuttleMissionInterceptDesc>
 	<SoS.ShuttleMissionStrafe>射击敌舰</SoS.ShuttleMissionStrafe>
-	<SoS.ShuttleMissionStrafeDesc>派这艘穿梭机用炮塔射击敌舰。它很容易受到点防御武器的攻击。如果敌舰引擎经常工作，那么穿梭机需要更长时间到达。\n\n它将一直执行任务直到燃料不足或严重损坏，你可以中途将其召回。</SoS.ShuttleMissionStrafeDesc>
+	<SoS.ShuttleMissionStrafeDesc>派这艘穿梭机用炮塔射击敌舰。它很容易受到点防御武器的攻击。如果敌舰推进器经常工作，那么穿梭机需要更长时间到达。\n\n它将一直执行任务直到燃料不足或严重损坏，你可以中途将其召回。</SoS.ShuttleMissionStrafeDesc>
 	<SoS.ShuttleMissionBomb>雷击敌舰</SoS.ShuttleMissionBomb>
-	<SoS.ShuttleMissionBombDesc>派这艘穿梭机用鱼雷攻击敌舰。它自身很容易受到点防御武器的攻击，而它的鱼雷不会。如果敌舰引擎经常工作，那么穿梭机需要更长时间到达。\n\n它将一直执行任务直到燃料不足或严重损坏，你可以中途将其召回。</SoS.ShuttleMissionBombDesc>
+	<SoS.ShuttleMissionBombDesc>派这艘穿梭机用鱼雷攻击敌舰。它自身很容易受到点防御武器的攻击，而它的鱼雷不会。如果敌舰推进器经常工作，那么穿梭机需要更长时间到达。\n\n它将一直执行任务直到燃料不足或严重损坏，你可以中途将其召回。</SoS.ShuttleMissionBombDesc>
 	<SoS.RecallShuttle>{0}（执行：{1} ）</SoS.RecallShuttle>
 	<SoS.RecallShuttleDesc>改变穿梭机的任务。</SoS.RecallShuttleDesc>
 	<SoS.RetreatAtHealth>穿梭机因生命值自动撤退阈值</SoS.RetreatAtHealth>

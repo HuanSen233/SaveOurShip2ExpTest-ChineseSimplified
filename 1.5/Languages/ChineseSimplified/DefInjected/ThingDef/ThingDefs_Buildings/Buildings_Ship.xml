@@ -11,10 +11,67 @@
     <Ship_Corner_OneThree.label>标准船体斜角(1x3)</Ship_Corner_OneThree.label>
     <Ship_Corner_OneThreeFlip.label>标准船体斜角(1x3)翻转</Ship_Corner_OneThreeFlip.label>
     <Ship_Beams.description>有角度的船体装甲。</Ship_Beams.description>
+    <ShipHullTile.label>标准船体镀层</ShipHullTile.label>
+    <ShipHullTile.description>适合航天任务的船体镀层。将这格空间（以及在其上建造的任何建筑）指定为舰船的一部分。</ShipHullTile.description>
+
     <ShipInside_SolarGenerator.label>标准船体太阳能发电机</ShipInside_SolarGenerator.label>
     <ShipInside_SolarGenerator.description>利用太阳光来发电。在太空可输出600W，在星球表面可输出300W。不能在黑暗或人造光源环境中工作。</ShipInside_SolarGenerator.description>
+    
     <ShipInside_PassiveVent.label>标准船体通风口</ShipInside_PassiveVent.label>
     <ShipInside_PassiveVent.description>与热容网络交换热量，将舰船内部冷却或加热到所需温度。在热容网络没有中蓄热时可以选择使用电力加热房间。</ShipInside_PassiveVent.description>
+    
+    <ShipAirlock.label>标准飞船气闸</ShipAirlock.label>
+    
+    <ShipAirlock.description>允许进入舰船或在舰船内划分房间。低能等离子屏障能防止气体逸出。</ShipAirlock.description>
+    <ShipAirlockBeam.label>飞船对接装置</ShipAirlockBeam.label>
+    <ShipAirlockBeam.description>舰船对接系统的一半。将两个这东西放在飞船气闸旁边并向外朝向真空区域：|o| 其中 | 代表对接装置，o代表飞船气闸，然后，气闸将获得扩展对接装置向外延伸最长3格的能力。\n\n气闸走廊不适合星际航行和大气载入，因此飞船对接将自动分离。</ShipAirlockBeam.description>
+    
+    <ShipHardpointSmall.label>小型飞船挂载点</ShipHardpointSmall.label>
+    <ShipHardpoint.label>飞船挂载点</ShipHardpoint.label>
+    <ShipHardpointExtraMedium.label>大型飞船挂载点</ShipHardpointExtraMedium.label>
+    <ShipHardpointLarge.label>超大型飞船挂载点</ShipHardpointLarge.label>
+    <ShipHardpoints.description>用于将建筑和炮塔连接到舰船外部的支撑结构。任何建造在其上的建筑都将被视为舰船的一部分。\n\n其整合了纳米复合装甲可将放置在这上面的炮塔受到的伤害减少一半。</ShipHardpoints.description>
+    
+    <Ship_Engine_Small.label>小型火箭推进器</Ship_Engine_Small.label>
+    <Ship_Engine_Small.description>一种使用化学燃料驱动的推进器，能将飞船送入轨道。不适合星际航行。\n\n推力：500\n燃料消耗：1 化学燃料/秒\n最大起飞重量：750</Ship_Engine_Small.description>
+    <Ship_Engine.label>火箭推进器</Ship_Engine.label>
+    <Ship_Engine.description>一种使用化学燃料驱动的推进器，能将飞船送入轨道。不适合星际航行。\n\n推力：1000\n燃料消耗：2 化学燃料/秒\n最大起飞重量：1000</Ship_Engine.description>
+    <Ship_Engine_Large.label>核能推进器</Ship_Engine_Large.label>
+    <Ship_Engine_Large.description>一种使用核燃料驱动的核动力推进器，能将飞船送入轨道。会造成污染。不适合星际航行。\n\n推力：3000\n燃料消耗：3 核燃料罐/秒\n最大起飞重量：4000</Ship_Engine_Large.description>
+    <Ship_Thruster.label>RCS推进器</Ship_Thruster.label>
+    <Ship_Thruster.description>用于让舰船在地图上移动的小型推进器。每2000点舰船重量需要一个。</Ship_Thruster.description>
+    <Ship_Engine_Interplanetary.label>约翰逊-田中驱动器</Ship_Engine_Interplanetary.label>
+    <Ship_Engine_Interplanetary.description>一种极度先进的无工质推进器，能够进行行星和星际间航行。\n\n不能在行星大气中工作。\n\nJT驱动质量极限：10000\n推力：500</Ship_Engine_Interplanetary.description>
+    <Ship_Engine_Interplanetary_Large.label>大型约翰逊-田中驱动器</Ship_Engine_Interplanetary_Large.label>
+    <Ship_Engine_Interplanetary_Large.description>一种极度先进的无工质推进器，能够进行行星和星际间航行。\n\n不能在行星大气中工作。这种安装了两个纠缠流形且配置更高效的大号版本通常被安装在大型军舰上。\n\nJT驱动质量极限：30000\n推力：2000</Ship_Engine_Interplanetary_Large.description>
+    
+    <ShipPilotSeatMini.label>飞船舰桥控制台</ShipPilotSeatMini.label>
+    <ShipPilotSeatMini.description>允许殖民者驾驶飞船。</ShipPilotSeatMini.description>
+    <ShipConsoleTactical.label>飞船战术控制台</ShipConsoleTactical.label>
+    <ShipConsoleTactical.description>提供武器选择和目标选择的选项，并根据操作者的射击技能增加舰船武器的精度。</ShipConsoleTactical.description>
+    <ShipConsoleScience.label>飞船科学控制台</ShipConsoleScience.label>
+    <ShipConsoleScience.description>允许殖民者扫描轨道上感兴趣的物体，从轨道上观察星球表面并在战斗中扫描敌舰内部。</ShipConsoleScience.description>
+    <Ship_DroneCore.label>无人飞船核心</Ship_DroneCore.label>
+    <Ship_DroneCore.description>一个简单的计算机核心，内置一个低级AI。虽然无法解决创造性问题或进行星际航行，但足矣代替人类在战斗中驾驶飞船。</Ship_DroneCore.description>
+    <Ship_ComputerCore.label>飞船电脑核心</Ship_ComputerCore.label>
+    <Ship_ComputerCore.description>一个搭载有人格AI的电脑核心，可以驾驶你的舰船，精准地发射武器，或者在漫长的星际航行中担任领航员。其包含了一个微械繁殖箱，允许AI生成一个微械凝胶体来与世界交互。</Ship_ComputerCore.description>
+
+    <Ship_SensorCluster.label>基础集成传感器</Ship_SensorCluster.label>
+    <Ship_SensorCluster.description>搭载了基本的舰船操作所需的传感器。允许飞船进入轨道或观察一个区域并在所观察的区域着陆。</Ship_SensorCluster.description>
+    <Ship_SensorClusterAdv.label>先进集成传感器</Ship_SensorClusterAdv.label>
+    <Ship_SensorClusterAdv.description>更先进的舰船传感器。在基础传感器上增加了对事件点的扫描与扫描敌舰内部的功能。</Ship_SensorClusterAdv.description>
+    
+    <Ship_LifeSupport.label>飞船维生系统</Ship_LifeSupport.label>
+    <Ship_LifeSupport.description>在所有完全密封的船舱内释放氧气。保持未穿着宇航服且非低温休眠状态下的殖民者和动物的生命。\n\n虽然每艘飞船只需要一个维生系统，但备用的维生系统可以在紧急情况下拯救船员的生命。</Ship_LifeSupport.description>
+    <Ship_LifeSupport_Small.label>小型飞船维生系统</Ship_LifeSupport_Small.label>
+    <Ship_LifeSupport_Small.description>在所有完全密封的船舱内释放氧气。保持未穿着宇航服且非低温休眠状态下的殖民者和动物的生命。为了能塞进更小的船，这个版本采用了更紧凑的设计，但也牺牲了能源利用效率。\n\n虽然每艘飞船只需要一个维生系统，但备用的维生系统可以在紧急情况下拯救船员的生命。</Ship_LifeSupport_Small.description>
+    
+    <ShipCapacitorSmall.label>舰船电容器</ShipCapacitorSmall.label>
+    <ShipCapacitorSmall.description>高效地存储高达1000Wd的电力。</ShipCapacitorSmall.description>
+    <ShipCapacitor.label>舰船电容阵列</ShipCapacitor.label>
+    <ShipCapacitor.description>高效地存储高达10000Wd的电力。</ShipCapacitor.description>
+    <text.label>text</text.label>
+    <text.description>text</text.description>
     <text.label>text</text.label>
     <text.description>text</text.description>
 
