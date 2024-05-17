@@ -67,8 +67,6 @@
 	<SoS.CaptureShip>捕获</SoS.CaptureShip>
 	<SoS.CaptureShipDesc>将舰船移到你的地图上</SoS.CaptureShipDesc>
 	<SoS.LaunchFailPawns>发现非玩家殖民地小人：{0}，起飞中止。</SoS.LaunchFailPawns>
-	<SoS.MoveFailImmobile>没有领航员、足够的燃料或RCS推进器！</SoS.MoveFailImmobile>
-	<SoS.MoveFailFaction>来自另一个阵营的舰船靠近目标区域。</SoS.MoveFailFaction>
 	<SoS.MoveWreckCommand>移动残骸</SoS.MoveWreckCommand>
 	<SoS.MoveWreckCommandDesc>移动你的地图上被选中的残骸。</SoS.MoveWreckCommandDesc>
 	<SoS.MoveWreckFlipCommand>翻转残骸</SoS.MoveWreckFlipCommand>
@@ -86,7 +84,8 @@
 	<SoS.SalvageDisabled>在飞船战中或者有敌人在地图上！</SoS.SalvageDisabled>
 	<SoS.SalvageAbandonConfirm>你确定要放弃目标吗？\n任何与它相连或在上面的东西都会落入大气中被烧毁！</SoS.SalvageAbandonConfirm>
 	<SoS.SalvageBridge>不能用打捞港移动完整的舰船，夺取或摧毁舰桥。</SoS.SalvageBridge>
-	<SoS.SalvageCount>没有足够的打捞港。捕获所选目标需要打捞港空间 {0} ，而舰船上只有 {1}</SoS.SalvageCount>
+	<SoS.SalvageFailMass>在可以移动的舰船上没有足够的打捞港。捕获所选目标需要打捞港空间 {0}，而舰船上只有 {1}</SoS.SalvageFailMass>
+	<SoS.SalvageFailFuel>你的舰船引擎中没有足够的燃料。需要有 {0} 单位燃料，而实际只有 {1}</SoS.SalvageFailFuel>
 	<SoS.SalvageNoSpace>打捞港没有足够的空间。</SoS.SalvageNoSpace>
 	<SoS.SalvageEnemiesPresent>在收拾掉所有敌人后可以使用打捞港捕获。</SoS.SalvageEnemiesPresent>
 	<SoS.ClaimWrecksCommand>占领残骸</SoS.ClaimWrecksCommand>
@@ -170,9 +169,11 @@
 	<SoS.MoveRotDesc>逆时针旋转舰船</SoS.MoveRotDesc>
 	<SoS.MoveFail>移动失败！</SoS.MoveFail>
 	<SoS.MoveFailDesc>舰船移动失败！重新检查你的船，如果有物块出错就重新加载存档。这通常是由于某些建筑物没有被正确移除导致的。\n移动失败：{0}</SoS.MoveFailDesc>
+	<SoS.MoveFailPilot>舰船舰桥需要有领航员才能移动。</SoS.MoveFailPilot>
 	<SoS.MoveFailRCS>需要 {0} 个RCS推进器来移动舰船。</SoS.MoveFailRCS>
 	<SoS.MoveFailFuel>需要 {0} 单位燃料来移动舰船。</SoS.MoveFailFuel>
-	<SoS.MoveFailPilot>舰船需要有领航员在舰桥才能移动。</SoS.MoveFailPilot>
+	<SoS.MoveFailFaction>来自另一派系的舰船靠近目标区域。移动中止。</SoS.MoveFailFaction>
+	<SoS.MoveFailCombat>主要舰船地图正在战斗中。</SoS.MoveFailCombat>
 	<SoS.Land>舰船登陆</SoS.Land>
 	<SoS.LandDesc>让这艘船在这里着陆 </SoS.LandDesc>
 	<SoS.Rebuild>舰船部件被毁自动重建</SoS.Rebuild>
