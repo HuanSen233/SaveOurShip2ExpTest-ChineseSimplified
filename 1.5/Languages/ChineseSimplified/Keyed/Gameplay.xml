@@ -345,8 +345,8 @@
 	<SoS.ArchotechEvolve>启动超凡进化</SoS.ArchotechEvolve>
 	<SoS.ArchotechEvolveDesc>将你的超凡科技孢子进化成一个真正的超凡科技，并为这个世界开创一个崭新的时代。\n\n这将会结束游戏！</SoS.ArchotechEvolveDesc>
 	<SoS.ArchotechMoodLow>超凡科技孢子情绪低落</SoS.ArchotechMoodLow>
-	<SoS.ArchotechMoodLowDesc>你的超凡科技孢子不高兴了，他可能会对你的舰船或船员玩“恶作剧”。\n\n孢子的情绪可以通过让殖民者在附近冥想来缓慢改善，或者通过献祭囚犯的方式取悦它。（译者注：可以对它的微械凝胶体动手。</SoS.ArchotechMoodLowDesc>
-	<SoS.ArchotechMoodLowNoRoyDesc>你的超凡科技孢子心情很差，他会对你的舰船或船员玩“恶作剧”。\n\n孢子的情绪可以通过献祭囚犯来快速改善。（译者注：还是那句话，可以对它的微械凝胶体动手。</SoS.ArchotechMoodLowNoRoyDesc>
+	<SoS.ArchotechMoodLowDesc>你的超凡科技孢子不高兴了，他可能会对你的舰船或船员玩“恶作剧”。\n\n孢子的情绪可以通过让殖民者在附近冥想来缓慢改善，或者通过献祭囚犯的方式取悦它。</SoS.ArchotechMoodLowDesc>
+	<SoS.ArchotechMoodLowNoRoyDesc>你的超凡科技孢子心情很差，他会对你的舰船或船员玩“恶作剧”。\n\n孢子的情绪可以通过献祭囚犯来快速改善。</SoS.ArchotechMoodLowNoRoyDesc>
 	<!-- 超凡动物 -->
 	<SoS.ArchoAnimalSuddenDeath>由于某种宇宙事件，一种超凡动物出现了但又很快就消失了。也许这是某些事情即将到来的征兆。</SoS.ArchoAnimalSuddenDeath>
 	<SoS.ArchoAnimalSporeDeath>由于没有了超凡科技的指引，{0} 已经消亡。</SoS.ArchoAnimalSporeDeath>

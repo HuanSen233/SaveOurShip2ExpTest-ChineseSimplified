@@ -76,7 +76,46 @@
     <Ship_Reactor_Small.description>一台紧凑且能够独立运行的裂变反应堆。通过燃烧铀燃料罐进行产能。如果有可用的热容系统则将热量排放到热容系统中，否则将热量排放到所在房间内。\n\n其基础产能为3000W，可通过几种愈发不稳定的超频模式来提高。</Ship_Reactor_Small.description>
     
     <ShipShuttleBay.label>穿梭机停靠港</ShipShuttleBay.label>
-    <ShipShuttleBay.description>提供停靠穿梭机的功能的设施。这个先进的停靠港含有能自动修理穿梭机部件的微型机械，会将部件修理至一半生命值，并且能使工人维修穿梭机的速度加倍。\n\n停靠港上不能有障碍物。在周围放置信标可以使帝国的穿梭机降落在此处。</ShipShuttleBay.description>
+    <ShipShuttleBay.description>提供停靠穿梭机的功能的设施。这个先进的停靠港含有能自动修理穿梭机部件的微型机械，会将部件修理至一半生命值，并且能使小人维修穿梭机的速度加倍。它的内部还能存储燃料，并且可以自动为停靠在其上的穿梭机添加燃料。\n\n停靠港上不能有障碍物。在周围放置信标可供帝国的穿梭机降落在此处。</ShipShuttleBay.description>
+    <ShipShuttleBayLarge.label>大型穿梭机停靠港</ShipShuttleBayLarge.label>
+    <ShipShuttleBayLarge.description>提供停靠最大重型穿梭机的功能的设施。这个先进的停靠港含有能自动修理穿梭机部件的微型机械，会将部件修理至一半生命值，并且能使小人维修穿梭机的速度加倍。它的内部还能存储燃料，并且可以自动为停靠在其上的穿梭机添加燃料。\n\n停靠港上不能有障碍物。在周围放置信标可供帝国的穿梭机降落在此处。</ShipShuttleBayLarge.description>
+    <ShipSalvageBay.label>打捞港</ShipSalvageBay.label>
+    <ShipSalvageBay.description>移动沉船残骸到你的地图上，或者移除地图上不需要的残骸。可以建造更多的打捞港以容纳更大的船舶。\n\n重量限制：5000</ShipSalvageBay.description>
+    <ShipSalvageBayNano.label>闪耀科技打捞港</ShipSalvageBayNano.label>
+    <ShipSalvageBayNano.description>与普通的打捞港不同，这个版本使用了基于反向JT原理的牵引光束。它可以移动沉船残骸到你的地图上，或者移除地图上不需要的残骸。还可以检索到敌舰残骸周围那些小的松散物品。</ShipSalvageBayNano.description>
+    
+    <ShipCloakingDevice.label>隐形装置</ShipCloakingDevice.label>
+    <ShipCloakingDevice.description>生成一个可隐藏船舶热发射源的屏障，能防止你的舰船被其它舰船的被动扫描系统检测到。这可以防止随机舰船战事件，但无法在战斗中生效。它也不能防止赏金猎人们那强大的扫描仪发现你。\n\n当装置启动时，舰船散热系统将被禁用，冷却剂也会持续消耗。</ShipCloakingDevice.description>
+    
+    <Ship_CryptosleepCasket.label>飞船低温休眠舱</Ship_CryptosleepCasket.label>
+    <Ship_CryptosleepCasket.description>一个带有多个内置定时器和备用措施的低温休眠舱。可以在没有人为干预的情况下打开。在飞船发生灾难性事故时，它还可以作为逃生舱使用。\n\n建议在任何飞船上都至少装备一个这样的设备。</Ship_CryptosleepCasket.description>
+    <SpaceCrib.label>太空婴儿床</SpaceCrib.label>
+    <SpaceCrib.description>一张适合那些困倦宝宝的高科技床。一旦维生系统故障，其保护性外壳将会闭合并，内部将独立进行循环氧气并调节温度，从而保护住其中的使用者。在飞船发生灾难性事故时，它还可以作为逃生舱使用。\n\n它不是个低温休眠舱，不能在星际航行期间保护使用者的生命。</SpaceCrib.description>
+    <CrittersleepCasket.label>小型动物低温休眠舱(8)</CrittersleepCasket.label>
+    <CrittersleepCasket.description>一个自行供电的低温休眠舱，能容纳最多8只小动物并使它们进入低温休眠状态。在将动物放入低温休眠舱之前应对它们进行医学麻醉。</CrittersleepCasket.description>
+    <CrittersleepCasketLarge.label>大型动物低温休眠舱(32)</CrittersleepCasketLarge.label>
+    <CrittersleepCasketLarge.description>一个大号的自行供电的低温休眠舱，能容纳最多32只小动物并使它们进入低温休眠状态。在将动物放入低温休眠舱之前应对它们进行医学麻醉。</CrittersleepCasketLarge.description>
+    <Cryptonest.label>低温休眠卵箱</Cryptonest.label>
+    <Cryptonest.description>一个专为禽类受精卵设计的自行供电的低温休眠舱，能容纳最多16可卵并使它们进入低温休眠状态。</Cryptonest.description>
+    
+    <Ship_AvatarCasket.label>来世棺材</Ship_AvatarCasket.label>
+    <Ship_AvatarCasket.description>一个含有能解构已故人体，并构建一个能放仿造其原始生物功能的凝胶体的微械蜂群的装置。\n被解构出的意识能被完好无缺地转移到一个人造心灵神经中，该物体会保存在设备的储槽中，并通过心灵纠缠的方式操控其微械凝胶体。一个来世棺材只能保存一个意识。</Ship_AvatarCasket.description>
+    
+    <HullFoamDistributor.label>泡沫船体填充泵</HullFoamDistributor.label>
+    <HullFoamDistributor.description>一台用于在整个舰船分布泡沫填充物的泵站。当船体的一部分在战斗中被摧毁时，该系统将自动使用船体修补泡沫填补漏洞。</HullFoamDistributor.description>
+    <HullFoamWall.label>气密泡沫填充船体</HullFoamWall.label>
+    <HullFoamWall.description>一种可用于密封船体的泡沫板。</HullFoamWall.description>
+    <ShipHullfoamTile.label>气密泡沫填充镀层</ShipHullfoamTile.label>
+    <ShipHullfoamTile.description>气密船体泡沫，喷涂以填补缺失的船体镀层</ShipHullfoamTile.description>
+    
+    <text.label>text</text.label>
+    <text.description>text</text.description>
+    <text.label>text</text.label>
+    <text.description>text</text.description>
+    <text.label>text</text.label>
+    <text.description>text</text.description>
+    <text.label>text</text.label>
+    <text.description>text</text.description>
     <text.label>text</text.label>
     <text.description>text</text.description>
     <text.label>text</text.label>
