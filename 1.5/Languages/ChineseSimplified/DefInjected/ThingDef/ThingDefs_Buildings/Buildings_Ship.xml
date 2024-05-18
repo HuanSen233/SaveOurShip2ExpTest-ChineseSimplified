@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+    <!-- 船体 -->
     <Ship_Beam_Unpowered.label>标准船体(无线路)</Ship_Beam_Unpowered.label>
     <Ship_Beam_Unpowered.description>飞船船体的外部结构部件，但不包括电缆和热能导管。</Ship_Beam_Unpowered.description>
     <Ship_Beam.label>标准船体</Ship_Beam.label>
@@ -13,25 +14,25 @@
     <Ship_Beams.description>有角度的船体装甲。</Ship_Beams.description>
     <ShipHullTile.label>标准船体镀层</ShipHullTile.label>
     <ShipHullTile.description>适合航天任务的船体镀层。将这格空间（以及在其上建造的任何建筑）指定为舰船的一部分。</ShipHullTile.description>
-
+    <!-- 太阳能 -->
     <ShipInside_SolarGenerator.label>标准船体太阳能发电机</ShipInside_SolarGenerator.label>
     <ShipInside_SolarGenerator.description>利用太阳光来发电。在太空可输出600W，在星球表面可输出300W。不能在黑暗或人造光源环境中工作。</ShipInside_SolarGenerator.description>
-    
+    <!-- 通风口 -->
     <ShipInside_PassiveVent.label>标准船体通风口</ShipInside_PassiveVent.label>
     <ShipInside_PassiveVent.description>与热容网络交换热量，将舰船内部冷却或加热到所需温度。在热容网络没有中蓄热时可以选择使用电力加热房间。</ShipInside_PassiveVent.description>
-    
+    <!-- 气闸 -->
     <ShipAirlock.label>标准船舶气闸</ShipAirlock.label>
-    
+    <!-- 对接装置 -->
     <ShipAirlock.description>允许进入舰船或在舰船内划分房间。低能等离子屏障能防止气体逸出。</ShipAirlock.description>
     <ShipAirlockBeam.label>船舶对接装置</ShipAirlockBeam.label>
     <ShipAirlockBeam.description>舰船对接系统的一半。将两个这东西放在船舶气闸旁边并向外朝向真空区域：|o| 其中 | 代表对接装置，o代表船舶气闸，然后，气闸将获得扩展对接装置向外延伸最长3格的能力。\n\n气闸走廊不适合星际航行和大气载入，因此舰船对接将自动分离。</ShipAirlockBeam.description>
-    
+    <!-- 挂载点 -->
     <ShipHardpointSmall.label>小型船舶挂载点</ShipHardpointSmall.label>
     <ShipHardpoint.label>船舶挂载点</ShipHardpoint.label>
     <ShipHardpointExtraMedium.label>大型船舶挂载点</ShipHardpointExtraMedium.label>
     <ShipHardpointLarge.label>超大型船舶挂载点</ShipHardpointLarge.label>
     <ShipHardpoints.description>用于将建筑和炮塔连接到舰船外部的支撑结构。任何建造在其上的建筑都将被视为舰船的一部分。\n\n其整合了纳米复合装甲可将放置在这上面的炮塔受到的伤害减少一半。</ShipHardpoints.description>
-    
+    <!-- 推进器 -->
     <Ship_Engine_Small.label>小型火箭推进器</Ship_Engine_Small.label>
     <Ship_Engine_Small.description>一种使用化学燃料驱动的推进器，能将舰船送入轨道。不适合星际航行。\n\n推力：500\n燃料消耗：1 化学燃料/秒\n最大起飞重量：750</Ship_Engine_Small.description>
     <Ship_Engine.label>火箭推进器</Ship_Engine.label>
@@ -44,8 +45,8 @@
     <Ship_Engine_Interplanetary.description>一种极度先进的无工质推进器，能够进行行星和星际间航行。\n\n不能在行星大气中工作。\n\nJT驱动质量极限：10000\n推力：500</Ship_Engine_Interplanetary.description>
     <Ship_Engine_Interplanetary_Large.label>大型约翰逊-田中驱动器</Ship_Engine_Interplanetary_Large.label>
     <Ship_Engine_Interplanetary_Large.description>一种极度先进的无工质推进器，能够进行行星和星际间航行。\n\n不能在行星大气中工作。这种安装了两个纠缠流形且配置更高效的大号版本通常被安装在大型军舰上。\n\nJT驱动质量极限：30000\n推力：2000</Ship_Engine_Interplanetary_Large.description>
-    
-    <ShipPilotSeatMini.label>船舶舰桥控制台</ShipPilotSeatMini.label>
+    <!-- 舰桥/控制台 -->
+    <ShipPilotSeatMini.label>船舶领航员控制台</ShipPilotSeatMini.label>
     <ShipPilotSeatMini.description>允许殖民者驾驶舰船。</ShipPilotSeatMini.description>
     <ShipConsoleTactical.label>船舶战术控制台</ShipConsoleTactical.label>
     <ShipConsoleTactical.description>提供武器选择和目标选择的选项，并根据操作者的射击技能增加舰船武器的精度。</ShipConsoleTactical.description>
@@ -55,17 +56,17 @@
     <Ship_DroneCore.description>一个简单的计算机核心，内置一个低级AI。虽然无法解决创造性问题或进行星际航行，但足矣代替人类在战斗中驾驶舰船。</Ship_DroneCore.description>
     <Ship_ComputerCore.label>船舶电脑核心</Ship_ComputerCore.label>
     <Ship_ComputerCore.description>一个搭载有人格AI的电脑核心，可以驾驶你的舰船，精准地发射武器，或者在漫长的星际航行中担任领航员。其包含了一个微械繁殖箱，允许AI生成一个微械凝胶体来与世界交互。</Ship_ComputerCore.description>
-
+    <!-- 传感器 -->
     <Ship_SensorCluster.label>基础集成传感器</Ship_SensorCluster.label>
     <Ship_SensorCluster.description>搭载了基本的舰船操作所需的传感器。允许舰船进入轨道或观察一个区域并在所观察的区域着陆。</Ship_SensorCluster.description>
     <Ship_SensorClusterAdv.label>先进集成传感器</Ship_SensorClusterAdv.label>
     <Ship_SensorClusterAdv.description>更先进的舰船传感器。在基础传感器上增加了对事件点的扫描与扫描敌舰内部的功能。</Ship_SensorClusterAdv.description>
-    
+    <!-- 维生系统 -->
     <Ship_LifeSupport.label>船舶维生系统</Ship_LifeSupport.label>
     <Ship_LifeSupport.description>在所有完全密封的船舱内释放氧气。保持未穿着宇航服且非低温休眠状态下的殖民者和动物的生命。\n\n虽然每艘舰船只需要一个维生系统，但备用的维生系统可以在紧急情况下拯救船员的生命。</Ship_LifeSupport.description>
     <Ship_LifeSupport_Small.label>小型船舶维生系统</Ship_LifeSupport_Small.label>
     <Ship_LifeSupport_Small.description>在所有完全密封的船舱内释放氧气。保持未穿着宇航服且非低温休眠状态下的殖民者和动物的生命。为了能塞进更小的船，这个版本采用了更紧凑的设计，但也牺牲了能源利用效率。\n\n虽然每艘舰船只需要一个维生系统，但备用的维生系统可以在紧急情况下拯救船员的生命。</Ship_LifeSupport_Small.description>
-    
+    <!-- 电容器 -->
     <ShipCapacitorSmall.label>船舶电容器</ShipCapacitorSmall.label>
     <ShipCapacitorSmall.description>高效地存储高达1000Wd的电力。</ShipCapacitorSmall.description>
     <ShipCapacitor.label>船舶电容阵列</ShipCapacitor.label>
@@ -74,7 +75,7 @@
     <Ship_Reactor.description>一台紧凑且能够独立运行的裂变反应堆。通过燃烧铀燃料罐进行产能。如果有可用的热容系统则将热量排放到热容系统中，否则将热量排放到所在房间内。\n\n其基础产能为10000W，可通过几种愈发不稳定的超频模式来提高。</Ship_Reactor.description>
     <Ship_Reactor_Small.label>小型裂变反应堆</Ship_Reactor_Small.label>
     <Ship_Reactor_Small.description>一台紧凑且能够独立运行的裂变反应堆。通过燃烧铀燃料罐进行产能。如果有可用的热容系统则将热量排放到热容系统中，否则将热量排放到所在房间内。\n\n其基础产能为3000W，可通过几种愈发不稳定的超频模式来提高。</Ship_Reactor_Small.description>
-    
+    <!-- 港口 -->
     <ShipShuttleBay.label>穿梭机停靠港</ShipShuttleBay.label>
     <ShipShuttleBay.description>提供停靠穿梭机的功能的设施。这个先进的停靠港含有能自动修理穿梭机部件的微型机械，会将部件修理至一半生命值，并且能使小人维修穿梭机的速度加倍。它的内部还能存储燃料，并且可以自动为停靠在其上的穿梭机添加燃料。\n\n停靠港上不能有障碍物。在周围放置信标可供帝国的穿梭机降落在此处。</ShipShuttleBay.description>
     <ShipShuttleBayLarge.label>大型穿梭机停靠港</ShipShuttleBayLarge.label>
@@ -83,10 +84,10 @@
     <ShipSalvageBay.description>移动沉船残骸到你的地图上，或者移除地图上不需要的残骸。可以建造更多的打捞港以容纳更大的船舶。\n\n重量限制：5000</ShipSalvageBay.description>
     <ShipSalvageBayNano.label>闪耀科技打捞港</ShipSalvageBayNano.label>
     <ShipSalvageBayNano.description>与普通的打捞港不同，这个版本使用了基于反向JT原理的牵引光束。它可以移动沉船残骸到你的地图上，或者移除地图上不需要的残骸。还可以检索到敌舰残骸周围那些小的松散物品。</ShipSalvageBayNano.description>
-    
+    <!-- 隐形装置 -->
     <ShipCloakingDevice.label>隐形装置</ShipCloakingDevice.label>
     <ShipCloakingDevice.description>生成一个可隐藏船舶热发射源的屏障，能防止你的舰船被其它舰船的被动扫描系统检测到。这可以防止随机舰船战事件，但无法在战斗中生效。它也不能防止赏金猎人们那强大的扫描仪发现你。\n\n当装置启动时，舰船散热系统将被禁用，冷却剂也会持续消耗。</ShipCloakingDevice.description>
-    
+    <!-- 不完全是休眠舱 -->
     <Ship_CryptosleepCasket.label>船舶低温休眠舱</Ship_CryptosleepCasket.label>
     <Ship_CryptosleepCasket.description>一个带有多个内置定时器和备用措施的低温休眠舱。可以在没有人为干预的情况下打开。在舰船发生灾难性事故时，它还可以作为逃生舱使用。\n\n建议在任何舰船上都至少装备一个这样的设备。</Ship_CryptosleepCasket.description>
     <SpaceCrib.label>太空婴儿床</SpaceCrib.label>
@@ -97,27 +98,27 @@
     <CrittersleepCasketLarge.description>一个大号的自行供电的低温休眠舱，能容纳最多32只小动物并使它们进入低温休眠状态。在将动物放入低温休眠舱之前应对它们进行医学麻醉。</CrittersleepCasketLarge.description>
     <Cryptonest.label>低温休眠卵箱</Cryptonest.label>
     <Cryptonest.description>一个专为禽类受精卵设计的自行供电的低温休眠舱，能容纳最多16可卵并使它们进入低温休眠状态。</Cryptonest.description>
-    
+    <!-- 来世棺材 -->
     <Ship_AvatarCasket.label>来世棺材</Ship_AvatarCasket.label>
     <Ship_AvatarCasket.description>一个含有能解构已故人体，并构建一个能放仿造其原始生物功能的凝胶体的微械蜂群的装置。\n解构出的意识能被完好无缺地转移到一个人造心灵神经中，该物体会保存在设备的储槽中，并通过心灵纠缠的方式操控其微械凝胶体。一个来世棺材只能保存一个意识。</Ship_AvatarCasket.description>
-    
+    <!-- 泡沫泵 -->
     <HullFoamDistributor.label>泡沫船体填充泵</HullFoamDistributor.label>
     <HullFoamDistributor.description>一台用于在整个舰船分布泡沫填充物的泵站。当船体的一部分在战斗中被摧毁时，该系统将自动使用船体修补泡沫填补漏洞。</HullFoamDistributor.description>
     <HullFoamWall.label>气密泡沫填充船体</HullFoamWall.label>
     <HullFoamWall.description>一种可用于密封船体的泡沫板。</HullFoamWall.description>
     <ShipHullfoamTile.label>气密泡沫填充镀层</ShipHullfoamTile.label>
     <ShipHullfoamTile.description>气密船体泡沫，喷涂以填补缺失的船体镀层</ShipHullfoamTile.description>
-    
+    <!-- 气闸延伸物 -->
     <ShipAirlockBeamWall.label>气闸墙</ShipAirlockBeamWall.label>
     <ShipAirlockBeamWall.description>一面由气闸延伸出的气密墙。</ShipAirlockBeamWall.description>
     <ShipAirlockBeamWallInert.label>气闸墙</ShipAirlockBeamWallInert.label>
     <ShipAirlockBeamWallInert.description>一面由气闸延伸出的气密墙。</ShipAirlockBeamWallInert.description>
     <ShipAirlockBeamTile.label>气闸地板</ShipAirlockBeamTile.label>
-    
+    <!-- 壁灯 -->
     <WallSunLampSoS.label>壁挂式太阳灯</WallSunLampSoS.label>
     <WallSunLampSoS.description>一盏可以挂在墙上的太阳灯，将一片区域照亮到足以种植农作物，但需要消耗大量电力。夜晚时会自动关闭。它的效率不如正常的立式太阳灯，但它就是可以安在墙上。</WallSunLampSoS.description>
     <WallSunLampSoS.comps.CompSchedule.offMessage>植物休眠期间关闭</WallSunLampSoS.comps.CompSchedule.offMessage>
-    
+    <!-- 飞船蓝图 -->
     <ShipBPBomberHeavy.label>舰船蓝图(重型轰炸机)</ShipBPBomberHeavy.label>
     <ShipBPBomberHeavy.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。\n\n级别：重型轰炸机\n一艘全副武装的飞船，但无法独自在太空中进行长期行动。\n\n舰船重量：1092\n尺寸：28 x 26\n推重比：3.151\n战斗评级：130\n\n武器：\n1x大型激光炮塔\n2x激光炮塔\n2x鱼雷发射器\n2x等离子炮塔\n\n所需资源：钢铁：5447\n玻璃钢：1937\n高级零部件：91\n零部件：168\n铀：160\n白银：225\n黄金：4\n\n全部建造所需研究：\n第一阶段：\n星际航行基础、电力、空调\n第二阶段：\n飞船推进器\n第三阶段：\n飞船导航、巡洋舰武器、散热系统、船舶裂变反应堆、激光炮塔、基础飞船传感器、泡沫灭火器、舰船护盾、舰船电容阵列、舰船鱼雷、等离子炮塔、船舶生命保障</ShipBPBomberHeavy.description>
     <!--
@@ -154,13 +155,12 @@
     <ShipBPCruiserThor.label>text</ShipBPCruiserThor.label>
     <ShipBPCruiserThor.description>text</ShipBPCruiserThor.description>
     -->
-
+    <!-- 其它 -->
     <ShipMoveBlueprint.label>舰船的新位置</ShipMoveBlueprint.label>
     <ShipMoveBlueprint.description>选择你想要舰船移动到的目标位置。</ShipMoveBlueprint.description>
     <MinifiedThingShipMove.label>微缩物体</MinifiedThingShipMove.label>
     <Ship_FakeBeam.label>船体</Ship_FakeBeam.label>
     <Ship_FakeBeam.description>飞船船体的外部结构部件，其中包括电缆、热能导管和维生气体导管。</Ship_FakeBeam.description>
-    
     <SoS2DummyObject.label>虚拟标记</SoS2DummyObject.label>
     <SoS2DummyObject.description>将在此位置生成起始小人，不用去求助于其它出生点——休眠舱、打捞港、舰桥。只在其实地图上使用。</SoS2DummyObject.description>
 

@@ -155,7 +155,7 @@
 	<SoS.GameOverEnemyB>你要求{1}消灭你所有的敌人。</SoS.GameOverEnemyB>
 	<SoS.GameOverColonists>你的殖民者作为统治阶级在这新的闪耀世界中过着奢华生活。{0}乐意为你们提供一切，从巨大的玻璃钢宫殿到定制伴侣，即使是最奇怪的请求也只会占据祂处理能力中微乎其微的一部分。超凡科技为你们的生命送去不朽，要是你厌倦了这乏味的永恒，{0}还有升华成超凡科技智能的选项提供给你们。\n\n未来所有可以想象到的道路都会永远向你敞开。你们的新故事依旧会由你们自己来书写。\n你，是：</SoS.GameOverColonists>
 	
-	<!-- 超凡恶作剧 -->
+	<!-- 超烦恶作剧 -->
 	<SoS.ArchotechPrank>超凡科技的恶作剧</SoS.ArchotechPrank>
 	<SoS.ArchotechPrankCancer>你的超凡孢子在暗自发笑。[生命就是不断生长。而有时，它会过度的不断生长。也许当你得癌症的时候会好好思考这一点。]看来，你的某些倒霉船员过度生长出了癌症。</SoS.ArchotechPrankCancer>
 	<SoS.ArchotechPrankDamage>你的超凡孢子在暗自发笑。[我们已经与你舰船上的...大部分设备...交了配。它们现在需要修理。]多个设备损坏警报从你的系统中响起。</SoS.ArchotechPrankDamage>

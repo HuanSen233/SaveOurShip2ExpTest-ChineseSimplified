@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <!-- 机炮弹炸伤 -->
+    <BombACI.label>机炮弹炸伤</BombACI.label>
+    <BombACI.deathMessage>{0}在爆炸中身亡。</BombACI.deathMessage>
+    
+    <BombACII.label>机炮弹炸伤</BombACII.label>
+    <BombACII.deathMessage>{0}在爆炸中身亡。</BombACII.deathMessage>
+    
+    <BombACIII.label>机炮弹炸伤</BombACIII.label>
+    <BombACIII.deathMessage>{0}在爆炸中身亡。</BombACIII.deathMessage>
+    <!-- 强激光穿透 -->
+    <ShipLaserSmall.label>强激光穿透</ShipLaserSmall.label>
+    <ShipLaserSmall.deathMessage>{0}死于强激光照射。</ShipLaserSmall.deathMessage>
+    
+    <ShipLaserTwo.label>强激光穿透</ShipLaserTwo.label>
+    <ShipLaserTwo.deathMessage>{0}死于强激光照射。</ShipLaserTwo.deathMessage>
+    <!-- 等离子烧伤 -->
+    <ShipPlasmaSmall.label>等离子烧伤</ShipPlasmaSmall.label>
+    <ShipPlasmaSmall.deathMessage>{0}被等离子气化。</ShipPlasmaSmall.deathMessage>
+    
+    <ShipPlasmaLarge.label>等离子烧伤</ShipPlasmaLarge.label>
+    <ShipPlasmaLarge.deathMessage>{0}被等离子气化。</ShipPlasmaLarge.deathMessage>
+    <!-- 轨道炮弹炸伤 -->
+    <BombKinetic.label>轨道炮弹炸伤</BombKinetic.label>
+    <BombKinetic.deathMessage>{0}在爆炸中身亡。</BombKinetic.deathMessage>
+
+    <BombKineticLarge.label>轨道炮弹炸伤</BombKineticLarge.label>
+    <BombKineticLarge.deathMessage>{0}在爆炸中身亡。</BombKineticLarge.deathMessage>
+
+</LanguageData>
