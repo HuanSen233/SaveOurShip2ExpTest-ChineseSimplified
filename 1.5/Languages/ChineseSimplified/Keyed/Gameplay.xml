@@ -59,7 +59,7 @@
 	<SoS.TogglePointDefense>停止所有连接的舰对舰武器向敌舰开火</SoS.TogglePointDefense>
 	<SoS.TogglePointDefenseDesc>停止所有连接的舰对舰武器向敌舰开火</SoS.TogglePointDefenseDesc>
 	<SoS.NotAtMaxRange>不在最大射程内</SoS.NotAtMaxRange>
-	<SoS.OnUnstableMap>飞船不在稳定轨道上。</SoS.OnUnstableMap>
+	<SoS.OnUnstableMap>舰船不在稳定轨道上。</SoS.OnUnstableMap>
 	<SoS.EnemyShipRetreating>敌舰正在试图撤退！</SoS.EnemyShipRetreating>
 	<SoS.EnemyShipRetreated>敌舰逃走了！</SoS.EnemyShipRetreated>
 	<SoS.EnemyShipAdrift>敌舰已进入漂浮状态，正在慢慢失去轨道！</SoS.EnemyShipAdrift>
@@ -89,7 +89,7 @@
 	<SoS.SalvageStablizeFuel>稳定需要 {0} 单位的燃料！</SoS.SalvageStablizeFuel>
 	<SoS.SalvageStablizeDesc>稳定 {0} 的轨道。这需要足够的打捞港，并消耗你的舰船推进器中的燃料。</SoS.SalvageStablizeDesc>
 	<SoS.SalvageStablizeConfirm>稳定 {0} 的轨道。这需要足够的打捞港，并将会消耗你的舰船推进器中 {1} 单位的燃料。</SoS.SalvageStablizeConfirm>
-	<SoS.SalvageDisabled>在飞船战中或者有敌人在地图上！</SoS.SalvageDisabled>
+	<SoS.SalvageDisabled>在舰船战中或者有敌人在地图上！</SoS.SalvageDisabled>
 	<SoS.SalvageAbandonConfirm>你确定要放弃目标吗？\n任何与它相连或在上面的东西都会落入大气中被烧毁！</SoS.SalvageAbandonConfirm>
 	<SoS.SalvageBridge>不能用打捞港移动完整的舰船，夺取或摧毁舰桥。</SoS.SalvageBridge>
 	<SoS.SalvageFailMass>在可以移动的舰船上没有足够的打捞港。捕获所选目标需要打捞港空间 {0}，而舰船上只有 {1}</SoS.SalvageFailMass>
@@ -214,7 +214,7 @@
 	<SoS.UnfoldExtending>正在扩展</SoS.UnfoldExtending>
 	<SoS.UnfoldRetracting>正在收回</SoS.UnfoldRetracting>
 	<SoS.UnfoldBlocked>必须放置在无障碍物或其它可供其扩展的地方。</SoS.UnfoldBlocked>
-	<SoS.UnDockWarning>警告：在停靠时移动船舶将收回所有飞船对接装置。</SoS.UnDockWarning>
+	<SoS.UnDockWarning>警告：在停靠时移动船舶将收回所有舰船对接装置。</SoS.UnDockWarning>
 	<!-- 热容 -->
     <SoS.HeatStored>热容网络蓄热/容量：{0} HU / {1} HU ({2})</SoS.HeatStored>
 	<SoS.HeatWithPower>使用电力加热</SoS.HeatWithPower>
@@ -233,7 +233,7 @@
 	<SoS.ExpelSuperheatedAirDesc>使用这个通风口排出房间中的过热空气。该过程会对你的舰船生命维持系统造成损坏，房间中每四格空间将会损失一点生命值，这些伤害会均分到多个生命维持系统上。\n\n房间里的所有不能进行EVA的人都会受到爆炸性减压！</SoS.ExpelSuperheatedAirDesc>
 	<SoS.AirNotSuperheated>没有过热空气</SoS.AirNotSuperheated>
 	<SoS.NoLifeSupport>没有有效的飞船维生系统</SoS.NoLifeSupport>
-	<SoS.BreakCloakAtHeat>舰船隐形装置冷却剂消耗阈值</SoS.BreakCloakAtHeat>
+	<SoS.BreakCloakAtHeat>冷却剂消耗阈值</SoS.BreakCloakAtHeat>
 	<SoS.BreakCloakAtHeatDesc>当舰船热容系统中的冷却剂消耗至设定百分比时，将关闭隐形装置使其可以恢复。</SoS.BreakCloakAtHeatDesc>
 	<SoS.CloakBrokenAtHeat>冷却剂耗尽，隐形装置失效！</SoS.CloakBrokenAtHeat>
 	<SoS.TurretNotInShipCombat>警告：炮塔处于非舰船战状态所以不会开火。</SoS.TurretNotInShipCombat>
@@ -277,16 +277,16 @@
 	<SoS.BlueprintDisabled>需要研究星际航行基础</SoS.BlueprintDisabled>
 	<SoS.BlueprintFailed>蓝图放置失败！区域必须支持重型建筑，并且清除非自带物体和厚岩顶。</SoS.BlueprintFailed>
 	<SoS.BlueprintPlace1>船体框架\n蓝图</SoS.BlueprintPlace1>
-	<SoS.BlueprintPlace1Desc>放置船体镀层和船体框架的蓝图。在放置舰船内部框架蓝图前先放置这个！</SoS.BlueprintPlace1Desc>
-	<SoS.BlueprintPlace2>舰船内部框架\n蓝图</SoS.BlueprintPlace2>
-	<SoS.BlueprintPlace2Desc>放置舰船内部船体的蓝图。在放置舰船内部设备蓝图前先放置这个！</SoS.BlueprintPlace2Desc>
+	<SoS.BlueprintPlace1Desc>放置船体镀层和船体框架的蓝图。在放置舰船内部框架蓝图前先建造这个！</SoS.BlueprintPlace1Desc>
+	<SoS.BlueprintPlace2>其它船体框架\n蓝图</SoS.BlueprintPlace2>
+	<SoS.BlueprintPlace2Desc>放置舰船内部船体的蓝图。在放置舰船内部设备蓝图前先建造这个！</SoS.BlueprintPlace2Desc>
 	<SoS.BlueprintPlace3>舰船内部设备\n蓝图</SoS.BlueprintPlace3>
-	<SoS.BlueprintPlace3Desc>放置舰船内部设备的蓝图。请先放置船体框架与舰船内部框架的蓝图再放置这个！</SoS.BlueprintPlace3Desc>
+	<SoS.BlueprintPlace3Desc>放置舰船内部设备的蓝图。请先放置船体框架与舰船内部框架的蓝图再建造这个！</SoS.BlueprintPlace3Desc>
 	<!-- 修复 -->
 	<SoSRestoreHull>修复船体</SoSRestoreHull>
 	<SoSRestoreHullDesc>在残骸处建造新的船体</SoSRestoreHullDesc>
 	<SoSAlreadyRestoring>这个区域已经在修复中了！</SoSAlreadyRestoring>
-	<SoSMustDesignateWreckage>指定飞船残骸</SoSMustDesignateWreckage>
+	<SoSMustDesignateWreckage>指定舰船残骸</SoSMustDesignateWreckage>
 	<!-- 小人、EVA -->
 	<SoS.DamagedReactorHurtsPawn>{0} 正在被反应堆产生的辐射灼伤！</SoS.DamagedReactorHurtsPawn>
 	<SoS.EVACapable>EVA 兼容</SoS.EVACapable>

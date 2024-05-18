@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    <Ship_Beam_Wrecked.label>报废飞船船体</Ship_Beam_Wrecked.label>
+    <Ship_Beam_Wrecked.label>报废船体</Ship_Beam_Wrecked.label>
     <Ship_Beam_Wrecked.description>严重损坏的船体结构，已经无法修复且不再具有航天价值。</Ship_Beam_Wrecked.description>
-    <ShipAirlockWrecked.label>报废飞船气闸</ShipAirlockWrecked.label>
-    <ShipAirlockWrecked.description>严重损坏的飞船气闸，只能勉强维持作为一扇门的开合工作。</ShipAirlockWrecked.description>
+    <ShipAirlockWrecked.label>报废船舶气闸</ShipAirlockWrecked.label>
+    <ShipAirlockWrecked.description>严重损坏的船舶气闸，只能勉强维持作为一扇门的开合工作。</ShipAirlockWrecked.description>
     <ShipHullTileWrecked.label>报废船体镀层</ShipHullTileWrecked.label>
     <ShipHullTileWrecked.description>严重损坏的船体结构，已经无法修复且不再具有航天价值。</ShipHullTileWrecked.description>
     <ShipChunkSalvage.label>船体碎块</ShipChunkSalvage.label>
-    <ShipChunkSalvage.description>含有相对完整的先进飞船系统的碎块。还能拆解回收高级零部件。</ShipChunkSalvage.description>
+    <ShipChunkSalvage.description>含有相对完整的先进船舶系统的碎块。还能拆解回收高级零部件。</ShipChunkSalvage.description>
     <Space_Satellite_Core.label>卫星核心</Space_Satellite_Core.label>
     <Space_Satellite_Core.description>古代通讯枢纽卫星的核心，成功修复这个核心需要相当高的建造技能，且修复完成后，还需要指派一名研究人员将其入侵。无论进行哪一步都有可能将其防御系统激活。\n\n要是能控制这颗古老卫星将会获得丰厚的回报——它可以被用作轨道轰炸、能量束和气候控制阵列的后门。\n\n或者干脆拆掉它回收零件，但这极大概率会触发防御系统。</Space_Satellite_Core.description>
     <Ship_DamagedReactor.label>受损的反应堆</Ship_DamagedReactor.label>
@@ -17,14 +17,14 @@
     <Ship_SecurityConsole.label>安保系统控制台</Ship_SecurityConsole.label>
     <Ship_SecurityConsole.description>一个古老但功能完善的控制台。一位技术娴熟的研究人员也许可以用它来打开船上锁着的门。</Ship_SecurityConsole.description>
     <BlackBoxAI.label>精神失常的人工智能</BlackBoxAI.label>
-    <BlackBoxAI.description>这个古老飞船上的AI核心。充满敌意，具有心灵能力，并且深陷混乱精神的漩涡之中。只有极具天赋的谈判者才有希望说服它放弃自杀的念头，而你只有一次机会。</BlackBoxAI.description>
+    <BlackBoxAI.description>这个古老船舶上的AI核心。充满敌意，具有心灵能力，并且深陷混乱精神的漩涡之中。只有极具天赋的谈判者才有希望说服它放弃自杀的念头，而你只有一次机会。</BlackBoxAI.description>
     <JTDriveSalvage.label>古老的约翰逊-田中驱动器</JTDriveSalvage.label>
     <JTDriveSalvage.description>一种极度先进的无工质推进器，能够进行行星和星际间航行。在落入大气时受损，但其核心部件仍能正常工作。\n\n在能安全打开驱动器拆卸核心部件前需要一段漫长的能量排放过程，并且一定会吸引到袭击者。</JTDriveSalvage.description>
     <SpaceHive.label>虫巢</SpaceHive.label>
     <SpaceHive.description>一个巨型虫族的巢穴。一旦被唤醒，它将随着时间的流逝不断繁衍出巨型虫族和新虫巢。也会产出珍贵的虫胶。</SpaceHive.description>
-    <DetachedShipPart.label>脱离的飞船部件</DetachedShipPart.label>
-    <DetachedShipPart.description>飞船被毁坏并抛离的部分。</DetachedShipPart.description>
-    <Ship_Beam_Wrecked_Fake.label>报废飞船船体</Ship_Beam_Wrecked_Fake.label>
+    <DetachedShipPart.label>脱离的船舶部件</DetachedShipPart.label>
+    <DetachedShipPart.description>船舶被毁坏并抛离的部分。</DetachedShipPart.description>
+    <Ship_Beam_Wrecked_Fake.label>报废船体</Ship_Beam_Wrecked_Fake.label>
     <Ship_Beam_Wrecked_Fake.description>严重损坏的船体结构，已经无法修复。</Ship_Beam_Wrecked_Fake.description>
     <ShipHullTileWreckedFake.label>报废船体镀层</ShipHullTileWreckedFake.label>
     <ShipHullTileWreckedFake.description>严重损坏的船体结构，已经无法修复且不再具有航天价值。</ShipHullTileWreckedFake.description>
