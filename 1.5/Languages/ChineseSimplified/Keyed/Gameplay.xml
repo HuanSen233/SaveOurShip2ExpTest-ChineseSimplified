@@ -9,6 +9,7 @@
 	<SoS.MoveStopDesc>反向推进进入同步轨道。</SoS.MoveStopDesc>
 	<SoS.AbandonHome>弃船\n(没事别点)</SoS.AbandonHome>
 	<SoS.AbandonHomeDesc>放弃当前舰船，船上的殖民者会全部消失。</SoS.AbandonHomeDesc>
+	<SoS.SettleSpaceSites>不能在太空定居</SoS.SettleSpaceSites>
 	<SoS.LeaveGraveyard>抛弃沉船漂浮物</SoS.LeaveGraveyard>
 	<SoS.LeaveGraveyardDesc>让这些残骸变成太空垃圾。</SoS.LeaveGraveyardDesc>
 	<SoS.ForceExitAndRemoveMapCountdown>在 {0} 后落入大气。</SoS.ForceExitAndRemoveMapCountdown>
@@ -19,6 +20,7 @@
 	<SoS.BurnUpCountdownTip>这张地图将在 {0}后落入大气。上面的一切都会被摧毁。</SoS.BurnUpCountdownTip>
 	<!-- 战斗 -->
 	<SoS.CombatTooltip>显示敌舰与你舰之间的距离，以及所有正在飞行的炮弹和穿梭机。\n\n红色：激光、实弹炮的射程\n绿色：等离子的射程\n蓝色：轨道炮的射程\n紫色：鱼雷射程\n小色条：大型武器的最大射程但不精准</SoS.CombatTooltip>
+	<SoS.ShipFleet>舰队</SoS.ShipFleet>
 	<SoS.CombatRetreat>后撤</SoS.CombatRetreat>
 	<SoS.CombatRetreatDesc>尽量远离敌舰</SoS.CombatRetreatDesc>
 	<SoS.CombatStop>停止</SoS.CombatStop>
@@ -61,6 +63,12 @@
 	<SoS.EnemyShipRetreating>敌舰正在试图撤退！</SoS.EnemyShipRetreating>
 	<SoS.EnemyShipRetreated>敌舰逃走了！</SoS.EnemyShipRetreated>
 	<SoS.EnemyShipAdrift>敌舰已进入漂浮状态，正在慢慢失去轨道！</SoS.EnemyShipAdrift>
+	<SoS.AttackShip>攻击</SoS.AttackShip>
+	<SoS.AttackShipDesc>攻击这个</SoS.AttackShipDesc>
+	<SoS.AttackShipPirate>尝试掠夺</SoS.AttackShipPirate>
+	<SoS.AttackShipEngage>尝试交战</SoS.AttackShipEngage>
+	<SoS.ApproachShip>方案</SoS.ApproachShip>
+	<SoS.ApproachShipDesc>调查方案</SoS.ApproachShipDesc>
 	<!-- 打捞、捕获 -->
 	<SoS.ReturnShip>移回</SoS.ReturnShip>
 	<SoS.ReturnShipDesc>将舰船移回你的稳定轨道</SoS.ReturnShipDesc>
@@ -206,6 +214,7 @@
 	<SoS.UnfoldExtending>正在扩展</SoS.UnfoldExtending>
 	<SoS.UnfoldRetracting>正在收回</SoS.UnfoldRetracting>
 	<SoS.UnfoldBlocked>必须放置在无障碍物或其它可供其扩展的地方。</SoS.UnfoldBlocked>
+	<SoS.UnDockWarning>警告：在停靠时移动船舶将收回所有飞船对接装置。</SoS.UnDockWarning>
 	<!-- 热容 -->
     <SoS.HeatStored>热容网络蓄热/容量：{0} HU / {1} HU ({2})</SoS.HeatStored>
 	<SoS.HeatWithPower>使用电力加热</SoS.HeatWithPower>
@@ -219,8 +228,14 @@
 	<SoS.CloakBroken>冷却剂不足，隐形关闭</SoS.CloakBroken>
 	<SoS.HeatCritical>危险！极端高温！</SoS.HeatCritical>
 	<SoS.HeatNotConnected>没有连接到热容网络</SoS.HeatNotConnected>
-	<!-- 炮塔 -->
 	<SoS.HeatTurretEnergy>开火所需能量：</SoS.HeatTurretEnergy>
+	<SoS.ExpelSuperheatedAir>排出过热空气</SoS.ExpelSuperheatedAir>
+	<SoS.ExpelSuperheatedAirDesc>使用这个通风口排出房间中的过热空气。该过程会对你的舰船生命维持系统造成损坏，房间中每四格空间将会损失一点生命值，这些伤害会均分到多个生命维持系统上。\n\n房间里的所有不能进行EVA的人都会受到爆炸性减压！</SoS.ExpelSuperheatedAirDesc>
+	<SoS.AirNotSuperheated>没有过热空气</SoS.AirNotSuperheated>
+	<SoS.NoLifeSupport>没有有效的飞船维生系统</SoS.NoLifeSupport>
+	<SoS.BreakCloakAtHeat>舰船隐形装置冷却剂消耗阈值</SoS.BreakCloakAtHeat>
+	<SoS.BreakCloakAtHeatDesc>当舰船热容系统中的冷却剂消耗至设定百分比时，将关闭隐形装置使其可以恢复。</SoS.BreakCloakAtHeatDesc>
+	<SoS.CloakBrokenAtHeat>冷却剂耗尽，隐形装置失效！</SoS.CloakBrokenAtHeat>
 	<SoS.TurretNotInShipCombat>警告：炮塔处于非舰船战状态所以不会开火。</SoS.TurretNotInShipCombat>
 	<SoS.TurretInPointDefense>警告：炮塔处于点防御模式所以不会瞄准敌舰。</SoS.TurretInPointDefense>
 	<SoS.TurretExtractTorpedo>取出鱼雷</SoS.TurretExtractTorpedo>
@@ -243,10 +258,10 @@
 	<SoS.CannotFireDueToAmmo>{0} 无法开火：弹药不足</SoS.CannotFireDueToAmmo>
 	<!-- 护盾 -->
 	<SoS.ShieldRadius>当前半径/目标半径：{0}/{1}</SoS.ShieldRadius>
-	<SoS.ResetShieldRadius>重置护盾半径</SoS.ResetShieldRadius>
-	<SoS.ResetShieldRadiusDesc>重置护盾半径为40。</SoS.ResetShieldRadiusDesc>
-	<SoS.DecShieldRadius>减小护盾半径</SoS.DecShieldRadius>
-	<SoS.IncShieldRadius>增大护盾半径</SoS.IncShieldRadius>
+	<SoS.ShieldRadiusReset>重置护盾半径</SoS.ShieldRadiusReset>
+	<SoS.ShieldRadiusResetDesc>重置护盾半径为40。</SoS.ShieldRadiusResetDesc>
+	<SoS.ShieldRadiusDec>减小护盾半径</SoS.ShieldRadiusDec>
+	<SoS.ShieldRadiusInc>增大护盾半径</SoS.ShieldRadiusInc>
 	<SoS.FoamFill>填补损伤</SoS.FoamFill>
 	<SoS.FoamFillDesc>让舰船上的泡沫船舶填补器填补舰船受损区域。</SoS.FoamFillDesc>
 	<SoS.FoamFillDisabled>不需要填补或泡沫船舶填补器缺少填补泡沫。</SoS.FoamFillDisabled>
@@ -267,6 +282,11 @@
 	<SoS.BlueprintPlace2Desc>放置舰船内部船体的蓝图。在放置舰船内部设备蓝图前先放置这个！</SoS.BlueprintPlace2Desc>
 	<SoS.BlueprintPlace3>舰船内部设备\n蓝图</SoS.BlueprintPlace3>
 	<SoS.BlueprintPlace3Desc>放置舰船内部设备的蓝图。请先放置船体框架与舰船内部框架的蓝图再放置这个！</SoS.BlueprintPlace3Desc>
+	<!-- 修复 -->
+	<SoSRestoreHull>修复船体</SoSRestoreHull>
+	<SoSRestoreHullDesc>在残骸处建造新的船体</SoSRestoreHullDesc>
+	<SoSAlreadyRestoring>这个区域已经在修复中了！</SoSAlreadyRestoring>
+	<SoSMustDesignateWreckage>指定飞船残骸</SoSMustDesignateWreckage>
 	<!-- 小人、EVA -->
 	<SoS.DamagedReactorHurtsPawn>{0} 正在被反应堆产生的辐射灼伤！</SoS.DamagedReactorHurtsPawn>
 	<SoS.EVACapable>EVA 兼容</SoS.EVACapable>
@@ -274,6 +294,8 @@
 	<SoS.Atmosphere>可呼吸环境</SoS.Atmosphere>
 	<SoS.AtmosphereNonBreathable>非气密环境</SoS.AtmosphereNonBreathable>
 	<SoS.AtmosphereBreach>该空间不合规！</SoS.AtmosphereBreach>
+	<SoS.CocoonPlaceFail>无法生成休眠茧！</SoS.CocoonPlaceFail>
+	<SoS.CocoonMalnourished>目标没有足够的营养值</SoS.CocoonMalnourished>
 	<!-- 凝胶体、孢子 -->
 	<SoS.SpawnHologram>生成\n微械凝胶体</SoS.SpawnHologram>
 	<SoS.SpawnHologramDesc>这个装置的意识可以通过微械凝胶体来影响现实。</SoS.SpawnHologramDesc>
@@ -344,6 +366,7 @@
 	<SoS.MechanitesInHomeArea>解构微械！</SoS.MechanitesInHomeArea>
     <SoS.MechanitesInHomeAreaDesc>家里到处都是解构微械。</SoS.MechanitesInHomeAreaDesc>
 	<!-- 穿梭机 -->
+	<SoS.ShuttlesMore>更多穿梭机</SoS.ShuttlesMore>
 	<SoS.ShuttleMissionFloatBoard>任务：跳帮队突击检查</SoS.ShuttleMissionFloatBoard>
 	<SoS.ShuttleMissionFloatBoardWarn>任务：跳帮队突击检查（警告！）</SoS.ShuttleMissionFloatBoardWarn>
 	<SoS.ShuttleMissionFloatIntercept>任务：拦截鱼雷/穿梭机</SoS.ShuttleMissionFloatIntercept>
@@ -380,20 +403,16 @@
 	<SoS.NoHardpoints>穿梭机没有足够的挂载点来装这个炮塔。</SoS.NoHardpoints>
 	<SoS.NotEnoughCargoSpace>这一升级将使穿梭机的载货能力降至零以下。</SoS.NotEnoughCargoSpace>
 	<SoS.HoverJump>本地航班</SoS.HoverJump>
-	<SoS.HoverJump.Desc>起飞并着陆在同一张地图上，消耗 5 单位燃料</SoS.HoverJump.Desc>
+	<SoS.HoverJumpDesc>起飞并着陆在同一张地图上，消耗 5 单位燃料</SoS.HoverJumpDesc>
+	<SoS.NotEnoughFuel>燃料不足</SoS.NotEnoughFuel>
+	<SoS.UnderRoof>不能在屋顶下发射</SoS.UnderRoof>
 	<SoS.TargetShuttles>设定攻击区域</SoS.TargetShuttles>
 	<SoS.TargetShuttlesDesc>设定执行射击和雷击任务的穿梭机应该瞄准的位置。</SoS.TargetShuttlesDesc>
+	<SoS.ShuttleToggleShield>切换护盾</SoS.ShuttleToggleShield>
+	<SoS.ShuttleToggleShieldDesc>开启或关闭这个护盾</SoS.ShuttleToggleShieldDesc>
+
+	<!-- obsolete/unused
 	<SoS.ToggleField>切换船体通道</SoS.ToggleField>
 	<SoS.ToggleFieldDesc>允许小人和车辆通过这个可通行的船体</SoS.ToggleFieldDesc>
-	
-	<SoSRestoreHull>修复船体</SoSRestoreHull>
-	<SoSRestoreHullDesc>在残骸处建造新的船体</SoSRestoreHullDesc>
-	<SoSAlreadyRestoring>这个区域已经在修复中了！</SoSAlreadyRestoring>
-	<SoSMustDesignateWreckage>指定飞船残骸</SoSMustDesignateWreckage>
-	<SoS.UnDockWarning>警告：在停靠时移动船舶将收回所有气闸。</SoS.UnDockWarning>
-	<SoS.ExpelSuperheatedAir>排出过热空气</SoS.ExpelSuperheatedAir>
-	<SoS.ExpelSuperheatedAirDesc>使用这个通风口排出房间中的过热空气。该过程会对你的舰船生命维持系统造成损坏，房间中每四格空间将会损失一点生命值，这些伤害会均分到多个生命维持系统上。</SoS.ExpelSuperheatedAirDesc>
-	<SoS.AirNotSuperheated>空气温度并不高</SoS.AirNotSuperheated>
-	<SoS.NoLifeSupport>没有有效的生命维持系统</SoS.NoLifeSupport>
-
+    -->
 </LanguageData>
