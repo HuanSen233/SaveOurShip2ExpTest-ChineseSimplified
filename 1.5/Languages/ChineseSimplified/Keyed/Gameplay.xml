@@ -398,7 +398,7 @@
 	<SoS.RecallShuttle>{0}（执行：{1} ）</SoS.RecallShuttle>
 	<SoS.RecallShuttleDesc>改变穿梭机的任务。</SoS.RecallShuttleDesc>
 	<SoS.RetreatAtHealth>穿梭机因生命值自动撤退阈值</SoS.RetreatAtHealth>
-	<SoS.RetreatAtHealthDesc>当这艘穿梭机的生命值低于这个百分比时，它将自动撤退</SoS.RetreatAtHealthDesc>
+	<SoS.RetreatAtHealthDesc>当这艘穿梭机的生命值低于设定百分比时，它将自动撤退</SoS.RetreatAtHealthDesc>
 	<SoS.CancelBoarding>取消跳帮？你的穿梭机会返回你的舰船。</SoS.CancelBoarding>
 	<SoS.NoHardpoints>穿梭机没有足够的挂载点来装这个炮塔。</SoS.NoHardpoints>
 	<SoS.NotEnoughCargoSpace>这一升级将使穿梭机的载货能力降至零以下。</SoS.NotEnoughCargoSpace>

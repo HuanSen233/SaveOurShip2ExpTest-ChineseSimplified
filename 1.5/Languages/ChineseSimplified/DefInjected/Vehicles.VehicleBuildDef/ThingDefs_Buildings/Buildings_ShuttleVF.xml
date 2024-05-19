@@ -4,12 +4,12 @@
     <SoS2_Shuttle_Personal_Blueprint.description>一艘能够进行轨道和亚轨道航行的单人穿梭机。与更大的穿梭机不同，这款型号只能使用化学燃料，且无法改装。</SoS2_Shuttle_Personal_Blueprint.description>
 
     <SoS2_Shuttle_Standard_Blueprint.label>穿梭机</SoS2_Shuttle_Standard_Blueprint.label>
-    <SoS2_Shuttle_Standard_Blueprint.description>一艘能够进行轨道和亚轨道航行的穿梭机，使用铀燃料舱驱动。\n\n基于微型化船舶组件设计，只要适当的技术被研究出来，就可以对这艘穿梭机进行改装升级。大多数升级都需要占用载货空间才能安装。这艘穿梭机有一个炮塔挂载点。</SoS2_Shuttle_Standard_Blueprint.description>
+    <SoS2_Shuttle_Standard_Blueprint.description>一艘能够进行轨道和亚轨道航行的穿梭机，使用铀燃料舱驱动。\n\n基于微型化船舶组件设计，只要适当的技术被研究出来，就可以对这艘穿梭机进行改装升级。大多数升级都需要占用载货量才能安装。这艘穿梭机有一个炮塔挂载点。</SoS2_Shuttle_Standard_Blueprint.description>
 
     <SoS2_Shuttle_Heavy_Blueprint.label>重型穿梭机</SoS2_Shuttle_Heavy_Blueprint.label>
-    <SoS2_Shuttle_Heavy_Blueprint.description>一艘能够进行轨道和亚轨道航行的大型穿梭机，使用铀燃料舱驱动。\n\n基于微型化船舶组件设计，只要适当的技术被研究出来，就可以对这艘穿梭机进行改装升级。大多数升级都需要占用载货空间才能安装。这艘穿梭机有两个炮塔挂载点。</SoS2_Shuttle_Heavy_Blueprint.description>
+    <SoS2_Shuttle_Heavy_Blueprint.description>一艘能够进行轨道和亚轨道航行的大型穿梭机，使用铀燃料舱驱动。\n\n基于微型化船舶组件设计，只要适当的技术被研究出来，就可以对这艘穿梭机进行改装升级。大多数升级都需要占用载货量才能安装。这艘穿梭机有两个炮塔挂载点。</SoS2_Shuttle_Heavy_Blueprint.description>
 
     <SoS2_Shuttle_Superheavy_Blueprint.label>超重型穿梭机</SoS2_Shuttle_Superheavy_Blueprint.label>
-    <SoS2_Shuttle_Superheavy_Blueprint.description>一艘能够进行轨道和亚轨道航行的大型穿梭机，使用铀燃料舱驱动。\n\n基于微型化船舶组件设计，只要适当的技术被研究出来，就可以对这艘穿梭机进行改装升级。大多数升级都需要占用载货空间才能安装。这艘穿梭机有三个炮塔挂载点。</SoS2_Shuttle_Superheavy_Blueprint.description>
+    <SoS2_Shuttle_Superheavy_Blueprint.description>一艘能够进行轨道和亚轨道航行的大型穿梭机，使用铀燃料舱驱动。\n\n基于微型化船舶组件设计，只要适当的技术被研究出来，就可以对这艘穿梭机进行改装升级。大多数升级都需要占用载货量才能安装。这艘穿梭机有三个炮塔挂载点。</SoS2_Shuttle_Superheavy_Blueprint.description>
 
 </LanguageData>
