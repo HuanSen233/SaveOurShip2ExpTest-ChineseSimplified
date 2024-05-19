@@ -32,7 +32,7 @@
 	<SoS.Settings.DifficultySoS>舰船战难度系数（最小：{0} 最大：{1} 默认：{2} 当前：{3}）</SoS.Settings.DifficultySoS>
 	<SoS.Settings.DifficultySoS.Desc>影响敌舰的大小和强度。</SoS.Settings.DifficultySoS.Desc>
 	<SoS.Settings.FrequencySoS>舰船战频率（最小：{0} 最大：{1} 默认：{2} 当前：{3}）</SoS.Settings.FrequencySoS>
-	<SoS.Settings.FrequencySoS.Desc>值越高意味着来打你的敌舰会来得越频繁。</SoS.Settings.FrequencySoS.Desc>
+	<SoS.Settings.FrequencySoS.Desc>值越高意味着随机舰船战的频率更高。</SoS.Settings.FrequencySoS.Desc>
 	<SoS.Settings.NavyShipChance>赏金猎人生成几率（最小：{0} 最大：{1} 默认：{2} 当前：{3}）</SoS.Settings.NavyShipChance>
 	<SoS.Settings.NavyShipChance.Desc>专门来找你茬的敌舰生成几率。</SoS.Settings.NavyShipChance.Desc>
 	<SoS.Settings.FleetChance>舰队生成几率（最小：{0} 最大：{1} 默认：{2} 当前：{3}）</SoS.Settings.FleetChance>

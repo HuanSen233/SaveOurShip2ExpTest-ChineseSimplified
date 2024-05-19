@@ -251,7 +251,7 @@
 	<SoS.TorpedoNotLoaded>不装载</SoS.TorpedoNotLoaded>
 	<SoS.TorpedoFullyLoaded>满载</SoS.TorpedoFullyLoaded>
 	<SoS.TorpedoNone>没有鱼雷</SoS.TorpedoNone>
-	<SoS.AmplifierCount>脊峰充能：{0}</SoS.AmplifierCount>
+	<SoS.AmplifierCount>脊峰放大：{0}</SoS.AmplifierCount>
 	<SoS.SpinalCapNotFound>没有找到脊峰电容器。</SoS.SpinalCapNotFound>
 	<SoS.CannotFireDueToHeat>{0} 无法开火：热容不足</SoS.CannotFireDueToHeat>
 	<SoS.CannotFireDueToPower>{0} 无法开火：能量不足</SoS.CannotFireDueToPower>

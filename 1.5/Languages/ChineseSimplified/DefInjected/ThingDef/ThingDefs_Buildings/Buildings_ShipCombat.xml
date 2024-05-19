@@ -104,11 +104,46 @@
     <ShipTurret_KineticTop_Large.verbs.Verb_Shoot.label>发射大型轨道炮弹</ShipTurret_KineticTop_Large.verbs.Verb_Shoot.label>
     <Bullet_Fake_Kinetic_Large.label>大型轨道炮弹</Bullet_Fake_Kinetic_Large.label>
     <Proj_ShipTurretKinetic_Large.label>大型轨道炮弹</Proj_ShipTurretKinetic_Large.label>
-<!--
-    <text.label>text</text.label>
-    <text.description>text</text.description>
-    <text.label>text</text.label>
-    <text.description>text</text.description>
+    <!-- 脊峰炮 -->
+    <ShipSpinalEmitter.label>脊峰电容器</ShipSpinalEmitter.label>
+    <ShipSpinalEmitter.description>脊峰武器的第一部分。连接一个或多个脊峰放大器，然后在末端安装一个脊峰炮口以完成组装。</ShipSpinalEmitter.description>
+    <ShipSpinalAmplifier.label>脊峰放大器</ShipSpinalAmplifier.label>
+    <ShipSpinalAmplifier.description>脊峰武器的中间部分。将一个或多个放大器连接到电容器上，然后在末端安装一个脊峰炮口以完成组装。\n\n将基础伤害提高25%，但同时也会增加相同百分比的能耗和产热。</ShipSpinalAmplifier.description>
+    
+    <ShipSpinalBarrelLaser.label>脊峰炮：激光</ShipSpinalBarrelLaser.label>
+    <ShipSpinalBarrelLaser.description>脊峰武器的最终部分。\n\n这个部分应该安装在飞船外部，除非你想给自己的船开个新洞。\n必须通过热容网络连接到领航员控制台、战术控制台或船舶核心。\n需要足够的储能和热容才能正常运作。</ShipSpinalBarrelLaser.description>
+    <ShipTurret_SpinalMountTopLaser.label>脊峰激光炮</ShipTurret_SpinalMountTopLaser.label>
+    <ShipTurret_SpinalMountTopLaser.description>主力舰武器。</ShipTurret_SpinalMountTopLaser.description>
+    <ShipTurret_SpinalMountTopLaser.verbs.Verb_Shoot.label>发射死光</ShipTurret_SpinalMountTopLaser.verbs.Verb_Shoot.label>
+    <Proj_ShipSpinalBeamLaser.label>死光</Proj_ShipSpinalBeamLaser.label>
+
+    <ShipSpinalBarrelPlasma.label>脊峰炮：等离子</ShipSpinalBarrelPlasma.label>
+    <ShipSpinalBarrelPlasma.description>脊峰武器的最终部分。\n\n这个部分应该安装在飞船外部，除非你想给自己的船开个新洞。\n必须通过热容网络连接到领航员控制台、战术控制台或船舶核心。\n需要足够的储能和热容才能正常运作。</ShipSpinalBarrelPlasma.description>
+    <ShipTurret_SpinalMountTopPlasma.label>脊峰等离子炮</ShipTurret_SpinalMountTopPlasma.label>
+    <ShipTurret_SpinalMountTopPlasma.description>主力舰武器。</ShipTurret_SpinalMountTopPlasma.description>
+    <ShipTurret_SpinalMountTopPlasma.verbs.Verb_Shoot.label>发射巨型等离子团</ShipTurret_SpinalMountTopPlasma.verbs.Verb_Shoot.label>
+    <Bullet_Fake_Plasma_XL.label>巨型等离子团</Bullet_Fake_Plasma_XL.label>
+    <Proj_ShipSpinalBeamPlasma.label>巨型等离子团</Proj_ShipSpinalBeamPlasma.label>
+
+    <ShipSpinalBarrelKinetic.label>脊峰炮：轨道炮</ShipSpinalBarrelKinetic.label>
+    <ShipSpinalBarrelKinetic.description>脊峰武器的最终部分。\n\n这个部分应该安装在飞船外部，除非你想给自己的船开个新洞。\n必须通过热容网络连接到领航员控制台、战术控制台或船舶核心。\n需要足够的储能和热容才能正常运作。</ShipSpinalBarrelKinetic.description>
+    <ShipTurret_SpinalMountTopKinetic.label>脊峰轨道炮</ShipTurret_SpinalMountTopKinetic.label>
+    <ShipTurret_SpinalMountTopKinetic.description>主力舰武器。</ShipTurret_SpinalMountTopKinetic.description>
+    <ShipTurret_SpinalMountTopKinetic.verbs.Verb_Shoot.label>发射轨道炮弹</ShipTurret_SpinalMountTopKinetic.verbs.Verb_Shoot.label>
+    <!-- 鱼雷 -->
+    <ShipTurrets_Torpedo.description>鱼雷发射器。能对护盾造成精准而巨大的破坏，但容易受到点防御系统的拦截。</ShipTurrets_Torpedo.description>
+    
+    <Artillery_ShipTorpedo_One.label>鱼雷发射器</Artillery_ShipTorpedo_One.label>
+    <ShipTorpedoOne.label>鱼雷发射器</ShipTorpedoOne.label>
+    <ShipTorpedoOne.description>储存并发射精准且威力巨大的鱼雷，但鱼雷抵达目标的速度较慢，易受到点防御系统的拦截。\n鱼雷容量：7\n射速：5/分钟</ShipTorpedoOne.description>
+    
+    <ShipTorpedoTwo.label>鱼雷发射器(双联装)</ShipTorpedoTwo.label>
+    <ShipTorpedoTwo.description>储存并发射精准且威力巨大的鱼雷，但鱼雷抵达目标的速度较慢，易受到点防御系统的拦截。\n鱼雷容量：14\n射速：10/分钟</ShipTorpedoTwo.description>
+    
+    <ShipTorpedoTwo.label>鱼雷发射器(六联装)</ShipTorpedoTwo.label>
+    <ShipTorpedoTwo.description>储存并发射精准且威力巨大的鱼雷，但鱼雷抵达目标的速度较慢，易受到点防御系统的拦截。\n鱼雷容量：28\n射速：30/分钟</ShipTorpedoTwo.description>
+    <!-- 碎片 -->
+    <!--
     <text.label>text</text.label>
     <text.description>text</text.description>
     <text.label>text</text.label>
