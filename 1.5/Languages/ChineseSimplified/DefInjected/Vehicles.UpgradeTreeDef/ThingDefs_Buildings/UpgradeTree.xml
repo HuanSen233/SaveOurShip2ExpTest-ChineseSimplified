@@ -30,12 +30,50 @@
     <SoS2ShuttleUpgradeTree.nodes.10.description>[请不要让一粒沙子\n与宇宙相撞，\n最好不要]\n&lt;color=#bb8f04&gt;+500 热容量，-100 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.10.description>
     <!-- 辅助 -->
     <SoS2ShuttleUpgradeTree.nodes.11.label>船载自动紧急医疗机</SoS2ShuttleUpgradeTree.nodes.11.label>
-    <SoS2ShuttleUpgradeTree.nodes.11.description>在穿梭机上安装自动化的急救系统及其机械臂。这些系统会快速的为乘客包扎流血的伤口，但治疗质量并不高。\n&lt;color=#bb8f04&gt;-250 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.11.description>
+    <SoS2ShuttleUpgradeTree.nodes.11.description>在穿梭机上安装自动化的急救系统及其机械臂。这些系统会快速的为乘员包扎流血的伤口，但治疗质量并不高。\n&lt;color=#bb8f04&gt;-250 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.11.description>
     <SoS2ShuttleUpgradeTree.nodes.12.label>隐形装置</SoS2ShuttleUpgradeTree.nodes.12.label>
     <SoS2ShuttleUpgradeTree.nodes.12.description>安装一个小型隐形装置来提高在战斗中的闪避几率。它自带的散热器那不多的热容量也会分配给护盾。\n&lt;color=#bb8f04&gt;+25% 太空战闪避几率，+50 热容量，-500 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.12.description>
     <SoS2ShuttleUpgradeTree.nodes.13.label>辅助散热器</SoS2ShuttleUpgradeTree.nodes.13.label>
     <SoS2ShuttleUpgradeTree.nodes.13.description>安装一个辅助散热器并将其分配给护盾。\n&lt;color=#bb8f04&gt;+200 热容量，-100 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.13.description>
     <SoS2ShuttleUpgradeTree.nodes.14.label>超凡科技断层空间</SoS2ShuttleUpgradeTree.nodes.14.label>
     <SoS2ShuttleUpgradeTree.nodes.14.description>[盒子中的盒子\n无限重复，\n级数收敛]\n&lt;color=#bb8f04&gt;+500 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.14.description>
-
+    <!-- 载人 -->
+    <SoS2ShuttleUpgradeTree.nodes.15.label>乘组模块(2)</SoS2ShuttleUpgradeTree.nodes.15.label>
+    <SoS2ShuttleUpgradeTree.nodes.15.description>将货舱的一小块区域改装成座椅和生命支持系统，使得穿梭机可以额外携带两名乘员。\n&lt;color=#bb8f04&gt;+2 客容量，-200 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.15.description>
+    <SoS2ShuttleUpgradeTree.nodes.16.label>乘组模块(4)</SoS2ShuttleUpgradeTree.nodes.16.label>
+    <SoS2ShuttleUpgradeTree.nodes.16.description>将货舱的一小块区域改装成座椅和生命支持系统，使得穿梭机可以额外携带四名乘员。\n&lt;color=#bb8f04&gt;+4 客容量，-400 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.16.description>
+    <SoS2ShuttleUpgradeTree.nodes.17.label>乘组模块(6)</SoS2ShuttleUpgradeTree.nodes.17.label>
+    <SoS2ShuttleUpgradeTree.nodes.17.description>将货舱的一块区域改装成座椅和生命支持系统，使得穿梭机可以额外携带六名乘员。\n&lt;color=#bb8f04&gt;+6 客容量，-600 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.17.description>
+    <SoS2ShuttleUpgradeTree.nodes.18.label>乘组模块(8)</SoS2ShuttleUpgradeTree.nodes.18.label>
+    <SoS2ShuttleUpgradeTree.nodes.18.description>将货舱的一块区域改装成座椅和生命支持系统，使得穿梭机可以额外携带八名乘员。\n&lt;color=#bb8f04&gt;+8 客容量，-800 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.18.description>
+    <SoS2ShuttleUpgradeTree.nodes.19.label>乘组模块(10)</SoS2ShuttleUpgradeTree.nodes.19.label>
+    <SoS2ShuttleUpgradeTree.nodes.19.description>将货舱的一大块区域改装成座椅和生命支持系统，使得穿梭机可以额外携带十名乘员。\n&lt;color=#bb8f04&gt;+10 客容量，-1000 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.19.description>
+    <SoS2ShuttleUpgradeTree.nodes.20.label>乘组模块(12)</SoS2ShuttleUpgradeTree.nodes.20.label>
+    <SoS2ShuttleUpgradeTree.nodes.20.description>将货舱的一大块区域改装成座椅和生命支持系统，使得穿梭机可以额外携带十二名乘员。\n&lt;color=#bb8f04&gt;+12 客容量，-1200 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.20.description>
+    <SoS2ShuttleUpgradeTree.nodes.21.label>乘组模块(14)</SoS2ShuttleUpgradeTree.nodes.21.label>
+    <SoS2ShuttleUpgradeTree.nodes.21.description>将货舱的超大一块区域改装成座椅和生命支持系统，使得穿梭机可以额外携带十四名乘员。\n&lt;color=#bb8f04&gt;+14 客容量，-1400 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.21.description>
+    <SoS2ShuttleUpgradeTree.nodes.22.label>乘组模块(16)</SoS2ShuttleUpgradeTree.nodes.22.label>
+    <SoS2ShuttleUpgradeTree.nodes.22.description>将货舱的超大一块区域改装成座椅和生命支持系统，使得穿梭机可以额外携带十六名乘员。\n&lt;color=#bb8f04&gt;+16 客容量，-1600 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.22.description>
+    <!-- 武器 -->
+    <SoS2ShuttleUpgradeTree.nodes.23.label>激光炮塔(挂载点A)</SoS2ShuttleUpgradeTree.nodes.23.label>
+    <SoS2ShuttleUpgradeTree.nodes.23.description>在一号挂载点上安装一门激光炮塔。一艘配备了激光武器的穿梭机可以在舰船战中执行拦截和射击敌舰的任务。\n&lt;color=#bb8f04&gt;-200 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.23.description>
+    <SoS2ShuttleUpgradeTree.nodes.24.label>等离子炮塔(挂载点A)</SoS2ShuttleUpgradeTree.nodes.24.label>
+    <SoS2ShuttleUpgradeTree.nodes.24.description>在一号挂载点上安装一门等离子炮塔。一艘配备了等离子武器的穿梭机可以在舰船战中执行射击敌舰的任务。\n&lt;color=#bb8f04&gt;-200 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.24.description>
+    <SoS2ShuttleUpgradeTree.nodes.25.label>鱼雷发射管(挂载点A)</SoS2ShuttleUpgradeTree.nodes.25.label>
+    <SoS2ShuttleUpgradeTree.nodes.25.description>在一号挂载点上安装一具鱼雷发射管。一艘配备了鱼雷发射管的穿梭机可以在舰船战中执行雷击敌舰的任务。\n&lt;color=#bb8f04&gt;-400 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.25.description>
+    
+    <SoS2ShuttleUpgradeTree.nodes.26.label>激光炮塔(挂载点B)</SoS2ShuttleUpgradeTree.nodes.26.label>
+    <SoS2ShuttleUpgradeTree.nodes.26.description>在二号挂载点上安装一门激光炮塔。一艘配备了激光武器的穿梭机可以在舰船战中执行拦截和射击敌舰的任务。\n&lt;color=#bb8f04&gt;-200 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.26.description>
+    <SoS2ShuttleUpgradeTree.nodes.27.label>等离子炮塔(挂载点B)</SoS2ShuttleUpgradeTree.nodes.27.label>
+    <SoS2ShuttleUpgradeTree.nodes.27.description>在二号挂载点上安装一门等离子炮塔。一艘配备了等离子武器的穿梭机可以在舰船战中执行射击敌舰的任务。\n&lt;color=#bb8f04&gt;-200 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.27.description>
+    <SoS2ShuttleUpgradeTree.nodes.28.label>鱼雷发射管(挂载点B)</SoS2ShuttleUpgradeTree.nodes.28.label>
+    <SoS2ShuttleUpgradeTree.nodes.28.description>在二号挂载点上安装一具鱼雷发射管。一艘配备了鱼雷发射管的穿梭机可以在舰船战中执行雷击敌舰的任务。\n&lt;color=#bb8f04&gt;-400 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.28.description>
+    
+    <SoS2ShuttleUpgradeTree.nodes.29.label>激光炮塔(挂载点C)</SoS2ShuttleUpgradeTree.nodes.29.label>
+    <SoS2ShuttleUpgradeTree.nodes.29.description>在三号挂载点上安装一门激光炮塔。一艘配备了激光武器的穿梭机可以在舰船战中执行拦截和射击敌舰的任务。\n&lt;color=#bb8f04&gt;-200 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.29.description>
+    <SoS2ShuttleUpgradeTree.nodes.30.label>等离子炮塔(挂载点C)</SoS2ShuttleUpgradeTree.nodes.30.label>
+    <SoS2ShuttleUpgradeTree.nodes.30.description>在三号挂载点上安装一门等离子炮塔。一艘配备了等离子武器的穿梭机可以在舰船战中执行射击敌舰的任务。\n&lt;color=#bb8f04&gt;-200 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.30.description>
+    <SoS2ShuttleUpgradeTree.nodes.31.label>鱼雷发射管(挂载点C)</SoS2ShuttleUpgradeTree.nodes.31.label>
+    <SoS2ShuttleUpgradeTree.nodes.31.description>在三号挂载点上安装一具鱼雷发射管。一艘配备了鱼雷发射管的穿梭机可以在舰船战中执行雷击敌舰的任务。\n&lt;color=#bb8f04&gt;-400 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.31.description>
+    
 </LanguageData>

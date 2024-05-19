@@ -71,11 +71,11 @@
     <Ship_SensorCluster.description>搭载了基本的舰船操作所需的传感器。允许舰船进入轨道或观察一个区域并在所观察的区域着陆。</Ship_SensorCluster.description>
     <Ship_SensorClusterAdv.label>先进集成传感器</Ship_SensorClusterAdv.label>
     <Ship_SensorClusterAdv.description>更先进的舰船传感器。在基础传感器上增加了对事件点的扫描与扫描敌舰内部的功能。</Ship_SensorClusterAdv.description>
-    <!-- 维生系统 -->
-    <Ship_LifeSupport.label>船舶维生系统</Ship_LifeSupport.label>
-    <Ship_LifeSupport.description>在所有完全密封的船舱内释放氧气。保持未穿着宇航服且非低温休眠状态下的殖民者和动物的生命。\n\n虽然每艘舰船只需要一个维生系统，但备用的维生系统可以在紧急情况下拯救船员的生命。</Ship_LifeSupport.description>
-    <Ship_LifeSupport_Small.label>小型船舶维生系统</Ship_LifeSupport_Small.label>
-    <Ship_LifeSupport_Small.description>在所有完全密封的船舱内释放氧气。保持未穿着宇航服且非低温休眠状态下的殖民者和动物的生命。为了能塞进更小的船，这个版本采用了更紧凑的设计，但也牺牲了能源利用效率。\n\n虽然每艘舰船只需要一个维生系统，但备用的维生系统可以在紧急情况下拯救船员的生命。</Ship_LifeSupport_Small.description>
+    <!-- 生命支持系统 -->
+    <Ship_LifeSupport.label>船舶生命支持系统</Ship_LifeSupport.label>
+    <Ship_LifeSupport.description>在所有完全密封的船舱内释放氧气。保持未穿着宇航服且非低温休眠状态下的殖民者和动物的生命。\n\n虽然每艘舰船只需要一个生命支持系统，但备用的生命支持系统可以在紧急情况下拯救船员的生命。</Ship_LifeSupport.description>
+    <Ship_LifeSupport_Small.label>小型船舶生命支持系统</Ship_LifeSupport_Small.label>
+    <Ship_LifeSupport_Small.description>在所有完全密封的船舱内释放氧气。保持未穿着宇航服且非低温休眠状态下的殖民者和动物的生命。为了能塞进更小的船，这个版本采用了更紧凑的设计，但也牺牲了能源利用效率。\n\n虽然每艘舰船只需要一个生命支持系统，但备用的生命支持系统可以在紧急情况下拯救船员的生命。</Ship_LifeSupport_Small.description>
     <!-- 电力 -->
     <ShipCapacitorSmall.label>船舶电容器</ShipCapacitorSmall.label>
     <ShipCapacitorSmall.description>高效地存储高达1000Wd的电力。</ShipCapacitorSmall.description>
@@ -104,7 +104,7 @@
     <Ship_CryptosleepCasket.description>一个带有多个内置定时器和备用措施的低温休眠舱。可以在没有人为干预的情况下打开。在舰船发生灾难性事故时，它还可以作为逃生舱使用。\n\n建议在任何舰船上都至少装备一个这样的设备。</Ship_CryptosleepCasket.description>
     
     <SpaceCrib.label>太空婴儿床</SpaceCrib.label>
-    <SpaceCrib.description>一张适合那些困倦宝宝的高科技床。一旦维生系统故障，其保护性外壳将会闭合并，内部将独立进行循环氧气并调节温度，从而保护住其中的使用者。在舰船发生灾难性事故时，它还可以作为逃生舱使用。\n\n它不是个低温休眠舱，不能在星际航行期间保护使用者的生命。</SpaceCrib.description>
+    <SpaceCrib.description>一张适合那些困倦宝宝的高科技床。一旦生命支持系统故障，其保护性外壳将会闭合并，内部将独立进行循环氧气并调节温度，从而保护住其中的使用者。在舰船发生灾难性事故时，它还可以作为逃生舱使用。\n\n它不是个低温休眠舱，不能在星际航行期间保护使用者的生命。</SpaceCrib.description>
     
     <CrittersleepCasket.label>小型动物低温休眠舱(8)</CrittersleepCasket.label>
     <CrittersleepCasket.description>一个自行供电的低温休眠舱，能容纳最多8只小动物并使它们进入低温休眠状态。在将动物放入低温休眠舱之前应对它们进行医学麻醉。</CrittersleepCasket.description>

@@ -230,9 +230,9 @@
 	<SoS.HeatNotConnected>没有连接到热容网络</SoS.HeatNotConnected>
 	<SoS.HeatTurretEnergy>开火所需能量：</SoS.HeatTurretEnergy>
 	<SoS.ExpelSuperheatedAir>排出过热空气</SoS.ExpelSuperheatedAir>
-	<SoS.ExpelSuperheatedAirDesc>使用这个通风口排出房间中的过热空气。该过程会对你的船舶维生系统造成损坏，房间中每四格空间将会损失一点生命值，这些伤害会均分到多个生命维持系统上。\n\n房间里的所有不能进行EVA的人都会受到爆炸性减压！</SoS.ExpelSuperheatedAirDesc>
+	<SoS.ExpelSuperheatedAirDesc>使用这个通风口排出房间中的过热空气。该过程会对你的船舶生命支持系统造成损坏，房间中每四格空间将会损失一点生命值，这些伤害会均摊到多个生命维持系统上。\n\n房间里的所有不能进行EVA的人都会受到爆炸性减压！</SoS.ExpelSuperheatedAirDesc>
 	<SoS.AirNotSuperheated>没有过热空气</SoS.AirNotSuperheated>
-	<SoS.NoLifeSupport>没有有效的飞船维生系统</SoS.NoLifeSupport>
+	<SoS.NoLifeSupport>没有有效的飞船生命支持系统</SoS.NoLifeSupport>
 	<SoS.BreakCloakAtHeat>冷却剂消耗阈值</SoS.BreakCloakAtHeat>
 	<SoS.BreakCloakAtHeatDesc>当舰船热容系统中的冷却剂消耗至设定百分比时，将关闭隐形装置使其可以恢复。</SoS.BreakCloakAtHeatDesc>
 	<SoS.CloakBrokenAtHeat>冷却剂耗尽，隐形装置失效！</SoS.CloakBrokenAtHeat>
@@ -371,7 +371,7 @@
 	<SoS.ShuttleMissionFloatBoardWarn>任务：跳帮队突击检查（警告！）</SoS.ShuttleMissionFloatBoardWarn>
 	<SoS.ShuttleMissionFloatIntercept>任务：拦截鱼雷/穿梭机</SoS.ShuttleMissionFloatIntercept>
 	<SoS.ShuttleMissionFloatStrafe>任务：射击敌舰</SoS.ShuttleMissionFloatStrafe>
-	<SoS.ShuttleMissionFloatTorpedo>任务：用鱼雷击沉敌舰</SoS.ShuttleMissionFloatTorpedo>
+	<SoS.ShuttleMissionFloatTorpedo>任务：用鱼雷攻击敌舰</SoS.ShuttleMissionFloatTorpedo>
 	<SoS.ShuttleMissionFloatReturn>返回舰船</SoS.ShuttleMissionFloatReturn>
 	<SoS.ShuttleRetreat>你的穿梭机因船体损坏正在撤退！</SoS.ShuttleRetreat>
 	<SoS.EnemyShuttleRetreat>敌方穿梭机因船体损坏正在撤退！</SoS.EnemyShuttleRetreat>
