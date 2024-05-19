@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <!-- 船体 -->
+    <Ship_BeamArchotech_Unpowered.label>超凡科技船体(无线路)</Ship_BeamArchotech_Unpowered.label>
+    <Ship_BeamArchotech_Unpowered.description>由超凡科技设计的飞船船体的外部结构部件，但不包括电缆和热能导管。</Ship_BeamArchotech_Unpowered.description>
+    <Ship_BeamArchotech.label>超凡科技船体</Ship_BeamArchotech.label>
+    <Ship_BeamArchotech.description>由超凡科技设计的飞船船体的外部结构部件，其中包括电缆、热能导管和维生气体导管。</Ship_BeamArchotech.description>
+
+    <Ship_Corner_Archo_OneOne.label>超凡科技船舶斜角装甲(1x1)</Ship_Corner_Archo_OneOne.label>
+    <Ship_Corner_Archo_OneOne.description>由超凡科技设计的有角度的舰船装甲。</Ship_Corner_Archo_OneOne.description>
+    <Ship_Corner_Archo_OneOneFlip.label>超凡科技船舶斜角装甲(1x1)翻转</Ship_Corner_Archo_OneOneFlip.label>
+    <Ship_Corner_Archo_OneOneFlip.description>由超凡科技设计的有角度的舰船装甲。</Ship_Corner_Archo_OneOneFlip.description>
+    <Ship_Corner_Archo_OneTwo.label>超凡科技船舶斜角装甲(1x2)</Ship_Corner_Archo_OneTwo.label>
+    <Ship_Corner_Archo_OneTwo.description>由超凡科技设计的有角度的舰船装甲。</Ship_Corner_Archo_OneTwo.description>
+    <Ship_Corner_Archo_OneTwoFlip.label>超凡科技船体斜角装甲(1x2)翻转</Ship_Corner_Archo_OneTwoFlip.label>
+    <Ship_Corner_Archo_OneTwoFlip.description>由超凡科技设计的有角度的舰船装甲。</Ship_Corner_Archo_OneTwoFlip.description>
+    <Ship_Corner_Archo_OneThree.label>超凡科技船舶斜角装甲(1x3)</Ship_Corner_Archo_OneThree.label>
+    <Ship_Corner_Archo_OneThree.description>由超凡科技设计的有角度的舰船装甲。</Ship_Corner_Archo_OneThree.description>
+    <Ship_Corner_Archo_OneThreeFlip.label>超凡科技船舶斜角装甲(1x3)翻转</Ship_Corner_Archo_OneThreeFlip.label>
+    <Ship_Corner_Archo_OneThreeFlip.description>由超凡科技设计的有角度的舰船装甲。</Ship_Corner_Archo_OneThreeFlip.description>
+
+    <ShipHullTileMech.label>超凡科技船舶镀层</ShipHullTileMech.label>
+    <ShipHullTileMech.description>由超凡科技设计的适合航天任务的船舶镀层。将这格空间（以及在其上建造的任何建筑）指定为舰船的一部分。</ShipHullTileMech.description>
+    <!-- 太阳能 -->
+    <ShipInside_SolarGeneratorArchotech.label>超凡科技船舶太阳能发电机</ShipInside_SolarGeneratorArchotech.label>
+    <ShipInside_SolarGeneratorArchotech.description>使用光子的能量将自身与附近恒星的光球纠缠在一起，能吸收到比直接照射阳光来得多的能量。在太空可输出1200W，在星球表面可输出600W。不能在黑暗或人造光源环境中工作。</ShipInside_SolarGeneratorArchotech.description>
+    <!-- 通风口 -->
+    <ShipInside_PassiveVentArchotech.label>超凡科技船舶通风口</ShipInside_PassiveVentArchotech.label>
+    <ShipInside_PassiveVentArchotech.description>与热容网络交换热量，将舰船内部冷却或加热到所需温度。在热容网络没有中蓄热时可以选择使用电力加热房间。</ShipInside_PassiveVentArchotech.description>
+    <!-- 气闸 -->
+    <ShipAirlockArchotech.label>超凡科技船舶气闸</ShipAirlockArchotech.label>
+    <ShipAirlockArchotech.description>允许进入舰船或在舰船内划分房间。其生成的低能等离子屏障能防止气体逸出。</ShipAirlockArchotech.description>
+    <!-- 推进器 -->
+    <Ship_Engine_Archotech.label>反物质推进器</Ship_Engine_Archotech.label>
+    <Ship_Engine_Archotech.description>一种使用先进战斗推进器，能够实现巨大的爆发速度。使用异形粒子作为燃料。\n\n不能在行星大气中工作。\n推力：6000\n燃料消耗：1 异形粒子/秒</Ship_Engine_Archotech.description>
+    <!-- 电力 -->
+    <ArchotechAntimatterReactor.label>反物质反应堆</ArchotechAntimatterReactor.label>
+    <ArchotechAntimatterReactor.description>通过湮灭异形粒子来产生巨大的能量。让其受损可不是个好主意。</ArchotechAntimatterReactor.description>
+    <!-- 战斗 -->
+    <ShipHeatsinkAntiEntropy.label>反熵热容器</ShipHeatsinkAntiEntropy.label>
+    <ShipHeatsinkAntiEntropy.description>由超凡科技设计的先进热容器。利用异形粒子的物理学性质将多余的热量直接转化为可用能源。即使舰船处在隐形状态下也可以缓慢恢复热容量。\n\n热容量：200 Hu\n热转换：5 Hu/秒 转换为 1 kW/秒</ShipHeatsinkAntiEntropy.description>
+    
+    <ArchotechShieldGenerator.label>超凡科技护盾发生器</ArchotechShieldGenerator.label>
+    <ArchotechShieldGenerator.description>一个先进的能产生动能排斥场的设备。能够向外射击，但无法射入。\n\n在阻挡攻击时产生的热量是标准护盾发生器的75%。\n在阻挡攻击时会产生热量。如果没有连接到热容网络或热容不足，那么护盾发生器将损坏并需要修理。\n\n建议在热容蓄热过多时关闭护盾，否则会导致散热系统受损。</ArchotechShieldGenerator.description>
+    <!-- 孢子
+    <text.label>text</text.label>
+    <text.description>text</text.description>
+    <text.label>text</text.label>
+    <text.description>text</text.description>
+    <text.label>text</text.label>
+    <text.description>text</text.description>
+    <text.label>text</text.label>
+    <text.description>text</text.description>
+    <text.label>text</text.label>
+    <text.description>text</text.description>
+ -->
+
+</LanguageData>

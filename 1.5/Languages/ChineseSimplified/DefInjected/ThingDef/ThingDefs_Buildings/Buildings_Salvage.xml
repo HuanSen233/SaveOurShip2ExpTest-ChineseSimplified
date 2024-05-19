@@ -19,8 +19,10 @@
     <Ship_LabConsole.description>一个古老但功能完善的控制台。一位技术娴熟的研究人员也许可以用它来关闭船上的反应堆。</Ship_LabConsole.description>
     <Ship_SecurityConsole.label>安保系统控制台</Ship_SecurityConsole.label>
     <Ship_SecurityConsole.description>一个古老但功能完善的控制台。一位技术娴熟的研究人员也许可以用它来打开船上锁着的门。</Ship_SecurityConsole.description>
+    
     <BlackBoxAI.label>精神失常的人工智能</BlackBoxAI.label>
     <BlackBoxAI.description>这个古老船舶上的AI核心。充满敌意，具有心灵能力，并且深陷混乱精神的漩涡之中。只有极具天赋的谈判者才有希望说服它放弃自杀的念头，而你只有一次机会。</BlackBoxAI.description>
+    
     <JTDriveSalvage.label>古老的约翰逊-田中驱动器</JTDriveSalvage.label>
     <JTDriveSalvage.description>一种极度先进的无工质推进器，能够进行行星和星际间航行。在落入大气时受损，但其核心部件仍能正常工作。\n\n在能安全打开驱动器拆卸核心部件前需要一段漫长的能量排放过程，并且一定会吸引到袭击者。</JTDriveSalvage.description>
     <!-- 虫巢 -->
