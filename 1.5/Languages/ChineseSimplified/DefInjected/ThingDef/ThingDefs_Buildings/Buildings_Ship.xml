@@ -83,9 +83,9 @@
     <ShipCapacitor.description>高效地存储高达10000Wd的电力。</ShipCapacitor.description>
     
     <Ship_Reactor.label>船用裂变反应堆</Ship_Reactor.label>
-    <Ship_Reactor.description>一台紧凑且能够独立运行的裂变反应堆。通过燃烧铀燃料罐进行产能。如果有可用的热容系统则将热量排放到热容系统中，否则将热量排放到所在房间内。\n\n其基础产能为10000W，可通过几种愈发不稳定的超频模式来提高。</Ship_Reactor.description>
+    <Ship_Reactor.description>一台紧凑且能够独立运行的裂变反应堆。通过燃烧铀燃料舱进行产能。如果有可用的热容系统则将热量排放到热容系统中，否则将热量排放到所在房间内。\n\n其基础产能为10000W，可通过几种愈发不稳定的超频模式来提高。</Ship_Reactor.description>
     <Ship_Reactor_Small.label>小型裂变反应堆</Ship_Reactor_Small.label>
-    <Ship_Reactor_Small.description>一台紧凑且能够独立运行的裂变反应堆。通过燃烧铀燃料罐进行产能。如果有可用的热容系统则将热量排放到热容系统中，否则将热量排放到所在房间内。\n\n其基础产能为3000W，可通过几种愈发不稳定的超频模式来提高。</Ship_Reactor_Small.description>
+    <Ship_Reactor_Small.description>一台紧凑且能够独立运行的裂变反应堆。通过燃烧铀燃料舱进行产能。如果有可用的热容系统则将热量排放到热容系统中，否则将热量排放到所在房间内。\n\n其基础产能为3000W，可通过几种愈发不稳定的超频模式来提高。</Ship_Reactor_Small.description>
     <!-- 港口 -->
     <ShipShuttleBay.label>穿梭机停靠港</ShipShuttleBay.label>
     <ShipShuttleBay.description>提供停靠穿梭机的功能的设施。这个先进的停靠港含有能自动修理穿梭机部件的微型机械，会将部件修理至一半生命值，并且能使小人维修穿梭机的速度加倍。它的内部还能存储燃料，并且可以自动为停靠在其上的穿梭机添加燃料。\n\n停靠港上不能有障碍物。在周围放置信标可供帝国的穿梭机降落在此处。</ShipShuttleBay.description>

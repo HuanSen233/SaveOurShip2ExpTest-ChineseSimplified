@@ -32,7 +32,7 @@
     <ShipAirlockArchotech.description>允许进入舰船或在舰船内划分房间。其生成的低能等离子屏障能防止气体逸出。</ShipAirlockArchotech.description>
     <!-- 推进器 -->
     <Ship_Engine_Archotech.label>反物质推进器</Ship_Engine_Archotech.label>
-    <Ship_Engine_Archotech.description>一种使用先进战斗推进器，能够实现巨大的爆发速度。使用异形粒子作为燃料。\n\n不能在行星大气中工作。\n推力：6000\n燃料消耗：1 异形粒子/秒</Ship_Engine_Archotech.description>
+    <Ship_Engine_Archotech.description>一种先进的战斗推进器，能够实现巨大的爆发速度。使用异形粒子作为燃料。\n\n不能在行星大气中工作。\n推力：6000\n燃料消耗：1 异形粒子/秒</Ship_Engine_Archotech.description>
     <!-- 电力 -->
     <ArchotechAntimatterReactor.label>反物质反应堆</ArchotechAntimatterReactor.label>
     <ArchotechAntimatterReactor.description>通过湮灭异形粒子来产生巨大的能量。让其受损可不是个好主意。</ArchotechAntimatterReactor.description>
@@ -80,9 +80,8 @@
     <Weapon_GrenadeMechanite.label>装有不明粉红粘性物质的瓶子</Weapon_GrenadeMechanite.label>
     <Weapon_GrenadeMechanite.description>装满了奇怪的粉红粘性物质的玻璃瓶。孢子建议你将其投向你的敌人。</Weapon_GrenadeMechanite.description>
     <Weapon_GrenadeMechanite.verbs.Verb_Shoot.label>投掷装有不明粉红粘性物质的瓶子</Weapon_GrenadeMechanite.verbs.Verb_Shoot.label>
-
     <Proj_GrenadeMechanite.label>解构者鸡尾酒</Proj_GrenadeMechanite.label>
-
+    <!-- 设备 -->
     <ArchoRecycler.label>微械拆解台</ArchoRecycler.label>
     <ArchoRecycler.description>使用解构微械将任何物体拆解为构成它的基本材料，且效率近乎完美。</ArchoRecycler.description>
 

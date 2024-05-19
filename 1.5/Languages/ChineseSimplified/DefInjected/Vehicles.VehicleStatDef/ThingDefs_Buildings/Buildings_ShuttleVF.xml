@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <SoS2CombatDodgeChance.label>太空战闪避几率</SoS2CombatDodgeChance.label>
+    <SoS2CombatDodgeChance.description>这艘穿梭机在太空战斗中闪避敌人攻击的几率。</SoS2CombatDodgeChance.description>
+
+    <Hardpoints.label>挂载点</Hardpoints.label>
+    <Hardpoints.description>这艘穿梭机有多少个挂载点</Hardpoints.description>
+
+</LanguageData>
