@@ -42,17 +42,48 @@
     
     <ArchotechShieldGenerator.label>超凡科技护盾发生器</ArchotechShieldGenerator.label>
     <ArchotechShieldGenerator.description>一个先进的能产生动能排斥场的设备。能够向外射击，但无法射入。\n\n在阻挡攻击时产生的热量是标准护盾发生器的75%。\n在阻挡攻击时会产生热量。如果没有连接到热容网络或热容不足，那么护盾发生器将损坏并需要修理。\n\n建议在热容蓄热过多时关闭护盾，否则会导致散热系统受损。</ArchotechShieldGenerator.description>
-    <!-- 孢子
-    <text.label>text</text.label>
-    <text.description>text</text.description>
-    <text.label>text</text.label>
-    <text.description>text</text.description>
-    <text.label>text</text.label>
-    <text.description>text</text.description>
-    <text.label>text</text.label>
-    <text.description>text</text.description>
-    <text.label>text</text.label>
-    <text.description>text</text.description>
- -->
+    <!-- 孢子 -->
+    <ShipArchotechSpore.label>超凡科技孢子</ShipArchotechSpore.label>
+    <ShipArchotechSpore.description>供人类或机器意识自我升华为超凡科技的思维孵化器。\n\n其绝大部分算力都用于在内部，思考其自身结构何和其它无法理解的奥秘，但剩下的算力也足够作为一艘船舶的电脑核心。\n\n让殖民者在附近冥想或向其献祭囚犯等方式可以改善它的情绪。如果情绪低落，他可能会对你进行“恶作剧”。\n\n建造多个超凡科技孢子并不会使礼物来得更频繁，但它门可以独立发展自己的心灵场强度。</ShipArchotechSpore.description>
+    
+    <ArchotechUplink.label>超凡科技上行链路</ArchotechUplink.label>
+    <ArchotechUplink.description>允许人类研究员与你的超凡科技孢子的一部分思维进行合作。将其放在高级研究台附近，以解锁超凡科技科研项目。一个研究台最多可以同时连接一个超凡科技上行链路。</ArchotechUplink.description>
+    
+    <ShipArchotechPillarA.label>超凡科技柱-阿尔法</ShipArchotechPillarA.label>
+    <ShipArchotechPillarA.description>一个复杂且古怪的装置，没有人类可以理解的功能，但其显然会以某种方式推挤你的超凡科技孢子的计划。\n\n建造多于一个的相同柱体不会给你带来任何好处。</ShipArchotechPillarA.description>
+    <ShipArchotechPillarB.label>超凡科技柱-贝塔</ShipArchotechPillarB.label>
+    <ShipArchotechPillarB.description>一个复杂且古怪的装置，没有人类可以理解的功能，但其显然会以某种方式推挤你的超凡科技孢子的计划。\n\n建造多于一个的相同柱体不会给你带来任何好处。</ShipArchotechPillarB.description>
+    <ShipArchotechPillarC.label>超凡科技柱-伽马</ShipArchotechPillarC.label>
+    <ShipArchotechPillarC.description>一个复杂且古怪的装置，没有人类可以理解的功能，但其显然会以某种方式推挤你的超凡科技孢子的计划。\n\n建造多于一个的相同柱体不会给你带来任何好处。</ShipArchotechPillarC.description>
+    <ShipArchotechPillarD.label>超凡科技柱-德尔塔</ShipArchotechPillarD.label>
+    <ShipArchotechPillarD.description>一个复杂且古怪的装置，没有人类可以理解的功能，但其显然会以某种方式推挤你的超凡科技孢子的计划。\n\n建造多于一个的相同柱体不会给你带来任何好处。</ShipArchotechPillarD.description>
+    <!-- 武器 -->
+    <ShipSpinalBarrelPsychic.label>脊峰炮：噬灵者</ShipSpinalBarrelPsychic.label>
+    <ShipSpinalBarrelPsychic.description>脊峰武器的最终部分。发射一束定向的心灵冲击光束，使范围内的目标暂时陷入心灵冲击状态，但可能造成脑损伤。无视船体（会被护盾阻挡）。\n\n与其它的脊峰武器不同，噬灵者不会给你的舰船开个新洞，因此可以将其安全地安装在舰船内部。\n必须通过热容网络连接到领航员控制台、战术控制台或船舶核心。\n需要足够的储能和热容才能正常运作。</ShipSpinalBarrelPsychic.description>
+    <ShipTurret_SpinalMountTopPsychic.label>噬灵者心灵冲击炮</ShipTurret_SpinalMountTopPsychic.label>
+    <ShipTurret_SpinalMountTopPsychic.description>主力舰武器。</ShipTurret_SpinalMountTopPsychic.description>
+    <ShipTurret_SpinalMountTopPsychic.verbs.Verb_Shoot.label>发射心灵冲击光束</ShipTurret_SpinalMountTopPsychic.verbs.Verb_Shoot.label>
+    <Bullet_Fake_Psychic.label>心灵冲击光束</Bullet_Fake_Psychic.label>
+    <Proj_ShipTurretPsychic.label>心灵冲击光束</Proj_ShipTurretPsychic.label>
+    
+    <ShipSpinalBarrelMechanite.label>脊峰炮：解构者</ShipSpinalBarrelMechanite.label>
+    <ShipSpinalBarrelMechanite.description>脊峰武器的最终部分。一门经过改装用以发射解构微械团的轨道炮。\n\n这个部分应该安装在飞船外部，除非你想给自己的船开个新洞并且感受一次被解构的感觉。\n必须通过热容网络连接到领航员控制台、战术控制台或船舶核心。\n需要足够的储能和热容才能正常运作。</ShipSpinalBarrelMechanite.description>
+    <ShipTurret_SpinalMountTopMechanite.label>结构微械发射器</ShipTurret_SpinalMountTopMechanite.label>
+    <ShipTurret_SpinalMountTopMechanite.description>主力舰武器。</ShipTurret_SpinalMountTopMechanite.description>
+    <ShipTurret_SpinalMountTopMechanite.verbs.Verb_Shoot.label>发射解构微械团</ShipTurret_SpinalMountTopMechanite.verbs.Verb_Shoot.label>
+    <Bullet_Fake_Mechanite.label>解构微械团</Bullet_Fake_Mechanite.label>
+    <Proj_ShipTurretMechanite.label>解构微械团</Proj_ShipTurretMechanite.label>
+
+    <MechaniteFire.label>解构微械</MechaniteFire.label>
+    <MechaniteSpark.description>解构微械</MechaniteSpark.description>
+
+    <Weapon_GrenadeMechanite.label>装有不明粉红粘性物质的瓶子</Weapon_GrenadeMechanite.label>
+    <Weapon_GrenadeMechanite.description>装满了奇怪的粉红粘性物质的玻璃瓶。孢子建议你将其投向你的敌人。</Weapon_GrenadeMechanite.description>
+    <Weapon_GrenadeMechanite.verbs.Verb_Shoot.label>投掷装有不明粉红粘性物质的瓶子</Weapon_GrenadeMechanite.verbs.Verb_Shoot.label>
+
+    <Proj_GrenadeMechanite.label>解构者鸡尾酒</Proj_GrenadeMechanite.label>
+
+    <ArchoRecycler.label>微械拆解台</ArchoRecycler.label>
+    <ArchoRecycler.description>使用解构微械将任何物体拆解为构成它的基本材料，且效率近乎完美。</ArchoRecycler.description>
 
 </LanguageData>

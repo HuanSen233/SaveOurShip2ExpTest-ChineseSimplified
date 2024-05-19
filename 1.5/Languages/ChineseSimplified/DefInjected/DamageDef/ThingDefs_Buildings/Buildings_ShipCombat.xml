@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    <!-- 机炮弹炸伤 -->
+    <!-- 机炮 -->
     <BombACI.label>炸伤</BombACI.label>
     <BombACI.deathMessage>{0}在爆炸中身亡。</BombACI.deathMessage>
     
@@ -9,19 +9,19 @@
     
     <BombACIII.label>炸伤</BombACIII.label>
     <BombACIII.deathMessage>{0}在爆炸中身亡。</BombACIII.deathMessage>
-    <!-- 强激光穿透 -->
+    <!-- 激光 -->
     <ShipLaserSmall.label>强激光穿透</ShipLaserSmall.label>
     <ShipLaserSmall.deathMessage>{0}死于强激光照射。</ShipLaserSmall.deathMessage>
     
     <ShipLaserTwo.label>强激光穿透</ShipLaserTwo.label>
     <ShipLaserTwo.deathMessage>{0}死于强激光照射。</ShipLaserTwo.deathMessage>
-    <!-- 等离子烧伤 -->
+    <!-- 等离子 -->
     <ShipPlasmaSmall.label>等离子烧伤</ShipPlasmaSmall.label>
     <ShipPlasmaSmall.deathMessage>{0}被等离子气化。</ShipPlasmaSmall.deathMessage>
     
     <ShipPlasmaLarge.label>等离子烧伤</ShipPlasmaLarge.label>
     <ShipPlasmaLarge.deathMessage>{0}被等离子气化。</ShipPlasmaLarge.deathMessage>
-    <!-- 轨道炮弹炸伤 -->
+    <!-- 轨道炮 -->
     <BombKinetic.label>炸伤</BombKinetic.label>
     <BombKinetic.deathMessage>{0}在爆炸中身亡。</BombKinetic.deathMessage>
 
@@ -36,5 +36,11 @@
 
     <ShieldExplosion.label>防护碎裂</ShieldExplosion.label>
     <ShieldExplosion.deathMessage>{0}死于系统紊乱。</ShieldExplosion.deathMessage>
+    <!-- 噬灵者 -->
+    <PsychicFlayer.label>心灵摧毁</PsychicFlayer.label>
+    <PsychicFlayer.deathMessage>{0}的被从心灵上抹除。
+    <!-- 解构者 -->
+    <BombMechanite.label>炸伤</BombMechanite.label>
+    <BombMechanite.deathMessage>{0}在爆炸中身亡。</BombMechanite.deathMessage>
 
 </LanguageData>

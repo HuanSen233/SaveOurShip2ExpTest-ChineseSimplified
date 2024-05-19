@@ -84,7 +84,7 @@
     <Bullet_Ground_Plasma.label>等离子团</Bullet_Ground_Plasma.label>
 
     <ShipTurret_Plasma_Large.label>大型舰载等离子炮</ShipTurret_Plasma_Large.label>
-    <ShipTurret_Plasma_Large.description>一门能发射强大激光的大型舰炮。这种各方面性能平衡的武器适合在中距离作战使用。能够用于地面舰船防御。\n\n可以安全的放置在房间内，因为他会突出在舰船的顶部。\n必须通过热容网络连接到领航员控制台、战术控制台或船舶核心。\n需要足够的储能和热容才能正常运作。</ShipTurret_Plasma_Large.description>
+    <ShipTurret_Plasma_Large.description>一门能发射强大激光的大型舰炮。这种各方面性能平衡的武器适合在中距离作战使用。\n\n可以安全的放置在房间内，因为他会突出在舰船的顶部。\n必须通过热容网络连接到领航员控制台、战术控制台或船舶核心。\n需要足够的储能和热容才能正常运作。</ShipTurret_Plasma_Large.description>
     <ShipTurret_PlasmaTop_Large.label>大型舰载等离子炮</ShipTurret_PlasmaTop_Large.label>
     <ShipTurret_PlasmaTop_Large.description>舰载激光炮。射程短，但破坏力强。</ShipTurret_PlasmaTop_Large.description> 
     <ShipTurret_PlasmaTop_Large.verbs.Verb_Shoot.label>发射大型等离子团</ShipTurret_PlasmaTop_Large.verbs.Verb_Shoot.label>
@@ -101,7 +101,7 @@
     <Bullet_Ground_Kinetic.label>轨道炮弹</Bullet_Ground_Kinetic.label>
     
     <ShipTurret_Kinetic_Large.label>大型舰载轨道炮</ShipTurret_Kinetic_Large.label>
-    <ShipTurret_Kinetic_Large.description>一门能将金属弹丸加速到相对论速度的大型舰炮。可以命中远距离的目标，但不太精确。能够用于地面舰船防御。\n\n可以安全的放置在房间内，因为他会突出在舰船的顶部。\n必须通过热容网络连接到领航员控制台、战术控制台或船舶核心。\n需要足够的储能和热容才能正常运作。</ShipTurret_Kinetic_Large.description>
+    <ShipTurret_Kinetic_Large.description>一门能将金属弹丸加速到相对论速度的大型舰炮。可以命中远距离的目标，但不太精确。\n\n可以安全的放置在房间内，因为他会突出在舰船的顶部。\n必须通过热容网络连接到领航员控制台、战术控制台或船舶核心。\n需要足够的储能和热容才能正常运作。</ShipTurret_Kinetic_Large.description>
     <ShipTurret_KineticTop_Large.label>大型舰载轨道炮</ShipTurret_KineticTop_Large.label>
     <ShipTurret_KineticTop_Large.description>舰载轨道炮。最好在远距离使用。</ShipTurret_KineticTop_Large.description> 
     <ShipTurret_KineticTop_Large.verbs.Verb_Shoot.label>发射大型轨道炮弹</ShipTurret_KineticTop_Large.verbs.Verb_Shoot.label>
@@ -137,17 +137,17 @@
 
     <Artillery_ShipTorpedo_One.label>鱼雷发射器</Artillery_ShipTorpedo_One.label>
     <ShipTorpedoOne.label>鱼雷发射器</ShipTorpedoOne.label>
-    <ShipTorpedoOne.description>储存并发射精准且威力巨大的鱼雷，但鱼雷抵达目标的速度较慢，易受到点防御系统的拦截。\n鱼雷容量：7\n射速：5/分钟</ShipTorpedoOne.description>
+    <ShipTorpedoOne.description>储存并发射精准且威力巨大的鱼雷，但鱼雷抵达目标的速度较慢，易受到点防御系统的拦截。\n\n鱼雷容量：7\n射速：5/分钟</ShipTorpedoOne.description>
     <Artillery_ShipTorpedo_One.label>鱼雷发射器</Artillery_ShipTorpedo_One.label>
     <Artillery_ShipTorpedo_One.description>鱼雷发射器。能对护盾造成精准而巨大的破坏，但容易受到点防御系统的拦截。</Artillery_ShipTorpedo_One.description>
 
     <ShipTorpedoTwo.label>鱼雷发射器(双联装)</ShipTorpedoTwo.label>
-    <ShipTorpedoTwo.description>储存并发射精准且威力巨大的鱼雷，但鱼雷抵达目标的速度较慢，易受到点防御系统的拦截。\n鱼雷容量：14\n射速：10/分钟</ShipTorpedoTwo.description>
+    <ShipTorpedoTwo.description>储存并发射精准且威力巨大的鱼雷，但鱼雷抵达目标的速度较慢，易受到点防御系统的拦截。\n\n鱼雷容量：14\n射速：10/分钟</ShipTorpedoTwo.description>
     <Artillery_ShipTorpedo_Two.label>鱼雷发射器(双联装)</Artillery_ShipTorpedo_Two.label>
     <Artillery_ShipTorpedo_Two.description>鱼雷发射器。能对护盾造成精准而巨大的破坏，但容易受到点防御系统的拦截。</Artillery_ShipTorpedo_Two.description>
     
     <ShipTorpedoSix.label>鱼雷发射器(六联装)</ShipTorpedoSix.label>
-    <ShipTorpedoSix.description>储存并发射精准且威力巨大的鱼雷，但鱼雷抵达目标的速度较慢，易受到点防御系统的拦截。\n鱼雷容量：28\n射速：30/分钟</ShipTorpedoSix.description>
+    <ShipTorpedoSix.description>储存并发射精准且威力巨大的鱼雷，但鱼雷抵达目标的速度较慢，易受到点防御系统的拦截。\n\n鱼雷容量：28\n射速：30/分钟</ShipTorpedoSix.description>
     <Artillery_ShipTorpedo.label>鱼雷发射器(六联装)</Artillery_ShipTorpedo.label>
     <Artillery_ShipTorpedo.description>鱼雷发射器。能对护盾造成精准而巨大的破坏，但容易受到点防御系统的拦截。</Artillery_ShipTorpedo.description>
     
