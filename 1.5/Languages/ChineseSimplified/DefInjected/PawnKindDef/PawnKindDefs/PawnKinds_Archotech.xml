@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <Archocat.label>超凡猫</Archocat.label>
+    <Archocat.lifeStages.0.label>超凡猫幼崽</Archocat.lifeStages.0.label>
+    
+    <Archomutt.label>超凡犬</Archomutt.label>
+    <Archomutt.lifeStages.0.label>超凡犬幼崽</Archomutt.lifeStages.0.label>
+    
+    <Archoffalo.label>超凡雪牛</Archoffalo.label>
+    <Archoffalo.lifeStages.0.label>超凡雪牛幼崽</Archoffalo.lifeStages.0.label>
+    
+    <Archolope.label>超凡爆炸羊</Archolope.label>
+    <Archolope.lifeStages.0.label>超凡爆炸羊幼崽</Archolope.lifeStages.0.label>
+
+</LanguageData>

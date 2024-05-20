@@ -56,8 +56,8 @@
 	<SoS.SelectWeaponsDesc>选择连接的舰对舰武器</SoS.SelectWeaponsDesc>
 	<SoS.HoldFire>停火</SoS.HoldFire>
 	<SoS.HoldFireDesc>停止所有连接的舰对舰武器向敌舰开火</SoS.HoldFireDesc>
-	<SoS.TogglePointDefense>停止所有连接的舰对舰武器向敌舰开火</SoS.TogglePointDefense>
-	<SoS.TogglePointDefenseDesc>停止所有连接的舰对舰武器向敌舰开火</SoS.TogglePointDefenseDesc>
+	<SoS.TogglePointDefense>切换点防御</SoS.TogglePointDefense>
+	<SoS.TogglePointDefenseDesc>切换所有连接的点防御武器拦截鱼雷和穿梭机</SoS.TogglePointDefenseDesc>
 	<SoS.NotAtMaxRange>不在最大射程内</SoS.NotAtMaxRange>
 	<SoS.OnUnstableMap>舰船不在稳定轨道上。</SoS.OnUnstableMap>
 	<SoS.EnemyShipRetreating>敌舰正在试图撤退！</SoS.EnemyShipRetreating>
@@ -110,11 +110,11 @@
 	<SoS.TradeTradeWith>要求与他们进行交易。</SoS.TradeTradeWith>
 	<SoS.TradeTradeDecline>{0} 因为你的恶名不想与你交易。</SoS.TradeTradeDecline>
 	<SoS.PirateTradeDemand>要求他们交出货物（这是海盗行为！会增加你的恶名值）</SoS.PirateTradeDemand>
-	<SoS.TradeTryingToFlee> 关闭了通讯并试图逃离！</SoS.TradeTryingToFlee>
+	<SoS.TradeTryingToFlee>{0} 关闭了通讯并试图逃离！</SoS.TradeTryingToFlee>
 	<SoS.TradeAttack>追上去！</SoS.TradeAttack>
 	<SoS.TradeFlee>让他们走。</SoS.TradeFlee>
 	<SoS.TradePayBounty>支付你的赏金以消除恶名（需要：{0} 银）</SoS.TradePayBounty>
-	<SoS.NotEnoughForBounty>需要有 {0} 银在轨道交易信标的范围内</SoS.NotEnoughForBounty>
+	<SoS.NotEnoughForBounty>你需要有 {0} 银在轨道交易信标的范围内</SoS.NotEnoughForBounty>
 	<SoS.PirateHail>一艘海盗船在向你招手。\n</SoS.PirateHail>
 	<SoS.PirateHailPirate>他们肯定知道你名声。</SoS.PirateHailPirate>
 	<SoS.PirateHailNormal>如果你无视他们的话他们很可能会攻击你。</SoS.PirateHailNormal>
@@ -351,7 +351,7 @@
 	<SoS.ArchoAnimalSuddenDeath>由于某种宇宙事件，一种超凡动物出现了但又很快就消失了。也许这是某些事情即将到来的征兆。</SoS.ArchoAnimalSuddenDeath>
 	<SoS.ArchoAnimalSporeDeath>由于没有了超凡科技的指引，{0} 已经消亡。</SoS.ArchoAnimalSporeDeath>
 	<SoS.CraftArchocat>生成 超凡猫</SoS.CraftArchocat>
-	<SoS.CraftArchomutt>生成 超凡狗</SoS.CraftArchomutt>
+	<SoS.CraftArchomutt>生成 超凡犬</SoS.CraftArchomutt>
 	<SoS.CraftArchostrich>生成 超凡鸵鸟</SoS.CraftArchostrich>
 	<SoS.CraftArchoffalo>生成 超凡雪牛</SoS.CraftArchoffalo>
 	<SoS.CraftArchospider>生成 超凡蜘蛛</SoS.CraftArchospider>

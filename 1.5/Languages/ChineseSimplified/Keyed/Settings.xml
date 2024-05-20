@@ -6,7 +6,7 @@
 	
 	<SoS.Settings.UI>界面设置：</SoS.Settings.UI>
 	<SoS.Settings.UseSplashScreen>SoS主菜单背景</SoS.Settings.UseSplashScreen>
-	<SoS.Settings.UseSplashScreen.Desc>如果启用，游戏将主界面背景将会使用SoS2的背景图。更改此项后需重新启动游戏。默认：关</SoS.Settings.UseSplashScreen.Desc>
+	<SoS.Settings.UseSplashScreen.Desc>如果启用，游戏将主界面背景将会使用SoS2的背景图。更改此项后需重新启动游戏。默认：开</SoS.Settings.UseSplashScreen.Desc>
 	<SoS.Settings.PersistShipUI>持续显示船舶UI</SoS.Settings.PersistShipUI>
 	<SoS.Settings.PersistShipUI.Desc>如果启用，将持续显示舰船的能量和热熔，即使不在战斗中。默认：关</SoS.Settings.PersistShipUI.Desc>
 	<SoS.Settings.OffsetUIx>船舶UI偏移 X轴（水平）</SoS.Settings.OffsetUIx>
@@ -22,11 +22,11 @@
 	<SoS.Settings.ShipMapPhysics>船舶地图物理</SoS.Settings.ShipMapPhysics>
 	<SoS.Settings.ShipMapPhysics.Desc>如果启用，当舰船移动时将把不在船上的小人和物品送去坟场。这也会限制穿梭机只能降落在穿梭机停机坪或舰船外。默认：关</SoS.Settings.ShipMapPhysics.Desc>
 	<SoS.Settings.ArchoRemove>限制超凡生物生成</SoS.Settings.ArchoRemove>
-	<SoS.Settings.ArchoRemove.Desc>如果第三方模组在超凡科技孢子被建造前生成了超凡生物，那么这个选项会将它们删除。默认：关</SoS.Settings.ArchoRemove.Desc>
+	<SoS.Settings.ArchoRemove.Desc>如果第三方模组在超凡科技孢子能被正常建造前生成了超凡生物，那么这个选项会将它们删除。默认：关</SoS.Settings.ArchoRemove.Desc>
 	<SoS.Settings.ArchoKill>超凡生物不能失去孢子</SoS.Settings.ArchoKill>
-	<SoS.Settings.ArchoKill.Desc>如果超凡科技孢子被破坏，所有的超凡生物都将死亡。默认：关</SoS.Settings.ArchoKill.Desc>
+	<SoS.Settings.ArchoKill.Desc>如果超凡科技孢子被摧毁，所有的超凡生物都将死亡。默认：关</SoS.Settings.ArchoKill.Desc>
 	<SoS.Settings.Debug>调试模式</SoS.Settings.Debug>
-	<SoS.Settings.Debug.Desc>绘制船舶区域，并在屏幕上列出所有舰船、残骸，鼠标悬停其之上将把该物体的更多详细信息添加进日志。默认：off</SoS.Settings.Debug.Desc>
+	<SoS.Settings.Debug.Desc>绘制船舶区域，并在屏幕上列出所有舰船、残骸，鼠标悬停其之上将把该物体的更多详细信息添加进日志。默认：关</SoS.Settings.Debug.Desc>
 	
 	<SoS.Settings.Gameplay>游戏体验设置：</SoS.Settings.Gameplay>
 	<SoS.Settings.DifficultySoS>舰船战难度系数（最小：{0} 最大：{1} 默认：{2} 当前：{3}）</SoS.Settings.DifficultySoS>
