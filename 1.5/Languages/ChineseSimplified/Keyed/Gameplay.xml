@@ -317,8 +317,8 @@
 	<SoS.EquipRangedDesc>让这个全息投影使用激光来进行远程攻击</SoS.EquipRangedDesc>
 	<SoS.EquipMelee>近战攻击模式</SoS.EquipMelee>
 	<SoS.EquipMeleeDesc>给这个全息投影一把刀和一个能量护盾</SoS.EquipMeleeDesc>
-	<SoS.ResurrectBrain>复活</SoS.ResurrectBrain>
-	<SoS.ResurrectBrainDesc>使用复活机械液为这个意识构造一个新的身体</SoS.ResurrectBrainDesc>
+	<SoS.ResurrectBrain>制造替代微械</SoS.ResurrectBrain>
+	<SoS.ResurrectBrainDesc>使用复活机械液为这个意识快速制造一个新的微械凝胶体</SoS.ResurrectBrainDesc>
 	<SoS.ArchoGift>解锁超凡科技礼物</SoS.ArchoGift>
 	<SoS.ArchotechGoodwillPlus>增加心灵敏感度（+10，消耗 {0} 心灵场强度）</SoS.ArchotechGoodwillPlus>
 	<SoS.ArchotechGoodwillMinus>降低心灵敏感度（-10，消耗 {0} 心灵场强度）</SoS.ArchotechGoodwillMinus>

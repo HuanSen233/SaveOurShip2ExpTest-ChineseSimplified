@@ -39,9 +39,25 @@
     <InstallSoSArchotechSkin.label>安装超凡仿生皮肤</InstallSoSArchotechSkin.label>
     <InstallSoSArchotechSkin.description>安装一块超凡仿生皮肤。</InstallSoSArchotechSkin.description>
     <InstallSoSArchotechSkin.jobString>安装一块超凡仿生皮肤。</InstallSoSArchotechSkin.jobString>
-    
+
     <RemoveSoSArchotechSkin.label>移除超凡仿生皮肤</RemoveSoSArchotechSkin.label>
     <RemoveSoSArchotechSkin.description>移除超凡仿生皮肤。</RemoveSoSArchotechSkin.description>
     <RemoveSoSArchotechSkin.jobString>移除超凡仿生皮肤。</RemoveSoSArchotechSkin.jobString>
+
+    <InstallSoSPsychicPredictor.label>安装心灵预测装置</InstallSoSPsychicPredictor.label>
+    <InstallSoSPsychicPredictor.description>安装一个心灵预测装置。</InstallSoSPsychicPredictor.description>
+    <InstallSoSPsychicPredictor.jobString>安装一个心灵预测装置。</InstallSoSPsychicPredictor.jobString>
+
+    <RemoveSoSPsychicPredictor.label>移除心灵预测装置</RemoveSoSPsychicPredictor.label>
+    <RemoveSoSPsychicPredictor.description>移除心灵预测装置。</RemoveSoSPsychicPredictor.description>
+    <RemoveSoSPsychicPredictor.jobString>移除心灵预测装置。</RemoveSoSPsychicPredictor.jobString>
+
+    <InstallSoSPsychicManipulator.label>安装心灵操纵装置</InstallSoSPsychicManipulator.label>
+    <InstallSoSPsychicManipulator.description>安装一个心灵操纵装置。</InstallSoSPsychicManipulator.description>
+    <InstallSoSPsychicManipulator.jobString>安装一个心灵操纵装置。</InstallSoSPsychicManipulator.jobString>
+
+    <RemoveSoSPsychicManipulator.label>移除心灵操纵装置</RemoveSoSPsychicManipulator.label>
+    <RemoveSoSPsychicManipulator.description>移除心灵操纵装置。</RemoveSoSPsychicManipulator.description>
+    <RemoveSoSPsychicManipulator.jobString>移除心灵操纵装置。</RemoveSoSPsychicManipulator.jobString>
 
 </LanguageData>

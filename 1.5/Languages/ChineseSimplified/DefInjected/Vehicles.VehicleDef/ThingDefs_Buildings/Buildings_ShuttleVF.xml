@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     <SoS2_Shuttle_Personal.label>个人穿梭机</SoS2_Shuttle_Personal.label>
-    <SoS2_Shuttle_Personal.description>一艘能够进行轨道和亚轨道航行的单人穿梭机。与更大的穿梭机不同，这款型号只能使用化学燃料，且无法改装。</SoS2_Shuttle_Personal.description>
+    <SoS2_Shuttle_Personal.description>一艘能够进行轨道和亚轨道航行的单人穿梭机。与更大的穿梭机不同，这款型号只能使用化合燃料，且无法改装。</SoS2_Shuttle_Personal.description>
     <SoS2_Shuttle_Personal.properties.roles.0.label>领航员</SoS2_Shuttle_Personal.properties.roles.0.label>
     <SoS2_Shuttle_Personal.components.0.label>一号推进器</SoS2_Shuttle_Personal.components.0.label>
     <SoS2_Shuttle_Personal.components.1.label>二号推进器</SoS2_Shuttle_Personal.components.1.label>
     <SoS2_Shuttle_Personal.components.2.label>三号推进器</SoS2_Shuttle_Personal.components.2.label>
     <SoS2_Shuttle_Personal.components.3.label>四号推进器</SoS2_Shuttle_Personal.components.3.label>
-    <SoS2_Shuttle_Personal.components.4.label>化学燃料舱</SoS2_Shuttle_Personal.components.4.label>
+    <SoS2_Shuttle_Personal.components.4.label>化合燃料舱</SoS2_Shuttle_Personal.components.4.label>
     <SoS2_Shuttle_Personal.components.5.label>船体</SoS2_Shuttle_Personal.components.5.label>
     
     <SoS2_Shuttle.label>穿梭机</SoS2_Shuttle.label>

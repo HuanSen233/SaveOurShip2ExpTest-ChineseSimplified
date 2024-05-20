@@ -41,9 +41,9 @@
     <ShipHardpoints.description>用于将建筑和炮塔连接到舰船外部的支撑结构。任何建造在其上的建筑都将被视为舰船的一部分。\n\n其整合了纳米复合装甲可将放置在这上面的炮塔受到的伤害减少一半。</ShipHardpoints.description>
     <!-- 推进器 -->
     <Ship_Engine_Small.label>小型火箭推进器</Ship_Engine_Small.label>
-    <Ship_Engine_Small.description>一种使用化学燃料驱动的推进器，能将舰船送入轨道。不能进行星际航行。\n\n推力：500\n燃料消耗：1 化学燃料/秒\n最大起飞重量：750</Ship_Engine_Small.description>
+    <Ship_Engine_Small.description>一种使用化合燃料驱动的推进器，能将舰船送入轨道。不能进行星际航行。\n\n推力：500\n燃料消耗：1 化合燃料/秒\n最大起飞重量：750</Ship_Engine_Small.description>
     <Ship_Engine.label>火箭推进器</Ship_Engine.label>
-    <Ship_Engine.description>一种使用化学燃料驱动的推进器，能将舰船送入轨道。不能进行星际航行。\n\n推力：1000\n燃料消耗：2 化学燃料/秒\n最大起飞重量：1000</Ship_Engine.description>
+    <Ship_Engine.description>一种使用化合燃料驱动的推进器，能将舰船送入轨道。不能进行星际航行。\n\n推力：1000\n燃料消耗：2 化合燃料/秒\n最大起飞重量：1000</Ship_Engine.description>
     <Ship_Engine_Large.label>核能推进器</Ship_Engine_Large.label>
     <Ship_Engine_Large.description>一种使用核燃料驱动的核动力推进器，能将舰船送入轨道。会造成污染。不能进行星际航行。\n\n推力：3000\n燃料消耗：3 核燃料罐/秒\n最大起飞重量：4000</Ship_Engine_Large.description>
     

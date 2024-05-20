@@ -40,4 +40,12 @@
     <SoSArchotechSkin.labelNoun>一块超凡仿生皮肤</SoSArchotechSkin.labelNoun>
     <SoSArchotechSkin.description>一块已安装的超凡仿生皮肤。</SoSArchotechSkin.description>
 
+    <SoSPsychicPredictor.label>心灵预测装置</SoSPsychicPredictor.label>
+    <SoSPsychicPredictor.labelNoun>一个心灵预测装置</SoSPsychicPredictor.labelNoun>
+    <SoSPsychicPredictor.description>一个已植入的心灵预测装置。</SoSPsychicPredictor.description>
+
+    <SoSPsychicManipulator.label>心灵操纵装置</SoSPsychicManipulator.label>
+    <SoSPsychicManipulator.labelNoun>一个心灵操纵装置</SoSPsychicManipulator.labelNoun>
+    <SoSPsychicManipulator.description>一个已植入的心灵操纵装置。</SoSPsychicManipulator.description>
+
 </LanguageData>

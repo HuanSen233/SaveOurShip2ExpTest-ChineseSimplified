@@ -30,4 +30,10 @@
     <SoSArchotechSkin.label>超凡仿生皮肤</SoSArchotechSkin.label>
     <SoSArchotechSkin.description>这一小块人造皮肤会迅速扩散以覆盖安装者的全身。超凡仿生皮肤能抵抗压力变化并完全免疫真空减压，以及提供重要的温度防护和护甲。结合超凡仿生肺，它能使安装者无限期在真空环境中生存。它看上去和摸上去都与生物原本的皮肤几乎无异，但却比玻璃钢更坚固。即使它受到伤害，也会随着时间的推移自我修复。它的内部结构对于所有人类来说都是个谜。</SoSArchotechSkin.description>
 
+    <SoSPsychicPredictor.label>心灵预测装置</SoSPsychicPredictor.label>
+    <SoSPsychicPredictor.description>提供有限的预知能力，使安装者能够在敌人采取行动前预测他们的运动轨迹。提高了安装者的近战闪避几率和射击精度，效果和安装者的心灵敏感度成正比。</SoSPsychicPredictor.description>
+
+    <SoSPsychicManipulator.label>心灵操纵装置</SoSPsychicManipulator.label>
+    <SoSPsychicManipulator.description>提供有限的隔空操纵能力，使安装者能隔空拾起或移动小物体。提高了安装者的操作能力，效果和安装者的心灵敏感度成正比。</SoSPsychicManipulator.description>
+
 </LanguageData>
