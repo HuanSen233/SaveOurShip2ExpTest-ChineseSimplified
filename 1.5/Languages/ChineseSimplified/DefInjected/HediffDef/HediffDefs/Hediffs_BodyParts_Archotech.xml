@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <SoSArchotechEar.label>超凡仿生耳</SoSArchotechEar.label>
+    <SoSArchotechEar.labelNoun>一只超凡仿生耳</SoSArchotechEar.labelNoun>
+    <SoSArchotechEar.description>一只已安装的超凡仿生耳。</SoSArchotechEar.description>
+
+    <SoSArchotechNose.label>超凡仿生鼻</SoSArchotechNose.label>
+    <SoSArchotechNose.labelNoun>一个超凡仿生鼻</SoSArchotechNose.labelNoun>
+    <SoSArchotechNose.description>一个已安装的超凡仿生鼻。</SoSArchotechNose.description>
+
+    <SoSArchotechJaw.label>超凡仿生颌</SoSArchotechJaw.label>
+    <SoSArchotechJaw.labelNoun>一个超凡仿生颌</SoSArchotechJaw.labelNoun>
+    <SoSArchotechJaw.description>一个已安装的超凡仿生颌。</SoSArchotechJaw.description>
+
+    <SoSArchotechHeart.label>超凡仿生心脏</SoSArchotechHeart.label>
+    <SoSArchotechHeart.labelNoun>一颗超凡仿生心脏</SoSArchotechHeart.labelNoun>
+    <SoSArchotechHeart.description>一颗已安装的超凡仿生心脏。</SoSArchotechHeart.description>
+    
+    <SoSArchotechLung.label>超凡仿生肺</SoSArchotechLung.label>
+    <SoSArchotechLung.labelNoun>一个超凡仿生肺</SoSArchotechLung.labelNoun>
+    <SoSArchotechLung.description>一个已安装的超凡仿生肺。</SoSArchotechLung.description>
+
+    <SoSArchotechLung.label>超凡仿生胃</SoSArchotechLung.label>
+    <SoSArchotechLung.labelNoun>一个超凡仿生胃</SoSArchotechLung.labelNoun>
+    <SoSArchotechLung.description>一个已安装的超凡仿生胃。</SoSArchotechLung.description>
+
+    <SoSArchotechKidney.label>超凡仿生肾</SoSArchotechKidney.label>
+    <SoSArchotechKidney.labelNoun>一个超凡仿生肾</SoSArchotechKidney.labelNoun>
+    <SoSArchotechKidney.description>一个已安装的超凡仿生肾。</SoSArchotechKidney.description>
+
+    <SoSArchotechLiver.label>超凡仿生肝</SoSArchotechLiver.label>
+    <SoSArchotechLiver.labelNoun>一个超凡仿生肝</SoSArchotechLiver.labelNoun>
+    <SoSArchotechLiver.description>一个已安装的超凡仿生肝。</SoSArchotechLiver.description>
+
+    <SoSArchotechSpine.label>超凡仿生脊椎</SoSArchotechSpine.label>
+    <SoSArchotechSpine.labelNoun>一根超凡仿生脊椎</SoSArchotechSpine.labelNoun>
+    <SoSArchotechSpine.description>一根已安装的超凡仿生脊椎。</SoSArchotechSpine.description>
+
+    <SoSArchotechSkin.label>超凡仿生皮肤</SoSArchotechSkin.label>
+    <SoSArchotechSkin.labelNoun>一块超凡仿生皮肤</SoSArchotechSkin.labelNoun>
+    <SoSArchotechSkin.description>一块已安装的超凡仿生皮肤。</SoSArchotechSkin.description>
+
+</LanguageData>

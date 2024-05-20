@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <SoSArchotechEar.label>超凡仿生耳</SoSArchotechEar.label>
+    <SoSArchotechEar.description>一只超凡智能制造的仿生耳。可以听到像蚊子的心跳一样微弱的声音，还能识别出拥挤房间里低语出的单词。外表部分可以随意改变形状，甚至产生各种装饰。它看上去和摸上去都与生物原本的感觉器官几乎无异，但却比玻璃钢更坚固。即使它受到伤害，也会随着时间的推移自我修复。它的内部结构对于所有人类来说都是个谜。</SoSArchotechEar.description>
+    
+    <SoSArchotechNose.label>超凡仿生鼻</SoSArchotechNose.label>
+    <SoSArchotechNose.description>一个超凡智能制造的仿生鼻。外部部分可以自我重塑，以符合观看者的美感，提升安装者的魅力。其嗅觉比猎犬更为敏感，甚至可以基于信息素与动物进行沟通——因此可以提高驯服和训练的成功率。它看上去和摸上去都与生物原本的感觉器官几乎无异，但却比玻璃钢更坚固。即使它受到伤害，也会随着时间的推移自我修复。它的内部结构对于所有人类来说都是个谜。</SoSArchotechNose.description>
+
+    <SoSArchotechJaw.label>超凡仿生颌</SoSArchotechJaw.label>
+    <SoSArchotechJaw.description>一个超凡智能制造的仿生颌。它能随意重塑自己以符合观看者的美感，所发出的声音简直是完美无比。这不仅能提升安装者的魅力，还能显著增加社交影响力。其肌肉强大到可以碾碎股骨，却又能细致到轻轻咬住恋人的脖颈。它看上去和摸上去都与生物原本的部位几乎无异，但却比玻璃钢更坚固。即使它受到伤害，也会随着时间的推移自我修复。它的内部结构对于所有人类来说都是个谜。</SoSArchotechJaw.description>
+
+    <SoSArchotechHeart.label>超凡仿生心脏</SoSArchotechHeart.label>
+    <SoSArchotechHeart.description>一颗超凡智能制造的仿生心脏。它能够支撑远超人类运动水平的活动，却不会有任何不舒服的快速搏动。它在一定程度上修改了血液循环，使得部分血液能回流进伤口。安装者还报告称伤口愈合速度变得更快。它看上去和生物原本的内脏器官几乎无异，但却比玻璃钢更坚固。即使它受到伤害，也会随着时间的推移自我修复。它的内部结构对于所有人类来说都是个谜。</SoSArchotechHeart.description>
+
+    <SoSArchotechLung.label>超凡仿生肺</SoSArchotechLung.label>
+    <SoSArchotechLung.description>一个超凡智能制造的仿生肺。它可以从足矣将正常人类杀死的行星大气中提取微量氧气，且免疫有毒气体。即使在水下或者空环境中，也能通过虚空能量驱动的转化器将二氧化碳循环转化为氧气。它看上去和生物原本的内脏器官几乎无异，但却比玻璃钢更坚固。即使它受到伤害，也会随着时间的推移自我修复。它的内部结构对于所有人类来说都是个谜。</SoSArchotechLung.description>
+
+    <SoSArchotechStomach.label>超凡仿生胃</SoSArchotechStomach.label>
+    <SoSArchotechStomach.description>一个超凡智能制造的仿生胃。它以虚空能量与肺部集成模块吸收的空气中的原子，为身体提供所需的全部能量。安装者（几乎）再也不需要进食，如果他们喜欢这样做，这个胃依然能分解食物并且免疫食物中毒。它看上去和生物原本的内脏器官几乎无异，但却比玻璃钢更坚固。即使它受到伤害，也会随着时间的推移自我修复。它的内部结构对于所有人类来说都是个谜。</SoSArchotechStomach.description>
+
+    <SoSArchotechKidney.label>超凡仿生肾</SoSArchotechKidney.label>
+    <SoSArchotechKidney.description>一个超凡智能制造的仿生肾。它能够过高效的滤掉毒素、放射性同位素和各种病原体。安装者能更快地获得免疫力，还能长时间暴露在有毒环境下。它看上去和生物原本的内脏器官几乎无异，但却比玻璃钢更坚固。即使它受到伤害，也会随着时间的推移自我修复。它的内部结构对于所有人类来说都是个谜。</SoSArchotechKidney.description>
+
+    <SoSArchotechLiver.label>超凡仿生肝</SoSArchotechLiver.label>
+    <SoSArchotechLiver.description>一个超凡智能制造的仿生肝。它能够分解任何毒性物质，甚至通过奇异的物理学性质中和掉放射性同位素。结合超凡科技仿生肾，它就能保护完全暴露在毒素环境下的安装者免受伤害。它看上去和生物原本的内脏器官几乎无异，但却比玻璃钢更坚固。即使它受到伤害，也会随着时间的推移自我修复。它的内部结构对于所有人类来说都是个谜。</SoSArchotechLiver.description>
+
+    <SoSArchotechSpine.label>超凡仿生脊椎</SoSArchotechSpine.label>
+    <SoSArchotechSpine.description>一个超凡智能制造的仿生肝。能够以让猫都嫉妒的方式弯曲，且在有必要时坚固到足矣承载一辆小汽车。安装者的核心力量得到了显著增强，也提高了他们的操作能力。它看上去和生物原本的骨骼几乎无异，但却比玻璃钢更坚固。即使它受到伤害，也会随着时间的推移自我修复。它的内部结构对于所有人类来说都是个谜。</SoSArchotechSpine.description>
+
+    <SoSArchotechSkin.label>超凡仿生皮肤</SoSArchotechSkin.label>
+    <SoSArchotechSkin.description>这一小块人造皮肤会迅速扩散以覆盖安装者的全身。超凡仿生皮肤能抵抗压力变化并完全免疫真空减压，以及提供重要的温度防护和护甲。结合超凡仿生肺，它能使安装者无限期在真空环境中生存。它看上去和摸上去都与生物原本的皮肤几乎无异，但却比玻璃钢更坚固。即使它受到伤害，也会随着时间的推移自我修复。它的内部结构对于所有人类来说都是个谜。</SoSArchotechSkin.description>
+
+</LanguageData>

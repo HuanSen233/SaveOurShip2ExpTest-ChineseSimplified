@@ -292,10 +292,10 @@
 	<SoS.EVACapable>EVA 兼容</SoS.EVACapable>
 	<SoS.AtmosphereVacuum>真空环境</SoS.AtmosphereVacuum>
 	<SoS.Atmosphere>可呼吸环境</SoS.Atmosphere>
-	<SoS.AtmosphereNonBreathable>非气密环境</SoS.AtmosphereNonBreathable>
+	<SoS.AtmosphereNonBreathable>不可呼吸环境</SoS.AtmosphereNonBreathable>
 	<SoS.AtmosphereBreach>该空间不合规！</SoS.AtmosphereBreach>
-	<SoS.CocoonPlaceFail>无法生成休眠茧！</SoS.CocoonPlaceFail>
-	<SoS.CocoonMalnourished>目标没有足够的营养值</SoS.CocoonMalnourished>
+	<SoS.CocoonPlaceFail>无法生成滞眠茧！</SoS.CocoonPlaceFail>
+	<SoS.CocoonMalnourished>使用者处在营养不良状态</SoS.CocoonMalnourished>
 	<!-- 凝胶体、孢子 -->
 	<SoS.SpawnHologram>生成\n微械凝胶体</SoS.SpawnHologram>
 	<SoS.SpawnHologramDesc>这个装置的意识可以通过微械凝胶体来影响现实。</SoS.SpawnHologramDesc>
