@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <SoSHologram.title>虚拟人</SoSHologram.title>
+    <SoSHologram.titleShort>虚拟人</SoSHologram.titleShort>
+    <SoSHologram.baseDesc>[PAWN_nameDef]是一个通过计算模拟出的角色。[PAWN_nameDef]通过一种形体凝胶与世界互动，这种凝胶由一群模仿人体的微型机械构成。</SoSHologram.baseDesc>
+    <SoSHologram.description>[PAWN_nameDef]是一个通过计算模拟出的角色。[PAWN_nameDef]通过一种形体凝胶与世界互动，这种凝胶由一群模仿人体的微型机械构成。</SoSHologram.description>
+
+</LanguageData>

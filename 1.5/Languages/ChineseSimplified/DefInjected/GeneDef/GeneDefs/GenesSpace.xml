@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <SoS2_VacuumAdapted.label>真空适应</SoS2_VacuumAdapted.label>
+    <SoS2_VacuumAdapted.description>这种基因的携带者可以直接暴露在真空环境下存活。他们的血液可以调节身体内部的气体，以防止减压伤害，并且当其处在无氧环境时可以将身体切换到厌氧呼吸模式。代谢废气通过皮肤排出以提供EVA推力。然而，这种基因并不能保护携带者免受极端温度的影响。</SoS2_VacuumAdapted.description>
+
+    <SoS2_Cocoon.label>滞眠茧</SoS2_Cocoon.label>
+    <SoS2_Cocoon.description>这种基因的携带者可以生长出一种天然的滞眠茧，使他们可以随时进入休眠状态。然而，这一过程会逐渐停滞使用者的新陈代谢，其会因此出现中度营养不良。</SoS2_Cocoon.description>
+
+</LanguageData>
