@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <Astromite.label>宇宙螨</Astromite.label>
+    <Astromite.description>一种经过基因改造的大型螨虫。厚重的外骨骼和厌氧代谢使其能够在太空中生存。曾经是设计用于小行星开采有机系统的一部分，但由于蜂巢思维被充分证明其难以控制而最终放弃。作为一种真社会性的生物，无法自行繁殖。</Astromite.description>
+    <Astromite.tools.0.label>下颚</Astromite.tools.0.label>
+    <Astromite.tools.1.label>头</Astromite.tools.1.label>
+    
+    <Stellapede.label>宇宙阔步虫</Stellapede.label>
+    <Stellapede.description>宇宙阔步虫是我们熟悉的洞穴阔步虫的真空适应变种，它的厌氧代谢使其能够在太空中生存。它似乎主要以各类矿物为食，但还是会热切的追捕任何有机体猎物。</Astromite.description>
+    <Stellapede.tools.0.label>钳子</Stellapede.tools.0.label>
+    <Stellapede.tools.1.label>头</Stellapede.tools.1.label>
+    
+    <cosmopillar.label>宙柱蛆</cosmopillar.label>
+    <cosmopillar.description>这种巨大的蛆虫拥有“太空中最恶心的生物”这项可疑的荣誉。它能啃穿坚硬的岩石，并留下一条被自己粘液所覆盖的隧道。宙柱蛆曾经是设计用于小行星开采的昆虫的先锋。虽然该项目早已被放弃，但这些遗留下的数量庞大的饥饿蛆虫依然让小行星矿工们时刻生活在恐惧之中。\n\n有传言称，最古老的宙柱蛆会在小行星的中心进入深度休眠状态，其不稳定的基因将导致它们化蛹成某种更加可怖之物......</cosmopillar.description>
+    <cosmopillar.tools.0.label>钳子</cosmopillar.tools.0.label>
+    <cosmopillar.tools.1.label>头</cosmopillar.tools.1.label>
+
+</LanguageData>
