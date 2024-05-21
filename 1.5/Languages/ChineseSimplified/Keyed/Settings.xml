@@ -20,7 +20,7 @@
 	<SoS.Settings.EasyMode>简单跳帮模式</SoS.Settings.EasyMode>
 	<SoS.Settings.EasyMode.Desc>如果启用，将防止载有玩家小人的穿梭机被敌方舰船点防御系统击落。默认：关</SoS.Settings.EasyMode.Desc>
 	<SoS.Settings.ShipMapPhysics>船舶地图物理</SoS.Settings.ShipMapPhysics>
-	<SoS.Settings.ShipMapPhysics.Desc>如果启用，当舰船移动时将把不在船上的小人和物品送去坟场。这也会限制穿梭机只能降落在穿梭机停机坪或舰船外。默认：关</SoS.Settings.ShipMapPhysics.Desc>
+	<SoS.Settings.ShipMapPhysics.Desc>如果启用，当舰船移动时将把不在船上的小人和物品送去坟场。这也会限制穿梭机只能降落在穿梭机停靠港或舰船外。默认：关</SoS.Settings.ShipMapPhysics.Desc>
 	<SoS.Settings.ArchoRemove>限制超凡生物生成</SoS.Settings.ArchoRemove>
 	<SoS.Settings.ArchoRemove.Desc>如果第三方模组在超凡科技孢子能被正常建造前生成了超凡生物，那么这个选项会将它们删除。默认：关</SoS.Settings.ArchoRemove.Desc>
 	<SoS.Settings.ArchoKill>超凡生物不能失去孢子</SoS.Settings.ArchoKill>

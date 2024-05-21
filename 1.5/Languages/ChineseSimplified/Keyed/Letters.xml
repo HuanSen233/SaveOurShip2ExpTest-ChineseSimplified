@@ -17,7 +17,7 @@
 	<SoS.CombatFleetDesc>敌方舰队正在接近！</SoS.CombatFleetDesc>
 	<SoS.WinShipBattle>船战胜利</SoS.WinShipBattle>
 	<SoS.WinShipBattleDesc>随着最后一艘敌舰的控制系统被摧毁，它已然成了一块大号的空间碎片。它将在 {0}后落入大气并被其烧毁。\n\n你可以通过跳帮队登船手动取回货物和俘虏人员，或者使用打捞港将其移动到你的地图上。两种选择无论哪项都请准备好击退船上剩余的敌人。</SoS.WinShipBattleDesc>
-	<SoS.WinShipBattleHackDesc>随着最后一艘敌舰的控制系统被夺取，他已然成为了一只待宰羔羊。它将在 {0}后落入大气并被其烧毁。\n\n如果它还有移动能力的话，你可以选择将其连同舰桥一起开回你的地图，或者使用打捞港来捞它回去。</SoS.WinShipBattleHackDesc>
+	<SoS.WinShipBattleHackDesc>随着最后一艘敌舰的控制系统被夺取，它已然成为了一只待宰羔羊。它将在 {0}后落入大气并被其烧毁。\n\n如果它还有移动能力的话，你可以选择将其连同舰桥一起开回你的地图，或者使用打捞港来捞它回去。</SoS.WinShipBattleHackDesc>
 	<SoS.SpaceAsteroids>小行星区域</SoS.SpaceAsteroids>
 	<SoS.SpaceAsteroidsDesc>飞船已进入小行星区域。发动推进器躲避或者准备撞击！</SoS.SpaceAsteroidsDesc>
 	<SoS.PawnsLostReEntry>落入大气</SoS.PawnsLostReEntry>

@@ -43,7 +43,7 @@
 	<SoS.WrecksPreventMove>地图上的残骸不能移动！</SoS.WrecksPreventMove>
 	<SoS.RemoveWrecks>移除残骸</SoS.RemoveWrecks>
 	<SoS.RemoveWrecksDesc>将地图上的所有残骸移除，它们将被摧毁。</SoS.RemoveWrecksDesc>
-	<SoS.RemoveWrecksConfirm>移除地图上所有残骸？\n\n这将移除任何无法移动的船只或残骸！他们会被太空碎片摧毁。</SoS.RemoveWrecksConfirm>
+	<SoS.RemoveWrecksConfirm>移除地图上所有残骸？\n\n这将移除任何无法移动的船只或残骸！它们会被太空碎片摧毁。</SoS.RemoveWrecksConfirm>
 	<SoS.WithdrawWrecks>撤出残骸</SoS.WithdrawWrecks>
 	<SoS.WithdrawWrecksDesc>从战斗中撤出所有残骸</SoS.WithdrawWrecksDesc>
 	<SoS.WithdrawWrecksConfirm>把所有残骸撤进坟场？如果你输了或者逃跑，敌人将攻击你的坟场。如果你赢了可以用打捞港捞回少量燃料。</SoS.WithdrawWrecksConfirm>
@@ -169,7 +169,7 @@
 	<SoS.Rename>重命名舰船</SoS.Rename>
 	<SoS.RenameDesc>给这艘船起个新名字</SoS.RenameDesc>
 	<SoS.Move>移动舰船</SoS.Move>
-	<SoS.MoveDesc>把船移动到地图上的其他位置</SoS.MoveDesc>
+	<SoS.MoveDesc>把船移动到地图上的其它位置</SoS.MoveDesc>
 	<SoS.MoveFlip>翻转舰船</SoS.MoveFlip>
 	<SoS.MoveFlipDesc>水平翻转舰船</SoS.MoveFlipDesc>
 	<SoS.MoveRot>旋转舰船</SoS.MoveRot>
@@ -336,7 +336,7 @@
 	<SoS.ArchotechSoulDownload>下载心灵存档（{0}）</SoS.ArchotechSoulDownload>
 	<SoS.ArchotechSoulDownloadDesc>下载 {0} 的意识到一台来世棺材里。</SoS.ArchotechSoulDownloadDesc>
 	<SoS.ArchotechOptimizeMatter>超凡科技船体优化</SoS.ArchotechOptimizeMatter>
-	<SoS.ArchotechOptimizeMatterDesc>自动将在一个缓慢扩大的转换半径内的标准船体转换到超凡科技船体。这不会影响大型建筑结构，例如散热器和护盾发生器。</SoS.ArchotechOptimizeMatterDesc>
+	<SoS.ArchotechOptimizeMatterDesc>自动将在一个缓慢扩大的转换半径内的船体转换到超凡科技船体。这不会影响大型建筑结构，例如散热器和护盾发生器。</SoS.ArchotechOptimizeMatterDesc>
 	<SoS.ArchotechGiftParticles>将礼物换成异形粒子</SoS.ArchotechGiftParticles>
 	<SoS.ArchotechGiftParticlesDesc>自动接受超凡科技礼物并将其全部转换成异形粒子</SoS.ArchotechGiftParticlesDesc>
 	<SoS.ArchotechDemandGift>索要礼物</SoS.ArchotechDemandGift>
@@ -345,8 +345,8 @@
 	<SoS.ArchotechEvolve>启动超凡进化</SoS.ArchotechEvolve>
 	<SoS.ArchotechEvolveDesc>将你的超凡科技孢子进化成一个真正的超凡科技，并为这个世界开创一个崭新的时代。\n\n这将会结束游戏！</SoS.ArchotechEvolveDesc>
 	<SoS.ArchotechMoodLow>超凡科技孢子情绪低落</SoS.ArchotechMoodLow>
-	<SoS.ArchotechMoodLowDesc>你的超凡科技孢子不高兴了，他可能会对你的舰船或船员玩“恶作剧”。\n\n孢子的情绪可以通过让殖民者在附近冥想来缓慢改善，或者通过献祭囚犯的方式取悦它。</SoS.ArchotechMoodLowDesc>
-	<SoS.ArchotechMoodLowNoRoyDesc>你的超凡科技孢子心情很差，他会对你的舰船或船员玩“恶作剧”。\n\n孢子的情绪可以通过献祭囚犯来快速改善。</SoS.ArchotechMoodLowNoRoyDesc>
+	<SoS.ArchotechMoodLowDesc>你的超凡科技孢子不高兴了，它可能会对你的舰船或船员玩“恶作剧”。\n\n孢子的情绪可以通过让殖民者在附近冥想来缓慢改善，或者通过献祭囚犯的方式取悦它。</SoS.ArchotechMoodLowDesc>
+	<SoS.ArchotechMoodLowNoRoyDesc>你的超凡科技孢子心情很差，它会对你的舰船或船员玩“恶作剧”。\n\n孢子的情绪可以通过献祭囚犯来快速改善。</SoS.ArchotechMoodLowNoRoyDesc>
 	<!-- 超凡动物 -->
 	<SoS.ArchoAnimalSuddenDeath>由于某种宇宙事件，一种超凡动物出现了但又很快就消失了。也许这是某些事情即将到来的征兆。</SoS.ArchoAnimalSuddenDeath>
 	<SoS.ArchoAnimalSporeDeath>由于没有了超凡科技的指引，{0} 已经消亡。</SoS.ArchoAnimalSporeDeath>

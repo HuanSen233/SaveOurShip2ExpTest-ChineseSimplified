@@ -1,31 +1,73 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     <Archocat.label>超凡猫</Archocat.label>
-    <Archocat.description>一只完美版本的猫咪，这团可爱的绒毛球最想做的就是和船员们一起在玩耍中度过每一天。除了频繁亲昵外，超凡猫还会释放一种心灵咕噜声，可以改善附近殖民者的心情。它从技术上可以被训练去“搬运”东西，虽然是通过在地板上不断拍打物体来完成。\n\n与其它超凡生物不同，超凡猫可以使用灵能改变其身体形状和毛色。改变形态对于这种生物来说这似乎轻而易举，但它只会采取两种离散形态之一——一种是披着绒毛的斑纹猫，另一种是有短尾巴的花猫。尚不清楚这是一种物理限制还是一种心灵限制，而你的超凡科技孢子则将整个事件看作是个笑话，殖民者们也不会在乎这事。\n\n和所有超凡生物一样，它的细胞会使用虚空能量从空气中吸收原子为自身供能，因此不需要进食。超凡生物可以在真空环境下存活，没有最大已知寿命，且能再生有疤痕或缺失的身体部位。它甚至可以在战斗中产生护盾用来保护自已。</Archocat.description>
+    <Archocat.description>一只完美版本的猫咪，这团可爱的绒毛球最想做的就是和船员们一起在玩耍中度过每一天。除了频繁亲昵外，超凡猫还会释放一种心灵咕噜声，可以改善附近殖民者的心情。它从技术上可以被训练去“搬运”东西，虽然是通过在地板上不断拍打物体来完成。\n\n与其它超凡生物不同，超凡猫可以使用灵能改变其身体形状和毛色。改变形态对于这种生物来说这似乎轻而易举，但它只会采取两种离散形态之一——一种是披着绒毛的斑纹猫，另一种是有短尾巴的花猫。尚不清楚这是一种物理限制还是一种心灵限制，而你的超凡科技孢子则将整个事件看作是个笑话，殖民者们也不会在乎这事。\n\n和所有超凡生物一样，它的细胞会使用虚空能量又从空气中吸收原子为自身供能，因此不需要进食。超凡生物可以在真空环境下存活，没有最大已知寿命，且能再生有疤痕或缺失的身体部位。它甚至可以在战斗中产生护盾用来保护自已。</Archocat.description>
     <Archocat.tools.0.label>左爪</Archocat.tools.0.label>
     <Archocat.tools.1.label>右爪</Archocat.tools.1.label>
     <Archocat.tools.2.label>咬</Archocat.tools.2.label>
     <Archocat.tools.3.label>头</Archocat.tools.3.label>
     
     <Archomutt.label>超凡犬</Archomutt.label>
-    <Archomutt.description>人类的好朋友变的更好了。超凡犬是一种体型庞大、勇敢忠诚的狗，拥有无穷无尽的精力玩耍——但当家人受到威胁时，他会表现出重型机械体的战斗性能。它还是一只优秀的工作犬，可以被训练用来搬运货物。\n\n和所有超凡生物一样，它的细胞会使用虚空能量从空气中吸收原子为自身供能，因此不需要进食。超凡生物可以在真空环境下存活，没有最大已知寿命，且能再生有疤痕或缺失的身体部位。它甚至可以在战斗中产生护盾用来保护自已。</Archomutt.description>
+    <Archomutt.description>人类的好朋友变的更好了。超凡犬是一种体型庞大、勇敢忠诚的狗，拥有无穷无尽的精力玩耍——但当家人受到威胁时，他会表现出重型机械体的战斗性能。它还是一只优秀的工作犬，可以被训练用来搬运货物。\n\n和所有超凡生物一样，它的细胞会使用虚空能量又从空气中吸收原子为自身供能，因此不需要进食。超凡生物可以在真空环境下存活，没有最大已知寿命，且能再生有疤痕或缺失的身体部位。它甚至可以在战斗中产生护盾用来保护自已。</Archomutt.description>
     <Archomutt.tools.0.label>左爪</Archomutt.tools.0.label>
     <Archomutt.tools.1.label>右爪</Archomutt.tools.1.label>
     <Archomutt.tools.2.label>咬</Archomutt.tools.2.label>
     <Archomutt.tools.3.label>头</Archomutt.tools.3.label>
 
+    <Archojerboa.label>超凡跳鼠</Archojerboa.label>
+    <Archojerboa.description>这种活泼的啮齿动物能跳得非常高，常常会落在主人的肩膀上在耳边吱吱叫。它是种出色的宠物，而且其繁殖速度也能保证船上的每个人都可以拥有一只。在紧急情况下，超凡跳鼠还可以用作活体炸弹——不稳定的虚空能量会在其死亡后发生爆炸。\n\n和所有超凡生物一样，它的细胞会使用虚空能量又从空气中吸收原子为自身供能，因此不需要进食。超凡生物可以在真空环境下存活，没有最大已知寿命，且能再生有疤痕或缺失的身体部位。它甚至可以在战斗中产生护盾用来保护自已。</Archojerboa.description>
+    <Archojerboa.tools.0.label>左爪</Archojerboa.tools.0.label>
+    <Archojerboa.tools.1.label>右爪</Archojerboa.tools.1.label>
+    <Archojerboa.tools.2.label>咬</Archojerboa.tools.2.label>
+    <Archojerboa.tools.3.label>头</Archojerboa.tools.3.label>
+
     <Archoffalo.label>超凡雪牛</Archoffalo.label>
-    <Archoffalo.description>你的超凡科技孢子尊重边缘世界禁止使用地面载具的愿望，因此设计了超凡雪牛来取代它们。这种动物具有可塑且坚韧毛发，可以形成袋子、平台或其它任何所需的结构来装载货物。当毛发太长时，可以剪下来当作超织物使用。\n\n和所有超凡生物一样，它的细胞会使用虚空能量从空气中吸收原子为自身供能，因此不需要进食。超凡生物可以在真空环境下存活，没有最大已知寿命，且能再生有疤痕或缺失的身体部位。它甚至可以在战斗中产生护盾用来保护自已。</Archoffalo.description>
+    <Archoffalo.description>你的超凡科技孢子尊重边缘世界禁止使用地面载具的愿望，因此设计了超凡雪牛来取代它们。这种动物具有可塑且坚韧毛发，可以形成袋子、平台或其它任何所需的结构来装载货物。当毛发太长时，可以剪下来当作超织物使用。\n\n和所有超凡生物一样，它的细胞会使用虚空能量又从空气中吸收原子为自身供能，因此不需要进食。超凡生物可以在真空环境下存活，没有最大已知寿命，且能再生有疤痕或缺失的身体部位。它甚至可以在战斗中产生护盾用来保护自已。</Archoffalo.description>
     <Archoffalo.tools.0.label>头</Archoffalo.tools.0.label>
     <Archoffalo.tools.1.label>左蹄</Archoffalo.tools.1.label>
     <Archoffalo.tools.2.label>右蹄</Archoffalo.tools.2.label>
     <Archoffalo.tools.3.label>咬</Archoffalo.tools.3.label>
 
     <Archolope.label>超凡爆炸羊</Archolope.label>
-    <Archolope.description>对普通爆炸羊的优雅改进。超凡爆炸羊以某种方式产生异形粒子，并将其安全的封装在它的“奶”的分子结构内的富勒烯壳中。无论是通过何种方式生产，它们似乎天生就不太稳定——当一只超凡爆炸羊死亡时，将会产生与一枚反粒子弹头的威力相当的爆炸。\n\n和所有超凡生物一样，它的细胞会使用虚空能量从空气中吸收原子为自身供能，因此不需要进食。超凡生物可以在真空环境下存活，没有最大已知寿命，且能再生有疤痕或缺失的身体部位。它甚至可以在战斗中产生护盾用来保护自已。</Archolope.description>
+    <Archolope.description>对普通爆炸羊的优雅改进。超凡爆炸羊以某种方式产生异形粒子，并将其安全的封装在它的“奶”的分子结构内的富勒烯壳中。无论是通过何种方式产生，它们似乎天生就不太稳定——当一只超凡爆炸羊死亡时，将会产生与一枚反粒子弹头的威力相当的爆炸。\n\n和所有超凡生物一样，它的细胞会使用虚空能量又从空气中吸收原子为自身供能，因此不需要进食。超凡生物可以在真空环境下存活，没有最大已知寿命，且能再生有疤痕或缺失的身体部位。它甚至可以在战斗中产生护盾用来保护自已。</Archolope.description>
     <Archolope.tools.0.label>头</Archolope.tools.0.label>
     <Archolope.tools.1.label>左蹄</Archolope.tools.1.label>
     <Archolope.tools.2.label>右蹄</Archolope.tools.2.label>
     <Archolope.tools.3.label>咬</Archolope.tools.3.label>
+
+    <Archothrumbo.label>超凡敲击兽</Archothrumbo.label>
+    <Archothrumbo.description>还能更完美吗？你的超凡科技孢子会响亮的回一个[能]。超凡敲击兽不仅和前身一样华丽而强大，还没有了贪婪的食欲。它的角可以像等离子剑一样笼罩在烈焰中，且它的蹄的每一次攻击都可以释放电磁脉冲。没有比这种神话般的野兽更致命的战斗动物了。\n\n和所有超凡生物一样，它的细胞会使用虚空能量又从空气中吸收原子为自身供能，因此不需要进食。超凡生物可以在真空环境下存活，没有最大已知寿命，且能再生有疤痕或缺失的身体部位。它甚至可以在战斗中产生护盾用来保护自已。</Archothrumbo.description>
+    <Archothrumbo.tools.0.label>角</Archothrumbo.tools.0.label>
+    <Archothrumbo.tools.1.label>咬</Archothrumbo.tools.1.label>
+    <Archothrumbo.tools.2.label>左蹄</Archothrumbo.tools.2.label>
+    <Archothrumbo.tools.3.label>右蹄</Archothrumbo.tools.3.label>
+    <Archothrumbo.tools.4.label>头</Archothrumbo.tools.4.label>
+
+    <Archotortoise.label>超凡龟</Archotortoise.label>
+    <Archotortoise.description>超凡龟简直就是座移动堡垒。它身披分泌出的玻璃钢装甲，可以自信的闯入任何近战场面。在和平时期，还可以收集它的壳以获取玻璃钢且不会对其造成伤害。\n\n和所有超凡生物一样，它的细胞会使用虚空能量又从空气中吸收原子为自身供能，因此不需要进食。超凡生物可以在真空环境下存活，没有最大已知寿命，且能再生有疤痕或缺失的身体部位。它甚至可以在战斗中产生护盾用来保护自已。</Archotortoise.description>
+    <Archotortoise.tools.0.label>喙</Archotortoise.tools.0.label>
+    <Archotortoise.tools.1.label>头</Archotortoise.tools.1.label>
+
+    <Archopanda.label>超凡熊猫</Archopanda.label>
+    <Archopanda.description>“活的泰迪熊”，有时被这么称呼的超凡熊猫是种理想的宠物，适合那些喜欢被热情撞倒的人。它温和的本性使得其对战斗不太上心，但它是块在商队中驮运货物的好料子。\n\n和所有超凡生物一样，它的细胞会使用虚空能量又从空气中吸收原子为自身供能，因此不需要进食。超凡生物可以在真空环境下存活，没有最大已知寿命，且能再生有疤痕或缺失的身体部位。它甚至可以在战斗中产生护盾用来保护自已。</Archopanda.description>
+    <Archopanda.tools.0.label>左爪</Archopanda.tools.0.label>
+    <Archopanda.tools.1.label>右爪</Archopanda.tools.1.label>
+    <Archopanda.tools.2.label>咬</Archopanda.tools.2.label>
+    <Archopanda.tools.3.label>头</Archopanda.tools.3.label>
+
+    <Archostrich.label>超凡鸵鸟</Archostrich.label>
+    <Archostrich.description>无法飞行但却凶猛无比，超凡鸵鸟在食物来源和战斗动物两方面都能扮演非同寻常的角色。这种鸟类在战斗中表现出色，它的奔跑速度超过了大多数汽车，踢一脚可以踹裂玻璃钢。它还能用灵能感应附近人类的口味偏好，并将自己的蛋修改至相应味道。\n\n和所有超凡生物一样，它的细胞会使用虚空能量又从空气中吸收原子为自身供能，因此不需要进食。超凡生物可以在真空环境下存活，没有最大已知寿命，且能再生有疤痕或缺失的身体部位。它甚至可以在战斗中产生护盾用来保护自已。</Archostrich.description>
+    <Archostrich.tools.0.label>爪</Archostrich.tools.0.label>
+    <Archostrich.tools.1.label>嘴</Archostrich.tools.1.label>
+    <Archostrich.tools.2.label>头</Archostrich.tools.2.label>
+    <EggArchostrichFertilized.label>超凡鸵鸟蛋 (已受精)</EggArchostrichFertilized.label>
+    <EggArchostrichFertilized.description>已受精的超凡鸵鸟蛋。如果一切顺利应该可以孵化出超凡鸵鸟幼崽。可以生吃，但是最好烹饪后食用。</EggArchostrichFertilized.description>
+    <EggArchostrichFertilized.label>超凡鸵鸟蛋 (未受精)</EggArchostrichFertilized.label>
+    <EggArchostrichFertilized.description>未受精的超凡鸵鸟蛋。可以生吃，但是最好烹饪后食用。</EggArchostrichFertilized.description>
+
+    <Archospider.label>超凡蜘蛛</Archospider.label>
+    <Archospider.description>也许你的超凡科技孢子讨厌蜘蛛恐惧症患者。制造这种怪物几乎不需要什么理由——它拥有坦克般的装甲，可以剪断玻璃钢的大嘴巴，以及可以迅速威胁到一个星球生态系统的繁殖能力。且它对主人永远忠诚......至少目前很忠诚。\n\n和所有超凡生物一样，它的细胞会使用虚空能量又从空气中吸收原子为自身供能，因此不需要进食。超凡生物可以在真空环境下存活，没有最大已知寿命，且能再生有疤痕或缺失的身体部位。它甚至可以在战斗中产生护盾用来保护自已。</Archospider.description>
+    <Archospider.tools.0.label>钳子</Archospider.tools.0.label>
+    <Archospider.tools.1.label>头</Archospider.tools.1.label>
 
 </LanguageData>
