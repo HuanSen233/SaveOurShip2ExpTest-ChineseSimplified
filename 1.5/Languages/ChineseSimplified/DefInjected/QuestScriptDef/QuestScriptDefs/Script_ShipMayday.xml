@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <SoSMayday.questNameRules.rulesStrings.0>questName->舰船呼救</SoSMayday.questNameRules.rulesStrings.0>
+    <SoSMayday.questDescriptionRules.rulesStrings.0>questDescription->“求救，求教...失去控制...被海盗...没有回应...冲击...”话音混乱的无线电信号伴随着一道火光划过天空。看起来这艘船将会在不远处的[map_definite]降落。\n\n一艘如此醒目的沉船显然会吸引到附近所有的海盗、劫匪和寻宝者。即使你及时赶到，也必须在扑灭火灾的同时抵御袭击，以确保还能够回收船上珍贵的战利品。\n\n它看起来像是[allSitePartsDescriptionsExceptFirst]</SoSMayday.questDescriptionRules.rulesStrings.0>
+    <SoSMayday.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>任务已失效：[resolvedQuestName]</SoSMayday.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+    <SoSMayday.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>截获的通讯显示该船的所有贵重物品已被洗劫一空。任务[resolvedQuestName]已过期。</SoSMayday.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+
+</LanguageData>

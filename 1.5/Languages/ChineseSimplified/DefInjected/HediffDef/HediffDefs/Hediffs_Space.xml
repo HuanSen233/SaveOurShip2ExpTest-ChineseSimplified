@@ -2,6 +2,9 @@
 <LanguageData>
     <VacuumDamageHediff.label>减压伤</VacuumDamageHediff.label>
     <VacuumDamageHediff.description>一处因失压导致的减压伤。</VacuumDamageHediff.description>
+    <VacuumDamageHediff.comps.HediffComp_GetsPermanent.permanentLabel>减压伤伤疤</VacuumDamageHediff.comps.HediffComp_GetsPermanent.permanentLabel>
+    <VacuumDamageHediff.injuryProps.destroyedLabel>败给了失压</VacuumDamageHediff.injuryProps.destroyedLabel>
+    <VacuumDamageHediff.labelNounPretty>{0}在{1}中</VacuumDamageHediff.labelNounPretty>
     
     <SpaceHypoxia.label>缺氧</SpaceHypoxia.label>
     <SpaceHypoxia.description>因缺乏氧气而引起的器官衰竭。如果找不到EVA太空服或有生命维持系统工作的房间，那么很快就会有致命的后果。</SpaceHypoxia.description>

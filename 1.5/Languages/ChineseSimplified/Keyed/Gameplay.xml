@@ -17,7 +17,7 @@
 	<SoS.BurnUpPlayerDesc>由于失去了最后一座舰桥，地图不能再维持它的轨道，将在{0}天后落入大气！\n\n上面的一切都会被摧毁！</SoS.BurnUpPlayerDesc>
 	<SoS.BurnUpPlayerPrevented>建造飞船舰桥等相关设备可以稳定轨道。</SoS.BurnUpPlayerPrevented>
 	<SoS.BurnUpCountdown>在 {0} 后落入大气！</SoS.BurnUpCountdown>
-	<SoS.BurnUpCountdownTip>这张地图将在 {0}后落入大气。上面的一切都会被摧毁。</SoS.BurnUpCountdownTip>
+	<SoS.BurnUpCountdownTip>这张地图将在{0}后落入大气。上面的一切都会被摧毁。</SoS.BurnUpCountdownTip>
 	<!-- 战斗 -->
 	<SoS.CombatTooltip>显示敌舰与你舰之间的距离，以及所有正在飞行的炮弹和穿梭机。\n\n红色：激光、实弹炮的射程\n绿色：等离子的射程\n蓝色：轨道炮的射程\n紫色：鱼雷射程\n小色条：大型武器的最大射程但不精准</SoS.CombatTooltip>
 	<SoS.ShipFleet>舰队</SoS.ShipFleet>
@@ -187,7 +187,7 @@
 	<SoS.Rebuild>舰船部件被毁自动重建</SoS.Rebuild>
 	<SoS.RebuildDesc>放置这艘船上被毁建筑的蓝图。</SoS.RebuildDesc>
 	<!-- 故事 -->
-	<SoS.QuestPillarA>攻击\n地平线空间站</SoS.QuestPillarA>
+	<SoS.QuestPillarA>攻击\n地平线号空间站</SoS.QuestPillarA>
 	<SoS.QuestPillarADesc>攻击超凡科技星球改造站并尝试回收一根超凡科技柱。</SoS.QuestPillarADesc>
 	<SoS.QuestPillarB>突袭\n月面基地</SoS.QuestPillarB>
 	<SoS.QuestPillarBDesc>攻击机械族的月球基地并尝试回收一根超凡科技柱。\n\n这同时也会招来一艘机械族战舰！</SoS.QuestPillarBDesc>
