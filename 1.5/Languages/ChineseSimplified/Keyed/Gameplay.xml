@@ -258,10 +258,10 @@
 	<SoS.CannotFireDueToAmmo>{0} 无法开火：弹药不足</SoS.CannotFireDueToAmmo>
 	<!-- 护盾 -->
 	<SoS.ShieldRadius>当前半径/目标半径：{0}/{1}</SoS.ShieldRadius>
-	<SoS.ShieldRadiusReset>重置护盾半径</SoS.ShieldRadiusReset>
-	<SoS.ShieldRadiusResetDesc>重置护盾半径为40。</SoS.ShieldRadiusResetDesc>
-	<SoS.ShieldRadiusDec>减小护盾半径</SoS.ShieldRadiusDec>
-	<SoS.ShieldRadiusInc>增大护盾半径</SoS.ShieldRadiusInc>
+	<SoS.ResetShieldRadius>重置护盾半径</SoS.ResetShieldRadius>
+	<SoS.ResetShieldRadiusDesc>重置护盾半径为40。</SoS.ResetShieldRadiusDesc>
+	<SoS.DecShieldRadius>减小护盾半径</SoS.DecShieldRadius>
+	<SoS.IncShieldRadius>增大护盾半径</SoS.IncShieldRadius>
 	<SoS.FoamFill>填补损伤</SoS.FoamFill>
 	<SoS.FoamFillDesc>让舰船上的泡沫船舶填补器填补舰船受损区域。</SoS.FoamFillDesc>
 	<SoS.FoamFillDisabled>不需要填补或泡沫船舶填补器缺少填补泡沫。</SoS.FoamFillDisabled>
@@ -403,7 +403,7 @@
 	<SoS.NoHardpoints>穿梭机没有足够的挂载点来装这个炮塔。</SoS.NoHardpoints>
 	<SoS.NotEnoughCargoSpace>这一升级将使穿梭机的载货能力降至零以下。</SoS.NotEnoughCargoSpace>
 	<SoS.HoverJump>本地航班</SoS.HoverJump>
-	<SoS.HoverJumpDesc>起飞并着陆在同一张地图上，消耗 5 单位燃料</SoS.HoverJumpDesc>
+	<SoS.HoverJump.Desc>起飞并着陆在同一张地图上，消耗 5 单位燃料</SoS.HoverJump.Desc>
 	<SoS.NotEnoughFuel>燃料不足</SoS.NotEnoughFuel>
 	<SoS.UnderRoof>不能在屋顶下发射</SoS.UnderRoof>
 	<SoS.TargetShuttles>设定攻击区域</SoS.TargetShuttles>

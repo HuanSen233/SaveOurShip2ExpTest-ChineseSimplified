@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <ResearchTabShip.label>飞船</ResearchTabShip.label>
+    <ResearchTabShip.generalTitle>[Save Our Ship 2] 船舶研究项目</ResearchTabShip.generalTitle>
+    <ResearchTabShip.generalDescription>解锁飞船组件和其它航天技术。</ResearchTabShip.generalDescription>
+
+    <ResearchTabArchotech.label>Archotech</ResearchTabArchotech.label>
+    <ResearchTabArchotech.generalTitle>[Save Our Ship 2] 超凡科技研究项目</ResearchTabArchotech.generalTitle>
+    <ResearchTabArchotech.generalDescription>[任何极致科技都不能真正地看清我]</ResearchTabArchotech.generalDescription>
+
+</LanguageData>

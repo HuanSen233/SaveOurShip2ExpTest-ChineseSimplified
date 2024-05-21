@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <ShipBasics.label>星际航行基础</ShipBasics.label>
+    <ShipBasics.description>解锁建造星际飞船的结构和辅助单元，这是建造飞船离开恒星系的第一步。</ShipBasics.description>
+    <ShipBasics.discoveredLetterTitle>关于：发射飞船</ShipBasics.discoveredLetterTitle>
+    <ShipBasics.discoveredLetterText>逃离这个星球——最终将获得自由，也许终点会是家园。\n\n但先别急，在你考虑星际旅行之前，你需要先造艘船或者用其它什么方法，到达环绕这颗星球的轨道上。一艘适合航天任务的飞船的最低要求是要有一个火箭推进器、一个领航员控制台和一个基础集成传感器。为了你的殖民者能在太空存活，还需要船舶生命维持系统或EVA服。\n\n发射一艘飞船计入轨道所要消耗的燃料量取决于其的大小。较大的飞船需要要且只会要更多的推进器。</ShipBasics.discoveredLetterText>
+
+    <ShipReactor.label>船用裂变反应堆</ShipReactor.label>
+    <ShipReactor.description>通过燃烧核燃料舱来获得长期持续的能量输出。</ShipReactor.description>
+
+    <ShipEngine.label>火箭推进器</ShipEngine.label>
+    <ShipEngine.description>为一艘飞船建造化学发动机。这样它们就能抵达轨道，但也就能到这了。</ShipEngine.description>
+    <ShipEngine.generalRules.rulesStrings.0>subject->火箭推进器</ShipEngine.generalRules.rulesStrings.0>
+    <ShipEngine.generalRules.rulesStrings.1>subject_story->通过教授当地部落如何提炼化合燃料而成功逃离了一颗边缘世界星球</ShipEngine.generalRules.rulesStrings.1>
+    <ShipEngine.generalRules.rulesStrings.2>subject_story->为世界中央政府设计了一个导弹推进器</ShipEngine.generalRules.rulesStrings.2>
+    <ShipEngine.generalRules.rulesStrings.3>subject_story->开创了后末日星球伊什瓦拉重返太空的先河</ShipEngine.generalRules.rulesStrings.3>
+    <ShipEngine.generalRules.rulesStrings.4>subject_gerund->保持最佳的燃料与氧化剂的配比</ShipEngine.generalRules.rulesStrings.4>
+    <ShipEngine.generalRules.rulesStrings.5>subject_gerund->喷嘴几何形状优化</ShipEngine.generalRules.rulesStrings.5>
+    
+    <SoSJTDrive.label>约翰逊-田中驱动器</SoSJTDrive.label>
+    <SoSJTDrive.description>了解无工质推进器约翰逊-田中驱动器如何进行行星和星际航行背后的原理。\n注：实际建造驱动器将需要一个纠缠流形，这是个非常罕见的先进组件。</SoSJTDrive.description>
+
+    <ShipPilotSeat.label>飞船导航</ShipPilotSeat.label>
+    <ShipPilotSeat.description>让你的殖民者能够在基本的计算机辅助下驾驶一艘船。</ShipPilotSeat.description>
+
+</LanguageData>

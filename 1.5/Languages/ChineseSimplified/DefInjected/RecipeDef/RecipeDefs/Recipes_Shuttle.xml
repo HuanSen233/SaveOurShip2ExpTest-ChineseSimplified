@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    <MakeShuttleFuelPods.label>制作铀燃料舱</MakeShuttleFuelPods.label>
-    <MakeShuttleFuelPods.description>制作100个铀燃料舱。</MakeShuttleFuelPods.description>
-    <MakeShuttleFuelPods.jobString>制造铀燃料舱。</MakeShuttleFuelPods.jobString>
+    <MakeShuttleFuelPods.label>制作核燃料舱</MakeShuttleFuelPods.label>
+    <MakeShuttleFuelPods.description>制作100个核燃料舱。</MakeShuttleFuelPods.description>
+    <MakeShuttleFuelPods.jobString>制造核燃料舱。</MakeShuttleFuelPods.jobString>
 
 </LanguageData>
