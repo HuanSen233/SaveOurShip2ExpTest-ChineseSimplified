@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <ShipCombat.label>舰船战</ShipCombat.label>
+    
+    <SpacePirates.label>海盗！</SpacePirates.label>
+    <SpacePirates.letterLabel>海盗！</SpacePirates.letterLabel>
+    
+    <SpaceDebris.label>空间碎片</SpaceDebris.label>
+    <SpaceDebris.letterLabel>空间碎片</SpaceDebris.letterLabel>
+    <SpaceDebris.letterText>舰船已进入残骸区。发动推进器规避或准备撞击！</SpaceDebris.letterText>
+    
+    <SpacePodFound.label>运输舱回收</SpacePodFound.label>
+    <SpacePodFound.letterLabel>发现运输舱</SpacePodFound.letterLabel>
+    <SpacePodFound.letterText>发现附近有一个运输舱。你想用你的打捞港把它捞回来吗？</SpacePodFound.letterText>
+
+</LanguageData>
