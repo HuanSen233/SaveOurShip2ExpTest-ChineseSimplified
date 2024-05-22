@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     <ArchotechMechanites.label>纳米机械组装</ArchotechMechanites.label>
-    <ArchotechMechanites.description>设计简单的纳米微型机械，以原子为单位组装或修复物体。</ArchotechMechanites.description>
+    <ArchotechMechanites.description>设计简单的纳米机械，以原子为单位组装或修复物体。</ArchotechMechanites.description>
     
-    <ArchotechBioMechanites.label>生物微械集成</ArchotechBioMechanites.label>
-    <ArchotechBioMechanites.description>设计专用于生物的纳米微型机械与其接口，以及改进现有的生物学。</ArchotechBioMechanites.description>
+    <ArchotechBioMechanites.label>生物纳米机械集成</ArchotechBioMechanites.label>
+    <ArchotechBioMechanites.description>设计专用于生物的纳米机械与其接口，以及改进现有的生物学。</ArchotechBioMechanites.description>
     
     <ArchotechBioMechanitesTwo.label>集群智能</ArchotechBioMechanitesTwo.label>
-    <ArchotechBioMechanitesTwo.description>赋予微械蜂群格式塔智能思维，使它们能集体诊断和修复躯体损伤——甚至是起死回生。</ArchotechBioMechanitesTwo.description>
+    <ArchotechBioMechanitesTwo.description>赋予纳米机械蜂群格式塔智能思维，使它们能集体诊断和修复躯体损伤——甚至是起死回生。</ArchotechBioMechanitesTwo.description>
     
     <ArchotechArchites.label>超凡基因学</ArchotechArchites.label>
     <ArchotechArchites.description>---需要生物科技DLC---\n\n设计你自己的超凡科技异种，将超凡胶囊和超凡基因组添加到你的孢子礼物选项中。</ArchotechArchites.description>
@@ -22,7 +22,7 @@
     <ArchotechPlants.description>超越自然演化，创造一个目的明确的植物生态系统，为人类提供巨大的好处。</ArchotechPlants.description>
     
     <ArchotechMechaniteWeapon.label>解构微械</ArchotechMechaniteWeapon.label>
-    <ArchotechMechaniteWeapon.description>设计用于将物体从原子层面分解的纳米微型机械——用于回收不需要的物品，或者“回收”敌方舰船。</ArchotechMechaniteWeapon.description>
+    <ArchotechMechaniteWeapon.description>设计用于将物体从原子层面分解的纳米机械——用于回收不需要的物品，或者“回收”敌方舰船。</ArchotechMechaniteWeapon.description>
     
     <ArchotechHullConversion.label>构型优化</ArchotechHullConversion.label>
     <ArchotechHullConversion.description>自动将船体转换到超凡科技船体。这不会影响大型建筑结构，例如散热器和护盾发生器。</ArchotechHullConversion.description>

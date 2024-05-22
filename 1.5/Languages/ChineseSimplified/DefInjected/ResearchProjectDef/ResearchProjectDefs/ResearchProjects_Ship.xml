@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+    <!-- 未完成标记=========== -->
     <ShipBasics.label>星际航行基础</ShipBasics.label>
     <ShipBasics.description>解锁建造星际飞船的结构和辅助单元，这是建造飞船离开恒星系的第一步。</ShipBasics.description>
     <ShipBasics.discoveredLetterTitle>关于：发射飞船</ShipBasics.discoveredLetterTitle>
@@ -32,8 +33,8 @@
     <ShipComputerCore.description>允许将现有的人格AI强制转换为可用于引导船舶的电脑核心。</ShipComputerCore.description>
 
     <ShipAvatarCasket.label>来世棺材</ShipAvatarCasket.label>
-    <ShipAvatarCasket.description>利用微械分解一个生物的尸体，并创造一种仿制其生物功能的形态凝胶，使已死之人再活一次。</ShipAvatarCasket.description>
-    <ShipAvatarCasket.generalRules.rulesStrings.0>subject->仿生微械蜂群</ShipAvatarCasket.generalRules.rulesStrings.0>
+    <ShipAvatarCasket.description>利用纳米机械分解一个生物的尸体，并创造一种仿制其生物功能的形态凝胶，使已死之人再活一次。</ShipAvatarCasket.description>
+    <ShipAvatarCasket.generalRules.rulesStrings.0>subject->仿生纳米机械蜂群</ShipAvatarCasket.generalRules.rulesStrings.0>
     <ShipAvatarCasket.generalRules.rulesStrings.1>subject->心灵神经基质重建</ShipAvatarCasket.generalRules.rulesStrings.1>
     <ShipAvatarCasket.generalRules.rulesStrings.2>subject_story->在姚博士进行初期微械凝胶体实验期间，曾在神化号空间站上任职</ShipAvatarCasket.generalRules.rulesStrings.2>
     <ShipAvatarCasket.generalRules.rulesStrings.3>subject_story->经营一个闪耀世界的来世墓地，使已死之人可以以微型凝胶体的形式再活一次</ShipAvatarCasket.generalRules.rulesStrings.3>

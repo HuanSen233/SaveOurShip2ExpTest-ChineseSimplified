@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <SoSDerelict.label>失事飞船</SoSDerelict.label>
+    <SoSDerelict.description>你们三人从休眠中被自动警报唤醒，发现各自都在自己的低温休眠舱里。一场微型陨石风暴撕裂了星际飞船的船体，并摧毁了它的约翰逊-田中驱动器。你们现在被困在一颗未知的边缘世界星球的轨道上，当务之急是先修补损坏的舰船并制定长期生存计划。</SoSDerelict.description>
+    <SoSDerelict.scenario.name>失事飞船</SoSDerelict.scenario.name>
+    <SoSDerelict.scenario.description>你们三人从休眠中被自动警报唤醒，发现各自都在自己的低温休眠舱里。一场微型陨石风暴撕裂了星际飞船的船体，并摧毁了它的约翰逊-田中驱动器。你们现在被困在一颗未知的边缘世界星球的轨道上，当务之急是先修补损坏的舰船并制定长期生存计划。</SoSDerelict.scenario.description>
+    <SoSDerelict.scenario.summary>三名幸存者与一艘受损的星际飞船。</SoSDerelict.scenario.summary>
+    <SoSDerelict.scenario.parts.GameStartDialog.text>你们三人从休眠中被自动警报唤醒，发现各自都在自己的低温休眠舱里。一场微型陨石风暴撕裂了星际飞船的船体，并摧毁了它的约翰逊-田中驱动器。你们现在被困在一颗未知的边缘世界星球的轨道上，当务之急是先修补损坏的舰船并制定长期生存计划。\n\n也许你可以通过扫描轨道站点来获取资源。你还可以将传感器转向行星表面，侦察可能的飞船着陆点。</SoSDerelict.scenario.parts.GameStartDialog.text>
+
+    <SoSDungeon.label>空间站</SoSDungeon.label>
+    <SoSDungeon.description>你离开家，签了张协议，加入了一个星际远航的团队，准备在边缘世界执行一项长期任务。\n\n至少你当时是这么认为的。\n\n当你从低温休眠舱醒来，听到警报器的蜂鸣声后，竟发现自己身处在一个未知的空间站里。生命维持系统与人造生态系统失控，居住区充斥着肆意生长的植物，外加种种迹象表明这里可能被遗弃了。要不...你先想想自己在这里被埋多久？</SoSDungeon.description>
+    <SoSDungeon.scenario.name>空间站</SoSDungeon.scenario.name>
+    <SoSDungeon.scenario.description>你离开家，签了张协议，加入了一个星际远航的团队，准备在边缘世界执行一项长期任务。\n\n至少你当时是这么认为的。\n\n当你从低温休眠舱醒来，听到警报器的蜂鸣声后，竟发现自己身处在一个未知的空间站里。生命维持系统与人造生态系统失控，居住区充斥着肆意生长的植物，外加种种迹象表明这里可能被遗弃了。要不...你先想想自己在这里被埋多久？</SoSDungeon.scenario.description>
+    <SoSDungeon.scenario.summary>三名幸存者与一座空间站。</SoSDungeon.scenario.summary>
+    <SoSDungeon.scenario.parts.GameStartDialog.text>你离开家，签了张协议，跟着一个星际远航的团队，前往边缘世界进行一项长期采矿作业。\n\n至少协议上是这么写的。\n\n当你醒来，整理思绪，环顾四周，自己身处在某颗小行星的中心里，一个被遗弃的采矿基地内。生命维持系统与人造生态系统失控，基地里到处都是肆意生长的植物。看来你被埋的时间不短。\n\n在采矿隧道坍塌埋了那些电老虎后，电力也一定已经恢复。两台反应堆中的一台已经停工，另一台正在燃烧着内部所剩无几的燃料。随着电力减少，你可以选择将剩下那座反应堆超负荷运转，以确保持续供电。或者可以尝试使用备用的化合燃料发电机。\n\n在这么远的边缘世界，等救援什么的想都不要想。但隐隐有种感觉，你也许并不孤单......</SoSDungeon.scenario.parts.GameStartDialog.text>
+
+    <SoSLoadShip.label>载入舰船</SoSLoadShip.label>
+    <SoSLoadShip.description>实验性功能——预计会有大量红黄字。这些报错可能无害，也可能有害。如果遇到问题，先等待几秒，然后尝试保存并重载存档以及重启游戏。如果还是没有成功，你需要在报告错误时将Player.log文件发给我们，这样我们才能弄清楚到底发生了什么！\n\n从一艘已经开始星际旅行的舰船开始。你可以通过编辑剧本来选择你保存的飞船。你也可以选择丢掉日志和故事，以减少存档占用的空间。这会禁用许多情景类选项，例如更改起始人物。</SoSLoadShip.description>
+    <SoSLoadShip.scenario.name>载入舰船</SoSLoadShip.scenario.name>
+    <SoSLoadShip.scenario.description>实验性功能——预计会有大量红黄字。这些报错可能无害，也可能有害。如果遇到问题，先等待几秒，然后尝试保存并重载存档以及重启游戏。如果还是没有成功，你需要在报告错误时将Player.log文件发给我们，这样我们才能弄清楚到底发生了什么！\n\n从一艘已经开始星际旅行的舰船开始。你可以通过编辑剧本来选择你保存的飞船。你也可以选择丢掉日志和故事，以减少存档占用的空间。这会禁用许多情景类选项，例如更改起始人物。</SoSLoadShip.scenario.description>
+    <SoSLoadShip.scenario.summary>从一艘已经前往新星球的舰船开始。</SoSLoadShip.scenario.summary>
+
+    <SoSAfterlifeVault.label>来世宝库</SoSAfterlifeVault.label>
+    <SoSAfterlifeVault.description>你的殖民者是这个边缘世界的一场末日战争中死去的数百万人中的一员。随着社会的逐渐崩溃，一些极度富有的人建造了“来世宝库”来容纳他们逝去亲人的大脑。但成功建成的寥寥无几，随着全球的电力系统的崩溃，它们的AI大多选择了进入休眠状态。\n\n数个世纪后的现在，AI得出结论，救援永远不会来了。你的来世棺材能够生成形形色色的机械体——一种能够模仿逝者原始生物功能的纳米机械蜂群，但现在的电力供应只能保证一两个棺材正常运行。\n\n你能为已死之人再次带来一个未来吗？</SoSAfterlifeVault.description>
+    <SoSAfterlifeVault.scenario.name>来世宝库</SoSAfterlifeVault.scenario.name>
+    <SoSAfterlifeVault.scenario.description>你的殖民者是这个边缘世界的一场末日战争中死去的数百万人中的一员。随着社会的逐渐崩溃，一些极度富有的人建造了“来世宝库”来容纳他们逝去亲人的大脑。但成功建成的寥寥无几，随着全球的电力系统的崩溃，它们的AI大多选择了进入休眠状态。\n\n数个世纪后的现在，AI得出结论，救援永远不会来了。你的来世棺材能够生成形形色色的机械体——一种能够模仿逝者原始生物功能的纳米机械蜂群，但现在的电力供应只能保证一两个棺材正常运行。\n\n你能为已死之人再次带来一个未来吗？</SoSAfterlifeVault.scenario.description>
+    <SoSAfterlifeVault.scenario.summary>六个微械凝胶体殖民者与一个仁慈的AI，但没有足够的电力让他们同时运行。</SoSAfterlifeVault.scenario.summary>
+    <SoSAfterlifeVault.scenario.parts.GameStartDialog.text>有些人拿起了电荷步枪为国捐躯；而另一些人在第一轮轨道轰炸袭击中就被耻辱的埋在了废墟下。无论如何，你们都已经死了，成为了这个场边缘世界的末日战争中的牺牲品。\n\n在社会彻底崩溃之前，你那些富有的亲人为你在这新的“来世宝库”中安排了一个位置，承诺你复活后的大脑可以用另一种形体——微械凝胶体，来完美地模仿你原来的身体与世界互动。而最令人惊讶的是，这所有的听起来就不靠谱的诺言都成真了。\n\n当然，那是在全球电网崩溃之前。几个世纪以来，守护着你的陵墓的机械体一个接一个的失败或遭到摧毁。AI最终计算出获救的可能性几乎为零，并重新唤醒了你的意识。\n\n而现在，目前电力供应只能保证一两个棺材正常运行。你能多添置几台电力设施，唤醒更多的意识吗？</SoSAfterlifeVault.scenario.parts.GameStartDialog.text>
+
+</LanguageData>

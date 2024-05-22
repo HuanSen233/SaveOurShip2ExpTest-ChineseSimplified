@@ -300,7 +300,7 @@
 	<SoS.SpawnHologram>生成\n微械凝胶体</SoS.SpawnHologram>
 	<SoS.SpawnHologramDesc>这个装置的意识可以通过微械凝胶体来影响现实。</SoS.SpawnHologramDesc>
 	<SoS.DespawnHologram>驱散微械凝胶体</SoS.DespawnHologram>
-	<SoS.DespawnHologramDesc>摧毁这个装置控制的微械凝胶体。培育一群新的微械蜂群来取代它需要一天的世界。</SoS.DespawnHologramDesc>
+	<SoS.DespawnHologramDesc>摧毁这个装置控制的微械凝胶体。培育一群新的纳米机械蜂群来取代它需要一天的世界。</SoS.DespawnHologramDesc>
 	<SoS.RenameAI>重命名 AI</SoS.RenameAI>
 	<SoS.RenameAIDesc>给这个AI起个新名字</SoS.RenameAIDesc>
 	<SoS.InstallConsciousness>安装意识</SoS.InstallConsciousness>
@@ -310,14 +310,14 @@
 	<SoS.InstallCoreDesc>让你的殖民者在这个设备上安装一个人格核心</SoS.InstallCoreDesc>
 	<SoS.NoBrains>没有装载意识</SoS.NoBrains>
 	<SoS.NoCores>没有可用的人格核心</SoS.NoCores>
-	<SoS.SpawnHologramDelay>微械蜂群再生中：{0} 后可用</SoS.SpawnHologramDelay>
+	<SoS.SpawnHologramDelay>纳米机械蜂群再生中：{0} 后可用</SoS.SpawnHologramDelay>
 	<SoS.HologramColor>微械凝胶体\n颜色</SoS.HologramColor>
 	<SoS.HologramColorDesc>为这个微械凝胶体选择一个颜色</SoS.HologramColorDesc>
 	<SoS.EquipRanged>远程攻击模式</SoS.EquipRanged>
 	<SoS.EquipRangedDesc>让这个全息投影使用激光来进行远程攻击</SoS.EquipRangedDesc>
 	<SoS.EquipMelee>近战攻击模式</SoS.EquipMelee>
 	<SoS.EquipMeleeDesc>给这个全息投影一把刀和一个能量护盾</SoS.EquipMeleeDesc>
-	<SoS.ResurrectBrain>制造替代微械</SoS.ResurrectBrain>
+	<SoS.ResurrectBrain>制造替代纳米机械</SoS.ResurrectBrain>
 	<SoS.ResurrectBrainDesc>使用复活机械液为这个意识快速制造一个新的微械凝胶体</SoS.ResurrectBrainDesc>
 	<SoS.ArchoGift>解锁超凡科技礼物</SoS.ArchoGift>
 	<SoS.ArchotechGoodwillPlus>增加心灵敏感度（+10，消耗 {0} 心灵场强度）</SoS.ArchotechGoodwillPlus>

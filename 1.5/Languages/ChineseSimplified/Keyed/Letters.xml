@@ -115,7 +115,7 @@
 	<SoS.WinGameAllies>你的盟友？</SoS.WinGameAllies>
 	<SoS.WinGameNeutral>中立的？</SoS.WinGameNeutral>
 	<SoS.WinGameEnemies>你的敌人？（除了海盗、野蛮人和永远敌对的家伙）</SoS.WinGameEnemies>
-	<SoS.GameOver>{0}为{1}带去秩序。机械族那由简单AI支撑的的思维被祂一触即溃。你那不屈不挠的敌人、巨型虫子、狂暴症，都随着一层薄薄的微械集群涌至星球表面而落下帷幕；野蛮人和海盗终将被降下一股不可抗拒的心灵攻击因而瘫痪。\n\n随着最为紧迫的威胁被消除，{0}将祂的注意力转向剩下的派系。</SoS.GameOver>
+	<SoS.GameOver>{0}为{1}带去秩序。机械族那由简单AI支撑的的思维被祂一触即溃。你那不屈不挠的敌人、巨型虫子、狂暴症，都随着一层薄薄的超凡微械集群涌至星球表面而落下帷幕；野蛮人和海盗终将被降下一股不可抗拒的心灵攻击因而瘫痪。\n\n随着最为紧迫的威胁被消除，{0}将祂的注意力转向剩下的派系。</SoS.GameOver>
 	<SoS.GameOverAllyA>你的盟友被给予一个友好地选择：继续过着他们从前过着的生活，或者加入你正在建立的新闪耀世界社会。</SoS.GameOverAllyA>
 	<SoS.GameOverAllyAOutlander>大多数{0}的人们高兴地接受了你的提议，尽管仍有一些孤立社区存在。随着时间的推移，他们逐渐摒弃前嫌，愉快的生活在{1}。</SoS.GameOverAllyAOutlander>
 	<SoS.GameOverAllyAOutlanderRough>{0}在最初的几年里孤注一掷，抵制统一。但随着你的文明的优势变得愈发显而易见，大规模的叛逃导致{0}崩溃，残余的部分很快被{1}吸收。</SoS.GameOverAllyAOutlanderRough>

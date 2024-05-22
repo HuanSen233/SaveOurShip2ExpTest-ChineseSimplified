@@ -82,7 +82,7 @@
     <Weapon_GrenadeMechanite.verbs.Verb_Shoot.label>投掷装有不明粉红粘性物质的瓶子</Weapon_GrenadeMechanite.verbs.Verb_Shoot.label>
     <Proj_GrenadeMechanite.label>解构者鸡尾酒</Proj_GrenadeMechanite.label>
     <!-- 设备 -->
-    <ArchoRecycler.label>微械拆解台</ArchoRecycler.label>
+    <ArchoRecycler.label>纳米机械拆解台</ArchoRecycler.label>
     <ArchoRecycler.description>使用解构微械将任何物体拆解为构成它的基本材料，且效率近乎完美。</ArchoRecycler.description>
 
 </LanguageData>
