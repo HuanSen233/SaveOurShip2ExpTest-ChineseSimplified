@@ -14,9 +14,9 @@
     <SoSDungeon.scenario.summary>三名幸存者与一座空间站。</SoSDungeon.scenario.summary>
     <SoSDungeon.scenario.parts.GameStartDialog.text>你离开家，签了张协议，跟着一个星际远航的团队，前往边缘世界进行一项长期采矿作业。\n\n至少协议上是这么写的。\n\n当你醒来，整理思绪，环顾四周，自己身处在某颗小行星的中心里，一个被遗弃的采矿基地内。生命维持系统与人造生态系统失控，基地里到处都是肆意生长的植物。看来你被埋的时间不短。\n\n在采矿隧道坍塌埋了那些电老虎后，电力也一定已经恢复。两台反应堆中的一台已经停工，另一台正在燃烧着内部所剩无几的燃料。随着电力减少，你可以选择将剩下那座反应堆超负荷运转，以确保持续供电。或者可以尝试使用备用的化合燃料发电机。\n\n在这么远的边缘世界，等救援什么的想都不要想。但隐隐有种感觉，你也许并不孤单......</SoSDungeon.scenario.parts.GameStartDialog.text>
 
-    <SoSLoadShip.label>载入舰船</SoSLoadShip.label>
+    <SoSLoadShip.label>载入飞船</SoSLoadShip.label>
     <SoSLoadShip.description>实验性功能——预计会有大量红黄字。这些报错可能无害，也可能有害。如果遇到问题，先等待几秒，然后尝试保存并重载存档以及重启游戏。如果还是没有成功，你需要在报告错误时将Player.log文件发给我们，这样我们才能弄清楚到底发生了什么！\n\n从一艘已经开始星际旅行的舰船开始。你可以通过编辑剧本来选择你保存的飞船。你也可以选择丢掉日志和故事，以减少存档占用的空间。这会禁用许多情景类选项，例如更改起始人物。</SoSLoadShip.description>
-    <SoSLoadShip.scenario.name>载入舰船</SoSLoadShip.scenario.name>
+    <SoSLoadShip.scenario.name>载入飞船</SoSLoadShip.scenario.name>
     <SoSLoadShip.scenario.description>实验性功能——预计会有大量红黄字。这些报错可能无害，也可能有害。如果遇到问题，先等待几秒，然后尝试保存并重载存档以及重启游戏。如果还是没有成功，你需要在报告错误时将Player.log文件发给我们，这样我们才能弄清楚到底发生了什么！\n\n从一艘已经开始星际旅行的舰船开始。你可以通过编辑剧本来选择你保存的飞船。你也可以选择丢掉日志和故事，以减少存档占用的空间。这会禁用许多情景类选项，例如更改起始人物。</SoSLoadShip.scenario.description>
     <SoSLoadShip.scenario.summary>从一艘已经前往新星球的舰船开始。</SoSLoadShip.scenario.summary>
 

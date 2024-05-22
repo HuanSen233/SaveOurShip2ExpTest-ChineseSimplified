@@ -33,7 +33,7 @@
     <ShipAirlock.description>允许进入舰船或在舰船内划分房间。其生成的低能等离子屏障能防止气体逸出。</ShipAirlock.description>
     <!-- 对接装置 -->
     <ShipAirlockBeam.label>船舶对接装置</ShipAirlockBeam.label>
-    <ShipAirlockBeam.description>舰船对接系统的一半。将两个这东西放在船舶气闸旁边并向外朝向真空区域：|o| 其中 | 代表对接装置，o代表船舶气闸，然后，气闸将获得扩展对接装置向外延伸最长3格的能力。\n\n气闸走廊不适合星际航行和大气再入，因此舰船对接将自动分离。</ShipAirlockBeam.description>
+    <ShipAirlockBeam.description>舰船对接系统的一半。将两个这东西放在船舶气闸旁边并向外朝向真空区域：|o| 其中 | 代表对接装置，o代表船舶气闸，然后，气闸将获得扩展对接装置向外延伸最长3地格的能力。\n\n气闸走廊不适合星际航行和大气再入，因此舰船对接将自动分离。</ShipAirlockBeam.description>
     <!-- 挂载点 -->
     <ShipHardpointSmall.label>小型船舶挂载点</ShipHardpointSmall.label>
     <ShipHardpoint.label>船舶挂载点</ShipHardpoint.label>
