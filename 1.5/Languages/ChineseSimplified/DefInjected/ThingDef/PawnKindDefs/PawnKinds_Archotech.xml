@@ -43,10 +43,12 @@
     <Archothrumbo.tools.3.label>右蹄</Archothrumbo.tools.3.label>
     <Archothrumbo.tools.4.label>头</Archothrumbo.tools.4.label>
 
-    <Archotortoise.label>超凡龟</Archotortoise.label>
-    <Archotortoise.description>超凡龟简直就是座移动堡垒。它身披分泌出的玻璃钢装甲，可以自信的闯入任何近战场面。在和平时期，还可以收集它的壳以获取玻璃钢且不会对其造成伤害。\n\n和所有超凡生物一样，它的细胞会使用虚空能量又从空气中吸收原子为自身供能，因此不需要进食。超凡生物可以在真空环境下存活，没有最大已知寿命，且能再生有疤痕或缺失的身体部位。它甚至可以在战斗中产生护盾用来保护自已。</Archotortoise.description>
+    <Archotortoise.label>超凡乌龟</Archotortoise.label>
+    <Archotortoise.description>超凡乌龟简直就是座移动堡垒。它身披分泌出的玻璃钢装甲，可以自信的闯入任何近战场面。在和平时期，还可以收集它的壳以获取玻璃钢且不会对其造成伤害。\n\n和所有超凡生物一样，它的细胞会使用虚空能量又从空气中吸收原子为自身供能，因此不需要进食。超凡生物可以在真空环境下存活，没有最大已知寿命，且能再生有疤痕或缺失的身体部位。它甚至可以在战斗中产生护盾用来保护自已。</Archotortoise.description>
     <Archotortoise.tools.0.label>喙</Archotortoise.tools.0.label>
     <Archotortoise.tools.1.label>头</Archotortoise.tools.1.label>
+    <EggArchotortoiseFertilized.label>超凡乌龟蛋 (已受精)</EggArchotortoiseFertilized.label>
+    <EggArchotortoiseFertilized.description>已受精的超凡乌龟蛋。如果一切顺利应该可以孵化出超凡乌龟幼崽。可以生吃，但是最好烹饪后食用。</EggArchotortoiseFertilized.description>
 
     <Archopanda.label>超凡熊猫</Archopanda.label>
     <Archopanda.description>“活的泰迪熊”，有时被这么称呼的超凡熊猫是种理想的宠物，适合那些喜欢被热情撞倒的人。它温和的本性使得其对战斗不太上心，但它是块在商队中驮运货物的好料子。\n\n和所有超凡生物一样，它的细胞会使用虚空能量又从空气中吸收原子为自身供能，因此不需要进食。超凡生物可以在真空环境下存活，没有最大已知寿命，且能再生有疤痕或缺失的身体部位。它甚至可以在战斗中产生护盾用来保护自已。</Archopanda.description>
@@ -62,8 +64,8 @@
     <Archostrich.tools.2.label>头</Archostrich.tools.2.label>
     <EggArchostrichFertilized.label>超凡鸵鸟蛋 (已受精)</EggArchostrichFertilized.label>
     <EggArchostrichFertilized.description>已受精的超凡鸵鸟蛋。如果一切顺利应该可以孵化出超凡鸵鸟幼崽。可以生吃，但是最好烹饪后食用。</EggArchostrichFertilized.description>
-    <EggArchostrichFertilized.label>超凡鸵鸟蛋 (未受精)</EggArchostrichFertilized.label>
-    <EggArchostrichFertilized.description>未受精的超凡鸵鸟蛋。可以生吃，但是最好烹饪后食用。</EggArchostrichFertilized.description>
+    <EggArchostrichUnfertilized.label>超凡鸵鸟蛋 (未受精)</EggArchostrichUnfertilized.label>
+    <EggArchostrichUnfertilized.description>未受精的超凡鸵鸟蛋。可以生吃，但是最好烹饪后食用。</EggArchostrichUnfertilized.description>
 
     <Archospider.label>超凡蜘蛛</Archospider.label>
     <Archospider.description>也许你的超凡科技孢子讨厌蜘蛛恐惧症患者。制造这种怪物几乎不需要什么理由——它拥有坦克般的装甲，可以剪断玻璃钢的大嘴巴，以及可以迅速威胁到一个星球生态系统的繁殖能力。且它对主人永远忠诚......至少目前很忠诚。\n\n和所有超凡生物一样，它的细胞会使用虚空能量又从空气中吸收原子为自身供能，因此不需要进食。超凡生物可以在真空环境下存活，没有最大已知寿命，且能再生有疤痕或缺失的身体部位。它甚至可以在战斗中产生护盾用来保护自已。</Archospider.description>

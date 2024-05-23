@@ -421,5 +421,6 @@
 	<SoS.CannotLaunchUnderRoof>穿梭机不能直接在屋顶下发射，你应该将它停在穿梭机停靠港再发射</SoS.CannotLaunchUnderRoof>
 	<SoS.ToggleField>切换船体通道</SoS.ToggleField>
 	<SoS.ToggleFieldDesc>允许小人和车辆通过这个可通行的船体</SoS.ToggleFieldDesc>
+	<!-- test -->
 
 </LanguageData>
