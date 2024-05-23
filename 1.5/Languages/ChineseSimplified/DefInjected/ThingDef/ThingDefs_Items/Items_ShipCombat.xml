@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <ShipTorpedo_HighExplosive.label>高爆鱼雷</ShipTorpedo_HighExplosive.label>
+    <ShipTorpedo_HighExplosive.description>一种搭载烈性炸药战斗部的鱼雷。可以从鱼雷发射管发射。受损后爆炸。</ShipTorpedo_HighExplosive.description>
+    <Bullet_Fake_Torpedo_HighExplosive.label>高爆鱼雷</Bullet_Fake_Torpedo_HighExplosive.label>
+    <Bullet_Torpedo_HighExplosive.label>高爆鱼雷</Bullet_Torpedo_HighExplosive.label>
+    
+    <ShipTorpedo_EMP.label>EMP鱼雷</ShipTorpedo_EMP.label>
+    <ShipTorpedo_EMP.description>一种搭载电磁脉冲战斗部的鱼雷。可以从鱼雷发射管发射。受损后爆炸。</ShipTorpedo_EMP.description>
+    <Bullet_Fake_Torpedo_EMP.label>EMP鱼雷</Bullet_Fake_Torpedo_EMP.label>
+    <Bullet_Torpedo_EMP.label>EMP鱼雷</Bullet_Torpedo_EMP.label>
+
+    <ShipTorpedo_Antimatter.label>反粒子鱼雷</ShipTorpedo_Antimatter.label>
+    <ShipTorpedo_Antimatter.description>一种搭载反粒子战斗部的鱼雷。可以从鱼雷发射管发射。受损后爆炸。</ShipTorpedo_Antimatter.description>
+    <Bullet_Fake_Torpedo_Antimatter.label>反粒子鱼雷</Bullet_Fake_Torpedo_Antimatter.label>
+    <Bullet_Torpedo_Antimatter.label>反粒子鱼雷</Bullet_Torpedo_Antimatter.label>
+
+</LanguageData>

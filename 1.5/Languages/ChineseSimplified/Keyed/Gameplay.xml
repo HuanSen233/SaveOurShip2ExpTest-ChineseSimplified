@@ -190,7 +190,7 @@
 	<SoS.QuestPillarA>攻击\n地平线号空间站</SoS.QuestPillarA>
 	<SoS.QuestPillarADesc>攻击超凡科技星球改造站并尝试回收一根超凡科技柱。</SoS.QuestPillarADesc>
 	<SoS.QuestPillarB>突袭\n月面基地</SoS.QuestPillarB>
-	<SoS.QuestPillarBDesc>攻击机械族的月球基地并尝试回收一根超凡科技柱。\n\n这同时也会招来一艘机械族战舰！</SoS.QuestPillarBDesc>
+	<SoS.QuestPillarBDesc>攻击机械体的月球基地并尝试回收一根超凡科技柱。\n\n这同时也会招来一艘机械体战舰！</SoS.QuestPillarBDesc>
 	<!-- 扫描 -->
 	<SoS.scanRegion>扫描</SoS.scanRegion>
 	<SoS.scanRegionDesc>扫描并揭示星球表面的一片区域。</SoS.scanRegionDesc>
@@ -300,7 +300,7 @@
 	<SoS.SpawnHologram>生成\n微械凝胶体</SoS.SpawnHologram>
 	<SoS.SpawnHologramDesc>这个装置的意识可以通过微械凝胶体来影响现实。</SoS.SpawnHologramDesc>
 	<SoS.DespawnHologram>驱散微械凝胶体</SoS.DespawnHologram>
-	<SoS.DespawnHologramDesc>摧毁这个装置控制的微械凝胶体。培育一群新的纳米机械蜂群来取代它需要一天的世界。</SoS.DespawnHologramDesc>
+	<SoS.DespawnHologramDesc>摧毁这个装置控制的微械凝胶体。培育一群新的纳米机械来取代它需要一天的世界。</SoS.DespawnHologramDesc>
 	<SoS.RenameAI>重命名 AI</SoS.RenameAI>
 	<SoS.RenameAIDesc>给这个AI起个新名字</SoS.RenameAIDesc>
 	<SoS.InstallConsciousness>安装意识</SoS.InstallConsciousness>
@@ -310,7 +310,7 @@
 	<SoS.InstallCoreDesc>让你的殖民者在这个设备上安装一个人格核心</SoS.InstallCoreDesc>
 	<SoS.NoBrains>没有装载意识</SoS.NoBrains>
 	<SoS.NoCores>没有可用的人格核心</SoS.NoCores>
-	<SoS.SpawnHologramDelay>纳米机械蜂群再生中：{0} 后可用</SoS.SpawnHologramDelay>
+	<SoS.SpawnHologramDelay>纳米机械再生中：{0} 后可用</SoS.SpawnHologramDelay>
 	<SoS.HologramColor>微械凝胶体\n颜色</SoS.HologramColor>
 	<SoS.HologramColorDesc>为这个微械凝胶体选择一个颜色</SoS.HologramColorDesc>
 	<SoS.EquipRanged>远程攻击模式</SoS.EquipRanged>
@@ -362,7 +362,7 @@
 	<SoS.CraftArchothrumbo>生成 超凡敲击兽</SoS.CraftArchothrumbo>
 	<SoS.ArcholifeChangeSkin>改变动物样貌</SoS.ArcholifeChangeSkin>
 	<SoS.ArcholifeChangeSkinDesc>这种生物似乎可以随意改变自身形态，但只能在几种不同的形态之间改变。</SoS.ArcholifeChangeSkinDesc>
-	<!-- 机械族 -->
+	<!-- 纳米机械 -->
 	<SoS.MechanitesInHomeArea>解构微械！</SoS.MechanitesInHomeArea>
     <SoS.MechanitesInHomeAreaDesc>家里到处都是解构微械。</SoS.MechanitesInHomeAreaDesc>
 	<!-- 穿梭机 -->

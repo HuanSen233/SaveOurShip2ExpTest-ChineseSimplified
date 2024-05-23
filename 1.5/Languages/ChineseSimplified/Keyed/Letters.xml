@@ -50,13 +50,13 @@
 	<SoS.SatelliteHackFail>入侵失败</SoS.SatelliteHackFail>
 	<SoS.SatelliteHackFailDesc>{0}没能成功地骇入这颗古老的卫星。你仍可以继续尝试入侵，但这次会更加困难。</SoS.SatelliteHackFailDesc>
 	<SoS.SatelliteHackFailCritical>严重故障</SoS.SatelliteHackFailCritical>
-	<SoS.SatelliteHackFailCriticalDesc>{0}骇入古老卫星失败。它的防御协议追踪到了你的穿梭机的出发点，敌对的机械族正在向你的舰船进发！</SoS.SatelliteHackFailCriticalDesc>
+	<SoS.SatelliteHackFailCriticalDesc>{0}骇入古老卫星失败。它的防御协议追踪到了你的穿梭机的出发点，敌对的机械体正在向你的舰船进发！</SoS.SatelliteHackFailCriticalDesc>
 	<SoS.SatelliteHackSuccess>入侵成功</SoS.SatelliteHackSuccess>
 	<SoS.SatelliteHackSuccessDesc>{0}成功骇入了这颗古老的卫星。卫星系统生成了一些可以通过手持目标指示器广播生效的一次性认证令牌。</SoS.SatelliteHackSuccessDesc>
-	<SoS.SatelliteMechAttack>机械族攻击！</SoS.SatelliteMechAttack>
-	<SoS.SatelliteMechAttackDesc>机械族发现了你的破坏行为，它们正在赶到现场！它们会持续进攻直到你撤退。</SoS.SatelliteMechAttackDesc>
-	<SoS.SatelliteMechAttackBase>机械族攻击！</SoS.SatelliteMechAttackBase>
-	<SoS.SatelliteMechAttackBaseDesc>机械族检测到了对卫星的破坏，并追踪到你的穿梭机的出发点！它们正在去往你的舰船的路上。</SoS.SatelliteMechAttackBaseDesc>
+	<SoS.SatelliteMechAttack>机械体攻击！</SoS.SatelliteMechAttack>
+	<SoS.SatelliteMechAttackDesc>机械体发现了你的破坏行为，它们正在赶到现场！它们会持续进攻直到你撤退。</SoS.SatelliteMechAttackDesc>
+	<SoS.SatelliteMechAttackBase>机械体攻击！</SoS.SatelliteMechAttackBase>
+	<SoS.SatelliteMechAttackBaseDesc>机械体检测到了对卫星的破坏，并追踪到你的穿梭机的出发点！它们正在去往你的舰船的路上。</SoS.SatelliteMechAttackBaseDesc>
 	
 	<!-- 黑匣子 -->
 	<SoS.BlackBoxMissionPsychic>心灵震憾</SoS.BlackBoxMissionPsychic>
@@ -75,7 +75,7 @@
 	<!-- 关键事件 -->
 	<SoS.HibernatableHibernating>临界能量聚集</SoS.HibernatableHibernating>
     <SoS.HibernatableStartingUp>排放能量</SoS.HibernatableStartingUp>
-	<SoS.HibernateWarningStandalone>驱动器准备开始释放积蓄其中的能量。一旦完成，你的殖民者就能够安全的拆除驱动器并取回其中的纠缠流形。\n\n整个排放过程会持续大约15天，其所喷发的能量特征能在很远的地方被探测到，这类能量特征表示具备星际飞行的能力，并将吸引到绝望的掠夺者和致命的机械族。\n\n你将遭受前所未有的猛烈袭击。确保第一时间做好防御。</SoS.HibernateWarningStandalone>
+	<SoS.HibernateWarningStandalone>驱动器准备开始释放积蓄其中的能量。一旦完成，你的殖民者就能够安全的拆除驱动器并取回其中的纠缠流形。\n\n整个排放过程会持续大约15天，其所喷发的能量特征能在很远的地方被探测到，这类能量特征表示具备星际飞行的能力，并将吸引到绝望的掠夺者和致命的机械体。\n\n你将遭受前所未有的猛烈袭击。确保第一时间做好防御。</SoS.HibernateWarningStandalone>
     <SoS.CommandShipStartup>开始排放能量</SoS.CommandShipStartup>
     <SoS.CommandShipStartupDesc>释放驱动器中积蓄的能量。</SoS.CommandShipStartupDesc>
 	<SoS.ImpactSiteLost>约翰逊-田中驱动器损坏</SoS.ImpactSiteLost>
@@ -83,7 +83,7 @@
 	<SoS.HibernateComplete>能量排放完成</SoS.HibernateComplete>
 	<SoS.HibernateCompleteDesc>约翰逊-田中驱动器 已完成能量排放。你的殖民者现在可以安全的拆除它并取回其中的纠缠流形。</SoS.HibernateCompleteDesc>
 	<SoS.ImpactSiteFound>发现撞击地点</SoS.ImpactSiteFound>
-	<SoS.ImpactSiteFoundDesc>你已到达幸存的古老飞船推进器的撞击地点。\n\n约翰逊-田中驱动器中积蓄了大量能量，在这种情况下不能安全的拆除它。你需要手动触发能量排放。\n\n你的殖民者计算出整个排放过程会持续大约15天，这期间其所喷发的能量特征能在很远的地方被探测到，这类能量特征表示具备星际飞行的能力，将会吸引到绝望的掠夺者和致命的机械族。\n\n你将遭受前所未有的猛烈袭击。确保第一时间做好防御。</SoS.ImpactSiteFoundDesc>
+	<SoS.ImpactSiteFoundDesc>你已到达幸存的古老飞船推进器的撞击地点。\n\n约翰逊-田中驱动器中积蓄了大量能量，在这种情况下不能安全的拆除它。你需要手动触发能量排放。\n\n你的殖民者计算出整个排放过程会持续大约15天，这期间其所喷发的能量特征能在很远的地方被探测到，这类能量特征表示具备星际飞行的能力，将会吸引到绝望的掠夺者和致命的机械体。\n\n你将遭受前所未有的猛烈袭击。确保第一时间做好防御。</SoS.ImpactSiteFoundDesc>
 	
 	<!-- 超凡柱子 -->
 	<SoS.ArchotechLostPillar>超凡科技柱丢失</SoS.ArchotechLostPillar>
@@ -93,7 +93,7 @@
 	<SoS.InsectPillarLostLabel>超凡科技柱丢失</SoS.InsectPillarLostLabel>
 	<SoS.InsectPillarLost>随着你的殖民者被赶出虫巢，虫巢里的虫族们开始胜利的鸣叫。然而它们的胜利是短暂的，因为超凡科技柱显然预料到了进一步的袭击并将自己折跃到了一个遥远的位置。\n\n如果你扔打算占领它，那就需要进攻这个新的地点。</SoS.InsectPillarLost>
 	<SoS.MoonPillarLostLabel>超凡科技柱丢失</SoS.MoonPillarLostLabel>
-	<SoS.MoonPillarLost>随着你的殖民者被逐出月面基地，基地的机械族立刻开始修复建筑。很快就会有另一艘机械族飞船前来保卫这个地点。当你准备好时，你将需要发动另一次袭击。</SoS.MoonPillarLost>
+	<SoS.MoonPillarLost>随着你的殖民者被逐出月面基地，基地的机械体立刻开始修复建筑。很快就会有另一艘机械体飞船前来保卫这个地点。当你准备好时，你将需要发动另一次袭击。</SoS.MoonPillarLost>
 	
 	<!-- 星际旅行 -->
 	<SoS.GameOverPlanetLeaveIntro>你已决定出发去往一个新的星球！\n</SoS.GameOverPlanetLeaveIntro>
@@ -115,7 +115,7 @@
 	<SoS.WinGameAllies>你的盟友？</SoS.WinGameAllies>
 	<SoS.WinGameNeutral>中立的？</SoS.WinGameNeutral>
 	<SoS.WinGameEnemies>你的敌人？（除了海盗、野蛮人和永远敌对的家伙）</SoS.WinGameEnemies>
-	<SoS.GameOver>{0}为{1}带去秩序。机械族那由简单AI支撑的的思维被祂一触即溃。你那不屈不挠的敌人、巨型虫子、狂暴症，都随着一层薄薄的超凡微械集群涌至星球表面而落下帷幕；野蛮人和海盗终将被降下一股不可抗拒的心灵攻击因而瘫痪。\n\n随着最为紧迫的威胁被消除，{0}将祂的注意力转向剩下的派系。</SoS.GameOver>
+	<SoS.GameOver>{0}为{1}带去秩序。机械体那由简单AI支撑的的思维被祂一触即溃。你那不屈不挠的敌人、巨型虫子、狂暴症，都随着一层薄薄的超凡微械集群涌至星球表面而落下帷幕；野蛮人和海盗终将被降下一股不可抗拒的心灵攻击因而瘫痪。\n\n随着最为紧迫的威胁被消除，{0}将祂的注意力转向剩下的派系。</SoS.GameOver>
 	<SoS.GameOverAllyA>你的盟友被给予一个友好地选择：继续过着他们从前过着的生活，或者加入你正在建立的新闪耀世界社会。</SoS.GameOverAllyA>
 	<SoS.GameOverAllyAOutlander>大多数{0}的人们高兴地接受了你的提议，尽管仍有一些孤立社区存在。随着时间的推移，他们逐渐摒弃前嫌，愉快的生活在{1}。</SoS.GameOverAllyAOutlander>
 	<SoS.GameOverAllyAOutlanderRough>{0}在最初的几年里孤注一掷，抵制统一。但随着你的文明的优势变得愈发显而易见，大规模的叛逃导致{0}崩溃，残余的部分很快被{1}吸收。</SoS.GameOverAllyAOutlanderRough>
@@ -142,7 +142,7 @@
 	<SoS.GameOverNeutralBEmpire>破碎帝国在一开始拒绝了你的提议，直到发现超凡科技提供的保护能让他们的宿敌都踌躇不前。于是，{0}与{1}之间签订了一项条约，根据这项条约，星系主宰放弃了对远方皇帝的忠诚，承诺服从{2}。{0}依旧保持着他们那僵化的社会结构，独立但又存在于{1}的之中。</SoS.GameOverNeutralBEmpire>
 	<SoS.GameOverNeutralC>你要求{1}消灭所有中立派系。</SoS.GameOverNeutralC>
 	<SoS.GameOverNeutralCOutlander>{0}对你的突袭被毫无准备。通讯与基础设施全面瘫痪，军事设备被尽数入侵，不起眼的微型无人机将致命的纳米机械注入他们的身体使其心跳骤停。短短一周，{0}就仅剩废墟和尸体。</SoS.GameOverNeutralCOutlander>
-	<SoS.GameOverNeutralCOutlanderRough>与其直接攻击{0}, {2}使用了灵能来激起对方的内部分裂，煽动将军野心，迫使最高领导者犯下战略错误。三天内，{0}的政府完全崩溃，幸存者成为了被{2}控制的机械族的猎杀对象。</SoS.GameOverNeutralCOutlanderRough>
+	<SoS.GameOverNeutralCOutlanderRough>与其直接攻击{0}, {2}使用了灵能来激起对方的内部分裂，煽动将军野心，迫使最高领导者犯下战略错误。三天内，{0}的政府完全崩溃，幸存者成为了被{2}控制的机械体的猎杀对象。</SoS.GameOverNeutralCOutlanderRough>
 	<SoS.GameOverNeutralCTribal>{2}用灵能在{0}的长老们的面前显现，告诉他们他们因自己的行为而被降下诅咒。在他们的定居处，植物神秘枯萎，动物也会以超自然的感知能力避开他们的长矛，{0}将无法撑过下个冬天。</SoS.GameOverNeutralCTribal>
 	<SoS.GameOverNeutralCTribalRough>{2}用灵能在{0}的战士之间激起分歧。小小的矛盾演变成极端的暴力，即使是最温和的人也很快被暴怒所吞噬。不到一周，最后一名部落成员切断了他兄弟的喉咙，随后自己也失血而死。</SoS.GameOverNeutralCTribalRough>
 	<SoS.GameOverNeutralCEmpire>拥有强大的技术实力和舰队的{0}是唯一有能力挑战{2}的地方强权。超凡科技智能使用了尽其所能的任何肮脏手段；通过灵能控制强大个体，用生化武器将他们密闭的飞船变成太空棺材，用自身强大的思维征服比祂弱小的AI。{2}还监督着一座巨型轨道船坞的建设，该船坞将组装数十艘战舰用于最后的决战。战争以{0}的崩溃结束，尽管付出了巨大代价。</SoS.GameOverNeutralCEmpire>  

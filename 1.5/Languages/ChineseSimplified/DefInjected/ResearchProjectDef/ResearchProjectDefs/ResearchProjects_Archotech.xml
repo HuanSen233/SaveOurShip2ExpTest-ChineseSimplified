@@ -74,12 +74,12 @@
     <ArchotechPillarA.label>定位阿尔法柱</ArchotechPillarA.label>
     <ArchotechPillarA.description>发现一根超凡科技柱的位置。这个特殊的标本位于环绕这颗星球的某条轨道上。</ArchotechPillarA.description>
     <ArchotechPillarA.discoveredLetterTitle>检测到超凡科技柱</ArchotechPillarA.discoveredLetterTitle>
-    <ArchotechPillarA.discoveredLetterText>你已经成功识别出一根超凡科技柱所在的位置！这个标本位于地平线号空间站上，那是一座古老的星球改造站。\n\n扫描显示，该空间站的穹顶部分与内部的机械族已经维持了其内部的生态系统数千年而安然无恙。空间站还安装了大量重型武器，看来它们并不欢迎访客。\n\n你需要在舰桥处选择与地平线号交战。</ArchotechPillarA.discoveredLetterText>
+    <ArchotechPillarA.discoveredLetterText>你已经成功识别出一根超凡科技柱所在的位置！这个标本位于地平线号空间站上，那是一座古老的星球改造站。\n\n扫描显示，该空间站的穹顶部分与内部的机械体已经维持了其内部的生态系统数千年而安然无恙。空间站还安装了大量重型武器，看来它们并不欢迎访客。\n\n你需要在舰桥处选择与地平线号交战。</ArchotechPillarA.discoveredLetterText>
     
     <ArchotechPillarB.label>定位贝塔柱</ArchotechPillarB.label>
     <ArchotechPillarB.description>发现一根超凡科技柱的位置。这个特殊的标本位于星球的一个卫星上。</ArchotechPillarB.description>
     <ArchotechPillarB.discoveredLetterTitle>检测到超凡科技柱</ArchotechPillarB.discoveredLetterTitle>
-    <ArchotechPillarB.discoveredLetterText>你已经成功识别出一根超凡科技柱所在的位置！这个标本正在卫星上的一处机械族基地当中被研究。\n\n扫描显示基地被一艘大型机械族战舰保护着。\n\n要接近机械族基地请在舰桥处选择“突袭月面基地”选项。</ArchotechPillarB.discoveredLetterText>
+    <ArchotechPillarB.discoveredLetterText>你已经成功识别出一根超凡科技柱所在的位置！这个标本正在卫星上的一处机械体基地当中被研究。\n\n扫描显示基地被一艘大型机械体战舰保护着。\n\n要接近机械体基地请在舰桥处选择“突袭月面基地”选项。</ArchotechPillarB.discoveredLetterText>
     
     <ArchotechPillarC.label>定位伽马柱</ArchotechPillarC.label>
     <ArchotechPillarC.description>发现一根超凡科技柱的位置。这个特殊的标本位于星球表面的某个地方。</ArchotechPillarC.description>

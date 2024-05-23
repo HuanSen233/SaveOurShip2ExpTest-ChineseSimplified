@@ -64,9 +64,9 @@
     <ShipConsoleScience.description>允许殖民者扫描轨道上感兴趣的物体，从轨道上观察星球表面并在战斗中扫描敌舰内部。</ShipConsoleScience.description>
     
     <Ship_DroneCore.label>无人船舶核心</Ship_DroneCore.label>
-    <Ship_DroneCore.description>一个简单的计算机核心，内置一个低级AI。虽然无法解决创造性问题或进行星际航行，但足矣代替人类在战斗中驾驶舰船。</Ship_DroneCore.description>
+    <Ship_DroneCore.description>一个简单的计算机核心，内置一个低级AI。虽然无法解决创造性问题或引导星际航行，但足矣代替人类在战斗中驾驶舰船。</Ship_DroneCore.description>
     <Ship_ComputerCore.label>船舶电脑核心</Ship_ComputerCore.label>
-    <Ship_ComputerCore.description>一个搭载有人格AI的电脑核心，可以驾驶你的舰船，精准地发射武器，或者在漫长的星际航行中担任领航员。其包含了一个纳米机械繁殖箱，允许AI生成一个微械凝胶体来与世界交互。</Ship_ComputerCore.description>
+    <Ship_ComputerCore.description>一个搭载有人格AI的电脑核心，可以驾驶你的舰船，精准地发射武器，或者在漫长的星际航行中担任领航员。其包含了一个纳米机械培育舱，允许AI生成一个微械凝胶体来与世界交互。</Ship_ComputerCore.description>
     <!-- 传感器 -->
     <Ship_SensorCluster.label>基础集成传感器</Ship_SensorCluster.label>
     <Ship_SensorCluster.description>搭载了基本的舰船操作所需的传感器。允许舰船进入轨道或观察一个区域并在所观察的区域着陆。</Ship_SensorCluster.description>

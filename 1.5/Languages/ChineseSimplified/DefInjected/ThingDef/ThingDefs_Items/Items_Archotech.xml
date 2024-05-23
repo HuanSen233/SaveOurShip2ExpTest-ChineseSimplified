@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <ArcholifePod.label>超凡生物基质舱</ArcholifePod.label>
+    <ArcholifePod.description>一种包裹在一次性孵化器中的合成细胞浆。可以通过编程(选择一个小人并右键)来“孵化”出一只经过彻底重新设计过的普通生物的超凡版本。需要10个超凡生物基质舱叠一起才能生成一只超凡敲击兽。</ArcholifePod.description>
+
+    <ArchotechRepairGel.label>修复机械液</ArchotechRepairGel.label>
+    <ArchotechRepairGel.description>调整为修复受损物品用途的一次性超剂量纳米机械。对武器或衣物使用后，纳米机械会修理这些物体使其恢复如初。</ArchotechRepairGel.description>
+
+    <ArchotechMechaniteCore.label>解构者核心</ArchotechMechaniteCore.label>
+    <ArchotechMechaniteCore.description>一个独立的生产解构微械的纳米机械培育舱。</ArchotechMechaniteCore.description>
+
+    <ArchotechPsychicCore.label>噬灵者核心</ArchotechPsychicCore.label>
+    <ArchotechPsychicCore.description>一个强大的心灵影响器，能干扰到遥远的敌人的思维。可以用来制造脊峰武器。</ArchotechPsychicCore.description>
+
+    <ArchotechExoticParticles.label>异形粒子</ArchotechExoticParticles.label>
+    <ArchotechExoticParticles.description>被安全地包裹着的违背传统物理学规律的粒子。可用于建造各式设备。</ArchotechExoticParticles.description>
+
+</LanguageData>
