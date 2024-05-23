@@ -12,7 +12,7 @@
 
     <HackBlackBoxConsole.reportString>入侵TargetA。</HackBlackBoxConsole.reportString>
 
-    <LoadTorpedoTube.reportString>装载鱼雷发射器。</LoadTorpedoTube.reportString>
+    <LoadTorpedoTube.reportString>装填鱼雷发射器。</LoadTorpedoTube.reportString>
 
     <LoadShipBuilding.reportString>给TargetA加燃料。</LoadShipBuilding.reportString>
 

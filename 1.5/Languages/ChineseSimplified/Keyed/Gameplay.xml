@@ -20,7 +20,7 @@
 	<SoS.BurnUpCountdownTip>这张地图将在{0}后落入大气。上面的一切都会被摧毁。</SoS.BurnUpCountdownTip>
 	<!-- 战斗 -->
 	<SoS.CombatTooltip>显示敌舰与你舰之间的距离，以及所有正在飞行的炮弹和穿梭机。\n\n红色：激光、实弹炮的射程\n绿色：等离子的射程\n蓝色：轨道炮的射程\n紫色：鱼雷射程\n小色条：大型武器的最大射程但不精准</SoS.CombatTooltip>
-	<SoS.ShipFleet>舰队</SoS.ShipFleet>
+	<!--<SoS.ShipFleet>舰队</SoS.ShipFleet>-->
 	<SoS.CombatRetreat>后撤</SoS.CombatRetreat>
 	<SoS.CombatRetreatDesc>尽量远离敌舰</SoS.CombatRetreatDesc>
 	<SoS.CombatStop>停止</SoS.CombatStop>
@@ -63,12 +63,14 @@
 	<SoS.EnemyShipRetreating>敌舰正在试图撤退！</SoS.EnemyShipRetreating>
 	<SoS.EnemyShipRetreated>敌舰逃走了！</SoS.EnemyShipRetreated>
 	<SoS.EnemyShipAdrift>敌舰已进入漂浮状态，正在慢慢失去轨道！</SoS.EnemyShipAdrift>
+	<!--
 	<SoS.AttackShip>攻击</SoS.AttackShip>
 	<SoS.AttackShipDesc>攻击这个</SoS.AttackShipDesc>
 	<SoS.AttackShipPirate>尝试掠夺</SoS.AttackShipPirate>
 	<SoS.AttackShipEngage>尝试交战</SoS.AttackShipEngage>
 	<SoS.ApproachShip>方案</SoS.ApproachShip>
 	<SoS.ApproachShipDesc>调查方案</SoS.ApproachShipDesc>
+	-->
 	<!-- 打捞、捕获 -->
 	<SoS.ReturnShip>移回</SoS.ReturnShip>
 	<SoS.ReturnShipDesc>将舰船移回你的稳定轨道</SoS.ReturnShipDesc>
@@ -112,7 +114,7 @@
 	<SoS.PirateTradeDemand>要求他们交出货物（这是海盗行为！会增加你的恶名值）</SoS.PirateTradeDemand>
 	<SoS.TradeTryingToFlee>{0} 关闭了通讯并试图逃离！</SoS.TradeTryingToFlee>
 	<SoS.TradeAttack>追上去！</SoS.TradeAttack>
-	<SoS.TradeFlee>让他们走。</SoS.TradeFlee>
+	<SoS.TradeFlee>放他们走。</SoS.TradeFlee>
 	<SoS.TradePayBounty>支付你的赏金以消除恶名（需要：{0} 银）</SoS.TradePayBounty>
 	<SoS.NotEnoughForBounty>你需要有 {0} 银在轨道交易信标的范围内</SoS.NotEnoughForBounty>
 	<SoS.PirateHail>一艘海盗船在向你招手。\n</SoS.PirateHail>
@@ -146,6 +148,8 @@
 	<SoS.StatsShipMaxTakeoff>舰船最大起飞重量：{0}</SoS.StatsShipMaxTakeoff>
 	<SoS.StatsShipEnergy>舰船储能：{0} / {1} Wd</SoS.StatsShipEnergy>
 	<SoS.StatsShipHeat>舰船热容：{0} / {1} HU{2}</SoS.StatsShipHeat>
+	<SoS.StatsShipHeatMaximum>最大热容：{0}</SoS.StatsShipHeatMaximum>
+	<SoS.StatsShipHeatMaximumShort>最大</SoS.StatsShipHeatMaximumShort>
 	<SoS.StatsShipCombatRating>战斗评级：{0}</SoS.StatsShipCombatRating>
 	<SoS.StatsShipCombatThrust>推重比：{0}</SoS.StatsShipCombatThrust>
 	<SoS.ReportInterReady>为星际旅行做好准备。</SoS.ReportInterReady>
@@ -236,19 +240,20 @@
 	<SoS.BreakCloakAtHeat>冷却剂消耗阈值</SoS.BreakCloakAtHeat>
 	<SoS.BreakCloakAtHeatDesc>当舰船热容系统中的冷却剂消耗至设定百分比时，将关闭隐形装置使其可以恢复。</SoS.BreakCloakAtHeatDesc>
 	<SoS.CloakBrokenAtHeat>冷却剂耗尽，隐形装置失效！</SoS.CloakBrokenAtHeat>
+	<!-- 武器 -->
 	<SoS.TurretNotInShipCombat>警告：炮塔处于非舰船战状态所以不会开火。</SoS.TurretNotInShipCombat>
 	<SoS.TurretInPointDefense>警告：炮塔处于点防御模式所以不会瞄准敌舰。</SoS.TurretInPointDefense>
 	<SoS.TurretExtractTorpedo>取出鱼雷</SoS.TurretExtractTorpedo>
-	<SoS.TurretExtractTorpedoDesc>卸载所有已装载的鱼雷，以便使用其它类型鱼类替换。</SoS.TurretExtractTorpedoDesc>
+	<SoS.TurretExtractTorpedoDesc>卸载所有已装填的鱼雷，以便使用其它类型鱼类替换。</SoS.TurretExtractTorpedoDesc>
 	<SoS.TurretExtractOneTorpedo>取出一枚鱼雷</SoS.TurretExtractOneTorpedo>
-	<SoS.TurretExtractOneTorpedoDesc>只卸载已装载的鱼雷中的一枚，以便使用其它类型鱼类替换。</SoS.TurretExtractOneTorpedoDesc>
+	<SoS.TurretExtractOneTorpedoDesc>只卸载已装填的鱼雷中的一枚，以便使用其它类型鱼类替换。</SoS.TurretExtractOneTorpedoDesc>
 	<SoS.TurretExtract>取出 </SoS.TurretExtract>
 	<SoS.TurretOptimalRange>使用最佳射程</SoS.TurretOptimalRange>
 	<SoS.TurretOptimalRangeDesc>使其只对最佳射程内的目标开火</SoS.TurretOptimalRangeDesc>
 	<SoS.TurretPointDefense>点防御模式</SoS.TurretPointDefense>
 	<SoS.TurretPointDefenseDesc>让这个炮塔拦截来袭的鱼雷和穿梭机</SoS.TurretPointDefenseDesc>
 	<SoS.TorpedoAllowedDesc>切换以阻止或允许发射这种类型的鱼雷。</SoS.TorpedoAllowedDesc>
-	<SoS.TorpedoNotLoaded>不装载</SoS.TorpedoNotLoaded>
+	<SoS.TorpedoNotLoaded>不装填</SoS.TorpedoNotLoaded>
 	<SoS.TorpedoFullyLoaded>满载</SoS.TorpedoFullyLoaded>
 	<SoS.TorpedoNone>没有鱼雷</SoS.TorpedoNone>
 	<SoS.AmplifierCount>脊峰放大：{0}</SoS.AmplifierCount>
@@ -263,8 +268,8 @@
 	<SoS.DecShieldRadius>减小护盾半径</SoS.DecShieldRadius>
 	<SoS.IncShieldRadius>增大护盾半径</SoS.IncShieldRadius>
 	<SoS.FoamFill>填补损伤</SoS.FoamFill>
-	<SoS.FoamFillDesc>让舰船上的泡沫船舶填补器填补舰船受损区域。</SoS.FoamFillDesc>
-	<SoS.FoamFillDisabled>不需要填补或泡沫船舶填补器缺少填补泡沫。</SoS.FoamFillDisabled>
+	<SoS.FoamFillDesc>让舰船上的泡沫船体填充泵修补舰船受损区域。</SoS.FoamFillDesc>
+	<SoS.FoamFillDisabled>不需要填补或泡沫船体填充泵缺少修补泡沫。</SoS.FoamFillDisabled>
 	<!-- 反应堆 -->
 	<SoS.ReactorInstability>不稳定性：{0}</SoS.ReactorInstability>
 	<SoS.ReactorOverdrive>超频 I</SoS.ReactorOverdrive>
@@ -294,8 +299,10 @@
 	<SoS.Atmosphere>可呼吸环境</SoS.Atmosphere>
 	<SoS.AtmosphereNonBreathable>不可呼吸环境</SoS.AtmosphereNonBreathable>
 	<SoS.AtmosphereBreach>该空间不合规！</SoS.AtmosphereBreach>
+	<!--
 	<SoS.CocoonPlaceFail>无法生成滞眠茧！</SoS.CocoonPlaceFail>
 	<SoS.CocoonMalnourished>使用者处在营养不良状态</SoS.CocoonMalnourished>
+	-->
 	<!-- 凝胶体、孢子 -->
 	<SoS.SpawnHologram>生成\n微械凝胶体</SoS.SpawnHologram>
 	<SoS.SpawnHologramDesc>这个装置的意识可以通过微械凝胶体来影响现实。</SoS.SpawnHologramDesc>
@@ -366,7 +373,7 @@
 	<SoS.MechanitesInHomeArea>解构微械！</SoS.MechanitesInHomeArea>
     <SoS.MechanitesInHomeAreaDesc>家里到处都是解构微械。</SoS.MechanitesInHomeAreaDesc>
 	<!-- 穿梭机 -->
-	<SoS.ShuttlesMore>更多穿梭机</SoS.ShuttlesMore>
+	<!--<SoS.ShuttlesMore>更多穿梭机</SoS.ShuttlesMore>-->
 	<SoS.ShuttleMissionFloatBoard>任务：跳帮队突击检查</SoS.ShuttleMissionFloatBoard>
 	<SoS.ShuttleMissionFloatBoardWarn>任务：跳帮队突击检查（警告！）</SoS.ShuttleMissionFloatBoardWarn>
 	<SoS.ShuttleMissionFloatIntercept>任务：拦截鱼雷/穿梭机</SoS.ShuttleMissionFloatIntercept>
@@ -410,9 +417,9 @@
 	<SoS.TargetShuttlesDesc>设定执行射击和雷击任务的穿梭机应该瞄准的位置。</SoS.TargetShuttlesDesc>
 	<SoS.ShuttleToggleShield>切换护盾</SoS.ShuttleToggleShield>
 	<SoS.ShuttleToggleShieldDesc>开启或关闭这个护盾</SoS.ShuttleToggleShieldDesc>
-
-	<!-- obsolete/unused
+	<SoS.NotEnoughFuelToLaunchShuttle>没有足够的燃料发射穿梭机</SoS.NotEnoughFuelToLaunchShuttle>
+	<SoS.CannotLaunchUnderRoof>穿梭机不能直接在屋顶下发射，你应该将它停在穿梭机停靠港再发射</SoS.CannotLaunchUnderRoof>
 	<SoS.ToggleField>切换船体通道</SoS.ToggleField>
 	<SoS.ToggleFieldDesc>允许小人和车辆通过这个可通行的船体</SoS.ToggleFieldDesc>
-    -->
+
 </LanguageData>
