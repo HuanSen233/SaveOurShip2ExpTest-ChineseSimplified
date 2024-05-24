@@ -157,7 +157,7 @@
     <ShipBPFrigateArcher.label>舰船蓝图(射手座级巡航舰)</ShipBPFrigateArcher.label>
     <ShipBPFrigateArcher.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。\n\n级别：射手座级巡航舰\n一艘灵活的巡航舰，相对较高的航速与搭载的一门脊峰轨道炮，使得射手座级巡航舰非常适合远距离作战。\n\n舰船重量：7425\n尺寸：76 x 44\n推重比：1.909\n战斗评级：640\n\n武器：\n10x舰载激光炮\n2x大型舰载等离子炮\n1x脊峰炮：轨道炮\n2x鱼雷发射器\n\n所需资源：\n钢铁：40579\n高级零部件：548\n玻璃钢：12097\n零部件：1091\n铀：750\n白银：1100\n黄金：52\n布：130\n原木：55\n\n全部建造所需研究：\n第一阶段：\n星际航行基础、电力、空调\n第二阶段：\n火箭推进器、船用裂变反应堆\n第三阶段：\n船舶导航，舰载激光炮、主力舰武器、微电子基础、逃生舱、修补泡沫、护盾发生器、先进传感器、船舶热容系统、医疗床、生命维持系统、电容器阵列、巡洋舰武器、机械加工、精密装配、紧急排热端口、泡沫灭火器、穿梭机停靠港、打捞港、多元分析仪、水栽培、舰载鱼雷、复杂家具、医药生产、复杂衣物、生命体征监测仪、平板电视</ShipBPFrigateArcher.description>
 
-    <ShipBPFrigateWinged.label>舰船蓝图(飞翼级巡航舰)</ShipBPFrigateWinged.label>
+    <ShipBPFrigateWinged.label>舰船蓝图(襟翼级巡航舰)</ShipBPFrigateWinged.label>
     <!--<ShipBPFrigateWinged.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。</ShipBPFrigateWinged.description>-->
 
     <ShipBPCorvetteMartian.label>舰船蓝图(老式火星巡洋舰)</ShipBPCorvetteMartian.label>
