@@ -137,41 +137,56 @@
     <WallSunLampSoS.comps.CompSchedule.offMessage>植物休眠期间关闭</WallSunLampSoS.comps.CompSchedule.offMessage>
     <!-- 飞船蓝图 -->
     <ShipBPBomberHeavy.label>舰船蓝图(重型轰炸机)</ShipBPBomberHeavy.label>
-    <ShipBPBomberHeavy.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。\n\n级别：重型轰炸机\n一艘全副武装的飞船，但无法独自在太空中进行长期行动。\n\n舰船重量：1092\n尺寸：28 x 26\n推重比：3.151\n战斗评级：130\n\n武器：\n1x大型激光炮塔\n2x激光炮塔\n2x鱼雷发射器\n2x等离子炮塔\n\n所需资源：钢铁：5447\n玻璃钢：1937\n高级零部件：91\n零部件：168\n铀：160\n白银：225\n黄金：4\n\n全部建造所需研究：\n第一阶段：\n星际航行基础、电力、空调\n第二阶段：\n飞船推进器\n第三阶段：\n飞船导航、巡洋舰武器、散热系统、船舶裂变反应堆、激光炮塔、基础飞船传感器、泡沫灭火器、舰船护盾、舰船电容阵列、舰船鱼雷、等离子炮塔、船舶生命保障</ShipBPBomberHeavy.description>
-    <!--
-    <ShipBPCargoFirefly.label>text</ShipBPCargoFirefly.label>
-    <ShipBPCargoFirefly.description>text</ShipBPCargoFirefly.description>
-    <ShipBPCorvette.label>text</ShipBPCorvette.label>
-    <ShipBPCorvette.description>text</ShipBPCorvette.description>
-    <ShipBPCorvetteGunship.label>text</ShipBPCorvetteGunship.label>
-    <ShipBPCorvetteGunship.description>text</ShipBPCorvetteGunship.description>
-    <ShipBPCorvetteTorpedo.label>text</ShipBPCorvetteTorpedo.label>
-    <ShipBPCorvetteTorpedo.description>text</ShipBPCorvetteTorpedo.description>
-    <ShipBPCorvetteWinged.label>text</ShipBPCorvetteWinged.label>
-    <ShipBPCorvetteWinged.description>text</ShipBPCorvetteWinged.description>
-    <ShipBPFrigateArcher.label>text</ShipBPFrigateArcher.label>
-    <ShipBPFrigateArcher.description>text</ShipBPFrigateArcher.description>
-    <ShipBPFrigateWinged.label>text</ShipBPFrigateWinged.label>
-    <ShipBPFrigateWinged.description>text</ShipBPFrigateWinged.description>
-    <ShipBPCorvetteMartian.label>text</ShipBPCorvetteMartian.label>
-    <ShipBPCorvetteMartian.description>text</ShipBPCorvetteMartian.description>
-    <ShipBPTransportSmall.label>text</ShipBPTransportSmall.label>
-    <ShipBPTransportSmall.description>text</ShipBPTransportSmall.description>
-    <ShipBPExplorationVessel.label>text</ShipBPExplorationVessel.label>
-    <ShipBPExplorationVessel.description>text</ShipBPExplorationVessel.description>
-    <ShipBPCorvetteArrowhead.label>text</ShipBPCorvetteArrowhead.label>
-    <ShipBPCorvetteArrowhead.description>text</ShipBPCorvetteArrowhead.description>
-    <ShipBPFrigateIronclad.label>text</ShipBPFrigateIronclad.label>
-    <ShipBPFrigateIronclad.description>text</ShipBPFrigateIronclad.description>
-    <ShipBPCorvetteArdent.label>text</ShipBPCorvetteArdent.label>
-    <ShipBPCorvetteArdent.description>text</ShipBPCorvetteArdent.description>
-    <ShipBPMiningRig.label>text</ShipBPMiningRig.label>
-    <ShipBPMiningRig.description>text</ShipBPMiningRig.description>
-    <ShipBPDestroyer.label>text</ShipBPDestroyer.label>
-    <ShipBPDestroyer.description>text</ShipBPDestroyer.description>
-    <ShipBPCruiserThor.label>text</ShipBPCruiserThor.label>
-    <ShipBPCruiserThor.description>text</ShipBPCruiserThor.description>
-    -->
+    <ShipBPBomberHeavy.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。\n\n级别：重型轰炸机\n一艘全副武装的飞船，但无法独自在太空中进行长期行动。\n\n舰船重量：1092\n尺寸：28 x 26\n推重比：3.151\n战斗评级：130\n\n武器：\n1x大型舰载激光炮\n2x舰载激光炮\n2x鱼雷发射器\n2x舰载等离子炮\n\n所需资源：\n钢铁：5447\n玻璃钢：1937\n高级零部件：91\n零部件：168\n铀：160\n白银：225\n黄金：4\n\n全部建造所需研究：\n第一阶段：\n星际航行基础、电力、空调\n第二阶段：\n火箭推进器\n第三阶段：\n船舶导航、巡洋舰武器、船舶热容系统、船用裂变反应堆、舰载激光炮、基础传感器、泡沫灭火器、护盾发生器、电容器阵列、舰载鱼雷、舰载等离子炮、生命维持系统</ShipBPBomberHeavy.description>
+    
+    <ShipBPCargoFirefly.label>舰船蓝图(萤火虫级运输船)</ShipBPCargoFirefly.label>
+    <ShipBPCargoFirefly.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。\n\n级别：萤火虫级运输\n有大载货舱的无武装运输船。\n\n舰船重量：4720\n尺寸：79 x 50\n推重比：1.644\n战斗评级：63\n\n武器：\n没有\n\n所需资源：\n钢铁：25099\n玻璃钢：5890\n高级零部件：202\n零部件：740\n黄金：16\n铀：170\n纠缠流形：1\n白银：100\n\n全部建造所需研究：\n第一阶段：\n星际航行基础、电力、太阳能板、空调\n第二阶段：\n火箭推进器、船用裂变反应堆、约翰逊-田中驱动器\n第三阶段：\n船舶导航、先进传感器、微电子基础、逃生舱、生命维持系统、打捞港、生命体征监测仪、穿梭机停靠港、复杂家具、船舶热容系统、机械加工、泡沫灭火器、医疗床、电容器阵列</ShipBPCargoFirefly.description>
+    
+    <ShipBPCorvette.label>舰船蓝图(轻型护卫舰)</ShipBPCorvette.label>
+    <ShipBPCorvette.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。\n\n级别：轻型护卫舰\n一艘很小的轻型护卫舰。\n\n舰船重量：1868\n尺寸：36 x 20\n推重比：2.371\n战斗评级：132\n\n武器：\n2x鱼雷发射器\n4x舰载激光炮\n2x舰载轨道炮\n\n所需资源：\n钢铁：9328\n玻璃钢：2971\n高级零部件：131\n零部件：315\n白银：900\n黄金：4\n铀：120\n\n全部建造所需研究：\n第一阶段：\n星际航行基础、电力、空调\n第二阶段：\n火箭推进器\n第三阶段：\n船舶导航、船舶热容系统、护盾发生器、微电子基础、基础传感器、船用裂变反应堆、舰载鱼雷、生命维持系统、机械加工、泡沫灭火器、显像管电视、舰载激光炮、电容器阵列、舰载轨道炮、打捞港</ShipBPCorvette.description>
+
+    <ShipBPCorvetteGunship.label>舰船蓝图(炮艇巡洋舰)</ShipBPCorvetteGunship.label>
+    <ShipBPCorvetteGunship.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。\n\n级别：轻型巡洋舰\n一艘航速缓慢但全副武装的轻型巡洋舰。\n\n舰船重量：3694\n尺寸：69 x 26\n推重比：1.400\n战斗评级：262\n\n武器：\n8x舰载激光炮\n2x大型舰载轨道炮\n2x大型舰载等离子炮\n\n所需资源：\n钢铁：20404\n高级零部件：245\n玻璃钢：6390\n零部件：651\n铀：530\n黄金：4\n白银：1700\n\n全部建造所需研究：\n第一阶段：\n星际航行基础、电力、空调\n第二阶段：\n火箭推进器\n第三阶段：\n船舶导航、舰载激光炮、基础传感器、微电子基础、护盾发生器、船舶热容系统、巡洋舰武器、泡沫灭火器、电容器阵列、平板电视、医疗床、逃生舱、船用裂变反应堆、机械加工、打捞港、生命维持系统、生命体征监测仪</ShipBPCorvetteGunship.description>
+
+    <ShipBPCorvetteTorpedo.label>舰船蓝图(雷击巡洋舰)</ShipBPCorvetteTorpedo.label>
+    <ShipBPCorvetteTorpedo.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。\n\n级别：轻型巡洋舰\n一艘重型鱼雷轻巡洋舰。\n\n舰船重量：3733\n尺寸：60 x 36\n推重比：1.853\n战斗评级：313\n\n武器：\n6x舰载激光炮\n2x大型舰载等离子炮\n2x鱼雷发射器(双联装)\n\n所需资源：\n钢铁：21371\n玻璃钢：6070\n高级零部件：274\n零部件：651\n铀：325\n白银：900\n黄金：20\n\n全部建造所需研究：\n第一阶段：\n星际航行基础、电力、空调\n第二阶段：\n火箭推进器\n第三阶段：\n船舶导航、舰载激光炮、巡洋舰武器、微电子基础、电容器阵列、逃生舱、显像管电视、船舶热容系统、医疗床、护盾发生器、生命维持系统、生命体征监测仪、基础传感器、船用裂变反应堆、舰载鱼雷、泡沫灭火器、紧急排热端口，打捞港、机械加工</ShipBPCorvetteTorpedo.description>
+
+    <ShipBPCorvetteWinged.label>舰船蓝图(飞翼巡洋舰)</ShipBPCorvetteWinged.label>
+    <ShipBPCorvetteWinged.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。\n\n级别：轻型巡洋舰\n一艘有翼轻型巡洋舰。\n\n舰船重量：3101\n尺寸：44 x 48\n推重比：1.758\n战斗评级：179\n\n武器：\n1x大型舰载轨道炮\n6x舰载激光炮\n2x鱼雷发射器\n\n所需资源：\n钢铁：15648\n高级零部件：172\n玻璃钢：4794\n零部件：548\n铀：220\n黄金：4\n白银：900\n\n全部建造所需研究：\n第一阶段：\n星际航行基础、电力、空调\n第二阶段：\n火箭推进器\n第三阶段：\n船舶导航、电容器阵列、巡洋舰武器、微电子基础、生命维持系统、生命体征监测仪、医疗床、基础传感器、舰载激光炮、船用裂变反应堆、打捞港、船舶热容系统、逃生舱、显像管电视、护盾发生器、舰载鱼雷、泡沫灭火器</ShipBPCorvetteWinged.description>
+
+    <ShipBPFrigateArcher.label>舰船蓝图(射手座级巡航舰)</ShipBPFrigateArcher.label>
+    <ShipBPFrigateArcher.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。\n\n级别：射手座级巡航舰\n一艘灵活的巡航舰，相对较高的航速与搭载的一门脊峰轨道炮，使得射手座级巡航舰非常适合远距离作战。\n\n舰船重量：7425\n尺寸：76 x 44\n推重比：1.909\n战斗评级：640\n\n武器：\n10x舰载激光炮\n2x大型舰载等离子炮\n1x脊峰炮：轨道炮\n2x鱼雷发射器\n\n所需资源：\n钢铁：40579\n高级零部件：548\n玻璃钢：12097\n零部件：1091\n铀：750\n白银：1100\n黄金：52\n布：130\n原木：55\n\n全部建造所需研究：\n第一阶段：\n星际航行基础、电力、空调\n第二阶段：\n火箭推进器、船用裂变反应堆\n第三阶段：\n船舶导航，舰载激光炮、主力舰武器、微电子基础、逃生舱、修补泡沫、护盾发生器、先进传感器、船舶热容系统、医疗床、生命维持系统、电容器阵列、巡洋舰武器、机械加工、精密装配、紧急排热端口、泡沫灭火器、穿梭机停靠港、打捞港、多元分析仪、水栽培、舰载鱼雷、复杂家具、医药生产、复杂衣物、生命体征监测仪、平板电视</ShipBPFrigateArcher.description>
+
+    <ShipBPFrigateWinged.label>舰船蓝图(飞翼级巡航舰)</ShipBPFrigateWinged.label>
+    <!--<ShipBPFrigateWinged.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。</ShipBPFrigateWinged.description>-->
+
+    <ShipBPCorvetteMartian.label>舰船蓝图(老式火星巡洋舰)</ShipBPCorvetteMartian.label>
+    <!--<ShipBPCorvetteMartian.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。</ShipBPCorvetteMartian.description>-->
+
+    <ShipBPTransportSmall.label>舰船蓝图(小型运输船)</ShipBPTransportSmall.label>
+    <!--<ShipBPTransportSmall.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。</ShipBPTransportSmall.description>-->
+
+    <ShipBPExplorationVessel.label>舰船蓝图(勘探船)</ShipBPExplorationVessel.label>
+    <!--<ShipBPExplorationVessel.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。</ShipBPExplorationVessel.description>-->
+
+    <ShipBPCorvetteArrowhead.label>舰船蓝图(箭头巡洋舰)</ShipBPCorvetteArrowhead.label>
+    <!--<ShipBPCorvetteArrowhead.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。</ShipBPCorvetteArrowhead.description>-->
+
+    <ShipBPFrigateIronclad.label>舰船蓝图(抗破级巡洋舰)</ShipBPFrigateIronclad.label>
+    <!--<ShipBPFrigateIronclad.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。</ShipBPFrigateIronclad.description>-->
+
+    <ShipBPCorvetteArdent.label>舰船蓝图(热心级巡洋舰)</ShipBPCorvetteArdent.label>
+    <!--<ShipBPCorvetteArdent.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。</ShipBPCorvetteArdent.description>-->
+
+    <ShipBPMiningRig.label>舰船蓝图(采矿钻井平台)</ShipBPMiningRig.label>
+    <!--<ShipBPMiningRig.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。</ShipBPMiningRig.description>-->
+
+    <ShipBPDestroyer.label>舰船蓝图(鱼雷大型驱逐舰)</ShipBPDestroyer.label>
+    <!--<ShipBPDestroyer.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。</ShipBPDestroyer.description>-->
+
+    <ShipBPCruiserThor.label>舰船蓝图(雷神级大型巡洋舰)</ShipBPCruiserThor.label>
+    <!--<ShipBPCruiserThor.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。</ShipBPCruiserThor.description>-->
+
     <!-- 其它 -->
     <ShipMoveBlueprint.label>舰船的新位置</ShipMoveBlueprint.label>
     <ShipMoveBlueprint.description>选择你想要舰船移动到的目标位置。</ShipMoveBlueprint.description>

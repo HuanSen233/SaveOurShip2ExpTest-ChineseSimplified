@@ -14,7 +14,7 @@
 	<SoS.LeaveGraveyardDesc>让这些残骸变成太空垃圾。</SoS.LeaveGraveyardDesc>
 	<SoS.ForceExitAndRemoveMapCountdown>在 {0} 后落入大气。</SoS.ForceExitAndRemoveMapCountdown>
 	<SoS.BurnUpPlayer>轨道无法维持！</SoS.BurnUpPlayer>
-	<SoS.BurnUpPlayerDesc>由于失去了最后一座舰桥，地图不能再维持它的轨道，将在{0}天后落入大气！\n\n上面的一切都会被摧毁！</SoS.BurnUpPlayerDesc>
+	<SoS.BurnUpPlayerDesc>由于失去了最后一座舰桥，地图不能再维持它的轨道，将在{0}后落入大气！\n\n上面的一切都会被摧毁！</SoS.BurnUpPlayerDesc>
 	<SoS.BurnUpPlayerPrevented>建造飞船舰桥等相关设备可以稳定轨道。</SoS.BurnUpPlayerPrevented>
 	<SoS.BurnUpCountdown>在 {0} 后落入大气！</SoS.BurnUpCountdown>
 	<SoS.BurnUpCountdownTip>这张地图将在{0}后落入大气。上面的一切都会被摧毁。</SoS.BurnUpCountdownTip>
@@ -39,7 +39,7 @@
 	<SoS.WithdrawShip>撤离舰船</SoS.WithdrawShip>
 	<SoS.WithdrawShipDesc>让这艘船脱离战斗</SoS.WithdrawShipDesc>
 	<SoS.WithdrawShipLast>最后一艘船不能撤退</SoS.WithdrawShipLast>
-	<SoS.CombatConfirmWithdraw>把这艘船撤离进坟场？要是你输了或者逃跑，那么敌舰会攻击你撤进坟场的舰船。</SoS.CombatConfirmWithdraw>
+	<SoS.CombatConfirmWithdraw>把这艘船撤离进坟场？要是你这场仗打输了或者逃跑，那么敌舰会攻击你撤进坟场的舰船。</SoS.CombatConfirmWithdraw>
 	<SoS.WrecksPreventMove>地图上的残骸不能移动！</SoS.WrecksPreventMove>
 	<SoS.RemoveWrecks>移除残骸</SoS.RemoveWrecks>
 	<SoS.RemoveWrecksDesc>将地图上的所有残骸移除，它们将被摧毁。</SoS.RemoveWrecksDesc>
@@ -51,7 +51,7 @@
 	<SoS.ScuttleShipDesc>发射所有逃生舱到星球上的指定地点。</SoS.ScuttleShipDesc>
 	<SoS.ScuttleShipPods>不能弃船，有飞行器在往返途中！</SoS.ScuttleShipPods>
 	<SoS.NoLoadedPods>没有可装载的飞行器</SoS.NoLoadedPods>
-	<SoS.LaunchCryptoNotLoaded>飞行器没有装载</SoS.LaunchCryptoNotLoaded>
+	<SoS.LaunchCryptoNotLoaded>飞行器没有装载完成</SoS.LaunchCryptoNotLoaded>
 	<SoS.SelectWeapons>选择武器</SoS.SelectWeapons>
 	<SoS.SelectWeaponsDesc>选择连接的舰对舰武器</SoS.SelectWeaponsDesc>
 	<SoS.HoldFire>停火</SoS.HoldFire>
@@ -114,7 +114,7 @@
 	<SoS.PirateTradeDemand>要求他们交出货物（这是海盗行为！会增加你的恶名值）</SoS.PirateTradeDemand>
 	<SoS.TradeTryingToFlee>{0} 关闭了通讯并试图逃离！</SoS.TradeTryingToFlee>
 	<SoS.TradeAttack>追上去！</SoS.TradeAttack>
-	<SoS.TradeFlee>放他们走。</SoS.TradeFlee>
+	<SoS.TradeFlee>让他们走。</SoS.TradeFlee>
 	<SoS.TradePayBounty>支付你的赏金以消除恶名（需要：{0} 银）</SoS.TradePayBounty>
 	<SoS.NotEnoughForBounty>你需要有 {0} 银在轨道交易信标的范围内</SoS.NotEnoughForBounty>
 	<SoS.PirateHail>一艘海盗船在向你招手。\n</SoS.PirateHail>
@@ -203,7 +203,7 @@
 	<SoS.ScanMapStop>结束观察</SoS.ScanMapStop>
 	<SoS.ScanMapStopDesc>停止观察 {0}。除非有殖民者在场否则这会导致地图刷新。</SoS.ScanMapStopDesc>
 	<!-- 推进器 -->
-	<SoS.ToggleEngines>启动舰船推进器</SoS.ToggleEngines>
+	<SoS.ToggleEngines>切换舰船推进器</SoS.ToggleEngines>
 	<SoS.ToggleEnginesDesc>启动舰船推进器以规避危险。</SoS.ToggleEnginesDesc>
 	<!-- 气闸 -->
 	<SoS.ToggleDock>切换扩展器</SoS.ToggleDock>
@@ -227,8 +227,8 @@
 	<SoS.PurgeHeatDesc>将融化的银喷射进太空，以迅速降低舰船热容网络中的蓄热。\n\n这会使你的护盾关闭！</SoS.PurgeHeatDesc>
 	<SoS.HeatPurge>主动散热</SoS.HeatPurge>
 	<SoS.HeatPurgeDesc>将冷却剂排出散热系统。散热器排热速度提高五倍，但所有武器、护盾和隐形装置都将关闭。\n\n消耗冷却剂会导致热容网络中的冷却剂罐的热容上限降低，且一旦开始就不可取消。在非战斗状态下冷却剂罐的热容上限会缓慢恢复。</SoS.HeatPurgeDesc>
-	<SoS.HeatPurgeVenting>蓄热排散完毕</SoS.HeatPurgeVenting>
-	<SoS.HeatPurgeNotEnough>热容网络中没有足够的冷却剂用于排散蓄热</SoS.HeatPurgeNotEnough>
+	<SoS.HeatPurgeVenting>主动散热完毕</SoS.HeatPurgeVenting>
+	<SoS.HeatPurgeNotEnough>热容网络中没有足够的冷却剂用于主动散热</SoS.HeatPurgeNotEnough>
 	<SoS.CloakBroken>冷却剂不足，隐形关闭</SoS.CloakBroken>
 	<SoS.HeatCritical>危险！极端高温！</SoS.HeatCritical>
 	<SoS.HeatNotConnected>没有连接到热容网络</SoS.HeatNotConnected>
@@ -236,7 +236,7 @@
 	<SoS.ExpelSuperheatedAir>排出过热空气</SoS.ExpelSuperheatedAir>
 	<SoS.ExpelSuperheatedAirDesc>使用这个通风口排出房间中的过热空气。该过程会对你的船舶生命支持系统造成损坏，房间中每四格空间将会损失一点生命值，这些伤害会均摊到多个生命维持系统上。\n\n房间里的所有不能进行EVA的人都会受到爆炸性减压！</SoS.ExpelSuperheatedAirDesc>
 	<SoS.AirNotSuperheated>没有过热空气</SoS.AirNotSuperheated>
-	<SoS.NoLifeSupport>没有有效的飞船生命支持系统</SoS.NoLifeSupport>
+	<SoS.NoLifeSupport>没有有效的船舶生命维持系统</SoS.NoLifeSupport>
 	<SoS.BreakCloakAtHeat>冷却剂消耗阈值</SoS.BreakCloakAtHeat>
 	<SoS.BreakCloakAtHeatDesc>当舰船热容系统中的冷却剂消耗至设定百分比时，将关闭隐形装置使其可以恢复。</SoS.BreakCloakAtHeatDesc>
 	<SoS.CloakBrokenAtHeat>冷却剂耗尽，隐形装置失效！</SoS.CloakBrokenAtHeat>
@@ -329,7 +329,7 @@
 	<SoS.ArchoGift>解锁超凡科技礼物</SoS.ArchoGift>
 	<SoS.ArchotechGoodwillPlus>增加心灵敏感度（+10，消耗 {0} 心灵场强度）</SoS.ArchotechGoodwillPlus>
 	<SoS.ArchotechGoodwillMinus>降低心灵敏感度（-10，消耗 {0} 心灵场强度）</SoS.ArchotechGoodwillMinus>
-	<SoS.ArchotechFieldStrengthLow>心灵场强不足</SoS.ArchotechFieldStrengthLow>
+	<SoS.ArchotechFieldStrengthLow>心灵场强度不足</SoS.ArchotechFieldStrengthLow>
 	<SoS.ArchotechSoothe>心灵抚慰</SoS.ArchotechSoothe>
 	<SoS.ArchotechSootheDesc>在这张地图上释放心灵抚慰波（消耗 {0} 心灵场强度）</SoS.ArchotechSootheDesc>
 	<SoS.ArchotechShock>心灵冲击</SoS.ArchotechShock>
@@ -413,14 +413,13 @@
 	<SoS.HoverJump.Desc>起飞并着陆在同一张地图上，消耗 5 单位燃料</SoS.HoverJump.Desc>
 	<SoS.NotEnoughFuel>燃料不足</SoS.NotEnoughFuel>
 	<SoS.UnderRoof>不能在屋顶下发射</SoS.UnderRoof>
-	<SoS.TargetShuttles>设定攻击区域</SoS.TargetShuttles>
-	<SoS.TargetShuttlesDesc>设定执行射击和雷击任务的穿梭机应该瞄准的位置。</SoS.TargetShuttlesDesc>
+	<SoS.TargetShuttles>指定攻击区域</SoS.TargetShuttles>
+	<SoS.TargetShuttlesDesc>指定执行射击和雷击任务的穿梭机应该瞄准的位置。</SoS.TargetShuttlesDesc>
 	<SoS.ShuttleToggleShield>切换护盾</SoS.ShuttleToggleShield>
 	<SoS.ShuttleToggleShieldDesc>开启或关闭这个护盾</SoS.ShuttleToggleShieldDesc>
 	<SoS.NotEnoughFuelToLaunchShuttle>没有足够的燃料发射穿梭机</SoS.NotEnoughFuelToLaunchShuttle>
 	<SoS.CannotLaunchUnderRoof>穿梭机不能直接在屋顶下发射，你应该将它停在穿梭机停靠港再发射</SoS.CannotLaunchUnderRoof>
 	<SoS.ToggleField>切换船体通道</SoS.ToggleField>
 	<SoS.ToggleFieldDesc>允许小人和车辆通过这个可通行的船体</SoS.ToggleFieldDesc>
-	<!-- test -->
 
 </LanguageData>
