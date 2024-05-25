@@ -101,7 +101,7 @@
     <ShipCapacitor.generalRules.rulesStrings.3>subject_story->became obsessed with safe power delivery to starship weaponry following a tragic conduit explosion</ShipCapacitor.generalRules.rulesStrings.3>
     <ShipCapacitor.generalRules.rulesStrings.4>subject_gerund->powering a starship</ShipCapacitor.generalRules.rulesStrings.4>
 
-    <ShipShields.label>护盾发生器</ShipShields.label>
+    <ShipShields.label>舰载护盾发生器</ShipShields.label>
     <ShipShields.description>利用动能斥力场来保护你的舰船。</ShipShields.description>
     <ShipShields.generalRules.rulesStrings.0>subject->starship shielding</ShipShields.generalRules.rulesStrings.0>
     <ShipShields.generalRules.rulesStrings.1>subject_story->helped the post-apocalyptic planet Ishwalla return to spaceflight, designing a shield which could survive its orbital debris rings</ShipShields.generalRules.rulesStrings.1>

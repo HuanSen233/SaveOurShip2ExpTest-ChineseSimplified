@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     <!-- 护盾 -->
-    <ShipCombatShieldGenerator.label>船舶护盾发生器</ShipCombatShieldGenerator.label>
+    <ShipCombatShieldGenerator.label>舰载护盾发生器</ShipCombatShieldGenerator.label>
     <ShipCombatShieldGenerator.description>一个能产生动能排斥场的设备。能够向外射击，但无法射入。\n\n在阻挡攻击时会产生热量。如果没有连接到热容网络或热容不足，那么护盾发生器将损坏并需要修理。\n\n建议在热容蓄热过多时关闭护盾，否则会导致散热系统受损。</ShipCombatShieldGenerator.description>
-    <ShipCombatShieldGeneratorMini.label>小型船舶护盾发生器</ShipCombatShieldGeneratorMini.label>
+    <ShipCombatShieldGeneratorMini.label>小型舰载护盾发生器</ShipCombatShieldGeneratorMini.label>
     <ShipCombatShieldGeneratorMini.description>一个小号的能产生动能排斥场的设备。能够向外射击，但无法射入。\n\n由于它体积较小，当其在阻挡攻击时产生的热量是标准护盾发生器的125%。如果没有连接到热容网络或热容不足，那么护盾发生器将损坏并需要修理。\n\n建议在热容蓄热过多时关闭护盾，否则会导致散热系统受损。</ShipCombatShieldGeneratorMini.description>
     <!-- 热容 -->
     <ShipHeatConduit.label>热能导管</ShipHeatConduit.label>
