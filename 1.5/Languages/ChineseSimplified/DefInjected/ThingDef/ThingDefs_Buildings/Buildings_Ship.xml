@@ -99,7 +99,7 @@
     <ShipSalvageBayNano.description>与普通的打捞港不同，这个版本使用了基于反向JT原理的牵引光束。它可以移动沉船残骸到你的地图上，或者移除地图上不需要的残骸。还可以检索到敌舰残骸周围那些小的松散物品。</ShipSalvageBayNano.description>
     <!-- 隐形装置 -->
     <ShipCloakingDevice.label>隐形装置</ShipCloakingDevice.label>
-    <ShipCloakingDevice.description>生成一个可隐藏船舶热发射源的屏障，能防止你的舰船被其它舰船的被动扫描系统检测到。这可以防止随机舰船战事件，但无法在战斗中生效。它也不能防止赏金猎人们那强大的扫描仪发现你。\n\n当装置启动时，舰船散热系统将被禁用，冷却剂也会持续消耗。</ShipCloakingDevice.description>
+    <ShipCloakingDevice.description>生成一个可隐藏船舶热发射源的屏障，能防止你的舰船被其它舰船的被动扫描系统检测到。这可以防止随机舰船战事件，但无法在战斗中生效。它也不能防止赏金猎人们那强大的扫描仪发现你。\n\n当装置启动时，舰船散热系统将被禁用，热容上限也会持续消耗。</ShipCloakingDevice.description>
     <!-- 不完全是休眠舱 -->
     <Ship_CryptosleepCasket.label>船舶低温休眠舱</Ship_CryptosleepCasket.label>
     <Ship_CryptosleepCasket.description>一个带有多个内置定时器和备用措施的低温休眠舱。可以在没有人为干预的情况下打开。在舰船发生灾难性事故时，它还可以作为逃生舱使用。\n\n建议在任何舰船上都至少装备一个这样的设备。</Ship_CryptosleepCasket.description>

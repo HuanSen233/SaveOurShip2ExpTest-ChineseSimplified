@@ -16,7 +16,7 @@
     <ShipEngine.generalRules.rulesStrings.2>subject_story->为世界中央政府设计了一个导弹推进器</ShipEngine.generalRules.rulesStrings.2>
     <ShipEngine.generalRules.rulesStrings.3>subject_story->开创了后末日星球伊什瓦拉重返太空的先河</ShipEngine.generalRules.rulesStrings.3>
     <ShipEngine.generalRules.rulesStrings.4>subject_gerund->保持最佳的燃料与氧化剂的配比</ShipEngine.generalRules.rulesStrings.4>
-    <ShipEngine.generalRules.rulesStrings.5>subject_gerund->喷嘴几何形状优化</ShipEngine.generalRules.rulesStrings.5>
+    <ShipEngine.generalRules.rulesStrings.5>subject_gerund->喷口几何形状优化</ShipEngine.generalRules.rulesStrings.5>
     
     <SoSJTDrive.label>约翰逊-田中驱动器</SoSJTDrive.label>
     <SoSJTDrive.description>了解无工质推进器约翰逊-田中驱动器如何进行行星和星际航行背后的原理。\n注：实际建造驱动器将需要一个纠缠流形，这是个非常罕见的先进组件。</SoSJTDrive.description>
@@ -55,19 +55,19 @@
 
     <ShipLifeSupport.label>生命维持系统</ShipLifeSupport.label>
     <ShipLifeSupport.description>循环氧气以保持非休眠殖民者的生命。</ShipLifeSupport.description>
-    <ShipLifeSupport.generalRules.rulesStrings.0>subject->ship life support</ShipLifeSupport.generalRules.rulesStrings.0>
-    <ShipLifeSupport.generalRules.rulesStrings.1>subject_story->saved an early generation ship from disaster by improving the genetics of oxygen-producing algae</ShipLifeSupport.generalRules.rulesStrings.1>
-    <ShipLifeSupport.generalRules.rulesStrings.2>subject_story->refused to travel on starships after learning that their drinking water was recycled from sweat and sewage</ShipLifeSupport.generalRules.rulesStrings.2>
-    <ShipLifeSupport.generalRules.rulesStrings.3>subject_story->served under a notoriously stingy starship captain, and once had to jury-rig a CO2 scrubber from an old sock</ShipLifeSupport.generalRules.rulesStrings.3>
-    <ShipLifeSupport.generalRules.rulesStrings.4>subject_gerund->maintaining livable conditions in a sealed environment</ShipLifeSupport.generalRules.rulesStrings.4>
+    <ShipLifeSupport.generalRules.rulesStrings.0>subject->船舶生命维持系统</ShipLifeSupport.generalRules.rulesStrings.0>
+    <ShipLifeSupport.generalRules.rulesStrings.1>subject_story->通过改良产氧藻类的基因，挽救了一艘发生缺氧事故的早期飞船。</ShipLifeSupport.generalRules.rulesStrings.1>
+    <ShipLifeSupport.generalRules.rulesStrings.2>subject_story->在得知飞船的饮用水是通过汗水和污水回收出来的后，选择拒绝乘坐飞船旅行。</ShipLifeSupport.generalRules.rulesStrings.2>
+    <ShipLifeSupport.generalRules.rulesStrings.3>subject_story->曾在一名吝啬到臭名昭著的飞船船长的麾下服务过，这期间曾有一次不得不使用一只旧袜子拼凑出二氧化碳洗涤器的经历。</ShipLifeSupport.generalRules.rulesStrings.3>
+    <ShipLifeSupport.generalRules.rulesStrings.4>subject_gerund->让封闭环境维持宜居状态的条件</ShipLifeSupport.generalRules.rulesStrings.4>
 
     <ShipSpaceSuits.label>舱外活动装备</ShipSpaceSuits.label>
     <ShipSpaceSuits.description>内置有自给自足的生命维持系统，使殖民者能够在外太空中生存。</ShipSpaceSuits.description>
-    <ShipSpaceSuits.generalRules.rulesStrings.0>subject->EVA suits</ShipSpaceSuits.generalRules.rulesStrings.0>
-    <ShipSpaceSuits.generalRules.rulesStrings.1>subject_story->discovered the hard way how human eyeballs react to vacuum</ShipSpaceSuits.generalRules.rulesStrings.1>
-    <ShipSpaceSuits.generalRules.rulesStrings.2>subject_story->led a clan of nomadic asteroid miners who revered their vac-suits as ancestral treasures</ShipSpaceSuits.generalRules.rulesStrings.2>
-    <ShipSpaceSuits.generalRules.rulesStrings.3>subject_story->organized the evacuation of the crippled passenger liner KSS Calypso</ShipSpaceSuits.generalRules.rulesStrings.3>
-    <ShipSpaceSuits.generalRules.rulesStrings.4>subject_gerund->keeping humans alive in vacuum</ShipSpaceSuits.generalRules.rulesStrings.4>
+    <ShipSpaceSuits.generalRules.rulesStrings.0>subject->舱外活动装备</ShipSpaceSuits.generalRules.rulesStrings.0>
+    <ShipSpaceSuits.generalRules.rulesStrings.1>subject_story->费了很大劲才发现人类眼球对真空的反应</ShipSpaceSuits.generalRules.rulesStrings.1>
+    <ShipSpaceSuits.generalRules.rulesStrings.2>subject_story->带领着一个游牧小行星矿工部落，他们将自己的太空服奉为祖传之宝。</ShipSpaceSuits.generalRules.rulesStrings.2>
+    <ShipSpaceSuits.generalRules.rulesStrings.3>subject_story->组织了受损的卡吕普索号客轮的撤离行动</ShipSpaceSuits.generalRules.rulesStrings.3>
+    <ShipSpaceSuits.generalRules.rulesStrings.4>subject_gerund->让人类在真空中存活</ShipSpaceSuits.generalRules.rulesStrings.4>
 
     <ShipSpaceSuitsHeavy.label>EVA动力装甲</ShipSpaceSuitsHeavy.label>
     <ShipSpaceSuitsHeavy.description>将生命维持技术应用于动力装甲，生产一种能使穿戴者在外太空中生存的装甲服。</ShipSpaceSuitsHeavy.description>

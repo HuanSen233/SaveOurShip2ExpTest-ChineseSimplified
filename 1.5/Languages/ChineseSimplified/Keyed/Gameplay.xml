@@ -226,10 +226,10 @@
 	<SoS.PurgeHeat>紧急排热</SoS.PurgeHeat>
 	<SoS.PurgeHeatDesc>将融化的银喷射进太空，以迅速降低舰船热容网络中的蓄热。\n\n这会使你的护盾关闭！</SoS.PurgeHeatDesc>
 	<SoS.HeatPurge>主动散热</SoS.HeatPurge>
-	<SoS.HeatPurgeDesc>将冷却剂排出散热系统。散热器排热速度提高五倍，但所有武器、护盾和隐形装置都将关闭。\n\n消耗冷却剂会导致热容网络中的冷却剂罐的热容上限降低，且一旦开始就不可取消。在非战斗状态下冷却剂罐的热容上限会缓慢恢复。</SoS.HeatPurgeDesc>
+	<SoS.HeatPurgeDesc>将冷却剂排出散热系统。散热器排热速度提高五倍，但所有武器、护盾和隐形装置都将关闭。\n\n主动散热会导致热容网络整体的热容上限降低，且一旦开始就不可取消。在非战斗状态下热容上限会缓慢恢复。</SoS.HeatPurgeDesc>
 	<SoS.HeatPurgeVenting>主动散热完毕</SoS.HeatPurgeVenting>
-	<SoS.HeatPurgeNotEnough>热容网络中没有足够的冷却剂用于主动散热</SoS.HeatPurgeNotEnough>
-	<SoS.CloakBroken>冷却剂不足，隐形关闭</SoS.CloakBroken>
+	<SoS.HeatPurgeNotEnough>热容网络中没有足够的热容上限用于主动散热，或者不需要主动散热</SoS.HeatPurgeNotEnough>
+	<SoS.CloakBroken>热容上限不足，隐形关闭</SoS.CloakBroken>
 	<SoS.HeatCritical>危险！极端高温！</SoS.HeatCritical>
 	<SoS.HeatNotConnected>没有连接到热容网络</SoS.HeatNotConnected>
 	<SoS.HeatTurretEnergy>开火所需能量：</SoS.HeatTurretEnergy>
@@ -237,9 +237,9 @@
 	<SoS.ExpelSuperheatedAirDesc>使用这个通风口排出房间中的过热空气。该过程会对你的船舶生命支持系统造成损坏，房间中每四格空间将会损失一点生命值，这些伤害会均摊到多个生命维持系统上。\n\n房间里的所有不能进行EVA的人都会受到爆炸性减压！</SoS.ExpelSuperheatedAirDesc>
 	<SoS.AirNotSuperheated>没有过热空气</SoS.AirNotSuperheated>
 	<SoS.NoLifeSupport>没有有效的船舶生命维持系统</SoS.NoLifeSupport>
-	<SoS.BreakCloakAtHeat>冷却剂消耗阈值</SoS.BreakCloakAtHeat>
-	<SoS.BreakCloakAtHeatDesc>当舰船热容系统中的冷却剂消耗至设定百分比时，将关闭隐形装置使其可以恢复。</SoS.BreakCloakAtHeatDesc>
-	<SoS.CloakBrokenAtHeat>冷却剂耗尽，隐形装置失效！</SoS.CloakBrokenAtHeat>
+	<SoS.BreakCloakAtHeat>热容上限消耗阈值</SoS.BreakCloakAtHeat>
+	<SoS.BreakCloakAtHeatDesc>当热容网络整体的热容上限消耗至设定百分比时，将关闭隐形装置使其可以恢复。</SoS.BreakCloakAtHeatDesc>
+	<SoS.CloakBrokenAtHeat>热容上限耗尽，隐形装置失效！</SoS.CloakBrokenAtHeat>
 	<!-- 武器 -->
 	<SoS.TurretNotInShipCombat>警告：炮塔处于非舰船战状态所以不会开火。</SoS.TurretNotInShipCombat>
 	<SoS.TurretInPointDefense>警告：炮塔处于点防御模式所以不会瞄准敌舰。</SoS.TurretInPointDefense>
