@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    <text.label>珍贵的小行星</text.label>
-    <text.description>含有大量贵重物质的小石块。可能很久以前就被拖入轨道，但出于某种原因从未被开采过。</text.description>
+    <SpaceValuableAsteroids.label>珍贵的小行星</SpaceValuableAsteroids.label>
+    <SpaceValuableAsteroids.description>含有大量贵重物质的小石块。可能很久以前就被拖入轨道，但出于某种原因从未被开采过。</SpaceValuableAsteroids.description>
     
     <SpaceHackableSatellite.label>受损的卫星</SpaceHackableSatellite.label>
     <SpaceHackableSatellite.description>一颗可以追溯到这个行星最初的地质变化的古老卫星。如果将其修复，可能会对我们有所帮助。</SpaceHackableSatellite.description>

@@ -2,6 +2,6 @@
 <LanguageData>
     <SpaceDebris.label>空间碎片</SpaceDebris.label>
     <SpaceDebris.description>一片充满了空间碎片的区域。</SpaceDebris.description>
-    <SpaceDebris.endMessage>舰船已经清理了碎片区域</SpaceDebris.endMessage>
+    <SpaceDebris.endMessage>舰船已经驶离碎片区域</SpaceDebris.endMessage>
 
 </LanguageData>
