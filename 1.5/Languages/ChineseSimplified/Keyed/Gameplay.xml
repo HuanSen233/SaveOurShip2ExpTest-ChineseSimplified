@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	<!-- 世界/轨道 -->
-	<SoS.MoveWest>舰船向西\n移动</SoS.MoveWest>
+	<SoS.MoveWest>舰船\n向西移动</SoS.MoveWest>
 	<SoS.MoveWestDesc>让船按轨道向西移动。</SoS.MoveWestDesc>
-	<SoS.MoveEast>舰船向东\n移动</SoS.MoveEast>
+	<SoS.MoveEast>舰船\n向东移动</SoS.MoveEast>
 	<SoS.MoveEastDesc>让船按轨道向东移动。</SoS.MoveEastDesc>
 	<SoS.MoveStop>停止舰船移动</SoS.MoveStop>
 	<SoS.MoveStopDesc>反向推进进入同步轨道。</SoS.MoveStopDesc>
@@ -234,7 +234,7 @@
 	<SoS.HeatNotConnected>没有连接到热容网络</SoS.HeatNotConnected>
 	<SoS.HeatTurretEnergy>开火所需能量：</SoS.HeatTurretEnergy>
 	<SoS.ExpelSuperheatedAir>排出过热空气</SoS.ExpelSuperheatedAir>
-	<SoS.ExpelSuperheatedAirDesc>使用这个通风口排出房间中的过热空气。该过程会对你的船舶生命支持系统造成损坏，房间中每四格空间将会损失一点生命值，这些伤害会均摊到多个生命维持系统上。\n\n房间里的所有不能进行EVA的人都会受到爆炸性减压！</SoS.ExpelSuperheatedAirDesc>
+	<SoS.ExpelSuperheatedAirDesc>使用这个通风口排出房间中的过热空气。该过程会对你的船舶生命支持系统造成损坏，房间中每四格空间将会损失一点生命值，这些伤害会均摊到多个生命维持系统上。\n\n房间里的所有不能进行EVA的人都会受到爆炸性失压！</SoS.ExpelSuperheatedAirDesc>
 	<SoS.AirNotSuperheated>没有过热空气</SoS.AirNotSuperheated>
 	<SoS.NoLifeSupport>没有有效的船舶生命维持系统</SoS.NoLifeSupport>
 	<SoS.BreakCloakAtHeat>热容上限消耗阈值</SoS.BreakCloakAtHeat>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    <DecompressionResistance.label>减压抗性</DecompressionResistance.label>
-    <DecompressionResistance.description>这种生物抵抗减压状态(真空)的能力。</DecompressionResistance.description>
+    <DecompressionResistance.label>失压抗性</DecompressionResistance.label>
+    <DecompressionResistance.description>这种生物抵抗失压状态(真空)的能力。</DecompressionResistance.description>
 
     <HypoxiaResistance.label>缺氧抗性</HypoxiaResistance.label>
     <HypoxiaResistance.description>这种生物抵抗缺氧状态的能力。</HypoxiaResistance.description>

@@ -20,8 +20,8 @@
     <Ship_Corner_OneThreeFlip.label>标准船舶斜角装甲(1x3)翻转</Ship_Corner_OneThreeFlip.label>
     <Ship_Corner_OneThreeFlip.description>有角度的舰船装甲。</Ship_Corner_OneThreeFlip.description>
 
-    <ShipHullTile.label>标准船舶镀层</ShipHullTile.label>
-    <ShipHullTile.description>适合航天任务的船舶镀层。将这格空间（以及在其上建造的任何建筑）指定为舰船的一部分。</ShipHullTile.description>
+    <ShipHullTile.label>标准船舶护板</ShipHullTile.label>
+    <ShipHullTile.description>适合航天任务的船舶护板。将这格空间（以及在其上建造的任何建筑）指定为舰船的一部分。</ShipHullTile.description>
     <!-- 太阳能 -->
     <ShipInside_SolarGenerator.label>标准船舶太阳能发电机</ShipInside_SolarGenerator.label>
     <ShipInside_SolarGenerator.description>利用太阳光来发电。在太空可输出600W，在星球表面可输出300W。不能在黑暗或人造光源环境中工作。</ShipInside_SolarGenerator.description>
@@ -123,8 +123,8 @@
     
     <HullFoamWall.label>气密泡沫填充船体</HullFoamWall.label>
     <HullFoamWall.description>一种可用于密封船体的泡沫板。</HullFoamWall.description>
-    <ShipHullfoamTile.label>气密泡沫填充镀层</ShipHullfoamTile.label>
-    <ShipHullfoamTile.description>气密船体泡沫，喷涂以填补缺失的船体镀层</ShipHullfoamTile.description>
+    <ShipHullfoamTile.label>气密泡沫填充护板</ShipHullfoamTile.label>
+    <ShipHullfoamTile.description>气密船体泡沫，喷涂以填补缺失的船体护板</ShipHullfoamTile.description>
     <!-- 气闸延伸物 -->
     <ShipAirlockBeamWall.label>气闸墙</ShipAirlockBeamWall.label>
     <ShipAirlockBeamWall.description>一面由气闸延伸出的气密墙。</ShipAirlockBeamWall.description>

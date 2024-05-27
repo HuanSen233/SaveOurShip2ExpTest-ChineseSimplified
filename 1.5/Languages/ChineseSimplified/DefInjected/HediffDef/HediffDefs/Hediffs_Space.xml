@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    <VacuumDamageHediff.label>减压伤</VacuumDamageHediff.label>
-    <VacuumDamageHediff.description>一处因失压导致的减压伤。</VacuumDamageHediff.description>
-    <VacuumDamageHediff.comps.HediffComp_GetsPermanent.permanentLabel>减压伤伤疤</VacuumDamageHediff.comps.HediffComp_GetsPermanent.permanentLabel>
+    <VacuumDamageHediff.label>失压伤</VacuumDamageHediff.label>
+    <VacuumDamageHediff.description>一处因失压导致的失压伤。</VacuumDamageHediff.description>
+    <VacuumDamageHediff.comps.HediffComp_GetsPermanent.permanentLabel>失压伤伤疤</VacuumDamageHediff.comps.HediffComp_GetsPermanent.permanentLabel>
     <VacuumDamageHediff.injuryProps.destroyedLabel>败给了失压</VacuumDamageHediff.injuryProps.destroyedLabel>
     <VacuumDamageHediff.labelNounPretty>{0}在{1}中</VacuumDamageHediff.labelNounPretty>
     
