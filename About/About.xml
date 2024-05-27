@@ -17,13 +17,13 @@
 		<li>kentington.saveourship2</li>
 	</loadAfter>
 
-    <modVersion>24/5/26-R31</modVersion>
+    <modVersion>24/5/26-R32</modVersion>
     <description>
 有啥优缺点？
-更新快，但一手翻译不一定准确。没了。
+更新快，没了。
 
-机翻、GPT、意译、脑补，以及大量借鉴了各种SOS2汉化模组里的文本内容(如边缘汉化组和为1.4汉化的大佬時穂Natsuki)。
-(实际上绝大多数内容我都重新译了一遍)
+机翻、GPT、意译、脑补，以及大量借鉴了各种SOS2汉化模组里的文本内容（如边缘汉化组和为1.4汉化的大佬時穂Natsuki）。
+（实际上绝大多数内容我都重新译了一遍（指看都不看把原文丢进翻译器然后一通脑补（雾
 
 Github: https://github.com/HuanSen233/SaveOurShip2Experimental-ChineseSimplified
 MIT License: https://github.com/HuanSen233/SaveOurShip2Experimental-ChineseSimplified/blob/main/LICENSE

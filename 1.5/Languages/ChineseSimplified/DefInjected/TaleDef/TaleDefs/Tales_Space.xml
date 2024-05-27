@@ -2,6 +2,7 @@
 <LanguageData>
     <!-- 未完成标记========== -->
     <ShipCombat.label>太空战斗</ShipCombat.label>
+    <!--
     <ShipCombat.rulePack.rulesStrings.0>tale_noun->an attack on [PAWN_nameDef]'s [Community]</ShipCombat.rulePack.rulesStrings.0>
     <ShipCombat.rulePack.rulesStrings.1>tale_noun->an assault on [PAWN_nameDef]'s [Community]</ShipCombat.rulePack.rulesStrings.1>
     <ShipCombat.rulePack.rulesStrings.2>tale_noun->[PAWN_nameDef]'s [Community] being attacked by [Enemy]s</ShipCombat.rulePack.rulesStrings.2>
@@ -31,8 +32,9 @@
     <ShipCombat.rulePack.rulesStrings.26>defender_circumstance->glowing [Color]</ShipCombat.rulePack.rulesStrings.26>
     <ShipCombat.rulePack.rulesStrings.27>defender_circumstance->raising a fist in defiance</ShipCombat.rulePack.rulesStrings.27>
     <ShipCombat.rulePack.rulesStrings.28>defender_circumstance->flexing [PAWN_possessive] muscles</ShipCombat.rulePack.rulesStrings.28>
-    
+    -->
     <SpaceDebris.label>空间碎片</SpaceDebris.label>
+    <!--
     <SpaceDebris.rulePack.rulesStrings.0>tale_noun->space debris that threatened [PAWN_nameDef]'s [Community]</SpaceDebris.rulePack.rulesStrings.0>
     <SpaceDebris.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef]'s [Community] being menaced by space debris</SpaceDebris.rulePack.rulesStrings.1>
     <SpaceDebris.rulePack.rulesStrings.2>image->[Quantity_adjphrase] lightning strikes [circumstance_phrase]</SpaceDebris.rulePack.rulesStrings.2>
@@ -51,5 +53,5 @@
     <SpaceDebris.rulePack.rulesStrings.15>desc_sentence->[PAWN_nameDef] watches with awe on [PAWN_possessive] face.</SpaceDebris.rulePack.rulesStrings.15>
     <SpaceDebris.rulePack.rulesStrings.16>desc_sentence->[PAWN_nameDef] is coordinating defensive measures.</SpaceDebris.rulePack.rulesStrings.16>
     <SpaceDebris.rulePack.rulesStrings.17>desc_sentence->[Quantity_adjphrase] [PersonJob]s rush to prepare.</SpaceDebris.rulePack.rulesStrings.17>
-
+    -->
 </LanguageData>
