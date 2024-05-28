@@ -20,7 +20,6 @@
 	<SoS.BurnUpCountdownTip>这张地图将在{0}后落入大气。上面的一切都会被摧毁。</SoS.BurnUpCountdownTip>
 	<!-- 战斗 -->
 	<SoS.CombatTooltip>显示敌舰与你舰之间的距离，以及所有正在飞行的炮弹和穿梭机。\n\n红色：激光、实弹炮的射程\n绿色：等离子的射程\n蓝色：轨道炮的射程\n紫色：鱼雷射程\n小色条：大型武器的最大射程但不精准</SoS.CombatTooltip>
-	<SoS.ShipFleet>舰队</SoS.ShipFleet>
 	<SoS.CombatRetreat>后撤</SoS.CombatRetreat>
 	<SoS.CombatRetreatDesc>尽量远离敌舰</SoS.CombatRetreatDesc>
 	<SoS.CombatStop>停止</SoS.CombatStop>
@@ -63,12 +62,14 @@
 	<SoS.EnemyShipRetreating>敌舰正在试图撤退！</SoS.EnemyShipRetreating>
 	<SoS.EnemyShipRetreated>敌舰逃走了！</SoS.EnemyShipRetreated>
 	<SoS.EnemyShipAdrift>敌舰已进入漂浮状态，正在慢慢失去轨道！</SoS.EnemyShipAdrift>
+		<!-- Exp -->
+	<SoS.ShipFleet>舰队</SoS.ShipFleet>
 	<SoS.AttackShip>攻击</SoS.AttackShip>
-	<SoS.AttackShipDesc>攻击这个</SoS.AttackShipDesc>
+	<SoS.AttackShipDesc>攻击</SoS.AttackShipDesc>
 	<SoS.AttackShipPirate>尝试掠夺</SoS.AttackShipPirate>
 	<SoS.AttackShipEngage>尝试交战</SoS.AttackShipEngage>
-	<SoS.ApproachShip>方案</SoS.ApproachShip>
-	<SoS.ApproachShipDesc>调查方案</SoS.ApproachShipDesc>
+	<SoS.ApproachShip>调查</SoS.ApproachShip>
+	<SoS.ApproachShipDesc>接近并调查</SoS.ApproachShipDesc>
 	<!-- 打捞、捕获 -->
 	<SoS.ReturnShip>移回</SoS.ReturnShip>
 	<SoS.ReturnShipDesc>将舰船移回你的稳定轨道</SoS.ReturnShipDesc>
@@ -153,6 +154,7 @@
 	<SoS.ReportInterReady>为星际旅行做好准备。</SoS.ReportInterReady>
 	<SoS.ReportInterNotReady>这些没有准备好星际旅行：</SoS.ReportInterNotReady>
 	<SoS.ReportNeedPilot>舰船需要领航员在舰桥或有AI核心。</SoS.ReportNeedPilot>
+	<SoS.ReportNeedEnergy>至少需要 100Wd 电量在船舶电容器中</SoS.ReportNeedEnergy>
 	<SoS.NeedsMoreFuel>需要 {1} 单位燃料在推进器中，但推进器里只有 {0} 单位燃料。</SoS.NeedsMoreFuel>
 	<SoS.NeedsMorePower>舰船需要 {0} Wd 电量在储能设备中。</SoS.NeedsMorePower>
 	<SoS.NeedsMoreJTEngines>需要更多的 约翰逊-田中驱动器 才能驱动这艘大船。</SoS.NeedsMoreJTEngines>
@@ -188,6 +190,16 @@
 	<SoS.LandDesc>让这艘船在这里着陆 </SoS.LandDesc>
 	<SoS.Rebuild>舰船部件被毁自动重建</SoS.Rebuild>
 	<SoS.RebuildDesc>放置这艘船上被毁建筑的蓝图。</SoS.RebuildDesc>
+		<!-- Exp -->
+	<SoS.StatsUIEnergy>储能：{0} / {1}</SoS.StatsUIEnergy>
+	<SoS.StatsUIHeat>热容：{0} / {1}</SoS.StatsUIHeat>
+	<SoS.StatsUIHull>船体结构：{0}%</SoS.StatsUIHull>
+	<SoS.StatsUIShields>护盾：{0}</SoS.StatsUIShields>
+	<SoS.StatsUIEnergyNA>储能：N/A</SoS.StatsUIEnergyNA>
+	<SoS.StatsUIHeatNA>热容：N/A</SoS.StatsUIHeatNA>
+	<SoS.StatsUINA>N/A</SoS.StatsUINA>
+	<SoS.Hack>入侵</SoS.Hack>
+	<SoS.HackFailed>入侵失败</SoS.HackFailed>
 	<!-- 故事 -->
 	<SoS.QuestPillarA>攻击\n地平线号空间站</SoS.QuestPillarA>
 	<SoS.QuestPillarADesc>攻击超凡科技星球改造站并尝试回收一根超凡科技柱。</SoS.QuestPillarADesc>
@@ -209,6 +221,8 @@
 	<SoS.AirlockHacked>气闸入侵成功！</SoS.AirlockHacked>
 	<SoS.AirlockHackFailed>气闸入侵失败！</SoS.AirlockHackFailed>
 	<SoS.AirlockBreached>气闸切割完成！</SoS.AirlockBreached>
+		<!-- Exp -->
+	<SoS.AirlockBreach>切割</SoS.AirlockBreach>
 	<!-- 气闸状态 -->
 	<SoS.UnfoldStatus>状态：</SoS.UnfoldStatus>
 	<SoS.UnfoldRetracted>已收回</SoS.UnfoldRetracted>
@@ -264,10 +278,15 @@
 	<SoS.ResetShieldRadius>重置护盾半径</SoS.ResetShieldRadius>
 	<SoS.ResetShieldRadiusDesc>重置护盾半径为40。</SoS.ResetShieldRadiusDesc>
 	<SoS.DecShieldRadius>减小护盾半径</SoS.DecShieldRadius>
-	<SoS.IncShieldRadius>增大护盾半径</SoS.IncShieldRadius>
 	<SoS.FoamFill>填补损伤</SoS.FoamFill>
 	<SoS.FoamFillDesc>让舰船上的泡沫船体填充泵修补舰船受损区域。</SoS.FoamFillDesc>
 	<SoS.FoamFillDisabled>不需要填补或泡沫船体填充泵缺少修补泡沫。</SoS.FoamFillDisabled>
+		<!-- Exp -->
+	<SoS.IncShieldRadius>增大护盾半径</SoS.IncShieldRadius>
+	<SoS.ShieldRadiusReset>重置护盾半径</SoS.ShieldRadiusReset>
+	<SoS.ShieldRadiusResetDesc>重置护盾半径为40。</SoS.ShieldRadiusResetDesc>
+	<SoS.ShieldRadiusDec>减小护盾半径</SoS.ShieldRadiusDec>
+	<SoS.ShieldRadiusInc>增大护盾半径</SoS.ShieldRadiusInc>
 	<!-- 反应堆 -->
 	<SoS.ReactorInstability>不稳定性：{0}</SoS.ReactorInstability>
 	<SoS.ReactorOverdrive>超频 I</SoS.ReactorOverdrive>
@@ -297,6 +316,7 @@
 	<SoS.Atmosphere>可呼吸环境</SoS.Atmosphere>
 	<SoS.AtmosphereNonBreathable>不可呼吸环境</SoS.AtmosphereNonBreathable>
 	<SoS.AtmosphereBreach>该空间不合规！</SoS.AtmosphereBreach>
+		<!-- Exp -->
 	<SoS.CocoonPlaceFail>无法生成滞眠茧！</SoS.CocoonPlaceFail>
 	<SoS.CocoonMalnourished>使用者处在营养不良状态</SoS.CocoonMalnourished>
 	<!-- 凝胶体、孢子 -->
@@ -369,7 +389,6 @@
 	<SoS.MechanitesInHomeArea>解构微械！</SoS.MechanitesInHomeArea>
     <SoS.MechanitesInHomeAreaDesc>家里到处都是解构微械。</SoS.MechanitesInHomeAreaDesc>
 	<!-- 穿梭机 -->
-	<SoS.ShuttlesMore>更多穿梭机</SoS.ShuttlesMore>
 	<SoS.ShuttleMissionFloatBoard>任务：跳帮队突击检查</SoS.ShuttleMissionFloatBoard>
 	<SoS.ShuttleMissionFloatBoardWarn>任务：跳帮队突击检查（警告！）</SoS.ShuttleMissionFloatBoardWarn>
 	<SoS.ShuttleMissionFloatIntercept>任务：拦截鱼雷/穿梭机</SoS.ShuttleMissionFloatIntercept>
@@ -406,7 +425,6 @@
 	<SoS.NoHardpoints>穿梭机没有足够的挂载点来装这个炮塔。</SoS.NoHardpoints>
 	<SoS.NotEnoughCargoSpace>这一升级将使穿梭机的载货能力降至零以下。</SoS.NotEnoughCargoSpace>
 	<SoS.HoverJump>本地航班</SoS.HoverJump>
-	<SoS.HoverJumpDesc>起飞并着陆在同一张地图上，消耗 5 单位燃料</SoS.HoverJumpDesc>
 	<SoS.HoverJump.Desc>起飞并着陆在同一张地图上，消耗 5 单位燃料</SoS.HoverJump.Desc>
 	<SoS.NotEnoughFuel>燃料不足</SoS.NotEnoughFuel>
 	<SoS.UnderRoof>不能在屋顶下发射</SoS.UnderRoof>
@@ -418,5 +436,8 @@
 	<SoS.CannotLaunchUnderRoof>穿梭机不能直接在屋顶下发射，你应该将它停在穿梭机停靠港再发射</SoS.CannotLaunchUnderRoof>
 	<SoS.ToggleField>切换船体通道</SoS.ToggleField>
 	<SoS.ToggleFieldDesc>允许小人和车辆通过这个可通行的船体</SoS.ToggleFieldDesc>
+		<!-- Exp -->
+	<SoS.ShuttlesMore>更多穿梭机</SoS.ShuttlesMore>
+	<SoS.HoverJumpDesc>起飞并着陆在同一张地图上，消耗 5 单位燃料</SoS.HoverJumpDesc>
 
 </LanguageData>

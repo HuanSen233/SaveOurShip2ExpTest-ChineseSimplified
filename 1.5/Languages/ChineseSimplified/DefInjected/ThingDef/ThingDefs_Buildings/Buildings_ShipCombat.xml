@@ -23,7 +23,7 @@
     <ShipPurgePort.description>一种将热量引导至低熔点金属（如银）的系统。将携带热量的熔融银喷射入太空是一种昂贵，但可以迅速清除热容系统内蓄热的方式。护盾将会在排放过程中关闭。</ShipPurgePort.description>
     <ShipPurgePortLarge.label>大型船舶紧急排热端口</ShipPurgePortLarge.label>
     <ShipPurgePortLarge.description>一种能快速将热量引导至低熔点金属（如银）的系统。将携带热量的熔融银喷射入太空是一种昂贵，但可以迅速清除热容系统内蓄热的方式。护盾将会在排放过程中关闭。</ShipPurgePortLarge.description>
-    <!-- 实弹炮 -->
+    <!-- 机炮 -->
     <ShipTurret_ACI.label>舰载机炮</ShipTurret_ACI.label>
     <ShipTurret_ACI.description>一门能快速加速铀弹至极高速度的飞船炮塔。需要弹药，但射击时不消耗能量，且只会产生很少的热量。仅适用于近距离作战。能够用于地面舰船防御。\n\n可以安全的放置在房间内，因为他会突出在舰船的顶部。\n可以设置为点防御模式用来拦截鱼雷和穿梭机，而不是直接攻击敌舰。\n必须通过热容网络连接到领航员控制台、战术控制台或船舶核心。\n需要足够的储能和热容才能正常运作。</ShipTurret_ACI.description>
     <ShipTurret_ACI.comps.CompSchedule.fuelLabel>重新装填前剩余射击次数</ShipTurret_ACI.comps.CompSchedule.fuelLabel>

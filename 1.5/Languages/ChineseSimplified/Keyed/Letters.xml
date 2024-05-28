@@ -9,7 +9,7 @@
 	<!-- 事件 -->
 	<SoS.LetterLabelShortCircuitDesc>电力管道的故障引起了短路。\n\n幸运的是，你的电容器的保险丝及时阻止了它放电。</SoS.LetterLabelShortCircuitDesc>
 	<SoS.EncounterStart>残骸点</SoS.EncounterStart>
-	<SoS.EncounterStartDesc>你正在接近一个将在 {0} 后落入大气的废弃物。\n\n你可以派一队船员去调查或者将它移动到你的地图上。一旦将其安全控制，就可以对它进行打捞、修复或者拆了重新利用。</SoS.EncounterStartDesc>
+	<SoS.EncounterStartDesc>你正在接近一个将在 {0} 后落入大气的废弃物。\n\n你可以派一队船员前去调查或者将它移动到你的地图上。一旦将其安全控制，就可以对它进行打捞、修复或者拆了重新利用。</SoS.EncounterStartDesc>
 	<SoS.EncounterAmbush>伏击！</SoS.EncounterAmbush>
 	<SoS.EncounterAmbushDesc>当你接近 {0} 时，它开始启动它的护盾和武器\n准备战斗！</SoS.EncounterAmbushDesc>
 	<SoS.CombatStart>舰船战</SoS.CombatStart>
