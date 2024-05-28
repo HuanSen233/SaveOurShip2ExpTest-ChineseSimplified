@@ -20,7 +20,7 @@
 	<SoS.BurnUpCountdownTip>这张地图将在{0}后落入大气。上面的一切都会被摧毁。</SoS.BurnUpCountdownTip>
 	<!-- 战斗 -->
 	<SoS.CombatTooltip>显示敌舰与你舰之间的距离，以及所有正在飞行的炮弹和穿梭机。\n\n红色：激光、实弹炮的射程\n绿色：等离子的射程\n蓝色：轨道炮的射程\n紫色：鱼雷射程\n小色条：大型武器的最大射程但不精准</SoS.CombatTooltip>
-	<!--<SoS.ShipFleet>舰队</SoS.ShipFleet>-->
+	<SoS.ShipFleet>舰队</SoS.ShipFleet>
 	<SoS.CombatRetreat>后撤</SoS.CombatRetreat>
 	<SoS.CombatRetreatDesc>尽量远离敌舰</SoS.CombatRetreatDesc>
 	<SoS.CombatStop>停止</SoS.CombatStop>
@@ -63,14 +63,12 @@
 	<SoS.EnemyShipRetreating>敌舰正在试图撤退！</SoS.EnemyShipRetreating>
 	<SoS.EnemyShipRetreated>敌舰逃走了！</SoS.EnemyShipRetreated>
 	<SoS.EnemyShipAdrift>敌舰已进入漂浮状态，正在慢慢失去轨道！</SoS.EnemyShipAdrift>
-	<!--
 	<SoS.AttackShip>攻击</SoS.AttackShip>
 	<SoS.AttackShipDesc>攻击这个</SoS.AttackShipDesc>
 	<SoS.AttackShipPirate>尝试掠夺</SoS.AttackShipPirate>
 	<SoS.AttackShipEngage>尝试交战</SoS.AttackShipEngage>
 	<SoS.ApproachShip>方案</SoS.ApproachShip>
 	<SoS.ApproachShipDesc>调查方案</SoS.ApproachShipDesc>
-	-->
 	<!-- 打捞、捕获 -->
 	<SoS.ReturnShip>移回</SoS.ReturnShip>
 	<SoS.ReturnShipDesc>将舰船移回你的稳定轨道</SoS.ReturnShipDesc>
@@ -105,7 +103,7 @@
 	<SoS.RemoveWrecksCommand>移除残骸</SoS.RemoveWrecksCommand>
 	<SoS.RemoveWrecksCommandDesc>移除这张地图上的所有残骸。</SoS.RemoveWrecksCommandDesc>
 	<!-- 建造限制 -->
-	<SoS.PlaceOnShipHull>必须建造在船体镀层上。</SoS.PlaceOnShipHull>
+	<SoS.PlaceOnShipHull>必须建造在船舶护板上。</SoS.PlaceOnShipHull>
 	<SoS.EnginePlaceRotation>必须和其它推进器朝向同一方向！</SoS.EnginePlaceRotation>
 	<!-- 通讯、贸易 -->
 	<SoS.TradeComms>联络 </SoS.TradeComms>
@@ -150,7 +148,7 @@
 	<SoS.StatsShipHeat>舰船热容：{0} / {1} HU{2}</SoS.StatsShipHeat>
 	<SoS.StatsShipHeatMaximum>最大热容：{0}</SoS.StatsShipHeatMaximum>
 	<SoS.StatsShipHeatMaximumShort>最大</SoS.StatsShipHeatMaximumShort>
-	<SoS.StatsShipCombatRating>战斗评级：{0}</SoS.StatsShipCombatRating>
+	<SoS.StatsShipCombatRating>战力评级：{0}</SoS.StatsShipCombatRating>
 	<SoS.StatsShipCombatThrust>推重比：{0}</SoS.StatsShipCombatThrust>
 	<SoS.ReportInterReady>为星际旅行做好准备。</SoS.ReportInterReady>
 	<SoS.ReportInterNotReady>这些没有准备好星际旅行：</SoS.ReportInterNotReady>
@@ -206,8 +204,8 @@
 	<SoS.ToggleEngines>切换舰船推进器</SoS.ToggleEngines>
 	<SoS.ToggleEnginesDesc>启动舰船推进器以规避危险。</SoS.ToggleEnginesDesc>
 	<!-- 气闸 -->
-	<SoS.ToggleDock>切换扩展器</SoS.ToggleDock>
-	<SoS.ToggleDockDesc>将气闸扩展器伸长至3格外</SoS.ToggleDockDesc>
+	<SoS.ToggleDock>切换对接装置</SoS.ToggleDock>
+	<SoS.ToggleDockDesc>将对接装置扩展至3地格外</SoS.ToggleDockDesc>
 	<SoS.AirlockHacked>气闸入侵成功！</SoS.AirlockHacked>
 	<SoS.AirlockHackFailed>气闸入侵失败！</SoS.AirlockHackFailed>
 	<SoS.AirlockBreached>气闸切割完成！</SoS.AirlockBreached>
@@ -257,7 +255,7 @@
 	<SoS.TorpedoFullyLoaded>满载</SoS.TorpedoFullyLoaded>
 	<SoS.TorpedoNone>没有鱼雷</SoS.TorpedoNone>
 	<SoS.AmplifierCount>脊峰放大：{0}</SoS.AmplifierCount>
-	<SoS.SpinalCapNotFound>没有找到脊峰电容器。</SoS.SpinalCapNotFound>
+	<SoS.SpinalCapNotFound>没有找到脊峰放大器。</SoS.SpinalCapNotFound>
 	<SoS.CannotFireDueToHeat>{0} 无法开火：热容不足</SoS.CannotFireDueToHeat>
 	<SoS.CannotFireDueToPower>{0} 无法开火：能量不足</SoS.CannotFireDueToPower>
 	<SoS.CannotFireDueToAmmo>{0} 无法开火：弹药不足</SoS.CannotFireDueToAmmo>
@@ -280,13 +278,13 @@
 	<SoS.ReactorOverdrive3Desc>超大幅增加反应堆产出的能量，代价是发热量和燃料消耗增加。这会增加反应堆的不稳定性，会有火灾和辐射泄漏的风险。</SoS.ReactorOverdrive3Desc>
 	<!-- 蓝图 -->
 	<SoS.BlueprintDisabled>需要研究星际航行基础</SoS.BlueprintDisabled>
-	<SoS.BlueprintFailed>蓝图放置失败！区域必须支持重型建筑，并且清除非自带物体和厚岩顶。</SoS.BlueprintFailed>
+	<SoS.BlueprintFailed>蓝图放置失败！区域必须支持重型建筑，并且清除非蓝图自带物体和厚岩顶。</SoS.BlueprintFailed>
 	<SoS.BlueprintPlace1>船体框架\n蓝图</SoS.BlueprintPlace1>
-	<SoS.BlueprintPlace1Desc>放置船体镀层和船体框架的蓝图。在放置舰船内部框架蓝图前先建造这个！</SoS.BlueprintPlace1Desc>
+	<SoS.BlueprintPlace1Desc>放置船舶护板和船体框架的蓝图。在放置其它船体框架蓝图前先建造这个！</SoS.BlueprintPlace1Desc>
 	<SoS.BlueprintPlace2>其它船体框架\n蓝图</SoS.BlueprintPlace2>
-	<SoS.BlueprintPlace2Desc>放置舰船内部船体的蓝图。在放置舰船内部设备蓝图前先建造这个！</SoS.BlueprintPlace2Desc>
-	<SoS.BlueprintPlace3>舰船内部设备\n蓝图</SoS.BlueprintPlace3>
-	<SoS.BlueprintPlace3Desc>放置舰船内部设备的蓝图。请先放置船体框架与舰船内部框架的蓝图再建造这个！</SoS.BlueprintPlace3Desc>
+	<SoS.BlueprintPlace2Desc>放置其它船体框架的蓝图。在放置舰船内部设备蓝图前先建造这个！</SoS.BlueprintPlace2Desc>
+	<SoS.BlueprintPlace3>船舶内部设备\n蓝图</SoS.BlueprintPlace3>
+	<SoS.BlueprintPlace3Desc>放置船舶内部设备的蓝图。请先建造船体框架与其它船体框架再建造这个！</SoS.BlueprintPlace3Desc>
 	<!-- 修复 -->
 	<SoSRestoreHull>修复船体</SoSRestoreHull>
 	<SoSRestoreHullDesc>在残骸处建造新的船体</SoSRestoreHullDesc>
@@ -294,15 +292,13 @@
 	<SoSMustDesignateWreckage>指定舰船残骸</SoSMustDesignateWreckage>
 	<!-- 小人、EVA -->
 	<SoS.DamagedReactorHurtsPawn>{0} 正在被反应堆产生的辐射灼伤！</SoS.DamagedReactorHurtsPawn>
-	<SoS.EVACapable>EVA 兼容</SoS.EVACapable>
+	<SoS.EVACapable>EVA兼容</SoS.EVACapable>
 	<SoS.AtmosphereVacuum>真空环境</SoS.AtmosphereVacuum>
 	<SoS.Atmosphere>可呼吸环境</SoS.Atmosphere>
 	<SoS.AtmosphereNonBreathable>不可呼吸环境</SoS.AtmosphereNonBreathable>
 	<SoS.AtmosphereBreach>该空间不合规！</SoS.AtmosphereBreach>
-	<!--
 	<SoS.CocoonPlaceFail>无法生成滞眠茧！</SoS.CocoonPlaceFail>
 	<SoS.CocoonMalnourished>使用者处在营养不良状态</SoS.CocoonMalnourished>
-	-->
 	<!-- 凝胶体、孢子 -->
 	<SoS.SpawnHologram>生成\n微械凝胶体</SoS.SpawnHologram>
 	<SoS.SpawnHologramDesc>这个装置的意识可以通过微械凝胶体来影响现实。</SoS.SpawnHologramDesc>
@@ -373,7 +369,7 @@
 	<SoS.MechanitesInHomeArea>解构微械！</SoS.MechanitesInHomeArea>
     <SoS.MechanitesInHomeAreaDesc>家里到处都是解构微械。</SoS.MechanitesInHomeAreaDesc>
 	<!-- 穿梭机 -->
-	<!--<SoS.ShuttlesMore>更多穿梭机</SoS.ShuttlesMore>-->
+	<SoS.ShuttlesMore>更多穿梭机</SoS.ShuttlesMore>
 	<SoS.ShuttleMissionFloatBoard>任务：跳帮队突击检查</SoS.ShuttleMissionFloatBoard>
 	<SoS.ShuttleMissionFloatBoardWarn>任务：跳帮队突击检查（警告！）</SoS.ShuttleMissionFloatBoardWarn>
 	<SoS.ShuttleMissionFloatIntercept>任务：拦截鱼雷/穿梭机</SoS.ShuttleMissionFloatIntercept>
@@ -410,6 +406,7 @@
 	<SoS.NoHardpoints>穿梭机没有足够的挂载点来装这个炮塔。</SoS.NoHardpoints>
 	<SoS.NotEnoughCargoSpace>这一升级将使穿梭机的载货能力降至零以下。</SoS.NotEnoughCargoSpace>
 	<SoS.HoverJump>本地航班</SoS.HoverJump>
+	<SoS.HoverJumpDesc>起飞并着陆在同一张地图上，消耗 5 单位燃料</SoS.HoverJumpDesc>
 	<SoS.HoverJump.Desc>起飞并着陆在同一张地图上，消耗 5 单位燃料</SoS.HoverJump.Desc>
 	<SoS.NotEnoughFuel>燃料不足</SoS.NotEnoughFuel>
 	<SoS.UnderRoof>不能在屋顶下发射</SoS.UnderRoof>
