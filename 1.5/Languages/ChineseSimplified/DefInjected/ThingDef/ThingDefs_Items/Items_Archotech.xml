@@ -3,8 +3,11 @@
     <ArcholifePod.label>超凡生物基质舱</ArcholifePod.label>
     <ArcholifePod.description>一种包裹在一次性孵化器中的合成细胞浆。可以通过编程(选择一个小人并右键)来“孵化”出一只经过彻底重新设计过的普通生物的超凡版本。需要10个超凡生物基质舱叠一起才能生成一只超凡敲击兽。</ArcholifePod.description>
 
-    <ArchotechRepairGel.label>修复机械液</ArchotechRepairGel.label>
-    <ArchotechRepairGel.description>调整为修复受损物品用途的一次性超剂量纳米机械。对武器或衣物使用后，纳米机械会修理这些物体使其恢复如初。</ArchotechRepairGel.description>
+    <ArchotechRepairGel.label>超凡微械修复液</ArchotechRepairGel.label>
+    <ArchotechRepairGel.description>调整为修复受损物品用途的一次性超剂量超凡微械。它既可以对物品使用来完全恢复目标的耐久度，也可以用于为使用者穿戴的装备添加修复效果。后者的修复效果会分摊在所有受损的装备上。</ArchotechRepairGel.description>
+    <ArchotechRepairGel.ingestible.ingestCommandString>应用于装备</ArchotechRepairGel.ingestible.ingestCommandString>
+    <ArchotechRepairGel.comps.CompUsable.useLabel>修复单件物品</ArchotechRepairGel.comps.CompUsable.useLabel>
+    <ArchotechRepairGel.ingestible.ingestReportString>使用{0}。</ArchotechRepairGel.ingestible.ingestReportString>
 
     <ArchotechMechaniteCore.label>解构者核心</ArchotechMechaniteCore.label>
     <ArchotechMechaniteCore.description>一个独立的生产解构微械的纳米机械培育舱。</ArchotechMechaniteCore.description>

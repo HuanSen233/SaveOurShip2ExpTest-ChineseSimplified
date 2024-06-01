@@ -10,16 +10,15 @@
         <li>
             <packageId>kentington.saveourship2</packageId>
             <displayName>Save Our Ship 2</displayName>
-			<downloadUrl>
-                <li>https://github.com/SonicTHI/SaveOurShip2ExpTest</li>
-            </downloadUrl>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/1909914131</steamWorkshopUrl>
+			<downloadUrl>https://github.com/SonicTHI/SaveOurShip2ExpTest</downloadUrl>
         </li>
     </modDependencies>
 	<loadAfter>
 		<li>kentington.saveourship2</li>
 	</loadAfter>
 
-    <modVersion>EXPv102f3-R1</modVersion>
+    <modVersion>24/6/1-R1</modVersion>
     <description>
 主要用于Save Our Ship 2 ExpTest(拯救飞船2实验版)的简体中文汉化。
 
@@ -28,9 +27,9 @@
 
 Github: https://github.com/HuanSen233/SaveOurShip2ExpTest-ChineseSimplified
 MIT License: https://github.com/HuanSen233/SaveOurShip2ExpTest-ChineseSimplified/blob/main/LICENSE
-#有能力建议用Github版本，更新快
 
-SOS2EXP: https://github.com/SonicTHI/SaveOurShip2ExpTest
+SoS2ExpTest: https://github.com/SonicTHI/SaveOurShip2ExpTest
+SoS2 Github: https://github.com/KentHaeger/SaveOurShip2
     </description>
 
     <url>https://steamcommunity.com/sharedfiles/filedetails/?id=3248976303</url>

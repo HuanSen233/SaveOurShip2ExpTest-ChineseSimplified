@@ -246,9 +246,9 @@
 	<SoS.HeatNotConnected>没有连接到热容网络</SoS.HeatNotConnected>
 	<SoS.HeatTurretEnergy>开火所需能量：</SoS.HeatTurretEnergy>
 	<SoS.ExpelSuperheatedAir>排出过热空气</SoS.ExpelSuperheatedAir>
-	<SoS.ExpelSuperheatedAirDesc>使用这个通风口排出房间中的过热空气。该过程会对你的船舶生命支持系统造成损坏，房间中每四格空间将会损失一点生命值，这些伤害会均摊到多个生命维持系统上。\n\n房间里的所有不能进行EVA的人都会受到爆炸性失压！</SoS.ExpelSuperheatedAirDesc>
+	<SoS.ExpelSuperheatedAirDesc>使用这个通风口排出目标房间中的过热空气。该过程会对你的船舶生命支持系统造成损坏(基于房间大小)，这些伤害会均摊到多个生命支持系统上(当前每个系统会受到 {0} 伤害)。\n\n房间里的所有不能进行EVA的人都会受到爆炸性失压！</SoS.ExpelSuperheatedAirDesc>
 	<SoS.AirNotSuperheated>没有过热空气</SoS.AirNotSuperheated>
-	<SoS.NoLifeSupport>没有有效的船舶生命维持系统</SoS.NoLifeSupport>
+	<SoS.NoLifeSupport>没有有效的船舶生命支持系统</SoS.NoLifeSupport>
 	<SoS.BreakCloakAtHeat>热容上限消耗阈值</SoS.BreakCloakAtHeat>
 	<SoS.BreakCloakAtHeatDesc>当热容网络整体的热容上限消耗至设定百分比时，将关闭隐形装置使其可以恢复。</SoS.BreakCloakAtHeatDesc>
 	<SoS.CloakBrokenAtHeat>热容上限耗尽，隐形装置失效！</SoS.CloakBrokenAtHeat>
@@ -439,5 +439,35 @@
 		<!-- Exp -->
 	<SoS.ShuttlesMore>更多穿梭机</SoS.ShuttlesMore>
 	<SoS.HoverJumpDesc>起飞并着陆在同一张地图上，消耗 5 单位燃料</SoS.HoverJumpDesc>
+	
+	<!-- 未归类 -->
+	<SoSBreachAirlock>切割气闸</SoSBreachAirlock>
+	<SoSHackAirlock>入侵气闸</SoSHackAirlock>
+	<SoSAttackShip>攻击 {0}</SoSAttackShip>
+	<SoSAttackShipDesc>发动对 {0} 的攻击。</SoSAttackShipDesc>
+	<SoSPirateShip>劫掠 {0}</SoSPirateShip>
+	<SoSPirateShipDesc>对 {0} 进行太空海盗行为。这将开始舰船战并增加你的恶名值！</SoSPirateShipDesc>
+	<SoSInvestigateDerelict>调查 {0}</SoSInvestigateDerelict>
+	<SoSInvestigateDerelictDesc>接近并调查 {0} 。你可以通过发射穿梭机来抵达残骸点，并在清理完所有威胁之后(如果有)，就可以安全的将其回收。</SoSInvestigateDerelictDesc>
+	<SoSHackFailed>入侵敌方舰桥失败！</SoSHackFailed>
+	<SoSHackBridge>入侵舰桥</SoSHackBridge>
+	<SoSCantPlaceCocoon>无法生成滞眠茧！</SoSCantPlaceCocoon>
+	<SoSAlreadyMalnourished>使用者处在营养不良状态</SoSAlreadyMalnourished>
+	<SoSToggleShield>切换护盾</SoSToggleShield>
+	<SoSToggleShieldDesc>激活或关闭这个护盾</SoSToggleShieldDesc>
+	<SoSCantVentCloaked>无法排热：处于隐形状态</SoSCantVentCloaked>
+	<SoSMoreShuttles> 更多穿梭机</SoSMoreShuttles>
+	<SoSCombatEnergy>储能：</SoSCombatEnergy>
+	<SoSCombatNoEnergy>储能：N/A</SoSCombatNoEnergy>
+	<SoSCombatHeat>热容：</SoSCombatHeat>
+	<SoSCombatNoHeat>热容：N/A</SoSCombatNoHeat>
+	<SoSCombatHull>船体结构：</SoSCombatHull>
+	<SoSCombatShields>护盾：</SoSCombatShields>
+	<SoSCombatNone>N/A</SoSCombatNone>
+	<SoSCantSettleSpaceSites>不能在太空定居</SoSCantSettleSpaceSites>
+	<SoSNoPowerSupply>舰船无能源</SoSNoPowerSupply>
+	<SoSCarryToCryptonest>运送至休眠舱</SoSCarryToCryptonest>
+	<SoSConsciousness>意识：{0}</SoSConsciousness>
+	<SoSAIName>AI名字：{0}</SoSAIName>
 
 </LanguageData>

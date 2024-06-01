@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-<!-- 未完成标记========
+<!-- 未完成标记======== -->
     <!-- 任务 -->
-    <SoSGameplayTips.tips.0>text</SoSGameplayTips.tips.0>
-    <SoSGameplayTips.tips.1>text</SoSGameplayTips.tips.1>
-    <SoSGameplayTips.tips.2>text</SoSGameplayTips.tips.2>
-    <SoSGameplayTips.tips.3>text</SoSGameplayTips.tips.3>
-    <SoSGameplayTips.tips.4>text</SoSGameplayTips.tips.4>
-    <SoSGameplayTips.tips.5>text</SoSGameplayTips.tips.5>
-    <SoSGameplayTips.tips.6>text</SoSGameplayTips.tips.6>
+    <SoSGameplayTips.tips.0>进入轨道后，殖民者可以通过船舶科学控制台扫描到轨道任务地点。可以通过派遣殖民者乘坐穿梭机访问这些站点。</SoSGameplayTips.tips.0>
+    <SoSGameplayTips.tips.1>进入轨道后，先进继承传感器可以自动扫描轨道任务地点。建造多个传感器可以加快扫描进程。</SoSGameplayTips.tips.1>
+    <SoSGameplayTips.tips.2>小行星是在太空中建筑材料的重要来源，但要小心那里面可能会藏着些不好东西......</SoSGameplayTips.tips.2>
+    <SoSGameplayTips.tips.3>大多数边缘世界星球的轨道中都充满了空间碎片。这之中有的甚至可能是一艘存在幸存者的沉船，并且船上的人正在疯狂的同类相食。</SoSGameplayTips.tips.3>
+    <SoSGameplayTips.tips.4>机智的飞船船长可以通过入侵古老卫星来控制天气或轰炸敌人。然而这可能会触发防御系统并摇来一帮敌对机械体......</SoSGameplayTips.tips.4>
+    <SoSGameplayTips.tips.5>约翰逊-田中驱动器通常只能在非常大的船上才能见到，比如星际客轮。</SoSGameplayTips.tips.5>
+    <SoSGameplayTips.tips.6>很久以前，基因工程师制造了能适应真空环境的一系列昆虫，用于在小行星上采矿。现在看来这不是个好主意。</SoSGameplayTips.tips.6>
     <!-- 战斗 -->
+    <!--
     <SoSGameplayTips.tips.7>text</SoSGameplayTips.tips.7>
     <SoSGameplayTips.tips.8>text</SoSGameplayTips.tips.8>
     <SoSGameplayTips.tips.9>text</SoSGameplayTips.tips.9>
@@ -31,11 +32,15 @@
     <SoSGameplayTips.tips.25>text</SoSGameplayTips.tips.25>
     <SoSGameplayTips.tips.26>text</SoSGameplayTips.tips.26>
     <SoSGameplayTips.tips.27>text</SoSGameplayTips.tips.27>
+    -->
     <!-- 穿梭机 -->
+    <!--
     <SoSGameplayTips.tips.28>text</SoSGameplayTips.tips.28>
     <SoSGameplayTips.tips.29>text</SoSGameplayTips.tips.29>
     <SoSGameplayTips.tips.30>text</SoSGameplayTips.tips.30>
+    -->
     <!-- 舰船杂项 -->
+    <!--
     <SoSGameplayTips.tips.31>text</SoSGameplayTips.tips.31>
     <SoSGameplayTips.tips.32>text</SoSGameplayTips.tips.32>
     <SoSGameplayTips.tips.33>text</SoSGameplayTips.tips.33>
@@ -52,7 +57,9 @@
     <SoSGameplayTips.tips.44>text</SoSGameplayTips.tips.44>
     <SoSGameplayTips.tips.45>text</SoSGameplayTips.tips.45>
     <SoSGameplayTips.tips.46>text</SoSGameplayTips.tips.46>
+    -->
     <!-- 超凡科技 -->
+    <!--
     <SoSGameplayTips.tips.47>text</SoSGameplayTips.tips.47>
     <SoSGameplayTips.tips.48>text</SoSGameplayTips.tips.48>
     <SoSGameplayTips.tips.49>text</SoSGameplayTips.tips.49>
@@ -65,5 +72,5 @@
     <SoSGameplayTips.tips.56>text</SoSGameplayTips.tips.56>
     <SoSGameplayTips.tips.57>text</SoSGameplayTips.tips.57>
     <SoSGameplayTips.tips.58>text</SoSGameplayTips.tips.58>
--->
+    -->
 </LanguageData>
