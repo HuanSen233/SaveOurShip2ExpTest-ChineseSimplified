@@ -103,8 +103,8 @@
 	<SoS.TimePassedDesc>你的孤舟在群星之间，踏过漫漫长路，寻找到了一个新的可居住的世界。这次旅行花了 {0} 年。</SoS.TimePassedDesc>
 		
 	<!-- 游戏结局 -->
-	<SoS.PsychicAmplifier>检测到心灵增幅器</SoS.PsychicAmplifier>
-	<SoS.PsychicAmplifierDesc>你的舰船AI兴奋地在发光。它追踪到最近的灵能波动源自一个轨道增幅器，它正在传递一个来自遥远的超凡科技的灵能信息。\n\n假设，如果命令你的舰船攻击这个增幅器，并派一支跳帮队入侵它的核心，它就能让AI拦截原始的灵能信息，进而窥视到一个超凡科技的思维进程。这样的洞察甚至可以让它开始演变成一个超凡科技......\n\n不要低估这场战斗的难度。</SoS.PsychicAmplifierDesc>
+	<SoS.PsychicAmplifier>检测到心灵增幅器(Psychic Amplifier)</SoS.PsychicAmplifier>
+	<SoS.PsychicAmplifierDesc>你的舰船AI兴奋地在发光。它追踪到最近的灵能波动源自一个轨道增幅器，它正在传递一个来自遥远的超凡科技的灵能信息。\n\n假设，如果命令你的舰船攻击心灵增幅器(Psychic Amplifier)，并派一支跳帮队入侵它的核心，它就能让AI拦截原始的灵能信息，进而窥视到一个超凡科技的思维进程。这样的洞察甚至可以让它开始演变成一个超凡科技......\n\n不要低估这场战斗的难度。</SoS.PsychicAmplifierDesc>
 	<SoS.PsychicAmplifierCaptured>心灵增幅器已入侵</SoS.PsychicAmplifierCaptured>
 	<SoS.PsychicAmplifierCapturedDesc>你的船员控制了轨道增幅器的系统并将传入的灵能信息重定向至你的舰船的AI。\n\n几分钟后，你的入侵被检测到，随即信号戛然而止。你的黑客大声咒骂，但AI用一份胜利的报告打断了你——它成功收集到了所需的全部数据。\n\n你现在拥有了一个超凡科技孢子的蓝图——一种可以逐渐将一个意识进化成一个超凡科技的孵化器。有了它的帮助，你甚至可以进行超凡科技项目的研究。</SoS.PsychicAmplifierCapturedDesc>
 	<SoS.SporeBuilt>孢子已建造</SoS.SporeBuilt>
