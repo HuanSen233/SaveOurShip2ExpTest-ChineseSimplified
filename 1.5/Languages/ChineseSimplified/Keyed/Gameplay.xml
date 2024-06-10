@@ -36,9 +36,9 @@
 	<SoS.CombatPodDestroyedPlayer>你的穿梭机被敌人的点防御系统摧毁！如果有船员幸存，他们的弹射座椅会送他们回到你的舰船。</SoS.CombatPodDestroyedPlayer>
 	<SoS.CombatPodDestroyedEnemy>敌人的穿梭机被你的点防御系统摧毁！</SoS.CombatPodDestroyedEnemy>
 	<SoS.WithdrawShip>撤离舰船</SoS.WithdrawShip>
-	<SoS.WithdrawShipDesc>让这艘船脱离战斗</SoS.WithdrawShipDesc>
+	<SoS.WithdrawShipDesc>让这艘船脱离战斗。</SoS.WithdrawShipDesc>
 	<SoS.WithdrawShipLast>最后一艘船不能撤退</SoS.WithdrawShipLast>
-	<SoS.CombatConfirmWithdraw>把这艘船撤离进坟场？要是你这场仗打输了或者逃跑，那么敌舰会攻击你撤进坟场的舰船。</SoS.CombatConfirmWithdraw>
+	<SoS.CombatConfirmWithdraw>把这艘船撤离进坟场？要是你这场仗打输了或者逃跑，那么敌舰会攻击你撤进坟场的舰船。请注意，在暂停时撤离舰船的命令会在游戏取消暂停后执行，若中途退出游戏命令将不会生效。</SoS.CombatConfirmWithdraw>
 	<SoS.WrecksPreventMove>地图上的残骸不能移动！</SoS.WrecksPreventMove>
 	<SoS.RemoveWrecks>移除残骸</SoS.RemoveWrecks>
 	<SoS.RemoveWrecksDesc>将地图上的所有残骸移除，它们将被摧毁。</SoS.RemoveWrecksDesc>
@@ -436,6 +436,7 @@
 	<SoS.CannotLaunchUnderRoof>穿梭机不能直接在屋顶下发射，你应该将它停在穿梭机停靠港再发射</SoS.CannotLaunchUnderRoof>
 	<SoS.ToggleField>切换船体通道</SoS.ToggleField>
 	<SoS.ToggleFieldDesc>允许小人和车辆通过这个可通行的船体</SoS.ToggleFieldDesc>
+	<VF_VehicleFuelCost>消耗 {0} 单位燃料</VF_VehicleFuelCost>
 		<!-- Exp -->
 	<SoS.ShuttlesMore>更多穿梭机</SoS.ShuttlesMore>
 	<SoS.HoverJumpDesc>起飞并着陆在同一张地图上，消耗 5 单位燃料</SoS.HoverJumpDesc>

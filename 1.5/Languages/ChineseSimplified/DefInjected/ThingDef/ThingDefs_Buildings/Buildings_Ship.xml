@@ -46,7 +46,7 @@
     <Ship_Engine.label>火箭推进器</Ship_Engine.label>
     <Ship_Engine.description>一种使用化合燃料驱动的推进器，能将舰船送入轨道。不能进行星际航行。\n\n推力：1000\n燃料消耗：2 化合燃料/秒\n最大起飞重量：1000</Ship_Engine.description>
     <Ship_Engine_Large.label>核能推进器</Ship_Engine_Large.label>
-    <Ship_Engine_Large.description>一种使用核燃料驱动的核动力推进器，能将舰船送入轨道。会造成污染。不能进行星际航行。\n\n推力：3000\n燃料消耗：3 核燃料舱/秒\n最大起飞重量：4000</Ship_Engine_Large.description>
+    <Ship_Engine_Large.description>一种使用核燃料驱动的核动力推进器，能将舰船送入轨道。不能进行星际航行。\n\n推力：3000\n燃料消耗：3 核燃料舱/秒\n最大起飞重量：4000</Ship_Engine_Large.description>
     
     <Ship_Thruster.label>RCS推进器</Ship_Thruster.label>
     <Ship_Thruster.description>用于让舰船在地图上移动的小型推进器。每2000点舰船重量需要一个。</Ship_Thruster.description>
@@ -89,9 +89,9 @@
     <Ship_Reactor_Small.description>一台紧凑且能够独立运行的裂变反应堆。通过燃烧核燃料舱进行产能。如果有可用的热容系统则将热量排放到热容系统中，否则将热量排放到所在房间内。\n\n其基础产能为3000W，可通过几种愈发不稳定的超频模式来提高。</Ship_Reactor_Small.description>
     <!-- 港口 -->
     <ShipShuttleBay.label>穿梭机停靠港</ShipShuttleBay.label>
-    <ShipShuttleBay.description>提供停靠穿梭机的功能的设施。这个先进的停靠港含有能自动修理穿梭机部件的纳米机械，会将部件修理至一半生命值，并且能使小人维修穿梭机的速度加倍。它的内部还能存储燃料，并且可以自动为停靠在其上的穿梭机添加燃料。\n\n停靠港上不能有障碍物。在周围放置信标可供帝国的穿梭机降落在此处。</ShipShuttleBay.description>
+    <ShipShuttleBay.description>提供停靠穿梭机的功能的设施。这个先进的停靠港含有能自动修理穿梭机部件的纳米机械，会将部件修理至一半生命值，并且能使小人维修穿梭机的速度加倍。它的内部还能存储燃料，并且可以自动为停靠在其上的穿梭机添加燃料。\n\n停靠港上不能有障碍物。帝国的穿梭机可以在没有飞船着陆信标的情况下降落在停靠港。</ShipShuttleBay.description>
     <ShipShuttleBayLarge.label>大型穿梭机停靠港</ShipShuttleBayLarge.label>
-    <ShipShuttleBayLarge.description>提供停靠最大重型穿梭机的功能的设施。这个先进的停靠港含有能自动修理穿梭机部件的纳米机械，会将部件修理至一半生命值，并且能使小人维修穿梭机的速度加倍。它的内部还能存储燃料，并且可以自动为停靠在其上的穿梭机添加燃料。\n\n停靠港上不能有障碍物。在周围放置信标可供帝国的穿梭机降落在此处。</ShipShuttleBayLarge.description>
+    <ShipShuttleBayLarge.description>提供停靠最大重型穿梭机的功能的设施。这个先进的停靠港含有能自动修理穿梭机部件的纳米机械，会将部件修理至一半生命值，并且能使小人维修穿梭机的速度加倍。它的内部还能存储燃料，并且可以自动为停靠在其上的穿梭机添加燃料。\n\n停靠港上不能有障碍物。帝国的穿梭机可以在没有飞船着陆信标的情况下降落在停靠港。</ShipShuttleBayLarge.description>
     
     <ShipSalvageBay.label>打捞港</ShipSalvageBay.label>
     <ShipSalvageBay.description>移动沉船残骸到你的地图上，或者移除地图上不需要的残骸。可以建造更多的打捞港以容纳更大的船舶。\n\n重量限制：5000</ShipSalvageBay.description>
