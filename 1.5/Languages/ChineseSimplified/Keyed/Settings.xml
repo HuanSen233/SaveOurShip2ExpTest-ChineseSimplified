@@ -8,7 +8,7 @@
 	<SoS.Settings.UseSplashScreen>SoS主菜单背景</SoS.Settings.UseSplashScreen>
 	<SoS.Settings.UseSplashScreen.Desc>如果启用，游戏将主界面背景将会使用SoS2的背景图。更改此项后需重新启动游戏。默认：开</SoS.Settings.UseSplashScreen.Desc>
 	<SoS.Settings.PersistShipUI>持续显示船舶UI</SoS.Settings.PersistShipUI>
-	<SoS.Settings.PersistShipUI.Desc>如果启用，将持续显示舰船的能量和热熔，即使不在战斗中。默认：关</SoS.Settings.PersistShipUI.Desc>
+	<SoS.Settings.PersistShipUI.Desc>如果启用，将持续显示舰船的能量和热容，即使不在战斗中。默认：关</SoS.Settings.PersistShipUI.Desc>
 	<SoS.Settings.OffsetUIx>船舶UI偏移 X轴（水平）</SoS.Settings.OffsetUIx>
 	<SoS.Settings.OffsetUIx.Desc>UI将会基于屏幕中心水平偏移</SoS.Settings.OffsetUIx.Desc>
 	<SoS.Settings.OffsetUIy>船舶UI偏移 Y轴（垂直）</SoS.Settings.OffsetUIy>
@@ -46,6 +46,6 @@
 	
 	<SoS.Settings.Danger>危险设置（改了后果自负）：</SoS.Settings.Danger>
 	<SoS.Settings.EnemyMapSize>覆盖敌人舰队地图大小（最小：{0} 最大：{1} 默认：{2} 当前：{3}）</SoS.Settings.EnemyMapSize>
-	<SoS.Settings.EnemyMapSize.Desc>舰队在更大的地图上会生成更对舰船，并且超过2000点战斗评级。</SoS.Settings.EnemyMapSize.Desc>
+	<SoS.Settings.EnemyMapSize.Desc>舰队在更大的地图上会生成更多舰船，并且超过2000点战斗评级。</SoS.Settings.EnemyMapSize.Desc>
 
 </LanguageData>

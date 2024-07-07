@@ -190,6 +190,7 @@
 	<SoS.LandDesc>让这艘船在这里着陆 </SoS.LandDesc>
 	<SoS.Rebuild>舰船部件被毁自动重建</SoS.Rebuild>
 	<SoS.RebuildDesc>放置这艘船上被毁建筑的蓝图。</SoS.RebuildDesc>
+	<SoS.BridgeConnectTooltip>没有舰桥连接到船舶！请检查领航员控制台、战术控制台、无人船舶核心和船舶电脑核心是否连接到热容和电力网络。</SoS.BridgeConnectTooltip>
 		<!-- Exp -->
 	<SoS.StatsUIEnergy>储能：{0} / {1}</SoS.StatsUIEnergy>
 	<SoS.StatsUIHeat>热容：{0} / {1}</SoS.StatsUIHeat>
@@ -246,9 +247,10 @@
 	<SoS.HeatNotConnected>没有连接到热容网络</SoS.HeatNotConnected>
 	<SoS.HeatTurretEnergy>开火所需能量：</SoS.HeatTurretEnergy>
 	<SoS.ExpelSuperheatedAir>排出过热空气</SoS.ExpelSuperheatedAir>
-	<SoS.ExpelSuperheatedAirDesc>使用这个通风口排出目标房间中的过热空气。该过程会对你的船舶生命支持系统造成损坏(基于房间大小)，这些伤害会均摊到多个生命支持系统上(当前每个系统会受到 {0} 伤害)。\n\n房间里的所有不能进行EVA的人都会受到爆炸性失压！</SoS.ExpelSuperheatedAirDesc>
+	<SoS.ExpelSuperheatedAirDesc>使用这个通风口排出目标房间中的过热空气。该过程会对你的船舶生命支持系统造成损坏(基于房间大小，并且会在耐久度耗尽时将其摧毁)，这些伤害会均摊到多个生命支持系统上(当前每个系统会受到 {0} 伤害)。\n\n房间里的所有不能进行EVA的人都会受到爆炸性失压！</SoS.ExpelSuperheatedAirDesc>
 	<SoS.AirNotSuperheated>没有过热空气</SoS.AirNotSuperheated>
 	<SoS.NoLifeSupport>没有有效的船舶生命支持系统</SoS.NoLifeSupport>
+	<SoS.HeatDepletionLevel>消耗水平：{0}</SoS.HeatDepletionLevel>
 	<SoS.BreakCloakAtHeat>热容上限消耗阈值</SoS.BreakCloakAtHeat>
 	<SoS.BreakCloakAtHeatDesc>当热容网络整体的热容上限消耗至设定百分比时，将关闭隐形装置使其可以恢复。</SoS.BreakCloakAtHeatDesc>
 	<SoS.CloakBrokenAtHeat>热容上限耗尽，隐形装置失效！</SoS.CloakBrokenAtHeat>
@@ -419,8 +421,8 @@
 	<SoS.ShuttleMissionBombDesc>派这艘穿梭机用鱼雷攻击敌舰。它自身很容易受到点防御武器的攻击，而它的鱼雷不会。如果敌舰推进器经常工作，那么穿梭机需要更长时间到达。\n\n它将一直执行任务直到燃料不足或严重损坏，你可以中途将其召回。</SoS.ShuttleMissionBombDesc>
 	<SoS.RecallShuttle>{0}（执行：{1} ）</SoS.RecallShuttle>
 	<SoS.RecallShuttleDesc>改变穿梭机的任务。</SoS.RecallShuttleDesc>
-	<SoS.RetreatAtHealth>穿梭机因生命值自动撤退阈值</SoS.RetreatAtHealth>
-	<SoS.RetreatAtHealthDesc>当这艘穿梭机的生命值低于设定百分比时，它将自动撤退</SoS.RetreatAtHealthDesc>
+	<SoS.RetreatAtHealth>穿梭机因耐久度自动撤退阈值</SoS.RetreatAtHealth>
+	<SoS.RetreatAtHealthDesc>当这艘穿梭机的耐久度低于设定百分比时，它将自动撤退</SoS.RetreatAtHealthDesc>
 	<SoS.CancelBoarding>取消跳帮？你的穿梭机会返回你的舰船。</SoS.CancelBoarding>
 	<SoS.NoHardpoints>穿梭机没有足够的挂载点来装这个炮塔。</SoS.NoHardpoints>
 	<SoS.NotEnoughCargoSpace>这一升级将使穿梭机的载货能力降至零以下。</SoS.NotEnoughCargoSpace>
@@ -470,5 +472,7 @@
 	<SoSCarryToCryptonest>运送至休眠舱</SoSCarryToCryptonest>
 	<SoSConsciousness>意识：{0}</SoSConsciousness>
 	<SoSAIName>AI名字：{0}</SoSAIName>
+	<SoSNoMapObserve>无法扫描这种类型的区域。它的拥有者可能在此处部署了能干扰传感器的技术。</SoSNoMapObserve>
+	<SoSBreathable>可呼吸</SoSBreathable>
 
 </LanguageData>
