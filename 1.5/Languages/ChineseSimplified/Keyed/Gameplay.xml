@@ -439,6 +439,7 @@
 	<SoS.ToggleField>切换船体通道</SoS.ToggleField>
 	<SoS.ToggleFieldDesc>允许小人和车辆通过这个可通行的船体</SoS.ToggleFieldDesc>
 	<VF_VehicleFuelCost>消耗 {0} 单位燃料</VF_VehicleFuelCost>
+	<VF_Fix_CannotLaunchRotated>无法启动 {0} ，需要将其摆正。</VF_Fix_CannotLaunchRotated>
 		<!-- Exp -->
 	<SoS.ShuttlesMore>更多穿梭机</SoS.ShuttlesMore>
 	<SoS.HoverJumpDesc>起飞并着陆在同一张地图上，消耗 5 单位燃料</SoS.HoverJumpDesc>
@@ -473,6 +474,6 @@
 	<SoSConsciousness>意识：{0}</SoSConsciousness>
 	<SoSAIName>AI名字：{0}</SoSAIName>
 	<SoSNoMapObserve>无法扫描这种类型的区域。它的拥有者可能在此处部署了能干扰传感器的技术。</SoSNoMapObserve>
-	<SoSBreathable>可呼吸</SoSBreathable>
+	<SoSBreathable>透气</SoSBreathable>
 
 </LanguageData>

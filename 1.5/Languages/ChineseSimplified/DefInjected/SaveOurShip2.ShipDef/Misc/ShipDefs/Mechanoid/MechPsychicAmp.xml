@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    <MechPsychicAmp.label>Psychic Amplifier</MechPsychicAmp.label>
+    <!--<MechPsychicAmp.label>Psychic Amplifier</MechPsychicAmp.label>-->
+    <MechPsychicAmp.label>心灵增幅器</MechPsychicAmp.label>
 
 </LanguageData>

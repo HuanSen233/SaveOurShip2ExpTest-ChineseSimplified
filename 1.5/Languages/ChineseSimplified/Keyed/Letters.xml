@@ -78,6 +78,7 @@
 	<SoS.HibernateWarningStandalone>驱动器准备开始释放积蓄其中的能量。一旦完成，你的殖民者就能够安全的拆除驱动器并取回其中的纠缠流形。\n\n整个排放过程会持续大约15天，其所喷发的能量特征能在很远的地方被探测到，这类能量特征表示具备星际飞行的能力，并将吸引到绝望的掠夺者和致命的机械体。\n\n你将遭受前所未有的猛烈袭击。确保第一时间做好防御。</SoS.HibernateWarningStandalone>
     <SoS.CommandShipStartup>开始排放能量</SoS.CommandShipStartup>
     <SoS.CommandShipStartupDesc>释放驱动器中积蓄的能量。</SoS.CommandShipStartupDesc>
+	<SoS.CommandShipStartupDisableReason>需要在排放能量前占领驱动器。</SoS.CommandShipStartupDisableReason>
 	<SoS.ImpactSiteLost>约翰逊-田中驱动器损坏</SoS.ImpactSiteLost>
 	<SoS.ImpactSiteLostDesc>一声爆炸从撞击地点响起。\n\n没有正确完成能量排放，约翰逊-田中驱动器被积蓄的能量撕碎。你得再找一个驱动器了。\n\n幸运的是，这艘古老船舶有多个驱动器——从它的黑匣子的数据中，你可以计算出另一个可能的撞击地点。</SoS.ImpactSiteLostDesc>
 	<SoS.HibernateComplete>能量排放完成</SoS.HibernateComplete>
@@ -103,7 +104,8 @@
 	<SoS.TimePassedDesc>你的孤舟在群星之间，踏过漫漫长路，寻找到了一个新的可居住的世界。这次旅行花了 {0} 年。</SoS.TimePassedDesc>
 		
 	<!-- 游戏结局 -->
-	<SoS.PsychicAmplifier>检测到心灵增幅器(Psychic Amplifier)</SoS.PsychicAmplifier>
+	<!--<SoS.PsychicAmplifier>检测到心灵增幅器(Psychic Amplifier)</SoS.PsychicAmplifier>-->
+	<SoS.PsychicAmplifier>检测到心灵增幅器</SoS.PsychicAmplifier>
 	<SoS.PsychicAmplifierDesc>你的舰船AI兴奋地在发光。它追踪到最近的灵能波动源自一个轨道增幅器，它正在传递一个来自遥远的超凡科技的灵能信息。\n\n假设，如果命令你的舰船攻击心灵增幅器(Psychic Amplifier)，并派一支跳帮队入侵它的核心，它就能让AI拦截原始的灵能信息，进而窥视到一个超凡科技的思维进程。这样的洞察甚至可以让它开始演变成一个超凡科技......\n\n不要低估这场战斗的难度。</SoS.PsychicAmplifierDesc>
 	<SoS.PsychicAmplifierCaptured>心灵增幅器已入侵</SoS.PsychicAmplifierCaptured>
 	<SoS.PsychicAmplifierCapturedDesc>你的船员控制了轨道增幅器的系统并将传入的灵能信息重定向至你的舰船的AI。\n\n几分钟后，你的入侵被检测到，随即信号戛然而止。你的黑客大声咒骂，但AI用一份胜利的报告打断了你——它成功收集到了所需的全部数据。\n\n你现在拥有了一个超凡科技孢子的蓝图——一种可以逐渐将一个意识进化成一个超凡科技的孵化器。有了它的帮助，你甚至可以进行超凡科技项目的研究。</SoS.PsychicAmplifierCapturedDesc>
