@@ -19,8 +19,8 @@
     <Ship_Corner_Archo_OneThreeFlip.label>超凡科技船舶斜角装甲(1x3)翻转</Ship_Corner_Archo_OneThreeFlip.label>
     <Ship_Corner_Archo_OneThreeFlip.description>由超凡科技设计的有角度的舰船装甲。</Ship_Corner_Archo_OneThreeFlip.description>
 
-    <ShipHullTileMech.label>超凡科技船舶护板</ShipHullTileMech.label>
-    <ShipHullTileMech.description>由超凡科技设计的适合航天任务的船舶护板。将这格空间（以及在其上建造的任何建筑）指定为舰船的一部分。</ShipHullTileMech.description>
+    <ShipHullTileArchotech.label>超凡科技船舶护板</ShipHullTileArchotech.label>
+    <ShipHullTileArchotech.description>由超凡科技设计的适合航天任务的船舶护板。将这格空间（以及在其上建造的任何建筑）指定为舰船的一部分。</ShipHullTileArchotech.description>
     <!-- 太阳能 -->
     <ShipInside_SolarGeneratorArchotech.label>超凡科技船舶太阳能发电机</ShipInside_SolarGeneratorArchotech.label>
     <ShipInside_SolarGeneratorArchotech.description>使用光子的能量将自身与附近恒星的光球纠缠在一起，能吸收到比直接照射阳光来得多的能量。在太空可输出1200W，在星球表面可输出600W。不能在黑暗或人造光源环境中工作。</ShipInside_SolarGeneratorArchotech.description>
