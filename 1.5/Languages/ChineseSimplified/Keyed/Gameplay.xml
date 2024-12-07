@@ -9,7 +9,6 @@
 	<SoS.MoveStopDesc>反向推进进入同步轨道。</SoS.MoveStopDesc>
 	<SoS.AbandonHome>弃船\n(没事别点)</SoS.AbandonHome>
 	<SoS.AbandonHomeDesc>放弃当前舰船，船上的殖民者会全部消失。</SoS.AbandonHomeDesc>
-	<SoS.SettleSpaceSites>不能在太空定居</SoS.SettleSpaceSites>
 	<SoS.LeaveGraveyard>抛弃沉船漂浮物</SoS.LeaveGraveyard>
 	<SoS.LeaveGraveyardDesc>让这些残骸变成太空垃圾。</SoS.LeaveGraveyardDesc>
 	<SoS.ForceExitAndRemoveMapCountdown>在 {0} 后落入大气。</SoS.ForceExitAndRemoveMapCountdown>
@@ -18,6 +17,8 @@
 	<SoS.BurnUpPlayerPrevented>建造飞船舰桥等相关设备可以稳定轨道。</SoS.BurnUpPlayerPrevented>
 	<SoS.BurnUpCountdown>在 {0} 后落入大气！</SoS.BurnUpCountdown>
 	<SoS.BurnUpCountdownTip>这张地图将在{0}后落入大气。上面的一切都会被摧毁。</SoS.BurnUpCountdownTip>
+		<!-- 仅Exp或其它，最新不稳定版已弃用 -->
+	<SoS.SettleSpaceSites>不能在太空定居</SoS.SettleSpaceSites>
 	<!-- 战斗 -->
 	<SoS.CombatTooltip>显示敌舰与你舰之间的距离，以及所有正在飞行的炮弹和穿梭机。\n\n红色：激光、实弹炮的射程\n绿色：等离子的射程\n蓝色：轨道炮的射程\n紫色：鱼雷射程\n小色条：大型武器的最大射程但不精准</SoS.CombatTooltip>
 	<SoS.CombatRetreat>后撤</SoS.CombatRetreat>
@@ -62,7 +63,7 @@
 	<SoS.EnemyShipRetreating>敌舰正在试图撤退！</SoS.EnemyShipRetreating>
 	<SoS.EnemyShipRetreated>敌舰逃走了！</SoS.EnemyShipRetreated>
 	<SoS.EnemyShipAdrift>敌舰已进入漂浮状态，正在慢慢失去轨道！</SoS.EnemyShipAdrift>
-		<!-- Exp -->
+		<!-- 仅Exp或其它，最新不稳定版已弃用 -->
 	<SoS.ShipFleet>舰队</SoS.ShipFleet>
 	<SoS.AttackShip>攻击</SoS.AttackShip>
 	<SoS.AttackShipDesc>攻击</SoS.AttackShipDesc>
@@ -75,7 +76,7 @@
 	<SoS.ReturnShipDesc>将舰船移回你的稳定轨道</SoS.ReturnShipDesc>
 	<SoS.CaptureShip>捕获</SoS.CaptureShip>
 	<SoS.CaptureShipDesc>将舰船移到你的地图上</SoS.CaptureShipDesc>
-	<SoS.LaunchFailPawns>发现非玩家殖民地小人：{0}，起飞中止。</SoS.LaunchFailPawns>
+	<SoS.LaunchFailPawns>发现非玩家殖民地单位：{0}，起飞中止。</SoS.LaunchFailPawns>
 	<SoS.MoveWreckCommand>移动残骸</SoS.MoveWreckCommand>
 	<SoS.MoveWreckCommandDesc>移动你的地图上被选中的残骸。</SoS.MoveWreckCommandDesc>
 	<SoS.MoveWreckFlipCommand>翻转残骸</SoS.MoveWreckFlipCommand>
@@ -154,7 +155,6 @@
 	<SoS.ReportInterReady>为星际旅行做好准备。</SoS.ReportInterReady>
 	<SoS.ReportInterNotReady>这些没有准备好星际旅行：</SoS.ReportInterNotReady>
 	<SoS.ReportNeedPilot>舰船需要领航员在舰桥或有AI核心。</SoS.ReportNeedPilot>
-	<SoS.ReportNeedEnergy>至少需要 100Wd 电量在船舶电容器中</SoS.ReportNeedEnergy>
 	<SoS.NeedsMoreFuel>需要 {1} 单位燃料在推进器中，但推进器里只有 {0} 单位燃料。</SoS.NeedsMoreFuel>
 	<SoS.NeedsMorePower>舰船需要 {0} Wd 电量在储能设备中。</SoS.NeedsMorePower>
 	<SoS.NeedsMoreJTEngines>需要更多的 约翰逊-田中驱动器 才能驱动这艘大船。</SoS.NeedsMoreJTEngines>
@@ -191,7 +191,7 @@
 	<SoS.Rebuild>舰船部件被毁自动重建</SoS.Rebuild>
 	<SoS.RebuildDesc>放置这艘船上被毁建筑的蓝图。</SoS.RebuildDesc>
 	<SoS.BridgeConnectTooltip>没有舰桥连接到船舶！请检查领航员控制台、战术控制台、无人船舶核心和船舶电脑核心是否连接到热容和电力网络。</SoS.BridgeConnectTooltip>
-		<!-- Exp -->
+		<!-- 仅Exp或其它，最新不稳定版已弃用 -->
 	<SoS.StatsUIEnergy>储能：{0} / {1}</SoS.StatsUIEnergy>
 	<SoS.StatsUIHeat>热容：{0} / {1}</SoS.StatsUIHeat>
 	<SoS.StatsUIHull>船体结构：{0}%</SoS.StatsUIHull>
@@ -201,6 +201,7 @@
 	<SoS.StatsUINA>N/A</SoS.StatsUINA>
 	<SoS.Hack>入侵</SoS.Hack>
 	<SoS.HackFailed>入侵失败</SoS.HackFailed>
+	<SoS.ReportNeedEnergy>至少需要 100Wd 电量在船舶电容器中</SoS.ReportNeedEnergy>
 	<!-- 故事 -->
 	<SoS.QuestPillarA>攻击\n地平线号空间站</SoS.QuestPillarA>
 	<SoS.QuestPillarADesc>攻击超凡科技星球改造站并尝试回收一根超凡科技柱。</SoS.QuestPillarADesc>
@@ -222,7 +223,7 @@
 	<SoS.AirlockHacked>气闸入侵成功！</SoS.AirlockHacked>
 	<SoS.AirlockHackFailed>气闸入侵失败！</SoS.AirlockHackFailed>
 	<SoS.AirlockBreached>气闸切割完成！</SoS.AirlockBreached>
-		<!-- Exp -->
+		<!-- 仅Exp或其它，最新不稳定版已弃用 -->
 	<SoS.AirlockBreach>切割</SoS.AirlockBreach>
 	<!-- 气闸状态 -->
 	<SoS.UnfoldStatus>状态：</SoS.UnfoldStatus>
@@ -232,6 +233,7 @@
 	<SoS.UnfoldRetracting>正在收回</SoS.UnfoldRetracting>
 	<SoS.UnfoldBlocked>必须放置在无障碍物或其它可供其扩展的地方。</SoS.UnfoldBlocked>
 	<SoS.UnDockWarning>警告：在停靠时移动船舶将收回所有舰船对接装置。</SoS.UnDockWarning>
+		<!-- 仅Exp或其它，最新不稳定版已弃用 -->
 	<!-- 热容 -->
     <SoS.HeatStored>热容网络蓄热/容量：{0} HU / {1} HU ({2})</SoS.HeatStored>
 	<SoS.HeatWithPower>使用电力加热</SoS.HeatWithPower>
@@ -254,6 +256,7 @@
 	<SoS.BreakCloakAtHeat>热容上限消耗阈值</SoS.BreakCloakAtHeat>
 	<SoS.BreakCloakAtHeatDesc>当热容网络整体的热容上限消耗至设定百分比时，将关闭隐形装置使其可以恢复。</SoS.BreakCloakAtHeatDesc>
 	<SoS.CloakBrokenAtHeat>热容上限耗尽，隐形装置失效！</SoS.CloakBrokenAtHeat>
+		<!-- 仅Exp或其它，最新不稳定版已弃用 -->
 	<!-- 武器 -->
 	<SoS.TurretNotInShipCombat>警告：炮塔处于非舰船战状态所以不会开火。</SoS.TurretNotInShipCombat>
 	<SoS.TurretInPointDefense>警告：炮塔处于点防御模式所以不会瞄准敌舰。</SoS.TurretInPointDefense>
@@ -280,11 +283,11 @@
 	<SoS.ResetShieldRadius>重置护盾半径</SoS.ResetShieldRadius>
 	<SoS.ResetShieldRadiusDesc>重置护盾半径为40。</SoS.ResetShieldRadiusDesc>
 	<SoS.DecShieldRadius>减小护盾半径</SoS.DecShieldRadius>
+	<SoS.IncShieldRadius>增大护盾半径</SoS.IncShieldRadius>
 	<SoS.FoamFill>填补损伤</SoS.FoamFill>
 	<SoS.FoamFillDesc>让舰船上的泡沫船体填充泵修补舰船受损区域。</SoS.FoamFillDesc>
 	<SoS.FoamFillDisabled>不需要填补或泡沫船体填充泵缺少修补泡沫。</SoS.FoamFillDisabled>
-		<!-- Exp -->
-	<SoS.IncShieldRadius>增大护盾半径</SoS.IncShieldRadius>
+		<!-- 仅Exp或其它，最新不稳定版已弃用 -->
 	<SoS.ShieldRadiusReset>重置护盾半径</SoS.ShieldRadiusReset>
 	<SoS.ShieldRadiusResetDesc>重置护盾半径为40。</SoS.ShieldRadiusResetDesc>
 	<SoS.ShieldRadiusDec>减小护盾半径</SoS.ShieldRadiusDec>
@@ -311,14 +314,14 @@
 	<SoSRestoreHullDesc>在残骸处建造新的船体</SoSRestoreHullDesc>
 	<SoSAlreadyRestoring>这个区域已经在修复中了！</SoSAlreadyRestoring>
 	<SoSMustDesignateWreckage>指定舰船残骸</SoSMustDesignateWreckage>
-	<!-- 小人、EVA -->
+	<!-- 单位、EVA -->
 	<SoS.DamagedReactorHurtsPawn>{0} 正在被反应堆产生的辐射灼伤！</SoS.DamagedReactorHurtsPawn>
 	<SoS.EVACapable>EVA兼容</SoS.EVACapable>
 	<SoS.AtmosphereVacuum>真空环境</SoS.AtmosphereVacuum>
 	<SoS.Atmosphere>可呼吸环境</SoS.Atmosphere>
 	<SoS.AtmosphereNonBreathable>不可呼吸环境</SoS.AtmosphereNonBreathable>
 	<SoS.AtmosphereBreach>该空间不合规！</SoS.AtmosphereBreach>
-		<!-- Exp -->
+		<!-- 仅Exp或其它，最新不稳定版已弃用 -->
 	<SoS.CocoonPlaceFail>无法生成滞眠茧！</SoS.CocoonPlaceFail>
 	<SoS.CocoonMalnourished>使用者处在营养不良状态</SoS.CocoonMalnourished>
 	<!-- 凝胶体、孢子 -->
@@ -432,15 +435,15 @@
 	<SoS.UnderRoof>不能在屋顶下发射</SoS.UnderRoof>
 	<SoS.TargetShuttles>指定攻击区域</SoS.TargetShuttles>
 	<SoS.TargetShuttlesDesc>指定执行射击和雷击任务的穿梭机应该瞄准的位置。</SoS.TargetShuttlesDesc>
-	<SoS.ShuttleToggleShield>切换护盾</SoS.ShuttleToggleShield>
-	<SoS.ShuttleToggleShieldDesc>开启或关闭这个护盾</SoS.ShuttleToggleShieldDesc>
 	<SoS.NotEnoughFuelToLaunchShuttle>没有足够的燃料发射穿梭机</SoS.NotEnoughFuelToLaunchShuttle>
 	<SoS.CannotLaunchUnderRoof>穿梭机不能直接在屋顶下发射，你应该将它停在穿梭机停靠港再发射</SoS.CannotLaunchUnderRoof>
 	<SoS.ToggleField>切换船体通道</SoS.ToggleField>
-	<SoS.ToggleFieldDesc>允许小人和车辆通过这个可通行的船体</SoS.ToggleFieldDesc>
+	<SoS.ToggleFieldDesc>允许单位和车辆通过这个可通行的船体</SoS.ToggleFieldDesc>
 	<VF_VehicleFuelCost>消耗 {0} 单位燃料</VF_VehicleFuelCost>
 	<VF_Fix_CannotLaunchRotated>无法启动 {0} ，需要将其摆正。</VF_Fix_CannotLaunchRotated>
-		<!-- Exp -->
+		<!-- 仅Exp或其它，最新不稳定版已弃用 -->
+	<SoS.ShuttleToggleShield>切换护盾</SoS.ShuttleToggleShield>
+	<SoS.ShuttleToggleShieldDesc>开启或关闭这个护盾</SoS.ShuttleToggleShieldDesc>
 	<SoS.ShuttlesMore>更多穿梭机</SoS.ShuttlesMore>
 	<SoS.HoverJumpDesc>起飞并着陆在同一张地图上，消耗 5 单位燃料</SoS.HoverJumpDesc>
 	

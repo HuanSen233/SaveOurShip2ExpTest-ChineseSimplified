@@ -5,7 +5,7 @@
     <Ship_Beam_Wrecked.description>严重损坏的船体结构，已经无法修复且不再具有航天价值。</Ship_Beam_Wrecked.description>
     <ShipAirlockWrecked.label>报废船舶气闸</ShipAirlockWrecked.label>
     <ShipAirlockWrecked.description>严重损坏的船舶气闸，只能勉强维持作为一扇门的开合工作。</ShipAirlockWrecked.description>
-    <ShipHullTileWrecked.label>报废船体护板</ShipHullTileWrecked.label>
+    <ShipHullTileWrecked.label>报废船体底板</ShipHullTileWrecked.label>
     <ShipHullTileWrecked.description>严重损坏的船体结构，已经无法修复且不再具有航天价值。</ShipHullTileWrecked.description>
     <ShipChunkSalvage.label>船体碎块</ShipChunkSalvage.label>
     <ShipChunkSalvage.description>含有相对完整的先进船舶系统的碎块。还能拆解回收高级零部件。</ShipChunkSalvage.description>
@@ -33,7 +33,7 @@
     <DetachedShipPart.description>船舶被毁坏并抛离的部分。</DetachedShipPart.description>
     <Ship_Beam_Wrecked_Fake.label>报废船体</Ship_Beam_Wrecked_Fake.label>
     <Ship_Beam_Wrecked_Fake.description>严重损坏的船体结构，已经无法修复。</Ship_Beam_Wrecked_Fake.description>
-    <ShipHullTileWreckedFake.label>报废船体护板</ShipHullTileWreckedFake.label>
+    <ShipHullTileWreckedFake.label>报废船体底板</ShipHullTileWreckedFake.label>
     <ShipHullTileWreckedFake.description>严重损坏的船体结构，已经无法修复且不再具有航天价值。</ShipHullTileWreckedFake.description>
 
 </LanguageData>

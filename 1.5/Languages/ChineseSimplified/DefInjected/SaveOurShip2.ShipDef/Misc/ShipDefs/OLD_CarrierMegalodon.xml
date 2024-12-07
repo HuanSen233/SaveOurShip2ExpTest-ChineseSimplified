@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+    <!--不稳定版已弃用-->
     <CarrierMegalodon.label>巨齿鲨级航空母舰</CarrierMegalodon.label>
 
 </LanguageData>

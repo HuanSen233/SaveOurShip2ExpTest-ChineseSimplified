@@ -20,8 +20,8 @@
     <Ship_Corner_OneThreeFlip.label>标准船舶斜角装甲(1x3)翻转</Ship_Corner_OneThreeFlip.label>
     <Ship_Corner_OneThreeFlip.description>有角度的舰船装甲。</Ship_Corner_OneThreeFlip.description>
 
-    <ShipHullTile.label>标准船舶护板</ShipHullTile.label>
-    <ShipHullTile.description>适合航天任务的船舶护板。将这格空间（以及在其上建造的任何建筑）指定为舰船的一部分。</ShipHullTile.description>
+    <ShipHullTile.label>标准船舶底板</ShipHullTile.label>
+    <ShipHullTile.description>适合航天任务的船舶底板。将这格空间（以及在其上建造的任何建筑）指定为舰船的一部分。</ShipHullTile.description>
     <!-- 太阳能 -->
     <ShipInside_SolarGenerator.label>标准船舶太阳能发电机</ShipInside_SolarGenerator.label>
     <ShipInside_SolarGenerator.description>利用太阳光来发电。在太空可输出600W，在星球表面可输出300W。不能在黑暗或人造光源环境中工作。</ShipInside_SolarGenerator.description>
@@ -54,7 +54,7 @@
     <Ship_Engine_Interplanetary.label>约翰逊-田中驱动器</Ship_Engine_Interplanetary.label>
     <Ship_Engine_Interplanetary.description>一种极度先进的无工质推进器，能够进行行星和星际间航行。\n\n不能在行星大气中工作。\n\nJT驱动质量极限：10000\n推力：500</Ship_Engine_Interplanetary.description>
     <Ship_Engine_Interplanetary_Large.label>大型约翰逊-田中驱动器</Ship_Engine_Interplanetary_Large.label>
-    <Ship_Engine_Interplanetary_Large.description>一种极度先进的无工质推进器，能够进行行星和星际间航行。\n\n不能在行星大气中工作。这种安装了两个纠缠流形且配置更高效的大号版本通常被安装在大型军舰上。\n\nJT驱动质量极限：30000\n推力：2000</Ship_Engine_Interplanetary_Large.description>
+    <Ship_Engine_Interplanetary_Large.description>一种极度先进的无工质推进器，能够进行行星和星际间航行。\n\n不能在行星大气中工作。这种安装了两个纠缠流形且配置更高效的大号版本通常能在大型军舰上发现。\n\nJT驱动质量极限：30000\n推力：2000</Ship_Engine_Interplanetary_Large.description>
     <!-- 舰桥/控制台 -->
     <ShipPilotSeatMini.label>船舶领航员控制台</ShipPilotSeatMini.label>
     <ShipPilotSeatMini.description>允许殖民者驾驶舰船。</ShipPilotSeatMini.description>
@@ -89,9 +89,9 @@
     <Ship_Reactor_Small.description>一台紧凑且能够独立运行的裂变反应堆。通过燃烧核燃料舱进行产能。如果有可用的热容系统则将热量排放到热容系统中，否则将热量排放到所在房间内。\n\n其基础产能为3000W，可通过几种愈发不稳定的超频模式来提高。</Ship_Reactor_Small.description>
     <!-- 港口 -->
     <ShipShuttleBay.label>穿梭机停靠港</ShipShuttleBay.label>
-    <ShipShuttleBay.description>提供停靠穿梭机的功能的设施。这个先进的停靠港含有能自动修理穿梭机部件的纳米机械，会将部件修理至一半生命值，并且能使小人维修穿梭机的速度加倍。它的内部还能存储燃料，并且可以自动为停靠在其上的穿梭机添加燃料。\n\n停靠港上不能有障碍物。帝国的穿梭机可以在没有飞船着陆信标的情况下降落在停靠港。</ShipShuttleBay.description>
+    <ShipShuttleBay.description>提供停靠穿梭机的功能的设施。这个先进的停靠港含有能自动修理穿梭机部件的纳米机械，会将部件修理至一半生命值，并且能使小人维修穿梭机的速度加倍。它的内部还能存储燃料，并且可以自动为停靠在其上的穿梭机添加燃料。\n\n停靠港上不能有障碍物。帝国的穿梭机可以在没有飞船着陆信标的情况下着陆在停靠港。</ShipShuttleBay.description>
     <ShipShuttleBayLarge.label>大型穿梭机停靠港</ShipShuttleBayLarge.label>
-    <ShipShuttleBayLarge.description>提供停靠最大重型穿梭机的功能的设施。这个先进的停靠港含有能自动修理穿梭机部件的纳米机械，会将部件修理至一半生命值，并且能使小人维修穿梭机的速度加倍。它的内部还能存储燃料，并且可以自动为停靠在其上的穿梭机添加燃料。\n\n停靠港上不能有障碍物。帝国的穿梭机可以在没有飞船着陆信标的情况下降落在停靠港。</ShipShuttleBayLarge.description>
+    <ShipShuttleBayLarge.description>提供停靠最大重型穿梭机的功能的设施。这个先进的停靠港含有能自动修理穿梭机部件的纳米机械，会将部件修理至一半生命值，并且能使小人维修穿梭机的速度加倍。它的内部还能存储燃料，并且可以自动为停靠在其上的穿梭机添加燃料。\n\n停靠港上不能有障碍物。帝国的穿梭机可以在没有飞船着陆信标的情况下着陆在停靠港。</ShipShuttleBayLarge.description>
     
     <ShipSalvageBay.label>打捞港</ShipSalvageBay.label>
     <ShipSalvageBay.description>移动沉船残骸到你的地图上，或者移除地图上不需要的残骸。可以建造更多的打捞港以容纳更大的船舶。\n\n重量限制：5000</ShipSalvageBay.description>
@@ -123,8 +123,8 @@
     
     <HullFoamWall.label>气密泡沫填充船体</HullFoamWall.label>
     <HullFoamWall.description>一种可用于密封船体的泡沫板。</HullFoamWall.description>
-    <ShipHullfoamTile.label>气密泡沫填充护板</ShipHullfoamTile.label>
-    <ShipHullfoamTile.description>气密船体泡沫，喷涂以填补缺失的船体护板</ShipHullfoamTile.description>
+    <ShipHullfoamTile.label>气密泡沫填充底板</ShipHullfoamTile.label>
+    <ShipHullfoamTile.description>气密船体泡沫，喷涂以填补缺失的船体底板</ShipHullfoamTile.description>
     <!-- 气闸延伸物 -->
     <ShipAirlockBeamWall.label>气闸墙</ShipAirlockBeamWall.label>
     <ShipAirlockBeamWall.description>一面由气闸延伸出的气密墙。</ShipAirlockBeamWall.description>
