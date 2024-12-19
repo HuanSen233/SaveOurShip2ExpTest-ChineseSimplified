@@ -30,6 +30,7 @@
 	<SoS.EnemyScanDesc>{0} 使用舰船的扫描系统检测到附近有一艘舰船。这艘船看起来是 {1} 。它对呼叫没有反应，但也没有进攻的动作。你可以在舰桥处选择攻击它，或者等它和平的离开。</SoS.EnemyScanDesc>
 	<SoS.DerelictScan>检测到残骸</SoS.DerelictScan>
 	<SoS.DerelictScanDesc>{0} 使用舰船的扫描系统检测到附近有一片废弃物。它看起来像是 {1} 。它似乎因为电力系统下线导致对呼叫没有反应。你可以在舰桥处选择调查它，或者等它落入大气并被烧毁。</SoS.DerelictScanDesc>
+	<SoS.ContentPackDescription>\n这艘船被确认是来自：</SoS.ContentPackDescription>
 	<SoS.FoundOrbitalSite>检测到星际飞船船首！</SoS.FoundOrbitalSite>
 	<SoS.FoundSiteAI>AI扫描</SoS.FoundSiteAI>
 	<SoS.FoundSiteSpecial>{0} 使用舰船的扫描系统检测一个较大且相对完整的空间碎片。它似乎是把你最初的殖民者带到这颗星球的那艘船的一部分！\n\n这可能是你获得一个还在工作的 约翰逊-田中驱动器，甚至拯救仍处于低温休眠中的同伴的最好机会，但无论目的如何都不要低估在那里行动的危险性。</SoS.FoundSiteSpecial>
@@ -104,7 +105,6 @@
 	<SoS.TimePassedDesc>你的孤舟在群星之间，踏过漫漫长路，寻找到了一个新的可居住的世界。这次旅行花了 {0} 年。</SoS.TimePassedDesc>
 		
 	<!-- 游戏结局 -->
-	<!--<SoS.PsychicAmplifier>检测到心灵增幅器(Psychic Amplifier)</SoS.PsychicAmplifier>-->
 	<SoS.PsychicAmplifier>检测到心灵增幅器</SoS.PsychicAmplifier>
 	<SoS.PsychicAmplifierDesc>你的舰船AI兴奋地在发光。它追踪到最近的灵能波动源自一个轨道增幅器，它正在传递一个来自遥远的超凡科技的灵能信息。\n\n假设，如果命令你的舰船攻击心灵增幅器(Psychic Amplifier)，并派一支跳帮队入侵它的核心，它就能让AI拦截原始的灵能信息，进而窥视到一个超凡科技的思维进程。这样的洞察甚至可以让它开始演变成一个超凡科技......\n\n不要低估这场战斗的难度。</SoS.PsychicAmplifierDesc>
 	<SoS.PsychicAmplifierCaptured>心灵增幅器已入侵</SoS.PsychicAmplifierCaptured>
@@ -156,6 +156,8 @@
 	<SoS.GameOverEnemyAEmpire>破碎帝国在一开始拒绝了你的要求，很快，他们发现超凡科技的实力能让他们的宿敌都分身乏术。于是，{0}与{1}之间签订了一项条约，根据这项条约，星系主宰放弃了对远方皇帝的忠诚，承诺服从{2}。{0}依旧保持着他们那僵化的社会结构，独立但又服从{1}。</SoS.GameOverEnemyAEmpire>
 	<SoS.GameOverEnemyB>你要求{1}消灭你所有的敌人。</SoS.GameOverEnemyB>
 	<SoS.GameOverColonists>你的殖民者作为统治阶级在这新的闪耀世界中过着奢华生活。{0}乐意为你们提供一切，从巨大的玻璃钢宫殿到定制伴侣，即使是最奇怪的请求也只会占据祂处理能力中微乎其微的一部分。超凡科技为你们的生命送去不朽，要是你厌倦了这乏味的永恒，{0}还有升华成超凡科技智能的选项提供给你们。\n\n未来所有可以想象到的道路都会永远向你敞开。你们的新故事依旧会由你们自己来书写。\n你，是：</SoS.GameOverColonists>
+		<!-- 仅Exp或其它，最新不稳定版已弃用 -->
+	<!--<SoS.PsychicAmplifier>检测到心灵增幅器(Psychic Amplifier)</SoS.PsychicAmplifier>-->
 	
 	<!-- 超烦恶作剧 -->
 	<SoS.ArchotechPrank>超凡科技的恶作剧</SoS.ArchotechPrank>
