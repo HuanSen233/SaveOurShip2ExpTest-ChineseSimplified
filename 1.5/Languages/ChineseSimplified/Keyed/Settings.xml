@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-	<SoS.Settings.ShowVersionUI>SOS2EXP {0}</SoS.Settings.ShowVersionUI>
+	<SoS.Settings.ShowVersionUI>SOS2 {0}</SoS.Settings.ShowVersionUI>
 	<SoS.Settings.RenderPlanet>动态星球渲染</SoS.Settings.RenderPlanet>
 	<SoS.Settings.RenderPlanet.Desc>如果启用，太空地图将显示星球上的昼夜周期变化。如果在太空地图中游戏运行变慢请禁用此选项。默认：关</SoS.Settings.RenderPlanet.Desc>
 	
