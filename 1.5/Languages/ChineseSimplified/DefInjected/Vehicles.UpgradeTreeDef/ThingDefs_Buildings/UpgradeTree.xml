@@ -34,7 +34,7 @@
     <SoS2ShuttleUpgradeTree.nodes.12.label>隐形装置</SoS2ShuttleUpgradeTree.nodes.12.label>
     <SoS2ShuttleUpgradeTree.nodes.12.description>安装一个小型隐形装置来提高在战斗中的闪避几率。它自带的散热器那不多的热容量也会分配给护盾。\n&lt;color=#bb8f04&gt;+25% 太空战闪避几率，+50 热容量，-500 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.12.description>
     <SoS2ShuttleUpgradeTree.nodes.13.label>辅助散热器</SoS2ShuttleUpgradeTree.nodes.13.label>
-    <SoS2ShuttleUpgradeTree.nodes.13.description>安装一个辅助散热器并将其分配给护盾。\n&lt;color=#bb8f04&gt;+200 热容量，-100 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.13.description>
+    <SoS2ShuttleUpgradeTree.nodes.13.description>安装一个辅助散热器并将其分配给护盾。\n&lt;color=#bb8f04&gt;+250 热容量，-100 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.13.description>
     <SoS2ShuttleUpgradeTree.nodes.14.label>超凡科技断层空间</SoS2ShuttleUpgradeTree.nodes.14.label>
     <SoS2ShuttleUpgradeTree.nodes.14.description>[盒子中的盒子\n无限重复，\n级数收敛]\n&lt;color=#bb8f04&gt;+500 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.14.description>
     <!-- 载人 -->
