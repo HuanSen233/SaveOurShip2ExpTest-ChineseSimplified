@@ -13,6 +13,8 @@
 	<SoS.AbandonHomeDesc>放弃当前舰船，船上的殖民者会全部消失。</SoS.AbandonHomeDesc>
 	<SoS.LeaveGraveyard>抛弃沉船漂浮物</SoS.LeaveGraveyard>
 	<SoS.LeaveGraveyardDesc>让这些残骸变成太空垃圾。</SoS.LeaveGraveyardDesc>
+	<SoS.LeaveGraveyardConfirmation1>你确定要抛弃掉这东西？即使</SoS.LeaveGraveyardConfirmation1>
+	<SoS.LeaveGraveyardConfirmation2>上面有 {0} 个你的殖民者和 {1} 个建筑？</SoS.LeaveGraveyardConfirmation2>
 	<SoS.ForceExitAndRemoveMapCountdown>在 {0} 后落入大气。</SoS.ForceExitAndRemoveMapCountdown>
 	<SoS.BurnUpPlayer>轨道无法维持！</SoS.BurnUpPlayer>
 	<SoS.BurnUpPlayerDesc>由于失去了最后一座舰桥，地图不能再维持它的轨道，将在{0}后落入大气！\n\n上面的一切都会被摧毁！</SoS.BurnUpPlayerDesc>
@@ -22,7 +24,7 @@
 		<!-- 仅Exp或其它，最新不稳定版已弃用 -->
 	<SoS.SettleSpaceSites>不能在太空定居</SoS.SettleSpaceSites>
 	<!-- 战斗 -->
-	<SoS.CombatTooltip>显示敌舰与你舰之间的距离，以及所有正在飞行的炮弹和穿梭机。\n\n红色：激光、实弹炮的射程\n绿色：等离子的射程\n蓝色：轨道炮的射程\n紫色：鱼雷射程\n小色条：大型武器的最大射程但不精准</SoS.CombatTooltip>
+	<SoS.CombatTooltip>显示敌舰与你舰之间的距离，以及所有正在两者之间飞行的炮弹和穿梭机。\n\n红色：激光、实弹炮的最佳射程\n绿色：等离子的最佳射程\n蓝色：轨道炮的最佳射程\n紫色：鱼雷的射程\n小色条：大型武器的最大射程但不精准</SoS.CombatTooltip>
 	<SoS.CombatRetreat>后撤</SoS.CombatRetreat>
 	<SoS.CombatRetreatDesc>尽量远离敌舰</SoS.CombatRetreatDesc>
 	<SoS.CombatStop>停止</SoS.CombatStop>
@@ -44,7 +46,7 @@
 	<SoS.CombatConfirmWithdraw>把这艘船撤离进坟场？要是你这场仗打输了或者逃跑，那么敌舰会攻击你撤进坟场的舰船。请注意，在暂停时撤离舰船的命令会在游戏取消暂停后执行，若中途退出游戏命令将不会生效。</SoS.CombatConfirmWithdraw>
 	<SoS.WrecksPreventMove>地图上的残骸不能移动！</SoS.WrecksPreventMove>
 	<SoS.RemoveWrecks>移除残骸</SoS.RemoveWrecks>
-	<SoS.RemoveWrecksDesc>将地图上的所有残骸移除，它们将被摧毁。</SoS.RemoveWrecksDesc>
+	<SoS.RemoveWrecksDesc>将地图上的所有残骸移除，就是什么都不会留下的移除。</SoS.RemoveWrecksDesc>
 	<SoS.RemoveWrecksConfirm>移除地图上所有残骸？\n\n这将移除任何无法移动的船只或残骸！它们会被太空碎片摧毁。</SoS.RemoveWrecksConfirm>
 	<SoS.WithdrawWrecks>撤出残骸</SoS.WithdrawWrecks>
 	<SoS.WithdrawWrecksDesc>从战斗中撤出所有残骸</SoS.WithdrawWrecksDesc>
@@ -54,12 +56,12 @@
 	<SoS.ScuttleShipPods>不能弃船，有飞行器在往返途中！</SoS.ScuttleShipPods>
 	<SoS.NoLoadedPods>没有可装载的飞行器</SoS.NoLoadedPods>
 	<SoS.LaunchCryptoNotLoaded>飞行器没有装载完成</SoS.LaunchCryptoNotLoaded>
-	<SoS.SelectWeapons>选择武器</SoS.SelectWeapons>
-	<SoS.SelectWeaponsDesc>选择连接的舰对舰武器</SoS.SelectWeaponsDesc>
+	<SoS.SelectWeapons>选取武器</SoS.SelectWeapons>
+	<SoS.SelectWeaponsDesc>选取连接到这个控制台的舰对舰武器</SoS.SelectWeaponsDesc>
 	<SoS.HoldFire>停火</SoS.HoldFire>
-	<SoS.HoldFireDesc>停止所有连接的舰对舰武器向敌舰开火</SoS.HoldFireDesc>
+	<SoS.HoldFireDesc>阻止所有连接到这个控制台的舰对舰武器开火</SoS.HoldFireDesc>
 	<SoS.TogglePointDefense>切换点防御</SoS.TogglePointDefense>
-	<SoS.TogglePointDefenseDesc>切换所有连接的点防御武器拦截鱼雷和穿梭机</SoS.TogglePointDefenseDesc>
+	<SoS.TogglePointDefenseDesc>切换所有连接到这个控制台点防御武器拦截鱼雷和穿梭机</SoS.TogglePointDefenseDesc>
 	<SoS.NotAtMaxRange>不在最大射程内</SoS.NotAtMaxRange>
 	<SoS.OnUnstableMap>舰船不在稳定轨道上。</SoS.OnUnstableMap>
 	<SoS.EnemyShipRetreating>敌舰正在试图撤退！</SoS.EnemyShipRetreating>
@@ -268,9 +270,9 @@
 	<SoS.TurretExtractOneTorpedoDesc>只卸载已装填的鱼雷中的一枚，以便使用其它类型鱼类替换。</SoS.TurretExtractOneTorpedoDesc>
 	<SoS.TurretExtract>取出 </SoS.TurretExtract>
 	<SoS.TurretOptimalRange>使用最佳射程</SoS.TurretOptimalRange>
-	<SoS.TurretOptimalRangeDesc>使其只对最佳射程内的目标开火</SoS.TurretOptimalRangeDesc>
+	<SoS.TurretOptimalRangeDesc>使这个炮塔只对处于最佳射程内的目标开火</SoS.TurretOptimalRangeDesc>
 	<SoS.TurretPointDefense>点防御模式</SoS.TurretPointDefense>
-	<SoS.TurretPointDefenseDesc>让这个炮塔拦截来袭的鱼雷和穿梭机</SoS.TurretPointDefenseDesc>
+	<SoS.TurretPointDefenseDesc>让这个炮塔拦截来袭的且处于射程内的鱼雷和穿梭机</SoS.TurretPointDefenseDesc>
 	<SoS.TorpedoAllowedDesc>切换以阻止或允许发射这种类型的鱼雷。</SoS.TorpedoAllowedDesc>
 	<SoS.TorpedoNotLoaded>不装填</SoS.TorpedoNotLoaded>
 	<SoS.TorpedoFullyLoaded>满载</SoS.TorpedoFullyLoaded>
@@ -478,7 +480,7 @@
 	<SoSCarryToCryptonest>运送至休眠舱</SoSCarryToCryptonest>
 	<SoSConsciousness>意识：{0}</SoSConsciousness>
 	<SoSAIName>AI名字：{0}</SoSAIName>
-	<SoSNoMapObserve>无法扫描这种类型的区域。它的拥有者可能在此处部署了能干扰传感器的技术。</SoSNoMapObserve>
+	<SoSNoMapObserve>无法扫描并观察这种类型的区域。它的拥有者可能在此处部署了能干扰传感器的技术。</SoSNoMapObserve>
 	<SoSBreathable>可呼吸</SoSBreathable>
 
 </LanguageData>
