@@ -14,7 +14,8 @@
 	<SoS.LeaveGraveyard>抛弃沉船漂浮物</SoS.LeaveGraveyard>
 	<SoS.LeaveGraveyardDesc>让这些残骸变成太空垃圾。</SoS.LeaveGraveyardDesc>
 	<SoS.LeaveGraveyardConfirmation1>你确定要抛弃掉这东西？即使</SoS.LeaveGraveyardConfirmation1>
-	<SoS.LeaveGraveyardConfirmation2>上面有 {0} 个你的殖民者和 {1} 个建筑？</SoS.LeaveGraveyardConfirmation2>
+	<SoS.LeaveGraveyardConfirmation2>上面有 {0} 个建筑？</SoS.LeaveGraveyardConfirmation2>
+	<SoS.LeaveGraveyardConfirmationColonistsParagraph>警告！这个即将被抛弃的区域内有 {0} 个你的殖民者，如果选择继续，那么他们同样会被抛弃。</SoS.LeaveGraveyardConfirmationColonistsParagraph>
 	<SoS.ForceExitAndRemoveMapCountdown>在 {0} 后落入大气。</SoS.ForceExitAndRemoveMapCountdown>
 	<SoS.BurnUpPlayer>轨道无法维持！</SoS.BurnUpPlayer>
 	<SoS.BurnUpPlayerDesc>由于失去了最后一座舰桥，地图不能再维持它的轨道，将在{0}后落入大气！\n\n上面的一切都会被摧毁！</SoS.BurnUpPlayerDesc>

@@ -4,19 +4,21 @@
 	<!-- 覆盖 -->
 	<JourneyOffer>一个曾被你起名为沙隆·白石的友好AI向我们发来了一条讯息！\n\n他透露说他在这颗星球上有一艘太空飞船，并把坐标发给了你。\n\n如果你能前往飞船，沙隆会带你进入环绕这颗星球的轨道。在那里，也许你能找到办法来改进飞船的推进器和进行星际旅行。</JourneyOffer>
 	<EscapeShipFoundLabel>发现飞船</EscapeShipFoundLabel>
-	<EscapeShipFound>你抵达了沙隆·白石给你的坐标\n\n飞船早已准备好发射，但是他的化合燃料推进器只能把你送入轨道。你需要设法弄到一个 约翰逊-田中驱动器 以此更进一步。也许可以在空间碎片中找到线索......</EscapeShipFound>
+	<EscapeShipFound>你抵达了沙隆·白石给你的坐标\n\n飞船早已准备好发射，但是他的化合燃料推进器只能把你送入轨道。你需要设法弄到一个 约翰逊-田中驱动器 以此来朝星际旅行的目标更进一步。也许可以在空间碎片中找到线索......</EscapeShipFound>
 	
 	<!-- 事件 -->
 	<SoS.LetterLabelShortCircuitDesc>电力管道的故障引起了短路。\n\n幸运的是，你的电容器的保险丝及时阻止了它放电。</SoS.LetterLabelShortCircuitDesc>
 	<SoS.EncounterStart>残骸点</SoS.EncounterStart>
-	<SoS.EncounterStartDesc>你正在接近一个将在 {0} 后落入大气的废弃物。\n\n你可以派一队船员前去调查或者将它移动到你的地图上。一旦将其安全控制，就可以对它进行打捞、修复或者拆了重新利用。</SoS.EncounterStartDesc>
+	<SoS.EncounterStartDesc>你已接近一个将在 {0} 后落入大气的漂浮物。\n\n你可以派一队船员前去调查或者将它移动到你的地图上。只要将其安全控制，就可以使用打捞港对它进行捕获，然后修复或者拆了重新利用。</SoS.EncounterStartDesc>
+	<SoS.EncounterStartWithBridge>失能的漂浮物</SoS.EncounterStartWithBridge>
+	<SoS.EncounterStartWithBridgeDesc>你已接近一个将于 {0} 后落入大气的漂浮物。\n\n你可以派一队船员前去调查并控制该区域。只要能将其安全控制，就可以现场将它拆解后回收材料。\n\n这个漂浮物内至少存在一个完好无损的领航员控制台或无人船舶核心之类的舰桥建筑。你可以选择让舰桥重新运作并占领，以便进行现场拆解回收工作，或者没得选只能先把舰桥摧毁再管后面的。</SoS.EncounterStartWithBridgeDesc>
 	<SoS.EncounterAmbush>伏击！</SoS.EncounterAmbush>
 	<SoS.EncounterAmbushDesc>当你接近 {0} 时，它开始启动它的护盾和武器\n准备战斗！</SoS.EncounterAmbushDesc>
 	<SoS.CombatStart>舰船战</SoS.CombatStart>
 	<SoS.CombatStartDesc>一艘敌舰正在接近！扫描系统显示这是 {0} 。</SoS.CombatStartDesc>
 	<SoS.CombatFleetDesc>敌方舰队正在接近！</SoS.CombatFleetDesc>
 	<SoS.WinShipBattle>船战胜利</SoS.WinShipBattle>
-	<SoS.WinShipBattleDesc>随着最后一艘敌舰的控制系统被摧毁，它已然成了一块大号的空间碎片。它将在 {0}后落入大气并被其烧毁。\n\n你可以通过跳帮队登船手动取回货物和俘虏人员，或者使用打捞港将其移动到你的地图上。两种选择无论哪项都请准备好击退船上剩余的敌人。</SoS.WinShipBattleDesc>
+	<SoS.WinShipBattleDesc>随着最后一艘敌舰的控制系统被摧毁，它已然成了一块大号的空间碎片。它将在 {0}后落入大气并被其烧毁。\n\n你可以派遣跳帮队登船手动取回货物和俘虏人员，或者使用打捞港将其捕获到你的地图上。两种选择无论哪项都请准备好迎战船上剩余的敌人。</SoS.WinShipBattleDesc>
 	<SoS.WinShipBattleHackDesc>随着最后一艘敌舰的控制系统被夺取，它已然成为了一只待宰羔羊。它将在 {0}后落入大气并被其烧毁。\n\n如果它还有移动能力的话，你可以选择将其连同舰桥一起开回你的地图，或者使用打捞港来捞它回去。</SoS.WinShipBattleHackDesc>
 	<SoS.SpaceAsteroids>小行星区域</SoS.SpaceAsteroids>
 	<SoS.SpaceAsteroidsDesc>飞船已进入小行星区域。发动推进器躲避或者准备撞击！</SoS.SpaceAsteroidsDesc>
@@ -29,7 +31,7 @@
 	<SoS.EnemyScan>检测到舰船</SoS.EnemyScan>
 	<SoS.EnemyScanDesc>{0} 使用舰船的扫描系统检测到附近有一艘舰船。这艘船看起来是 {1} 。它对呼叫没有反应，但也没有进攻的动作。你可以在舰桥处选择攻击它，或者等它和平的离开。</SoS.EnemyScanDesc>
 	<SoS.DerelictScan>检测到残骸</SoS.DerelictScan>
-	<SoS.DerelictScanDesc>{0} 使用舰船的扫描系统检测到附近有一片废弃物。它看起来像是 {1} 。它似乎因为电力系统下线导致对呼叫没有反应。你可以在舰桥处选择调查它，或者等它落入大气并被烧毁。</SoS.DerelictScanDesc>
+	<SoS.DerelictScanDesc>{0} 使用舰船的扫描系统检测到附近有一片漂浮物。它看起来像是 {1} 。它似乎因为电力系统下线导致对呼叫没有反应。你可以在舰桥处选择调查它，或者等它落入大气并被烧毁。</SoS.DerelictScanDesc>
 	<SoS.ContentPackDescription>\n这艘船被确认是来自：</SoS.ContentPackDescription>
 	<SoS.FoundOrbitalSite>检测到星际飞船船首！</SoS.FoundOrbitalSite>
 	<SoS.FoundSiteAI>AI扫描</SoS.FoundSiteAI>
