@@ -237,14 +237,15 @@
 	<SoS.UnfoldExtending>正在扩展</SoS.UnfoldExtending>
 	<SoS.UnfoldRetracting>正在收回</SoS.UnfoldRetracting>
 	<SoS.UnfoldBlocked>必须放置在无障碍物或其它可供其扩展的地方。</SoS.UnfoldBlocked>
-	<SoS.UnDockWarning>警告：在停靠时移动船舶将收回所有舰船对接装置。</SoS.UnDockWarning>
+	<SoS.UnDockWarning>警告：在已扩展时移动船舶将收回所有舰船对接装置。</SoS.UnDockWarning>
 		<!-- 仅Exp或其它，最新不稳定版已弃用 -->
 	<!-- 热容 -->
     <SoS.HeatStored>热容网络蓄热/容量：{0} HU / {1} HU ({2})</SoS.HeatStored>
 	<SoS.HeatWithPower>使用电力加热</SoS.HeatWithPower>
 	<SoS.HeatWithPowerDesc>当热容网络中没有足够的热量时使用电力进行加热。</SoS.HeatWithPowerDesc>
 	<SoS.PurgeHeat>紧急排热</SoS.PurgeHeat>
-	<SoS.PurgeHeatDesc>将融化的银喷射进太空，以迅速降低舰船热容网络中的蓄热。\n\n这会使你的护盾关闭！</SoS.PurgeHeatDesc>
+	<SoS.PurgeHeatDesc>将熔化的银喷射进太空，以迅速降低舰船热容网络中的蓄热。\n\n这会使你的护盾关闭！</SoS.PurgeHeatDesc>
+	<SoS.CantPurge>该散热装置由于被其它舰船或热容网络的护盾所覆盖导致无法散热。考虑手动关掉那些护盾。</SoS.CantPurge>
 	<SoS.HeatPurge>主动散热</SoS.HeatPurge>
 	<SoS.HeatPurgeDesc>将冷却剂排出散热系统。散热器排热速度提高五倍，但所有武器、护盾和隐形装置都将关闭。\n\n主动散热会导致热容网络整体的热容上限降低，且一旦开始就不可取消。在非战斗状态下热容上限会缓慢恢复。</SoS.HeatPurgeDesc>
 	<SoS.HeatPurgeVenting>主动散热完毕</SoS.HeatPurgeVenting>
