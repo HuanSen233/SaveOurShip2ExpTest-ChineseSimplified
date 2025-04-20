@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    <!-- 由于不知道这些翻译接口干啥用的所以只能照着变量名瞎猫碰死耗子脑补了如果出bug我会把这里全都注释化掉 -->
     <SoS.NoResurrector>没有可用的复活机械液</SoS.NoResurrector>
     <SoS.SalvageCount>打捞次数</SoS.SalvageCount>
 

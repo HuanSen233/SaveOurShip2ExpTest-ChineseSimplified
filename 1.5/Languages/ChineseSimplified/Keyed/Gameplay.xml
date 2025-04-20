@@ -93,9 +93,11 @@
 	<SoS.SalvageBeam>打捞 {0} 上的碎片</SoS.SalvageBeam>
 	<SoS.SalvageBeamDesc>打捞目标地图 {0} 上的所有松散的、自由漂浮的碎片(物品)到选定的打捞港。</SoS.SalvageBeamDesc>
 	<SoS.SalvageStablize>稳定 {0} 轨道</SoS.SalvageStablize>
-	<SoS.SalvageStablizeFuel>稳定需要 {0} 单位的燃料！</SoS.SalvageStablizeFuel>
+	<SoS.SalvageStablizeFuel>稳定目标轨道需要 {0} 单位的燃料！</SoS.SalvageStablizeFuel>
 	<SoS.SalvageStablizeDesc>稳定 {0} 的轨道，推迟其落入大气的结局。这需要足够的打捞港，并消耗你的舰船推进器中的燃料。</SoS.SalvageStablizeDesc>
-	<SoS.SalvageStablizeConfirm>稳定 {0} 的轨道。这需要足够的打捞港，且会消耗你的舰船推进器中 {1} 单位的燃料。</SoS.SalvageStablizeConfirm>
+	<SoS.SalvageStablizeConfirm>稳定 {0} 的轨道。这需要足够的打捞港空间，且会消耗你的舰船推进器中 {1} 单位的燃料。</SoS.SalvageStablizeConfirm>
+ 	<SoS.SalvageStablizeForever>长期维持 {0} 的轨道</SoS.SalvageStablizeForever>
+ 	<SoS.SalvageStablizeForeverDesc>长期维持 {0} 的轨道。一般情况下，这些废墟和被击败的敌舰的地图都会在一定时间后自动销毁，这个选项的存在可能会对想要在除本舰外的太空地图上建造空间站，或类似东西的人来说可能会有所帮助。</SoS.SalvageStablizeForeverDesc>
 	<SoS.SalvageDisabled>在舰船战中或者有敌人在地图上！</SoS.SalvageDisabled>
 	<SoS.SalvageAbandonConfirm>你确定要放弃目标吗？\n任何与它相连或在上面的东西都会落入大气中被烧毁！</SoS.SalvageAbandonConfirm>
 	<SoS.SalvageBridge>不能用打捞港移动完整的舰船，夺取或摧毁舰桥。</SoS.SalvageBridge>
