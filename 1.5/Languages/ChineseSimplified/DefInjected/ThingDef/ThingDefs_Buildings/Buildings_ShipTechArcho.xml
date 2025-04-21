@@ -68,7 +68,7 @@
     
     <ShipSpinalBarrelMechanite.label>脊峰炮：解构者</ShipSpinalBarrelMechanite.label>
     <ShipSpinalBarrelMechanite.description>脊峰武器的最终部分。一门经过改装用以发射解构微械团的轨道炮。\n\n这个部分应该安装在飞船外部，除非你想给自己的船开个新洞并且感受一次被解构的感觉。\n必须通过热容网络连接到领航员控制台、战术控制台或船舶核心。\n需要足够的储能和热容才能正常运作。</ShipSpinalBarrelMechanite.description>
-    <ShipTurret_SpinalMountTopMechanite.label>结构微械发射器</ShipTurret_SpinalMountTopMechanite.label>
+    <ShipTurret_SpinalMountTopMechanite.label>解构微械发射器</ShipTurret_SpinalMountTopMechanite.label>
     <ShipTurret_SpinalMountTopMechanite.description>主力舰武器。</ShipTurret_SpinalMountTopMechanite.description>
     <ShipTurret_SpinalMountTopMechanite.verbs.Verb_Shoot.label>发射解构微械团</ShipTurret_SpinalMountTopMechanite.verbs.Verb_Shoot.label>
     <Bullet_Fake_Mechanite.label>解构微械团</Bullet_Fake_Mechanite.label>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-<!-- 未完成标记======== -->
     <!-- 任务 -->
     <SoSGameplayTips.tips.0>进入轨道后，殖民者可以通过船舶科学控制台扫描到轨道任务地点。可以通过派遣殖民者乘坐穿梭机访问这些站点。</SoSGameplayTips.tips.0>
     <SoSGameplayTips.tips.1>进入轨道后，先进继承传感器可以自动扫描轨道任务地点。建造多个传感器可以加快扫描进程。</SoSGameplayTips.tips.1>
@@ -10,67 +9,64 @@
     <SoSGameplayTips.tips.5>约翰逊-田中驱动器通常只能在非常大的船上才能见到，比如星际客轮。</SoSGameplayTips.tips.5>
     <SoSGameplayTips.tips.6>很久以前，基因工程师制造了能适应真空环境的一系列昆虫，用于在小行星上采矿。现在看来这不是个好主意。</SoSGameplayTips.tips.6>
     <!-- 战斗 -->
-    <!--
-    <SoSGameplayTips.tips.7>text</SoSGameplayTips.tips.7>
-    <SoSGameplayTips.tips.8>text</SoSGameplayTips.tips.8>
-    <SoSGameplayTips.tips.9>text</SoSGameplayTips.tips.9>
-    <SoSGameplayTips.tips.10>text</SoSGameplayTips.tips.10>
-    <SoSGameplayTips.tips.11>text</SoSGameplayTips.tips.11>
-    <SoSGameplayTips.tips.12>text</SoSGameplayTips.tips.12>
-    <SoSGameplayTips.tips.13>text</SoSGameplayTips.tips.13>
-    <SoSGameplayTips.tips.14>text</SoSGameplayTips.tips.14>
-    <SoSGameplayTips.tips.15>text</SoSGameplayTips.tips.15>
-    <SoSGameplayTips.tips.16>text</SoSGameplayTips.tips.16>
-    <SoSGameplayTips.tips.17>text</SoSGameplayTips.tips.17>
-    <SoSGameplayTips.tips.18>text</SoSGameplayTips.tips.18>
-    <SoSGameplayTips.tips.19>text</SoSGameplayTips.tips.19>
-    <SoSGameplayTips.tips.20>text</SoSGameplayTips.tips.20>
-    <SoSGameplayTips.tips.21>text</SoSGameplayTips.tips.21>
-    <SoSGameplayTips.tips.22>text</SoSGameplayTips.tips.22>
-    <SoSGameplayTips.tips.23>text</SoSGameplayTips.tips.23>
-    <SoSGameplayTips.tips.24>text</SoSGameplayTips.tips.24>
-    <SoSGameplayTips.tips.25>text</SoSGameplayTips.tips.25>
-    <SoSGameplayTips.tips.26>text</SoSGameplayTips.tips.26>
-    <SoSGameplayTips.tips.27>text</SoSGameplayTips.tips.27>
-    -->
+    <SoSGameplayTips.tips.7>一艘没有武装船就是块谁都能咬一口的蛋糕。建议上太空前给船安装几门舰炮，或者带上穿梭机还有合格的跳帮人员。</SoSGameplayTips.tips.7>
+    <SoSGameplayTips.tips.8>散热器和热容上限对舰船的作战性能至关重要，没有足够的热熔就无法维持护盾，也无法支撑能量武器的射击。</SoSGameplayTips.tips.8>
+    <SoSGameplayTips.tips.9>在隐形装置激活的情况下舰船会无法散热。一但你感觉热容量变得越来越危险，那就赶紧关掉它。</SoSGameplayTips.tips.9>
+    <SoSGameplayTips.tips.10>一旦敌人击破你舰船的船体，他们就会派出载有跳帮人员的穿梭机。此时你可以使用点防御武器把他们的穿梭机打下来，并同时跳帮队提前按死在路上。</SoSGameplayTips.tips.10>
+    <SoSGameplayTips.tips.11>穿梭机可以将你的跳帮人员运送到敌舰，但在路程中会受到点防御武器的攻击。你可以通过升级穿梭机的护甲和护盾来有效提高其生存率。</SoSGameplayTips.tips.11>
+    <SoSGameplayTips.tips.12>殖民者的智识技能决定了入侵舰桥的成功率，入侵成功的舰船将完全听从你的指令。据说有些船长会将其俘获的舰船都焊在一起。</SoSGameplayTips.tips.12>
+    <SoSGameplayTips.tips.13>在战斗中，失去与舰桥链接的舰船部位会直接飘走，且无法恢复。所以为了能捞到更多东西，你可以直接瞄准并摧毁目标的所有领航员控制台或无人船舶核心这类舰桥建筑。也可以考虑让跳帮队把他的变成你的也是个不错的选择。</SoSGameplayTips.tips.13>
+    <SoSGameplayTips.tips.14>轨道炮对远距离目标效果最好。等离子武器适合中距离作战。激光就只对近距离目标有效。</SoSGameplayTips.tips.14>
+    <SoSGameplayTips.tips.15>如果没有点防御系统拦截，一枚鱼雷会在合适的位置使护盾过载并粉碎船体。</SoSGameplayTips.tips.15>
+    <SoSGameplayTips.tips.16>脊峰炮的放大器越多，伤害越高，爆炸越狠。</SoSGameplayTips.tips.16>
+    <SoSGameplayTips.tips.17>越大的舰船就需要越多的推进器来维持尽可能快的速度。而一艘小巧灵活的小船能轻易从全副武装的对手眼皮子底下跑走。</SoSGameplayTips.tips.17>
+    <SoSGameplayTips.tips.18>每个打捞港最多可移动5000单位重量的物体。如果要移动更重的物体那么可以建造多个打捞港。</SoSGameplayTips.tips.18>
+    <SoSGameplayTips.tips.19>如果你在舰船在舰船战中被击败，任何在船舶低温休眠舱和太空婴儿床的人员，都会弹射到星球表面的某个地方。在哪里，你的故事可以重新开始。</SoSGameplayTips.tips.19>
+    <SoSGameplayTips.tips.20>登上一艘敌舰时，你肯定会遇到那些被敌人锁上的气闸。这些气闸可以使用建造技能强行切割，也能使用智识技能快速入侵。</SoSGameplayTips.tips.20>
+    <SoSGameplayTips.tips.21>你的舰船战斗能力越高，就越有可能遭遇强大敌人的挑战。</SoSGameplayTips.tips.21>
+    <SoSGameplayTips.tips.22>一个紧急排热端口可以将将携带热量的熔融银喷射入太空，以此来迅速减少热容网络中的蓄热——尽管这相当费钱。</SoSGameplayTips.tips.22>
+        <SoSGameplayTips.tips.23>可以通过升级穿梭机能使其在舰船战期间执行各种任务。你可以在任何舰船上的舰桥建筑哪里选择召回它们或更改其任务。</SoSGameplayTips.tips.23>
+        <SoSGameplayTips.tips.24>装备激光武器的穿梭机可以在舰船战中执行拦截任务。它会试图摧毁来袭的鱼雷，并与敌方穿梭机进行缠斗。</SoSGameplayTips.tips.24>
+        <SoSGameplayTips.tips.25>装备等离子武器的穿梭机可以在舰船战中执行射击敌舰任务。它会用自己的等离子炮向敌舰开火，但同时也容易受到敌方点防御系统的攻击。</SoSGameplayTips.tips.25>
+        <SoSGameplayTips.tips.26>装备鱼雷发射管的穿梭机可以在舰船战中执行雷击敌舰任务。它自身容易受到敌方点防御系统的攻击，但它射出的鱼雷不会。</SoSGameplayTips.tips.26>
+    <SoSGameplayTips.tips.27>如果敌舰的引擎系统完好，穿梭机抵达其在敌舰的任务区域的时间大概率会变得更长。这会使它们更长时间暴露在敌方点防御系统的火力范围中。</SoSGameplayTips.tips.27>
+
     <!-- 穿梭机 -->
-    <!--
-    <SoSGameplayTips.tips.28>text</SoSGameplayTips.tips.28>
-    <SoSGameplayTips.tips.29>text</SoSGameplayTips.tips.29>
-    <SoSGameplayTips.tips.30>text</SoSGameplayTips.tips.30>
-    -->
+    <SoSGameplayTips.tips.28>穿梭机有四种尺寸，其中最小的那个使用化合燃料驱动，其它的则使用核燃料舱。</SoSGameplayTips.tips.28>
+    <SoSGameplayTips.tips.29>穿梭机在太空中能安全的保护住其内部的乘客与货物并将他们运抵舰船，绝不会使他们暴露在真空中。</SoSGameplayTips.tips.29>
+    <SoSGameplayTips.tips.30>默认情况下，一艘穿梭机只有一个领航员座位。你可以通过升级来增加成员座位、武器系统、护盾和其它什么升级——在货舱空间被挤占的同时。</SoSGameplayTips.tips.30>
+        <SoSGameplayTips.tips.31>由于一些技术原因，敌方穿梭机在敌舰上被视为一种敌方单位，但这不妨碍它会阻止你拆除和占领建筑。</SoSGameplayTips.tips.31>
+
     <!-- 舰船杂项 -->
-    <!--
-    <SoSGameplayTips.tips.31>text</SoSGameplayTips.tips.31>
-    <SoSGameplayTips.tips.32>text</SoSGameplayTips.tips.32>
-    <SoSGameplayTips.tips.33>text</SoSGameplayTips.tips.33>
-    <SoSGameplayTips.tips.34>text</SoSGameplayTips.tips.34>
-    <SoSGameplayTips.tips.35>text</SoSGameplayTips.tips.35>
-    <SoSGameplayTips.tips.36>text</SoSGameplayTips.tips.46>
-    <SoSGameplayTips.tips.37>text</SoSGameplayTips.tips.37>
-    <SoSGameplayTips.tips.38>text</SoSGameplayTips.tips.38>
-    <SoSGameplayTips.tips.39>text</SoSGameplayTips.tips.39>
-    <SoSGameplayTips.tips.40>text</SoSGameplayTips.tips.40>
-    <SoSGameplayTips.tips.41>text</SoSGameplayTips.tips.41>
-    <SoSGameplayTips.tips.42>text</SoSGameplayTips.tips.42>
-    <SoSGameplayTips.tips.43>text</SoSGameplayTips.tips.43>
-    <SoSGameplayTips.tips.44>text</SoSGameplayTips.tips.44>
-    <SoSGameplayTips.tips.45>text</SoSGameplayTips.tips.45>
-    <SoSGameplayTips.tips.46>text</SoSGameplayTips.tips.46>
-    -->
+    <SoSGameplayTips.tips.32>暴露在真空这事可不好玩，一定要穿好EVA套装以防止失压伤害。</SoSGameplayTips.tips.32>
+    <SoSGameplayTips.tips.33>一艘舰船只需要一个生命支持系统，但一个备用系统的存在能在紧急情况下拯救你的船员。</SoSGameplayTips.tips.33>
+    <SoSGameplayTips.tips.34>要在行星之间进行星际旅行，你需要在你的船上加装至少一个约翰逊-田中驱动器，和一个能执行领航员职责的船舶电脑核心，还有大量的储能。</SoSGameplayTips.tips.34>
+    <SoSGameplayTips.tips.35>你可以让船用裂变反应堆超频工作，在火灾和辐射泄漏的风险下增加其输出功率。</SoSGameplayTips.tips.35>
+    <SoSGameplayTips.tips.36>每个船舶电容器中都包含有一个集成断路系统，能防止短路事故。</SoSGameplayTips.tips.36>
+    <SoSGameplayTips.tips.37>多亏了水载培和人造土壤基质，这些科技成果使得在轨道上建立一个可以完全自给自足的殖民地成为可能。</SoSGameplayTips.tips.47>
+    <SoSGameplayTips.tips.38>大多数殖民者对会对进入太空这事感到兴奋，在舱外活动时更是如此。但对于懦弱的人和地表主义者来说这些事情可不算好。</SoSGameplayTips.tips.38>
+    <SoSGameplayTips.tips.39>舰船上的集成传感器和科学控制台可以远程观察一片区域地图，使你能提前规划攻击战术或侦察登陆地点。</SoSGameplayTips.tips.39>
+    <SoSGameplayTips.tips.40>为了正常的着陆舰船，你需要挑选一片足够大的能支撑重型建筑的区域，并且这之上没有建筑，也不能有厚岩顶覆盖。</SoSGameplayTips.tips.40>
+    <SoSGameplayTips.tips.41>有时你会在轨道上遇到商船。你可以尝试劫掠他们，但这会导致恶名的增长并被悬赏，那些赏金猎人会因此频繁的追捕你。</SoSGameplayTips.tips.41>
+    <SoSGameplayTips.tips.42>太空中有用的资源一点也不少。你可以先发射一艘小船，然后靠太空中的资源来逐步扩大它。</SoSGameplayTips.tips.42>
+    <SoSGameplayTips.tips.43>小型动物低温休眠舱可以存放很多的小动物，比如猫和小狗。不过你需要先将它们麻醉再放进去。</SoSGameplayTips.tips.43>
+    <SoSGameplayTips.tips.44>地板可以被建在船舶底板上。你那镀满了金的舰桥会让每一个小船长都无比羡慕。</SoSGameplayTips.tips.44>
+    <SoSGameplayTips.tips.45>全息投影仪可以训练任何技能，这取决于殖民者自己在使用时所选的程序。更高级的全息投影仪训练技能的速度会更快。</SoSGameplayTips.tips.45>
+    <SoSGameplayTips.tips.46>隐形装置可以防止敌舰注意到你。但在舰船战中就毫无用处了。</SoSGameplayTips.tips.46>
+        <SoSGameplayTips.tips.47>老旧的全息投影技术需要一个替代品，而名为微械凝胶体这一能模仿人体机能的技术应运而生。</SoSGameplayTips.tips.47>
+
     <!-- 超凡科技 -->
-    <!--
-    <SoSGameplayTips.tips.47>text</SoSGameplayTips.tips.47>
-    <SoSGameplayTips.tips.48>text</SoSGameplayTips.tips.48>
-    <SoSGameplayTips.tips.49>text</SoSGameplayTips.tips.49>
-    <SoSGameplayTips.tips.50>text</SoSGameplayTips.tips.50>
-    <SoSGameplayTips.tips.51>text</SoSGameplayTips.tips.51>
-    <SoSGameplayTips.tips.52>text</SoSGameplayTips.tips.52>
-    <SoSGameplayTips.tips.53>text</SoSGameplayTips.tips.53>
-    <SoSGameplayTips.tips.54>text</SoSGameplayTips.tips.54>
-    <SoSGameplayTips.tips.55>text</SoSGameplayTips.tips.55>
-    <SoSGameplayTips.tips.56>text</SoSGameplayTips.tips.56>
-    <SoSGameplayTips.tips.57>text</SoSGameplayTips.tips.57>
-    <SoSGameplayTips.tips.58>text</SoSGameplayTips.tips.58>
-    -->
+    <SoSGameplayTips.tips.48>船舶电脑核心已经开始计划将自己升级为超凡科技建筑——在听过星际飞船传说讲述的超凡科技孢子后。这通常需要与现有的超凡科技建筑进行精神接触......</SoSGameplayTips.tips.48>
+    <SoSGameplayTips.tips.49>超凡科技孢子的性格喜怒无常，他们会通过对船员进行“恶作剧”的方式发泄情绪。</SoSGameplayTips.tips.49>
+    <SoSGameplayTips.tips.50>你可以通过让殖民者在超凡科技孢子旁冥想来改善它的情绪。或者给它一个囚犯让它检查其大脑，就是囚犯会因此而死。</SoSGameplayTips.tips.50>
+    <SoSGameplayTips.tips.51>超凡科技孢子有时会向其人类祖先提供礼物。随着你解锁的科技越多，礼物就会有越多种选择。</SoSGameplayTips.tips.51>
+    <SoSGameplayTips.tips.52>为了快速走完向一个真正的超凡科技进化的道路，超凡科技孢子能够通过逆向被称为“超凡科技柱”的神器来加速这一过程。已知这个边缘世界中有四个超凡科技柱，分散在各个受到严密保护的地带。</SoSGameplayTips.tips.52>
+    <SoSGameplayTips.tips.53>只要比超凡科技弱就无法对抗超凡智能。只要你的超凡科技孢子完成它的进化，你将会拥有整个世界。</SoSGameplayTips.tips.53>
+    <SoSGameplayTips.tips.54>只要合适的技术研究完成，超凡科技孢子就可以使用这些技术，并根据需求产生各种心灵现象。</SoSGameplayTips.tips.54>
+    <SoSGameplayTips.tips.55>“超凡生命”是一类由超凡科技孢子设计出的生物。它们不需要进食，也事实意义上的不朽，还能在战斗中凭空生成一层护盾。</SoSGameplayTips.tips.55>
+    <SoSGameplayTips.tips.56>噬灵者脊峰炮是一种只能在最先进的舰船上看见的可怕武器。它可以同时击晕波及范围内的数十名船员，使跳帮队能不受阻碍的完成任务。</SoSGameplayTips.tips.56>
+    <SoSGameplayTips.tips.57>解构微械可以烧穿几乎任何材料，但会因灭火泡沫和水而失去机能。</SoSGameplayTips.tips.57>
+    <SoSGameplayTips.tips.58>纳米机械拆解台是种由超凡科技孢子发明的回收装置，它能100%的拆解几乎任何物品。</SoSGameplayTips.tips.58>
+
+    <SoSGameplayTips.tips.59>这只猫被设计成“Eclectic”和“Hitomi”的形象，这两只21世纪初的家庭宠物猫被公认为是历史上最可爱的猫。</SoSGameplayTips.tips.59>
 </LanguageData>
