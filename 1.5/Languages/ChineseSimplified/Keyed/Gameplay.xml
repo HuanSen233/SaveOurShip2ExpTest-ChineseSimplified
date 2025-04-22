@@ -311,6 +311,8 @@
 	<SoS.ReactorOverdrive2Desc>大幅增加反应堆产出的能量，代价是发热量和燃料消耗增加。这会增加反应堆的不稳定性，会有火灾和辐射泄漏的风险。</SoS.ReactorOverdrive2Desc>
 	<SoS.ReactorOverdrive3>超频 III</SoS.ReactorOverdrive3>
 	<SoS.ReactorOverdrive3Desc>超大幅增加反应堆产出的能量，代价是发热量和燃料消耗增加。这会增加反应堆的不稳定性，会有火灾和辐射泄漏的风险。</SoS.ReactorOverdrive3Desc>
+ 	<!-- 休眠舱 -->
+ 	<SoS.CantEnterCrittersleep>人类、异种人、外星人和像人一样行动的类人生物不能使用小型动物低温休眠舱。</SoS.CantEnterCrittersleep>
 	<!-- 蓝图 -->
 	<SoS.BlueprintDisabled>需要研究星际航行基础</SoS.BlueprintDisabled>
 	<SoS.BlueprintFailed>蓝图放置失败！区域必须支持重型建筑，并且清除非蓝图自带物体和厚岩顶。</SoS.BlueprintFailed>
