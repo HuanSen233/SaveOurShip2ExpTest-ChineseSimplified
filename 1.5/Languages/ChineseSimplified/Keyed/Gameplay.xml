@@ -3,11 +3,15 @@
 	<!-- 剧本 -->
 	<SoS.NoShipsToLoad>没有舰船可供载入。载入飞船剧本就是用选定的舰船开一个从太空开始的游戏，这需要你让你的一些舰船前往新星球后，它们才可以在此处被选定载入。如果要正常的在太空开始的游戏请选择失事飞船或空间站剧本。</SoS.NoShipsToLoad>
 	<!-- 世界/轨道 -->
-	<SoS.MoveWest>舰船\n向西移动</SoS.MoveWest>
-	<SoS.MoveWestDesc>让船按轨道向西移动。</SoS.MoveWestDesc>
-	<SoS.MoveEast>舰船\n向东移动</SoS.MoveEast>
-	<SoS.MoveEastDesc>让船按轨道向东移动。</SoS.MoveEastDesc>
-	<SoS.MoveStop>停止舰船移动</SoS.MoveStop>
+	<SoS.MoveEast>向东推进</SoS.MoveEast>
+	<SoS.MoveEastDesc>让舰船按轨道向东推进。</SoS.MoveEastDesc>
+	<SoS.MoveWest>向西推进</SoS.MoveWest>
+	<SoS.MoveWestDesc>让舰船按轨道向西推进。</SoS.MoveWestDesc>
+	<SoS.MoveSouth>向南推进</SoS.MoveSouth>
+	<SoS.MoveSouthDesc>让舰船按轨道向西南进。</SoS.MoveSouthDesc>
+	<SoS.MoveNorth>向北推进</SoS.MoveNorth>
+	<SoS.MoveNorthDesc>让舰船按轨道向北推进。</SoS.MoveNorthDesc>
+	<SoS.MoveStop>停止推进</SoS.MoveStop>
 	<SoS.MoveStopDesc>反向推进进入同步轨道。</SoS.MoveStopDesc>
 	<SoS.AbandonHome>弃船\n(没事别点)</SoS.AbandonHome>
 	<SoS.AbandonHomeDesc>放弃当前舰船，船上的殖民者会全部消失。</SoS.AbandonHomeDesc>
