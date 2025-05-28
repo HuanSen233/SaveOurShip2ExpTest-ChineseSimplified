@@ -29,7 +29,7 @@
 		<!-- 仅Exp或其它，最新不稳定版已弃用 -->
 	<SoS.SettleSpaceSites>不能在太空定居</SoS.SettleSpaceSites>
 	<!-- 战斗 -->
-	<SoS.CombatTooltip>显示敌舰与你舰之间的距离，以及所有正在两者之间飞行的炮弹和穿梭机。\n\n红色：激光、实弹炮的最佳射程\n绿色：等离子的最佳射程\n蓝色：轨道炮的最佳射程\n紫色：鱼雷的射程\n小色条：大型武器的最大射程但不精准</SoS.CombatTooltip>
+	<SoS.CombatTooltip>显示敌舰与你舰之间的距离，以及所有正在两者之间飞行的炮弹和穿梭机。\n\n红色：激光、实弹炮的最佳射程\n绿色：等离子的最佳射程\n蓝色：轨道炮的最佳射程\n紫色：鱼雷的射程\n小色条：大型武器的最大射程但不精准\n穿梭机可以在任何距离使用</SoS.CombatTooltip>
 	<SoS.CombatRetreat>后撤</SoS.CombatRetreat>
 	<SoS.CombatRetreatDesc>尽量远离敌舰</SoS.CombatRetreatDesc>
 	<SoS.CombatStop>停止</SoS.CombatStop>
