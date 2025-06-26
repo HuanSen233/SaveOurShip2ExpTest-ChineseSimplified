@@ -67,6 +67,8 @@
 	<SoS.HoldFireDesc>阻止所有连接到这个控制台的舰对舰武器开火</SoS.HoldFireDesc>
 	<SoS.TogglePointDefense>切换点防御</SoS.TogglePointDefense>
 	<SoS.TogglePointDefenseDesc>切换所有连接到这个控制台点防御武器拦截鱼雷和穿梭机</SoS.TogglePointDefenseDesc>
+	<SoS.ToggleAutoFire>切换武器自动开火</SoS.ToggleAutoFire>
+	<SoS.ToggleAutoFirDesc>如果启用，包括鱼雷在内的所有舰对舰武器将自动瞄准敌舰舰桥并开火。停用此功能不会使武器停火，需要单独使用停火命令让武器停火。</SoS.ToggleAutoFirDesc>
 	<SoS.NotAtMaxRange>不在最大射程内</SoS.NotAtMaxRange>
 	<SoS.OnUnstableMap>舰船不在稳定轨道上。</SoS.OnUnstableMap>
 	<SoS.EnemyShipRetreating>敌舰正在试图撤退！</SoS.EnemyShipRetreating>
