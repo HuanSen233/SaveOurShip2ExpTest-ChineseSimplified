@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    <!-- 未完成标记=========== -->
     <ShipBasics.label>星际航行基础</ShipBasics.label>
     <ShipBasics.description>解锁建造星际飞船的结构和辅助单元，这是建造飞船离开恒星系的第一步。</ShipBasics.description>
     <ShipBasics.discoveredLetterTitle>关于：发射飞船</ShipBasics.discoveredLetterTitle>
-    <ShipBasics.discoveredLetterText>逃离这个星球——最终将获得自由，也许终点会是家园。\n\n但先别急，在你考虑星际旅行之前，你需要先造艘船或者用其它什么方法，到达环绕这颗星球的轨道上。一艘适合航天任务的飞船的最低要求是要有一个火箭推进器、一个领航员控制台和一个基础集成传感器。为了你的殖民者能在太空存活，还需要船舶生命支持系统或EVA服。\n\n发射一艘飞船计入轨道所要消耗的燃料量取决于其的大小。较大的飞船需要要且只会要更多的推进器。</ShipBasics.discoveredLetterText>
+    <ShipBasics.discoveredLetterText>逃离这个星球——最终将获得自由，也许终点会是家园。\n\n但先别急，在你考虑星际旅行之前，你需要先造艘船或者用其它什么方法，到达环绕这颗星球的轨道上。一艘适合航天任务的飞船的最低要求是要有一个火箭推进器、一个领航员控制台和一个基础集成传感器。为了你的殖民者能在太空存活，还需要船舶生命支持系统或EVA服。\n\n发射一艘飞船进入轨道所要消耗的燃料量取决于其的大小。较大的飞船需要要且只会要更多的推进器。</ShipBasics.discoveredLetterText>
 
     <ShipReactor.label>船用裂变反应堆</ShipReactor.label>
     <ShipReactor.description>通过燃烧核燃料舱来获得长期持续的能量输出。</ShipReactor.description>
@@ -24,7 +23,7 @@
     <ShipPilotSeat.label>船舶导航</ShipPilotSeat.label>
     <ShipPilotSeat.description>让你的殖民者能够在基本的计算机辅助下驾驶一艘飞船。</ShipPilotSeat.description>
     <ShipPilotSeat.generalRules.rulesStrings.0>subject->船舶导航</ShipPilotSeat.generalRules.rulesStrings.0>
-    <ShipPilotSeat.generalRules.rulesStrings.1>subject_story->在一次舰船登陆行动中幸存下来后，认定下一艘舰船也会蓄意而为</ShipPilotSeat.generalRules.rulesStrings.1>
+    <ShipPilotSeat.generalRules.rulesStrings.1>subject_story->在一次飞船意外着陆中幸存下来，且决定下次要再做一次</ShipPilotSeat.generalRules.rulesStrings.1>
     <ShipPilotSeat.generalRules.rulesStrings.2>subject_story->超控舰船的目标计算机，用一枚鱼雷精确地摧毁敌方的巨型建筑</ShipPilotSeat.generalRules.rulesStrings.2>
     <ShipPilotSeat.generalRules.rulesStrings.3>subject_story->谨慎规画了一条穿过伊什瓦拉星球那致密的碎片场的航线</ShipPilotSeat.generalRules.rulesStrings.3>
     <ShipPilotSeat.generalRules.rulesStrings.4>subject_gerund->手动驾驶飞船</ShipPilotSeat.generalRules.rulesStrings.4>
@@ -277,5 +276,13 @@
     <Holodeck_AI.generalRules.rulesStrings.2>subject_story->警告称，全息投影模拟舱的机器人必需监测用户是否存在上瘾倾向</Holodeck_AI.generalRules.rulesStrings.2>
     <Holodeck_AI.generalRules.rulesStrings.3>subject_story->领导了所谓的塔耳塔洛斯计划，该计划旨在让犯罪分子处于可人为创作出的无尽的痛苦状态</Holodeck_AI.generalRules.rulesStrings.3>
     <Holodeck_AI.generalRules.rulesStrings.4>subject_gerund->强迫人格AI用于娱乐目的</Holodeck_AI.generalRules.rulesStrings.4>
+
+    <ResearchShipDebugItems.label>Debug船舶导航</ResearchShipDebugItems.label>
+    <ResearchShipDebugItems.description>调试 - 能使你的殖民者在基本的计算机辅助下驾驶一艘船。</ResearchShipDebugItems.description>
+    <ResearchShipDebugItems.generalRules.rulesStrings.0>subject->船舶导航</ResearchShipDebugItems.generalRules.rulesStrings.0>
+    <ResearchShipDebugItems.generalRules.rulesStrings.1>subject_story->在一次飞船意外着陆中幸存下来，且决定下次要再做一次</ResearchShipDebugItems.generalRules.rulesStrings.1>
+    <ResearchShipDebugItems.generalRules.rulesStrings.2>subject_story->超控舰船的目标计算机，用一枚鱼雷精确地摧毁敌方的巨型建筑</ResearchShipDebugItems.generalRules.rulesStrings.2>
+    <ResearchShipDebugItems.generalRules.rulesStrings.3>subject_story->谨慎规画了一条穿过伊什瓦拉星球那致密的碎片场的航线</ResearchShipDebugItems.generalRules.rulesStrings.3>
+    <ResearchShipDebugItems.generalRules.rulesStrings.4>subject_gerund->手动驾驶飞船</ResearchShipDebugItems.generalRules.rulesStrings.4>
 
 </LanguageData>

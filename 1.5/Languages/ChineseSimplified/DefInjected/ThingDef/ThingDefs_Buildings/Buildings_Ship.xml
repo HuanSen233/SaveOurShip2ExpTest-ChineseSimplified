@@ -194,9 +194,18 @@
     <Ship_FakeBeam.label>船体</Ship_FakeBeam.label>
     <Ship_FakeBeam.description>飞船船体的外部结构部件，其中包括电缆、热能导管和维生气体导管。</Ship_FakeBeam.description>
     <SoS2DummyObject.label>虚拟标记</SoS2DummyObject.label>
-    <SoS2DummyObject.description>将在此位置生成起始小人，不用去求助于其它出生点——休眠舱、打捞港、舰桥。只在其实地图上使用。</SoS2DummyObject.description>
+    <SoS2DummyObject.description>将在此位置生成起始小人，不用去求助于其它出生点——休眠舱、打捞港、舰桥。只在起始地图上使用。</SoS2DummyObject.description>
     <!-- 无用 -->
     <ShipInside_PassiveCooler.label>虚拟Def</ShipInside_PassiveCooler.label>
     <ShipInside_PassiveCooler.description>不要用这个。这玩意儿的存在是因为Dubs一直拒绝修复他那边的Bug。</ShipInside_PassiveCooler.description>
+    <!-- 调试用物体，不会出现在正常游戏流程中。这堆东西的相关科研项目均被隐藏，启用开发者模式以使其显示。 -->
+    <Ship_DroneCoreMicro.label>Debug 小无人核心</Ship_DroneCoreMicro.label>
+    <Ship_DroneCoreMicro.description>不 要 用 在 正 常 的 游 戏 流 程 中 。一个简单的计算机核心，内置一个低级AI。虽然无法解决创造性问题或引导星际航行，但足矣代替人类在战斗中驾驶舰船。</Ship_DroneCoreMicro.description>
+    <Ship_Engine_Micro.label>Debug 小推进器</Ship_Engine_Micro.label>
+    <Ship_Engine_Micro.description>不 要 用 在 正 常 的 游 戏 流 程 中 。一种使用化合燃料驱动的推进器，能将舰船送入轨道。不能进行星际航行。\n\n推力：500\n燃料消耗：1 化合燃料/秒\n最大起飞重量：750</Ship_Engine_Micro.description>
+    <ShipHullTileDebug.label>Debug 硬的底板</ShipHullTileDebug.label>
+    <ShipHullTileDebug.description>不 要 用 在 正 常 的 游 戏 流 程 中 。适合航天任务的船舶底板。将这格空间（以及在其上建造的任何建筑）指定为舰船的一部分。</ShipHullTileDebug.description>
+    <Ship_Beam_debug.label>Debug 硬的船体</Ship_Beam_debug.label>
+    <Ship_Beam_debug.description>不 要 用 在 正 常 的 游 戏 流 程 中 。飞船船体的外部结构部件，其中包括电缆、热能导管和维生气体导管。</Ship_Beam_debug.description>
 
 </LanguageData>

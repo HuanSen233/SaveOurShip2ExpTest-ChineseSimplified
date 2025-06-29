@@ -21,6 +21,8 @@
 	<SoS.Settings.EasyMode.Desc>如果启用，将防止载有玩家单位的穿梭机被敌方舰船点防御系统击落。默认：关</SoS.Settings.EasyMode.Desc>
 	<SoS.Settings.ShipMapPhysics>船舶地图物理</SoS.Settings.ShipMapPhysics>
 	<SoS.Settings.ShipMapPhysics.Desc>如果启用，当舰船移动时将把不在船上的单位和物品送去坟场。这也会限制穿梭机只能降落在穿梭机停靠港或舰船外。默认：关</SoS.Settings.ShipMapPhysics.Desc>
+	<SoS.Settings.NewAccuiracySystem>新精准度系统</SoS.Settings.NewAccuiracySystem>
+	<SoS.Settings.NewAccuiracySystem.Desc>体积小和速度快的船现在可以躲避那些精准度较低的远距离武器，这使得一种新的战斗策略可被实现。默认：开</SoS.Settings.NewAccuiracySystem.Desc>
 	<SoS.Settings.ArchoRemove>限制超凡生物生成</SoS.Settings.ArchoRemove>
 	<SoS.Settings.ArchoRemove.Desc>如果第三方模组在超凡科技孢子能被正常建造前生成了超凡生物，那么这个选项会将它们删除。默认：关</SoS.Settings.ArchoRemove.Desc>
 	<SoS.Settings.ArchoKill>超凡生物不能失去孢子</SoS.Settings.ArchoKill>
