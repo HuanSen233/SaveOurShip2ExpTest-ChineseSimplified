@@ -62,7 +62,7 @@
 	<SoS.NoLoadedPods>没有可装载的飞行器</SoS.NoLoadedPods>
 	<SoS.LaunchCryptoNotLoaded>飞行器没有装载完成</SoS.LaunchCryptoNotLoaded>
 	<SoS.SelectWeapons>选取武器</SoS.SelectWeapons>
-	<SoS.SelectWeaponsDesc>选取连接到这个控制台的舰对舰武器</SoS.SelectWeaponsDesc>
+	<SoS.SelectWeaponsDesc>选取连接到这个控制台的对应图标的舰对舰武器</SoS.SelectWeaponsDesc>
 	<SoS.HoldFire>停火</SoS.HoldFire>
 	<SoS.HoldFireDesc>阻止所有连接到这个控制台的舰对舰武器开火</SoS.HoldFireDesc>
 	<SoS.TogglePointDefense>切换点防御</SoS.TogglePointDefense>
@@ -498,5 +498,14 @@
 	<SoSAIName>AI名字：{0}</SoSAIName>
 	<SoSNoMapObserve>无法扫描并观察这种类型的区域。它的拥有者可能在此处部署了能干扰传感器的技术。</SoSNoMapObserve>
 	<SoSBreathable>可呼吸</SoSBreathable>
+
+	<!-- 闪避机制 -->
+	<SoS.DodgeNoEnginePower>无法规避，无可工作的推进器或地图上有残骸。需要检查推进器状态和清理所有残骸。</SoS.DodgeNoEnginePower>
+	<SoS.DodgeNoRCSOnShip>舰船 {0} 需要RCS推进器来执行规避命令。</SoS.DodgeNoRCSOnShip>
+	<SoS.DodgeOnCooldown>RCS推进器冷却中。下一次规避动作需要等待 {0} 秒。</SoS.DodgeOnCooldown>
+	<SoS.DodgeLeft>向左规避</SoS.DodgeLeft>
+	<SoS.DodgeLeftDesc>使用舰船右侧的RCS推进器将舰船向左推进以执行规避动作。</SoS.DodgeLeftDesc>
+	<SoS.DodgeRight>向右规避</SoS.DodgeRight>
+	<SoS.DodgeRightDesc>使用舰船右侧的RCS推进器将舰船向左推进以执行规避动作。</SoS.DodgeRightDesc>
 
 </LanguageData>
