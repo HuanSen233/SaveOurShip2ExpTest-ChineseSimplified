@@ -286,6 +286,7 @@
 	<SoS.TurretOptimalRangeDesc>使这个炮塔只对处于最佳射程内的目标开火</SoS.TurretOptimalRangeDesc>
 	<SoS.TurretPointDefense>点防御模式</SoS.TurretPointDefense>
 	<SoS.TurretPointDefenseDesc>让这个炮塔拦截来袭的且处于射程内的鱼雷和穿梭机</SoS.TurretPointDefenseDesc>
+	<SoS.TurretNotConnected>无法开火！炮塔的热容网络需要连接至舰桥！</SoS.TurretNotConnected>
 	<SoS.TorpedoAllowedDesc>切换以阻止或允许发射这种类型的鱼雷。</SoS.TorpedoAllowedDesc>
 	<SoS.TorpedoNotLoaded>不装填</SoS.TorpedoNotLoaded>
 	<SoS.TorpedoFullyLoaded>满载</SoS.TorpedoFullyLoaded>
