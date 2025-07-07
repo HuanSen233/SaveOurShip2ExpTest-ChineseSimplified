@@ -277,7 +277,7 @@
     <Holodeck_AI.generalRules.rulesStrings.3>subject_story->领导了所谓的塔耳塔洛斯计划，该计划旨在让犯罪分子处于可人为创作出的无尽的痛苦状态</Holodeck_AI.generalRules.rulesStrings.3>
     <Holodeck_AI.generalRules.rulesStrings.4>subject_gerund->强迫人格AI用于娱乐目的</Holodeck_AI.generalRules.rulesStrings.4>
 
-    <ResearchShipDebugItems.label>Debug船舶导航</ResearchShipDebugItems.label>
+    <ResearchShipDebugItems.label>调试用物品</ResearchShipDebugItems.label>
     <ResearchShipDebugItems.description>调试 - 能使你的殖民者在基本的计算机辅助下驾驶一艘船。</ResearchShipDebugItems.description>
     <ResearchShipDebugItems.generalRules.rulesStrings.0>subject->船舶导航</ResearchShipDebugItems.generalRules.rulesStrings.0>
     <ResearchShipDebugItems.generalRules.rulesStrings.1>subject_story->在一次飞船意外着陆中幸存下来，且决定下次要再做一次</ResearchShipDebugItems.generalRules.rulesStrings.1>
