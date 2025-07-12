@@ -500,13 +500,26 @@
 	<SoSNoMapObserve>无法扫描并观察这种类型的区域。它的拥有者可能在此处部署了能干扰传感器的技术。</SoSNoMapObserve>
 	<SoSBreathable>可呼吸</SoSBreathable>
 
+	<!-- 地图中抛射物偏移 -->
+	<SoS.ActorPlayer>玩家</SoS.ActorPlayer>
+	<SoS.ActorEnemy>敌方</SoS.ActorEnemy>
+	<SoS.DodgeChanceAlert>{0} 的闪避几率：{1}</SoS.DodgeChanceAlert>
+	<SoS.DodgeChanceExplanation>对远程武器闪避几率：{0}
+对中程武器闪避几率：{1}
+对近程武器闪避几率：{2}
+
+远程武器是轨道炮, 中程武器是等离子, 近程武器是激光和机炮。
+闪避几率基于目标舰船的推重比进行计算，理论上推重比越高的舰船闪避几率越大。操纵领航员控制台的单位的智识技能可以一定程度上增加闪避几率。操纵战术控制台的单位的射击技能可以一定程度上降低敌舰的闪避几率。
+地图上那些推重比最低最慢的舰船也会被考虑进去。
+成功的闪避意味着炮弹会严重偏离瞄准点，甚至不会进入目标地图。</SoS.DodgeChanceExplanation>
+
 	<!-- 闪避机制 -->
 	<SoS.DodgeNoEnginePower>无法规避，无可工作的推进器或地图上有残骸。需要检查推进器状态和清理所有残骸。</SoS.DodgeNoEnginePower>
 	<SoS.DodgeNoRCSOnShip>舰船 {0} 需要RCS推进器来执行规避命令。</SoS.DodgeNoRCSOnShip>
 	<SoS.DodgeOnCooldown>RCS推进器冷却中。下一次规避动作需要等待 {0} 秒。</SoS.DodgeOnCooldown>
-	<SoS.DodgeLeft>向左规避</SoS.DodgeLeft>
+	<SoS.DodgeLeft>向左闪避</SoS.DodgeLeft>
 	<SoS.DodgeLeftDesc>使用舰船右侧的RCS推进器将舰船向左推进以执行规避动作。</SoS.DodgeLeftDesc>
-	<SoS.DodgeRight>向右规避</SoS.DodgeRight>
+	<SoS.DodgeRight>向右闪避</SoS.DodgeRight>
 	<SoS.DodgeRightDesc>使用舰船右侧的RCS推进器将舰船向左推进以执行规避动作。</SoS.DodgeRightDesc>
 
 </LanguageData>
