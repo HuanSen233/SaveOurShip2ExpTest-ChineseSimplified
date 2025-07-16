@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <SpaceSiteQuest.questDescriptionRules.rulesStrings.0>questDescription->[worker_definite]使用舰船的扫描系统在附近轨道上发现了[site_label]。\n\n不幸的是，目标轨道并不稳定，且会在[timeoutTicks_duration]后落入大气。\n\n[allSitePartsDescriptionsExceptFirst]</SpaceSiteQuest.questDescriptionRules.rulesStrings.0>
+    <SpaceSiteQuest.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>任务已失效：[resolvedQuestName]</SpaceSiteQuest.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+    <SpaceSiteQuest.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>随着一道火光划过上层大气，[site_label]坠落在了星球上。现在任何有价值的东西都已经消失了。</SpaceSiteQuest.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+
+</LanguageData>

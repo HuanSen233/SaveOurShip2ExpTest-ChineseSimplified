@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <Apparel_SpaceSuitBody.label>EVA套装</Apparel_SpaceSuitBody.label>
+    <Apparel_SpaceSuitBody.description>一套能确保穿着人员在太空中存活的舱外活动服装。包含用于辅助移动的小推进器。</Apparel_SpaceSuitBody.description>
+
+    <Apparel_SpaceSuitBodyChild.label>儿童EVA套装</Apparel_SpaceSuitBodyChild.label>
+    <Apparel_SpaceSuitBodyChild.description>一款为保护在太空中的儿童而设计的舱外活动服装。包含用于辅助移动的小推进器。</Apparel_SpaceSuitBodyChild.description>
+
+    <Apparel_SpaceSuitHelmet.label>EVA头盔</Apparel_SpaceSuitHelmet.label>
+    <Apparel_SpaceSuitHelmet.description>一个能确保穿着人员在太空中存活的舱外活动头盔。能够循环利用氧气并提供对有毒环境和颗粒的抗性。</Apparel_SpaceSuitHelmet.description>
+
+    <Apparel_SpaceSuitHelmetChild.label>儿童EVA头盔</Apparel_SpaceSuitHelmetChild.label>
+    <Apparel_SpaceSuitHelmetChild.description>一款为保护在太空中的儿童而设计的舱外活动头盔。能够循环利用氧气并提供对有毒环境和颗粒的抗性。</Apparel_SpaceSuitHelmetChild.description>
+
+    <Apparel_SpaceSuitBodyHeavy.label>EVA动力装甲</Apparel_SpaceSuitBodyHeavy.label>
+    <Apparel_SpaceSuitBodyHeavy.description>一套具有气密性的动力装甲，能确保穿着人员在太空中存活。包含用于辅助移动的小推进器。</Apparel_SpaceSuitBodyHeavy.description>
+
+    <Apparel_SpaceSuitHelmetHeavy.label>EVA动力头盔</Apparel_SpaceSuitHelmetHeavy.label>
+    <Apparel_SpaceSuitHelmetHeavy.description>一个具有气密性的动力头盔，能确保穿着人员在太空中存活。能够循环利用氧气并提供对有毒环境和颗粒的抗性。</Apparel_SpaceSuitHelmetHeavy.description>
+
+    <Apparel_SpaceSurvivalBelt.label>救生腰带</Apparel_SpaceSurvivalBelt.label>
+    <Apparel_SpaceSurvivalBelt.description>飞船机组成员使用的应急救生腰带。当处在压力正常的房间时它会保持休眠状态。一旦暴露在真空中，腰带就会释放半固态保护膜包裹在穿着者的身体上，并开始产生可呼吸的空气。接下来的三小时，穿戴者可以在真空中生存，尽管行动会因此变得迟缓。这个腰带只能使用一次。</Apparel_SpaceSurvivalBelt.description>
+
+</LanguageData>

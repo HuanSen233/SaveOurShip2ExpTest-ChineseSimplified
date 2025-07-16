@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <VacuumDamage.label>失压伤</VacuumDamage.label>
+    <VacuumDamage.deathMessage>{0}爆体而亡。</VacuumDamage.deathMessage>
+
+    <FormgelSlime.label>微械凝胶史莱姆</FormgelSlime.label>
+    <FormgelSlime.deathMessage>{0}已崩解。</FormgelSlime.deathMessage>
+    
+</LanguageData>

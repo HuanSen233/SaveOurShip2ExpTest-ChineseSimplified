@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <SoS2_Shuttle_Personal.label>个人穿梭机</SoS2_Shuttle_Personal.label>
+    <SoS2_Shuttle_Personal.description>一艘能够进行轨道和亚轨道航行的单人穿梭机。与更大的穿梭机不同，这款型号只能使用化合燃料，且无法改装。</SoS2_Shuttle_Personal.description>
+    <SoS2_Shuttle_Personal.properties.roles.0.label>领航员</SoS2_Shuttle_Personal.properties.roles.0.label>
+    <SoS2_Shuttle_Personal.components.0.label>一号推进器</SoS2_Shuttle_Personal.components.0.label>
+    <SoS2_Shuttle_Personal.components.1.label>二号推进器</SoS2_Shuttle_Personal.components.1.label>
+    <SoS2_Shuttle_Personal.components.2.label>三号推进器</SoS2_Shuttle_Personal.components.2.label>
+    <SoS2_Shuttle_Personal.components.3.label>四号推进器</SoS2_Shuttle_Personal.components.3.label>
+    <SoS2_Shuttle_Personal.components.4.label>化合燃料舱</SoS2_Shuttle_Personal.components.4.label>
+    <SoS2_Shuttle_Personal.components.5.label>船体</SoS2_Shuttle_Personal.components.5.label>
+    
+    <SoS2_Shuttle.label>穿梭机</SoS2_Shuttle.label>
+    <SoS2_Shuttle.description>一艘能够进行轨道和亚轨道航行的穿梭机，使用核燃料舱驱动。\n\n基于微型化船舶组件设计，只要相应的技术被研究出来，就可以对这艘穿梭机进行改装升级。大多数升级都需要占用载货量才能安装。这艘穿梭机有一个炮塔挂载点。</SoS2_Shuttle.description>
+    <SoS2_Shuttle.properties.roles.0.label>领航员</SoS2_Shuttle.properties.roles.0.label>
+    <SoS2_Shuttle.properties.roles.1.label>乘客</SoS2_Shuttle.properties.roles.1.label>
+    <SoS2_Shuttle.components.0.label>一号推进器</SoS2_Shuttle.components.0.label>
+    <SoS2_Shuttle.components.1.label>二号推进器</SoS2_Shuttle.components.1.label>
+    <SoS2_Shuttle.components.2.label>三号推进器</SoS2_Shuttle.components.2.label>
+    <SoS2_Shuttle.components.3.label>四号推进器</SoS2_Shuttle.components.3.label>
+    <SoS2_Shuttle.components.4.label>反应堆</SoS2_Shuttle.components.4.label>
+    <SoS2_Shuttle.components.5.label>驾驶舱</SoS2_Shuttle.components.5.label>
+    <SoS2_Shuttle.components.6.label>散热室</SoS2_Shuttle.components.6.label>
+    <SoS2_Shuttle.components.7.label>船体</SoS2_Shuttle.components.7.label>
+
+    <SoS2_Shuttle_Heavy.label>重型穿梭机</SoS2_Shuttle_Heavy.label>
+    <SoS2_Shuttle_Heavy.description>一艘能够进行轨道和亚轨道航行的大型穿梭机，使用核燃料舱驱动。\n\n基于微型化船舶组件设计，只要相应的技术被研究出来，就可以对这艘穿梭机进行改装升级。大多数升级都需要占用载货量才能安装。这艘穿梭机有两个炮塔挂载点。</SoS2_Shuttle_Heavy.description>
+    <SoS2_Shuttle_Heavy.properties.roles.0.label>领航员</SoS2_Shuttle_Heavy.properties.roles.0.label>
+    <SoS2_Shuttle_Heavy.properties.roles.1.label>乘客</SoS2_Shuttle_Heavy.properties.roles.1.label>
+    <SoS2_Shuttle_Heavy.components.0.label>一号推进器</SoS2_Shuttle_Heavy.components.0.label>
+    <SoS2_Shuttle_Heavy.components.1.label>二号推进器</SoS2_Shuttle_Heavy.components.1.label>
+    <SoS2_Shuttle_Heavy.components.2.label>三号推进器</SoS2_Shuttle_Heavy.components.2.label>
+    <SoS2_Shuttle_Heavy.components.3.label>四号推进器</SoS2_Shuttle_Heavy.components.3.label>
+    <SoS2_Shuttle_Heavy.components.4.label>反应堆</SoS2_Shuttle_Heavy.components.4.label>
+    <SoS2_Shuttle_Heavy.components.5.label>驾驶舱</SoS2_Shuttle_Heavy.components.5.label>
+    <SoS2_Shuttle_Heavy.components.6.label>散热室</SoS2_Shuttle_Heavy.components.6.label>
+    <SoS2_Shuttle_Heavy.components.7.label>船体</SoS2_Shuttle_Heavy.components.7.label>
+
+    <SoS2_Shuttle_Superheavy.label>超重型穿梭机</SoS2_Shuttle_Superheavy.label>
+    <SoS2_Shuttle_Superheavy.description>一艘能够进行轨道和亚轨道航行的大型穿梭机，使用核燃料舱驱动。\n\n基于微型化船舶组件设计，只要相应的技术被研究出来，就可以对这艘穿梭机进行改装升级。大多数升级都需要占用载货量才能安装。这艘穿梭机有三个炮塔挂载点。</SoS2_Shuttle_Superheavy.description>
+    <SoS2_Shuttle_Superheavy.properties.roles.0.label>领航员</SoS2_Shuttle_Superheavy.properties.roles.0.label>
+    <SoS2_Shuttle_Superheavy.properties.roles.1.label>乘客</SoS2_Shuttle_Superheavy.properties.roles.1.label>
+    <SoS2_Shuttle_Superheavy.components.0.label>一号推进器</SoS2_Shuttle_Superheavy.components.0.label>
+    <SoS2_Shuttle_Superheavy.components.1.label>二号推进器</SoS2_Shuttle_Superheavy.components.1.label>
+    <SoS2_Shuttle_Superheavy.components.2.label>三号推进器</SoS2_Shuttle_Superheavy.components.2.label>
+    <SoS2_Shuttle_Superheavy.components.3.label>四号推进器</SoS2_Shuttle_Superheavy.components.3.label>
+    <SoS2_Shuttle_Superheavy.components.4.label>反应堆</SoS2_Shuttle_Superheavy.components.4.label>
+    <SoS2_Shuttle_Superheavy.components.5.label>驾驶舱</SoS2_Shuttle_Superheavy.components.5.label>
+    <SoS2_Shuttle_Superheavy.components.6.label>散热室</SoS2_Shuttle_Superheavy.components.6.label>
+    <SoS2_Shuttle_Superheavy.components.7.label>船体</SoS2_Shuttle_Superheavy.components.7.label>
+
+</LanguageData>

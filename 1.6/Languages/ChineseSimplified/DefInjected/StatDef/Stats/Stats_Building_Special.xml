@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <DecompressionResistanceOffset.label>失压抗性偏移</DecompressionResistanceOffset.label>
+    <DecompressionResistanceOffset.description>失压抗性会被这个值抵消。</DecompressionResistanceOffset.description>
+
+    <HypoxiaResistanceOffset.label>缺氧抗性偏移</HypoxiaResistanceOffset.label>
+    <HypoxiaResistanceOffset.description>缺氧抗性会被这个值抵消。</HypoxiaResistanceOffset.description>
+    
+</LanguageData>

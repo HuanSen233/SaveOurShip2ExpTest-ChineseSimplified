@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <SpaceDebris.label>空间碎片</SpaceDebris.label>
+    <SpaceDebris.description>一片充满了空间碎片的区域。</SpaceDebris.description>
+    <SpaceDebris.endMessage>舰船已经驶离碎片区域</SpaceDebris.endMessage>
+
+</LanguageData>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <ShipOrbiting.label>在轨舰船</ShipOrbiting.label>
+    <ShipOrbiting.description>你发射至轨道上的飞船。</ShipOrbiting.description>
+
+    <ShipEnemy.label>敌对舰船</ShipEnemy.label>
+    <ShipEnemy.description>一艘就在附近的敌方舰船。</ShipEnemy.description>
+
+    <WreckSpace.label>太空残骸</WreckSpace.label>
+    <WreckSpace.description>附近的一处太空残骸。</WreckSpace.description>
+
+    <ShipEngineImpactSite.label>撞击现场</ShipEngineImpactSite.label>
+    <ShipEngineImpactSite.description>一个古老飞船推进器的撞击地点。</ShipEngineImpactSite.description>
+
+    <MoonPillarSite.label>月面基地</MoonPillarSite.label>
+    <MoonPillarSite.description>卫星上的一个机械体基地，那里有一根正在被研究的超凡科技柱。</MoonPillarSite.description>
+
+    <TribalPillarSite.label>星辰图腾所在位置</TribalPillarSite.label>
+    <TribalPillarSite.description>这颗星球上的部落文化里记载的最神圣的地方：一根超凡科技柱的撞击现场。</TribalPillarSite.description>
+
+    <InsectPillarSite.label>巨型虫巢所在位置</InsectPillarSite.label>
+    <InsectPillarSite.description>这颗星球上最大的虫巢的所在位置，很明显是围着超凡科技柱建造的。</InsectPillarSite.description>
+
+</LanguageData>

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <ShipBasics.label>星际航行基础</ShipBasics.label>
+    <ShipBasics.description>解锁建造星际飞船的结构和辅助单元，这是建造飞船离开恒星系的第一步。</ShipBasics.description>
+    <ShipBasics.discoveredLetterTitle>关于：发射飞船</ShipBasics.discoveredLetterTitle>
+    <ShipBasics.discoveredLetterText>逃离这个星球——最终将获得自由，也许终点会是家园。\n\n但先别急，在你考虑星际旅行之前，你需要先造艘船或者用其它什么方法，到达环绕这颗星球的轨道上。一艘适合航天任务的飞船的最低要求是要有一个火箭推进器、一个领航员控制台和一个基础集成传感器。为了你的殖民者能在太空存活，还需要船舶生命支持系统或EVA服。\n\n发射一艘飞船进入轨道所要消耗的燃料量取决于其的大小。较大的飞船需要要且只会要更多的推进器。</ShipBasics.discoveredLetterText>
+
+    <ShipReactor.label>船用裂变反应堆</ShipReactor.label>
+    <ShipReactor.description>通过燃烧核燃料舱来获得长期持续的能量输出。</ShipReactor.description>
+
+    <ShipEngine.label>火箭推进器</ShipEngine.label>
+    <ShipEngine.description>为一艘飞船建造化学发动机。这样它们就能抵达轨道，但也就能到这了。</ShipEngine.description>
+    <ShipEngine.generalRules.rulesStrings.0>subject->火箭推进器</ShipEngine.generalRules.rulesStrings.0>
+    <ShipEngine.generalRules.rulesStrings.1>subject_story->通过教授当地部落如何提炼化合燃料而成功逃离了一颗边缘世界星球</ShipEngine.generalRules.rulesStrings.1>
+    <ShipEngine.generalRules.rulesStrings.2>subject_story->为世界中央政府设计了一个导弹推进器</ShipEngine.generalRules.rulesStrings.2>
+    <ShipEngine.generalRules.rulesStrings.3>subject_story->开创了后启示录星球伊什瓦拉重返太空的先河</ShipEngine.generalRules.rulesStrings.3>
+    <ShipEngine.generalRules.rulesStrings.4>subject_gerund->保持最佳的燃料与氧化剂的配比</ShipEngine.generalRules.rulesStrings.4>
+    <ShipEngine.generalRules.rulesStrings.5>subject_gerund->喷口几何形状优化</ShipEngine.generalRules.rulesStrings.5>
+    
+    <SoSJTDrive.label>约翰逊-田中驱动器</SoSJTDrive.label>
+    <SoSJTDrive.description>了解无工质推进器约翰逊-田中驱动器如何进行行星和星际航行背后的原理。\n注：实际建造驱动器将需要一个纠缠流形，这是个非常罕见的先进组件。</SoSJTDrive.description>
+
+    <ShipPilotSeat.label>船舶导航</ShipPilotSeat.label>
+    <ShipPilotSeat.description>让你的殖民者能够在基本的计算机辅助下驾驶一艘飞船。</ShipPilotSeat.description>
+    <ShipPilotSeat.generalRules.rulesStrings.0>subject->船舶导航</ShipPilotSeat.generalRules.rulesStrings.0>
+    <ShipPilotSeat.generalRules.rulesStrings.1>subject_story->在一次飞船意外着陆中幸存下来，且决定下次要再做一次</ShipPilotSeat.generalRules.rulesStrings.1>
+    <ShipPilotSeat.generalRules.rulesStrings.2>subject_story->超控舰船的目标计算机，用一枚鱼雷精确地摧毁敌方的巨型建筑</ShipPilotSeat.generalRules.rulesStrings.2>
+    <ShipPilotSeat.generalRules.rulesStrings.3>subject_story->谨慎规画了一条穿过伊什瓦拉星球那致密的碎片场的航线</ShipPilotSeat.generalRules.rulesStrings.3>
+    <ShipPilotSeat.generalRules.rulesStrings.4>subject_gerund->手动驾驶飞船</ShipPilotSeat.generalRules.rulesStrings.4>
+
+    <ShipComputerCore.label>船舶电脑核心</ShipComputerCore.label>
+    <ShipComputerCore.description>允许将现有的人格AI强制转换为可用于引导船舶的电脑核心。</ShipComputerCore.description>
+
+    <ShipAvatarCasket.label>来世棺材</ShipAvatarCasket.label>
+    <ShipAvatarCasket.description>利用纳米机械分解一个生物的尸体，并创造一种仿制其生物功能的形态凝胶，使已死之人再活一次。</ShipAvatarCasket.description>
+    <ShipAvatarCasket.generalRules.rulesStrings.0>subject->仿生纳米机械蜂群</ShipAvatarCasket.generalRules.rulesStrings.0>
+    <ShipAvatarCasket.generalRules.rulesStrings.1>subject->心灵神经基质重建</ShipAvatarCasket.generalRules.rulesStrings.1>
+    <ShipAvatarCasket.generalRules.rulesStrings.2>subject_story->在姚博士进行初期微械凝胶体实验期间，曾在神化号空间站上任职</ShipAvatarCasket.generalRules.rulesStrings.2>
+    <ShipAvatarCasket.generalRules.rulesStrings.3>subject_story->经营一个闪耀世界的来世墓地，使已死之人可以以微型凝胶体的形式再活一次</ShipAvatarCasket.generalRules.rulesStrings.3>
+    <ShipAvatarCasket.generalRules.rulesStrings.4>subject_story->在一场致死事故之后，他作为微械凝胶体花了几个世纪的时间，试图理解这种新的存在形式</ShipAvatarCasket.generalRules.rulesStrings.4>
+    <ShipAvatarCasket.generalRules.rulesStrings.5>subject_gerund->使死者重生为微械凝胶体</ShipAvatarCasket.generalRules.rulesStrings.5>
+
+    <ShipSensorCluster.label>基础传感器</ShipSensorCluster.label>
+    <ShipSensorCluster.description>为飞船建造一个基础集成传感器，使其能够进行基本导航和观察地表指定区域。</ShipSensorCluster.description>
+
+    <ShipSensorClusterAdv.label>先进传感器</ShipSensorClusterAdv.label>
+    <ShipSensorClusterAdv.description>为飞船建造一个先进集成传感器，使其能够自动扫描敌舰内部。</ShipSensorClusterAdv.description>
+    <ShipSensorClusterAdv.generalRules.rulesStrings.0>subject->舰船战术情报</ShipSensorClusterAdv.generalRules.rulesStrings.0>
+    <ShipSensorClusterAdv.generalRules.rulesStrings.1>subject_story->使用尖端的传感器支援跳帮行动，指挥海军陆战队切断了脆弱的热能导管</ShipSensorClusterAdv.generalRules.rulesStrings.1>
+    <ShipSensorClusterAdv.generalRules.rulesStrings.2>subject_story->痴迷于窥探神秘的超凡科技无人机的机身</ShipSensorClusterAdv.generalRules.rulesStrings.2>
+    <ShipSensorClusterAdv.generalRules.rulesStrings.3>subject_story->担任一支小型海贼猎人舰队的指挥官，利用先进的传感器避免开火击中海盗囚禁人质的舱室</ShipSensorClusterAdv.generalRules.rulesStrings.3>
+    <ShipSensorClusterAdv.generalRules.rulesStrings.4>subject_gerund->扫描敌舰</ShipSensorClusterAdv.generalRules.rulesStrings.4>
+    <ShipSensorClusterAdv.generalRules.rulesStrings.5>subject_gerund->建造船舶传感器</ShipSensorClusterAdv.generalRules.rulesStrings.5>
+
+    <ShipLifeSupport.label>生命支持系统</ShipLifeSupport.label>
+    <ShipLifeSupport.description>循环氧气以保持非休眠殖民者的生命。</ShipLifeSupport.description>
+    <ShipLifeSupport.generalRules.rulesStrings.0>subject->船舶生命支持系统</ShipLifeSupport.generalRules.rulesStrings.0>
+    <ShipLifeSupport.generalRules.rulesStrings.1>subject_story->通过改良产氧藻类的基因，挽救了一艘发生缺氧事故的早期飞船。</ShipLifeSupport.generalRules.rulesStrings.1>
+    <ShipLifeSupport.generalRules.rulesStrings.2>subject_story->在得知飞船的饮用水是通过汗水和污水回收出来的后，选择拒绝乘坐飞船旅行。</ShipLifeSupport.generalRules.rulesStrings.2>
+    <ShipLifeSupport.generalRules.rulesStrings.3>subject_story->曾在一名吝啬到臭名昭著的飞船船长的麾下服务过，这期间曾有一次不得不使用一只旧袜子拼凑出二氧化碳洗涤器的经历。</ShipLifeSupport.generalRules.rulesStrings.3>
+    <ShipLifeSupport.generalRules.rulesStrings.4>subject_gerund->让封闭环境维持宜居状态的条件</ShipLifeSupport.generalRules.rulesStrings.4>
+
+    <ShipSpaceSuits.label>舱外活动装备</ShipSpaceSuits.label>
+    <ShipSpaceSuits.description>内置有自给自足的生命支持系统，使殖民者能够在外太空中生存。</ShipSpaceSuits.description>
+    <ShipSpaceSuits.generalRules.rulesStrings.0>subject->舱外活动装备</ShipSpaceSuits.generalRules.rulesStrings.0>
+    <ShipSpaceSuits.generalRules.rulesStrings.1>subject_story->费了很大劲才发现人类眼球对真空的反应</ShipSpaceSuits.generalRules.rulesStrings.1>
+    <ShipSpaceSuits.generalRules.rulesStrings.2>subject_story->带领着一个游牧小行星矿工部落，他们将自己的太空服奉为祖传之宝。</ShipSpaceSuits.generalRules.rulesStrings.2>
+    <ShipSpaceSuits.generalRules.rulesStrings.3>subject_story->组织了受损的卡吕普索号客轮的撤离行动</ShipSpaceSuits.generalRules.rulesStrings.3>
+    <ShipSpaceSuits.generalRules.rulesStrings.4>subject_gerund->让人类在真空中存活</ShipSpaceSuits.generalRules.rulesStrings.4>
+
+    <ShipSpaceSuitsHeavy.label>EVA动力装甲</ShipSpaceSuitsHeavy.label>
+    <ShipSpaceSuitsHeavy.description>将生命维持技术应用于动力装甲，生产一种能使穿戴者在外太空中生存的装甲服。</ShipSpaceSuitsHeavy.description>
+    <ShipSpaceSuitsHeavy.generalRules.rulesStrings.0>subject->EVA动力装甲</ShipSpaceSuitsHeavy.generalRules.rulesStrings.0>
+    <ShipSpaceSuitsHeavy.generalRules.rulesStrings.1>subject_story->在索菲亚门达陷落期间担任帝国巡逻舰的军需官</ShipSpaceSuitsHeavy.generalRules.rulesStrings.1>
+    <ShipSpaceSuitsHeavy.generalRules.rulesStrings.2>subject_story->得益于装甲上的特殊改造，他成了对抗机械体球形战舰的一次跳帮行动中的唯一幸存者</ShipSpaceSuitsHeavy.generalRules.rulesStrings.2>
+    <ShipSpaceSuitsHeavy.generalRules.rulesStrings.3>subject_story->大胆地登上了海盗旗舰，并单人战胜了海盗领主姆博科</ShipSpaceSuitsHeavy.generalRules.rulesStrings.3>
+    <ShipSpaceSuitsHeavy.generalRules.rulesStrings.4>subject_gerund->优化动力装甲在真空中的性能</ShipSpaceSuitsHeavy.generalRules.rulesStrings.4>
+
+    <Crittersleep.label>动物低温休眠舱</Crittersleep.label>
+    <Crittersleep.description>解锁建造用于小型动物休眠的休眠舱，可以容纳多指小动物，以及用于存放蛋的休眠卵箱。</Crittersleep.description>
+    <Crittersleep.generalRules.rulesStrings.0>subject->小型动物低温休眠舱</Crittersleep.generalRules.rulesStrings.0>
+    <Crittersleep.generalRules.rulesStrings.1>subject_story->研究过一个人类与其宠物分离所产生的心理影响</Crittersleep.generalRules.rulesStrings.1>
+    <Crittersleep.generalRules.rulesStrings.2>subject_story->在疏散一个注定要灭亡的殖民地时，拒绝把猫丢下</Crittersleep.generalRules.rulesStrings.2>
+    <Crittersleep.generalRules.rulesStrings.3>subject_story->通过对大型低温休眠舱使用生物检测器技术将其小型化</Crittersleep.generalRules.rulesStrings.3>
+    <Crittersleep.generalRules.rulesStrings.4>subject_gerund->将更多小动物塞进低温休眠舱</Crittersleep.generalRules.rulesStrings.4>
+
+    <ShipCryptosleep.label>逃生舱</ShipCryptosleep.label>
+    <ShipCryptosleep.description>设计可用于载入大气低温休眠舱，且不需要人工手动开启。建议在任何飞船上都至少装备一个这样的设备。</ShipCryptosleep.description>
+    <ShipCryptosleep.generalRules.rulesStrings.0>subject->飞船低温休眠舱</ShipCryptosleep.generalRules.rulesStrings.0>
+    <ShipCryptosleep.generalRules.rulesStrings.1>subject_story->替换了CMC塞斯莱特号上故障的低温休眠舱，使这艘老式飞船得以重新使用。</ShipCryptosleep.generalRules.rulesStrings.1>
+    <ShipCryptosleep.generalRules.rulesStrings.2>subject_story->在深空中被意外驱逐，靠着自制的低温休眠舱生存了两个月</ShipCryptosleep.generalRules.rulesStrings.2>
+    <ShipCryptosleep.generalRules.rulesStrings.3>subject_story->关于行星级和飞船级设备之间的区别展开了一场讲座</ShipCryptosleep.generalRules.rulesStrings.3>
+    <ShipCryptosleep.generalRules.rulesStrings.4>subject_gerund->建造皮实耐用的低温休眠舱</ShipCryptosleep.generalRules.rulesStrings.4>
+
+    <ShipCapacitor.label>电容器阵列</ShipCapacitor.label>
+    <ShipCapacitor.description>利用金属塑料的介电特性来实现高效且高容量的储能。</ShipCapacitor.description>
+    <ShipCapacitor.generalRules.rulesStrings.0>subject->先进能源存储</ShipCapacitor.generalRules.rulesStrings.0>
+    <ShipCapacitor.generalRules.rulesStrings.1>subject_story->厌倦了随时可能爆炸的电池</ShipCapacitor.generalRules.rulesStrings.1>
+    <ShipCapacitor.generalRules.rulesStrings.2>subject_story->在这个地区的主反应堆失效后，该燃料加工平台改用太阳能维持运行</ShipCapacitor.generalRules.rulesStrings.2>
+    <ShipCapacitor.generalRules.rulesStrings.3>subject_story->在一次悲剧性的电缆爆炸事故后，执着于研究如何安全的为舰载武器供能</ShipCapacitor.generalRules.rulesStrings.3>
+    <ShipCapacitor.generalRules.rulesStrings.4>subject_gerund->为飞船提供动力</ShipCapacitor.generalRules.rulesStrings.4>
+
+    <ShipShields.label>舰载护盾发生器</ShipShields.label>
+    <ShipShields.description>利用动能斥力场来保护你的舰船。</ShipShields.description>
+    <ShipShields.generalRules.rulesStrings.0>subject->飞船护盾</ShipShields.generalRules.rulesStrings.0>
+    <ShipShields.generalRules.rulesStrings.1>subject_story->帮助后启示录星球伊什瓦拉的人们恢复了太空航行的能力，并设计了一种能够经受住其轨道上空间碎片带的撞击的护盾装置</ShipShields.generalRules.rulesStrings.1>
+    <ShipShields.generalRules.rulesStrings.2>subject_story->调整一艘军舰的护盾，以保护行星表面的定居点免受太阳耀斑的影响</ShipShields.generalRules.rulesStrings.2>
+    <ShipShields.generalRules.rulesStrings.3>subject_story->写了一篇具有影响力的论文，其中探讨了使用护盾来使入射的激光发生红移</ShipShields.generalRules.rulesStrings.3>
+    <ShipShields.generalRules.rulesStrings.4>subject_gerund->建造船舶护盾发生器</ShipShields.generalRules.rulesStrings.4>
+
+    <ShipCloaking.label>隐形装置</ShipCloaking.label>
+    <ShipCloaking.description>隐藏舰船的热发射源以防止敌人注意到你。</ShipCloaking.description>
+    <ShipCloaking.generalRules.rulesStrings.0>subject->隐形技术</ShipCloaking.generalRules.rulesStrings.0>
+    <ShipCloaking.generalRules.rulesStrings.1>subject_story->帮助数千名难民成功穿过帝国的封锁线</ShipCloaking.generalRules.rulesStrings.1>
+    <ShipCloaking.generalRules.rulesStrings.2>subject_story->从一艘隐形舰船中收集情报</ShipCloaking.generalRules.rulesStrings.2>
+    <ShipCloaking.generalRules.rulesStrings.3>subject_story->厌倦了在边缘世界行星的轨道上时常发生的海盗袭击事件</ShipCloaking.generalRules.rulesStrings.3>
+    <ShipCloaking.generalRules.rulesStrings.4>subject_gerund->隐藏飞船使其不被发现</ShipCloaking.generalRules.rulesStrings.4>
+
+    <HullFoam.label>修补泡沫</HullFoam.label>
+    <HullFoam.description>解锁制作船体修补泡沫，一种可喷涂并硬化成气密墙的物质。用于快速填补飞船上的漏洞。</HullFoam.description>
+    <HullFoam.generalRules.rulesStrings.0>subject->船舶紧急维修</HullFoam.generalRules.rulesStrings.0>
+    <HullFoam.generalRules.rulesStrings.1>subject_story->通过使用船舶修补泡沫填堵走廊，成功抵挡了海盗跳帮队</HullFoam.generalRules.rulesStrings.1>
+    <HullFoam.generalRules.rulesStrings.2>subject_story->通过修复减速推进期间遭受的结构损坏，挽救了一艘老式飞船</HullFoam.generalRules.rulesStrings.2>
+    <HullFoam.generalRules.rulesStrings.3>subject_story->在惨遭辐射暴露后，变得执迷于用各种保护层包裹飞船</HullFoam.generalRules.rulesStrings.3>
+    <HullFoam.generalRules.rulesStrings.4>subject_gerund->修补船上的洞</HullFoam.generalRules.rulesStrings.4>
+
+    <ShipSalvageBay.label>打捞港</ShipSalvageBay.label>
+    <ShipSalvageBay.description>利用自动龙门架和大群牵引无人机，快速将舰船战斗后的残骸捞回来。</ShipSalvageBay.description>
+    <ShipSalvageBay.generalRules.rulesStrings.0>subject->外层空间打捞作业</ShipSalvageBay.generalRules.rulesStrings.0>
+    <ShipSalvageBay.generalRules.rulesStrings.1>subject_story->运营着一支游走在法律灰色地带的打捞船队，专门打捞太空战斗留下的残骸</ShipSalvageBay.generalRules.rulesStrings.1>
+    <ShipSalvageBay.generalRules.rulesStrings.2>subject_story->将几艘被俘舰船焊接为一个笨重的整体</ShipSalvageBay.generalRules.rulesStrings.2>
+    <ShipSalvageBay.generalRules.rulesStrings.3>subject_story->曾在一位AI舰长的指挥下工作，那位舰长对”吞噬“被打败的舰船有种奇特的兴趣</ShipSalvageBay.generalRules.rulesStrings.3>
+    <ShipSalvageBay.generalRules.rulesStrings.4>subject_gerund->打捞沉船</ShipSalvageBay.generalRules.rulesStrings.4>
+
+    <ShipSalvageBayGlitter.label>闪耀科技打捞港</ShipSalvageBayGlitter.label>
+    <ShipSalvageBayGlitter.description>利用反向JT光束快速将舰船战斗后的漂浮物捞回来。\n注：实际建造打捞港将需要一个纠缠流形，这是个非常罕见的先进组件。</ShipSalvageBayGlitter.description>
+    <ShipSalvageBayGlitter.generalRules.rulesStrings.0>subject->约翰逊-田中理论</ShipSalvageBayGlitter.generalRules.rulesStrings.0>
+    <ShipSalvageBayGlitter.generalRules.rulesStrings.1>subject->外来动量转换</ShipSalvageBayGlitter.generalRules.rulesStrings.1>
+    <ShipSalvageBayGlitter.generalRules.rulesStrings.2>subject_story->盗取飞船，用安装在小行星上的牵引光束捕捉小型船只</ShipSalvageBayGlitter.generalRules.rulesStrings.2>
+    <ShipSalvageBayGlitter.generalRules.rulesStrings.3>subject_story->打捞了一艘明显是自杀的超凡科技方舟的残骸</ShipSalvageBayGlitter.generalRules.rulesStrings.3>
+    <ShipSalvageBayGlitter.generalRules.rulesStrings.4>subject_story->紧急改装战舰的动力系统，用以拉开鱼雷使其远离易受伤的平民船舶</ShipSalvageBayGlitter.generalRules.rulesStrings.4>
+    <ShipSalvageBayGlitter.generalRules.rulesStrings.5>subject_gerund->打捞飞船残骸</ShipSalvageBayGlitter.generalRules.rulesStrings.5>
+
+    <ShipShuttleBay.label>穿梭机港</ShipShuttleBay.label>
+    <ShipShuttleBay.description>解锁建造穿梭机停靠港，用于运送货物和进出舰船。</ShipShuttleBay.description>
+    <ShipShuttleBay.generalRules.rulesStrings.0>subject->空间交会对接</ShipShuttleBay.generalRules.rulesStrings.0>
+    <ShipShuttleBay.generalRules.rulesStrings.1>subject_story->由于等离子屏障故障而遭受失压伤害</ShipShuttleBay.generalRules.rulesStrings.1>
+    <ShipShuttleBay.generalRules.rulesStrings.2>subject_story->在一家轨道奴隶贩子公司负责“货物采购”</ShipShuttleBay.generalRules.rulesStrings.2>
+    <ShipShuttleBay.generalRules.rulesStrings.3>subject_story->将巨量财富浪费在了一支竞速飞船队伍上</ShipShuttleBay.generalRules.rulesStrings.3>
+    <ShipShuttleBay.generalRules.rulesStrings.4>subject_gerund->在飞船上着陆穿梭机</ShipShuttleBay.generalRules.rulesStrings.4>
+
+    <ShuttlePersonal.label>个人穿梭机</ShuttlePersonal.label>
+    <ShuttlePersonal.description>解锁建造能够抵达轨道的简易单人穿梭机。</ShuttlePersonal.description>
+    <ShuttlePersonal.generalRules.rulesStrings.0>subject->简易个人穿梭机</ShuttlePersonal.generalRules.rulesStrings.0>
+    <ShuttlePersonal.generalRules.rulesStrings.1>subject_story->运营一个快递服务，将贵宾的贵重货物运送到轨道上</ShuttlePersonal.generalRules.rulesStrings.1>
+    <ShuttlePersonal.generalRules.rulesStrings.2>subject_story->在本书是在一个计算错误的发射轨道上，饥寒交迫的状态下写的</ShuttlePersonal.generalRules.rulesStrings.2>
+    <ShuttlePersonal.generalRules.rulesStrings.3>subject_story->信奉一个排斥核技术，更乐意使用简单的化学火箭的意识形态</ShuttlePersonal.generalRules.rulesStrings.3>
+    <ShuttlePersonal.generalRules.rulesStrings.4>subject_gerund->建造基础的穿梭机</ShuttlePersonal.generalRules.rulesStrings.4>
+
+    <ShuttleCargo.label>穿梭机</ShuttleCargo.label>
+    <ShuttleCargo.description>解锁建造使用微型化船舶组件技术模块化穿梭机。只要相应的技术被研究出来，就可以对其进行改装升级。</ShuttleCargo.description>
+    <ShuttleCargo.generalRules.rulesStrings.0>subject->模块化穿梭机</ShuttleCargo.generalRules.rulesStrings.0>
+    <ShuttleCargo.generalRules.rulesStrings.1>subject_story->曾在帝国海军部队中担任穿梭机维修工，为特定任务优化了船底结构</ShuttleCargo.generalRules.rulesStrings.1>
+    <ShuttleCargo.generalRules.rulesStrings.2>subject_story->搭乘改装后的货运穿梭机执行拦截任务</ShuttleCargo.generalRules.rulesStrings.2>
+    <ShuttleCargo.generalRules.rulesStrings.3>subject_story->通过对核能推进器进行临时修补而成功逃脱海盗的囚禁</ShuttleCargo.generalRules.rulesStrings.3>
+    <ShuttleCargo.generalRules.rulesStrings.4>subject_gerund->建造模块化穿梭机</ShuttleCargo.generalRules.rulesStrings.4>
+
+    <ShuttleHeavy.label>重型穿梭机</ShuttleHeavy.label>
+    <ShuttleHeavy.description>设计一个更大的穿梭机底盘，使穿梭机能够运输更多货物的同时还能多安装一个炮塔。</ShuttleHeavy.description>
+    <ShuttleHeavy.generalRules.rulesStrings.0>subject->重型穿梭机</ShuttleHeavy.generalRules.rulesStrings.0>
+    <ShuttleHeavy.generalRules.rulesStrings.1>subject_story->在古洛多IX的地壳变得不稳定时，及时疏散了在洞穴中生活的殖民者</ShuttleHeavy.generalRules.rulesStrings.1>
+    <ShuttleHeavy.generalRules.rulesStrings.2>subject_story->对敌舰进行轰炸任务</ShuttleHeavy.generalRules.rulesStrings.2>
+    <ShuttleHeavy.generalRules.rulesStrings.3>subject_story->声称有个超凡科技在其梦中低语“把这玩意儿做大点”</ShuttleHeavy.generalRules.rulesStrings.3>
+    <ShuttleHeavy.generalRules.rulesStrings.4>subject_gerund->建造重型穿梭机</ShuttleHeavy.generalRules.rulesStrings.4>
+
+    <ShuttleDropship.label>超重型穿梭机</ShuttleDropship.label>
+    <ShuttleDropship.description>解锁建造目前最流行的超大型穿梭机，其通常会被用作重型战斗机或海军空降船</ShuttleDropship.description>
+    <ShuttleDropship.generalRules.rulesStrings.0>subject->超重型穿梭机</ShuttleDropship.generalRules.rulesStrings.0>
+    <ShuttleDropship.generalRules.rulesStrings.1>subject_story->目睹过一个AI人格通过逃亡太空寻求自主权</ShuttleDropship.generalRules.rulesStrings.1>
+    <ShuttleDropship.generalRules.rulesStrings.2>subject_story->曾在索菲亚门达陷落期间，带领一支跳帮队重创了帝国旗舰</ShuttleDropship.generalRules.rulesStrings.2>
+    <ShuttleDropship.generalRules.rulesStrings.3>subject_story->认为现有的穿梭机都不够大</ShuttleDropship.generalRules.rulesStrings.3>
+    <ShuttleDropship.generalRules.rulesStrings.4>subject_gerund->建造超重型穿梭机</ShuttleDropship.generalRules.rulesStrings.4>
+
+    <ShipTurretAC.label>舰载机炮</ShipTurretAC.label>
+    <ShipTurretAC.description>解锁建造小型舰对舰实弹武器。与能量武器不同，这种武器需要弹药但几乎不产生热量。</ShipTurretAC.description>
+    <ShipTurretAC.generalRules.rulesStrings.0>subject->舰载机炮</ShipTurretAC.generalRules.rulesStrings.0>
+    <ShipTurretAC.generalRules.rulesStrings.1>subject_story->认为能量武器是复杂且没必要的，更喜欢金属间的撞击带来的效果</ShipTurretAC.generalRules.rulesStrings.1>
+    <ShipTurretAC.generalRules.rulesStrings.2>subject_story->用草率组装的民用飞船绝望地对抗海盗的堡垒</ShipTurretAC.generalRules.rulesStrings.2>
+    <ShipTurretAC.generalRules.rulesStrings.3>subject_story->意外订购了一大堆的铀且船上反应堆无法消化，然后找到了一种使用方式</ShipTurretAC.generalRules.rulesStrings.3>
+    <ShipTurretAC.generalRules.rulesStrings.4>subject_gerund->建造舰载机炮</ShipTurretAC.generalRules.rulesStrings.4>
+
+    <ShipTurretLaser.label>舰载激光炮</ShipTurretLaser.label>
+    <ShipTurretLaser.description>解锁建造小型舰对舰激光武器。具有高破坏力但仅能在短距离使用。可拦截鱼雷。</ShipTurretLaser.description>
+    <ShipTurretLaser.generalRules.rulesStrings.0>subject->舰载激光炮</ShipTurretLaser.generalRules.rulesStrings.0>
+    <ShipTurretLaser.generalRules.rulesStrings.1>subject_story->为了得到激光武器的秘密向一个超凡科技献出了一只眼睛(然后又因为激光反射失去了另一只眼睛)</ShipTurretLaser.generalRules.rulesStrings.1>
+    <ShipTurretLaser.generalRules.rulesStrings.2>subject_story->使用改装过的开采激光击穿了一艘机械体突击船的装甲</ShipTurretLaser.generalRules.rulesStrings.2>
+    <ShipTurretLaser.generalRules.rulesStrings.3>subject_story->震惊并感到厌恶地得知激光实际上并不会发出“咻咻”声</ShipTurretLaser.generalRules.rulesStrings.3>
+    <ShipTurretLaser.generalRules.rulesStrings.4>subject_gerund->建造舰载激光炮</ShipTurretLaser.generalRules.rulesStrings.4>
+
+    <ShipTurretPlasma.label>舰载等离子炮</ShipTurretPlasma.label>
+    <ShipTurretPlasma.description>解锁建造小型舰对舰等离子武器。这种各方面性能平衡的武器适合在中距离作战使用。</ShipTurretPlasma.description>
+    <ShipTurretPlasma.generalRules.rulesStrings.0>subject->舰载等离子炮</ShipTurretPlasma.generalRules.rulesStrings.0>
+    <ShipTurretPlasma.generalRules.rulesStrings.1>subject_story->通过释放军舰聚变反应堆中的等离子体，摧毁了敌方的登陆舰</ShipTurretPlasma.generalRules.rulesStrings.1>
+    <ShipTurretPlasma.generalRules.rulesStrings.2>subject_story->试图证明高温等离子体不应该是绿色的期间疯了</ShipTurretPlasma.generalRules.rulesStrings.2>
+    <ShipTurretPlasma.generalRules.rulesStrings.3>subject_story->生成是从一颗智慧星球那里学到了这项技术，这颗星球内部的等离子丝状物构成了其神经系统</ShipTurretPlasma.generalRules.rulesStrings.3>
+    <ShipTurretPlasma.generalRules.rulesStrings.4>subject_gerund->建造舰载等离子炮</ShipTurretPlasma.generalRules.rulesStrings.4>
+
+    <ShipTurretKinetic.label>舰载轨道炮</ShipTurretKinetic.label>
+    <ShipTurretKinetic.description>解锁建造小型舰对舰电磁加速武器。在长距离作战中最有效。</ShipTurretKinetic.description>
+    <ShipTurretKinetic.generalRules.rulesStrings.0>subject->舰载轨道炮</ShipTurretKinetic.generalRules.rulesStrings.0>
+    <ShipTurretKinetic.generalRules.rulesStrings.1>subject_story->不情愿的参加了一场超凡科技之间的竞技游戏，祂们比拼的竟然是在尽可能远的距离瞄准一艘人类飞船</ShipTurretKinetic.generalRules.rulesStrings.1>
+    <ShipTurretKinetic.generalRules.rulesStrings.2>subject_story->通过将受害者的骨灰加速至相对论速度，象征性地报复了索菲安舰队</ShipTurretKinetic.generalRules.rulesStrings.2>
+    <ShipTurretKinetic.generalRules.rulesStrings.3>subject_story->通过操作月球采矿设施的大型驱动器，将氦-3存储容器发射到精确的轨道中</ShipTurretKinetic.generalRules.rulesStrings.3>
+    <ShipTurretKinetic.generalRules.rulesStrings.4>subject_gerund->建造舰载轨道炮</ShipTurretKinetic.generalRules.rulesStrings.4>
+
+    <ShipHeatsink.label>船舶热容系统</ShipHeatsink.label>
+    <ShipHeatsink.description>通过将热量传到到散热器中，使你的舰船武器和护盾能保持更长时间的运作。</ShipHeatsink.description>
+    <ShipHeatsink.generalRules.rulesStrings.0>subject->飞船热容系统</ShipHeatsink.generalRules.rulesStrings.0>
+    <ShipHeatsink.generalRules.rulesStrings.1>subject_story->在冷却剂过压事件中遭到了毁容性烧伤</ShipHeatsink.generalRules.rulesStrings.1>
+    <ShipHeatsink.generalRules.rulesStrings.2>subject_story->抓住了具有较高的热容量的特点配以策略性地排热，耗死了一艘敌舰</ShipHeatsink.generalRules.rulesStrings.2>
+    <ShipHeatsink.generalRules.rulesStrings.3>subject_story->通过战略性地破坏散热器，领导了船上的格莱姆林劳工们的叛变</ShipHeatsink.generalRules.rulesStrings.3>
+    <ShipHeatsink.generalRules.rulesStrings.4>subject_gerund->存储飞船上的热量</ShipHeatsink.generalRules.rulesStrings.4>
+
+    <ShipHeatManifold.label>紧急排热端口</ShipHeatManifold.label>
+    <ShipHeatManifold.description>解锁建造将携带热量的熔融银喷射入太空，以达成快速排热目的装置。</ShipHeatManifold.description>
+    <ShipHeatManifold.generalRules.rulesStrings.0>subject->紧急排热端口</ShipHeatManifold.generalRules.rulesStrings.0>
+    <ShipHeatManifold.generalRules.rulesStrings.1>subject_story->在一艘痴迷于应急计划的AI的船上服役</ShipHeatManifold.generalRules.rulesStrings.1>
+    <ShipHeatManifold.generalRules.rulesStrings.2>subject_story->信奉一种视钱财如粪土的意识形态</ShipHeatManifold.generalRules.rulesStrings.2>
+    <ShipHeatManifold.generalRules.rulesStrings.3>subject_story->对伊什瓦拉海军的座右铭“不惜一切代价去争取胜利”的理解过于片面</ShipHeatManifold.generalRules.rulesStrings.3>
+    <ShipHeatManifold.generalRules.rulesStrings.4>subject_gerund->快速排出飞船上的热量</ShipHeatManifold.generalRules.rulesStrings.4>
+
+    <ShipTurretMedium.label>巡洋舰武器</ShipTurretMedium.label>
+    <ShipTurretMedium.description>解锁建造大型舰炮，适合中等体积的战舰。</ShipTurretMedium.description>
+    <ShipTurretMedium.generalRules.rulesStrings.0>subject->巡洋舰武器</ShipTurretMedium.generalRules.rulesStrings.0>
+    <ShipTurretMedium.generalRules.rulesStrings.1>subject_story->被囚禁在两个对立星球之间的军备竞赛中，被迫为对立方设计飞船舰载武器</ShipTurretMedium.generalRules.rulesStrings.1>
+    <ShipTurretMedium.generalRules.rulesStrings.2>subject_story->监督将一艘星际客轮改装成战舰</ShipTurretMedium.generalRules.rulesStrings.2>
+    <ShipTurretMedium.generalRules.rulesStrings.3>subject_story->在索菲亚门达陷落期间领导奴隶起义，临时制造出足够威胁帝国战舰的武器</ShipTurretMedium.generalRules.rulesStrings.3>
+    <ShipTurretMedium.generalRules.rulesStrings.4>subject_gerund->建造巡洋舰武器</ShipTurretMedium.generalRules.rulesStrings.4>
+
+    <ShipTurretLarge.label>主力舰武器</ShipTurretLarge.label>
+    <ShipTurretLarge.description>解锁建造模块化的脊峰武器，其通常只在主力舰上能看到。</ShipTurretLarge.description>
+    <ShipTurretLarge.generalRules.rulesStrings.0>subject->脊峰武器</ShipTurretLarge.generalRules.rulesStrings.0>
+    <ShipTurretLarge.generalRules.rulesStrings.1>subject_story->曾在伊什瓦拉古老的最后一战中奋勇作战，使用基于小行星的武器对抗机械体那数量庞大到令人绝望的登陆舰</ShipTurretLarge.generalRules.rulesStrings.1>
+    <ShipTurretLarge.generalRules.rulesStrings.2>subject_story->曾在审判号星际战舰上服役，这是一艘由超凡科技建造的飞船，据说其主炮有数公里长</ShipTurretLarge.generalRules.rulesStrings.2>
+    <ShipTurretLarge.generalRules.rulesStrings.3>subject_story->追随着一种古怪的意识形态，其信条规定飞船上只能携带一种类型的武器</ShipTurretLarge.generalRules.rulesStrings.3>
+    <ShipTurretLarge.generalRules.rulesStrings.4>subject_gerund->建造脊峰武器</ShipTurretLarge.generalRules.rulesStrings.4>
+
+    <ShipTorpedoes.label>舰载鱼雷</ShipTorpedoes.label>
+    <ShipTorpedoes.description>向敌舰发射能有效压制护盾的鱼雷。</ShipTorpedoes.description>
+    <ShipTorpedoes.generalRules.rulesStrings.0>subject->太空鱼雷</ShipTorpedoes.generalRules.rulesStrings.0>
+    <ShipTorpedoes.generalRules.rulesStrings.1>subject_story->控制了闪耀世界的一座反粒子生产设施，并将其产出转向制造反粒子鱼雷</ShipTorpedoes.generalRules.rulesStrings.1>
+    <ShipTorpedoes.generalRules.rulesStrings.2>subject_story->传言他是骑着鱼雷还挥舞着牛仔帽时去世的</ShipTorpedoes.generalRules.rulesStrings.2>
+    <ShipTorpedoes.generalRules.rulesStrings.3>subject_story->开发了激光反射涂层，提高了鱼雷在点防御系统范围内的生存率</ShipTorpedoes.generalRules.rulesStrings.3>
+    <ShipTorpedoes.generalRules.rulesStrings.4>subject_gerund->发射太空鱼雷</ShipTorpedoes.generalRules.rulesStrings.4>
+
+    <Holodeck_Basic.label>基础全息投影仪</Holodeck_Basic.label>
+    <Holodeck_Basic.description>一个用简单部件组装的娱乐用全息投影仪</Holodeck_Basic.description>
+    <Holodeck_Basic.generalRules.rulesStrings.0>subject->基础全息投影仪</Holodeck_Basic.generalRules.rulesStrings.0>
+    <Holodeck_Basic.generalRules.rulesStrings.1>subject_story->寻求摆脱在后启示录星球伊什瓦拉上时而无聊时而恐惧的生活</Holodeck_Basic.generalRules.rulesStrings.1>
+    <Holodeck_Basic.generalRules.rulesStrings.2>subject_story->声称全息影像模拟实际上就是“要花额外步骤的游戏操纵杆”，但还是选择造出这东西</Holodeck_Basic.generalRules.rulesStrings.2>
+    <Holodeck_Basic.generalRules.rulesStrings.3>subject_story->想尝试一些现实中身体无法做到的行为，最好是写出来能给读者留念想的那种</Holodeck_Basic.generalRules.rulesStrings.3>
+    <Holodeck_Basic.generalRules.rulesStrings.4>subject_gerund->建造基础全息投影仪</Holodeck_Basic.generalRules.rulesStrings.4>
+
+    <Holodeck_Standard.label>先进全息投影仪</Holodeck_Standard.label>
+    <Holodeck_Standard.description>使用先进的高分辨率技术建造的一个改进版全息投影仪。</Holodeck_Standard.description>
+    <Holodeck_Standard.generalRules.rulesStrings.0>subject->先进全息投影仪</Holodeck_Standard.generalRules.rulesStrings.0>
+    <Holodeck_Standard.generalRules.rulesStrings.1>subject_story->为外科医生和工程师设计培训模拟系统</Holodeck_Standard.generalRules.rulesStrings.1>
+    <Holodeck_Standard.generalRules.rulesStrings.2>subject_story->声称全息影像模拟是AI为了让人类逐渐脱离现实而策划的阴谋</Holodeck_Standard.generalRules.rulesStrings.2>
+    <Holodeck_Standard.generalRules.rulesStrings.3>subject_story->监督了一个隐秘的阴谋的策划，该计划通过将人们的性生活转向虚拟伴侣来减少一个星球的人口</Holodeck_Standard.generalRules.rulesStrings.3>
+    <Holodeck_Standard.generalRules.rulesStrings.4>subject_gerund->建造全息投影仪</Holodeck_Standard.generalRules.rulesStrings.4>
+
+    <Holodeck_AI.label>智能全息投影仪</Holodeck_AI.label>
+    <Holodeck_AI.description>利用人格AI来为你的殖民者创造无穷无尽且十分有趣的模拟游戏。</Holodeck_AI.description>
+    <Holodeck_AI.generalRules.rulesStrings.0>subject->智能全息投影仪</Holodeck_AI.generalRules.rulesStrings.0>
+    <Holodeck_AI.generalRules.rulesStrings.1>subject_story->声称最高形式的艺术是创造一个可以让人们完全沉浸其中的世界</Holodeck_AI.generalRules.rulesStrings.1>
+    <Holodeck_AI.generalRules.rulesStrings.2>subject_story->警告称，全息投影模拟舱的机器人必需监测用户是否存在上瘾倾向</Holodeck_AI.generalRules.rulesStrings.2>
+    <Holodeck_AI.generalRules.rulesStrings.3>subject_story->领导了所谓的塔耳塔洛斯计划，该计划旨在让犯罪分子处于可人为创作出的无尽的痛苦状态</Holodeck_AI.generalRules.rulesStrings.3>
+    <Holodeck_AI.generalRules.rulesStrings.4>subject_gerund->强迫人格AI用于娱乐目的</Holodeck_AI.generalRules.rulesStrings.4>
+
+    <ResearchShipDebugItems.label>调试用物品</ResearchShipDebugItems.label>
+    <ResearchShipDebugItems.description>调试 - 能使你的殖民者在基本的计算机辅助下驾驶一艘船。</ResearchShipDebugItems.description>
+    <ResearchShipDebugItems.generalRules.rulesStrings.0>subject->船舶导航</ResearchShipDebugItems.generalRules.rulesStrings.0>
+    <ResearchShipDebugItems.generalRules.rulesStrings.1>subject_story->在一次飞船意外着陆中幸存下来，且决定下次要再做一次</ResearchShipDebugItems.generalRules.rulesStrings.1>
+    <ResearchShipDebugItems.generalRules.rulesStrings.2>subject_story->超控舰船的目标计算机，用一枚鱼雷精确地摧毁敌方的巨型建筑</ResearchShipDebugItems.generalRules.rulesStrings.2>
+    <ResearchShipDebugItems.generalRules.rulesStrings.3>subject_story->谨慎规画了一条穿过伊什瓦拉星球那致密的碎片场的航线</ResearchShipDebugItems.generalRules.rulesStrings.3>
+    <ResearchShipDebugItems.generalRules.rulesStrings.4>subject_gerund->手动驾驶飞船</ResearchShipDebugItems.generalRules.rulesStrings.4>
+
+</LanguageData>

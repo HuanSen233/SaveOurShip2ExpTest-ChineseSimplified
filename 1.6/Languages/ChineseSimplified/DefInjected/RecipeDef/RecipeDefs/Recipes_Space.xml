@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <MakeHullFoam.label>制作船体修补泡沫</MakeHullFoam.label>
+    <MakeHullFoam.description>制作一个船体修补泡沫。</MakeHullFoam.description>
+    <MakeHullFoam.jobString>制造船体修补泡沫。</MakeHullFoam.jobString>
+
+</LanguageData>

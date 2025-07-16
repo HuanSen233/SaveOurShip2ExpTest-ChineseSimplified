@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- 覆盖 -->
+	<JourneyOffer>一个曾被你起名为沙隆·白石的友好AI向我们发来了一条讯息！\n\n他透露说他在这颗星球上有一艘太空飞船，并把坐标发给了你。\n\n如果你能前往飞船，沙隆会带你进入环绕这颗星球的轨道。在那里，也许你能找到办法来改进飞船的推进器和进行星际旅行。</JourneyOffer>
+	<EscapeShipFoundLabel>发现飞船</EscapeShipFoundLabel>
+	<EscapeShipFound>你抵达了沙隆·白石给你的坐标\n\n飞船早已准备好发射，但是他的化合燃料推进器只能把你送入轨道。你需要设法弄到一个 约翰逊-田中驱动器 ，以此来朝星际旅行的目标更进一步。也许可以在空间碎片中找到线索......</EscapeShipFound>
+	
+	<!-- 事件 -->
+	<SoS.LetterLabelShortCircuitDesc>电力管道的故障引起了短路。\n\n幸运的是，你的电容器的保险丝及时阻止了它放电。</SoS.LetterLabelShortCircuitDesc>
+	<SoS.EncounterStart>残骸点</SoS.EncounterStart>
+	<SoS.EncounterStartDesc>你已接近一个将在 {0} 后落入大气的漂浮物。\n\n你可以派一队船员前去调查或者将它移动到你的地图上。只要将其安全控制，就可以使用打捞港对它进行捕获，然后修复或者拆了重新利用。</SoS.EncounterStartDesc>
+	<SoS.EncounterStartWithBridge>失能的漂浮物</SoS.EncounterStartWithBridge>
+	<SoS.EncounterStartWithBridgeDesc>你已接近一个将于 {0} 后落入大气的漂浮物。\n\n你可以派一队船员前去调查并控制该区域。只要能将其安全控制，就可以现场将它拆解后回收材料。\n\n这个漂浮物内至少存在一个完好无损的领航员控制台或无人船舶核心之类的舰桥建筑。你可以选择让舰桥重新运作并占领，以便进行现场拆解回收工作，或者没得选只能先把舰桥摧毁再管后面的。</SoS.EncounterStartWithBridgeDesc>
+	<SoS.EncounterAmbush>伏击！</SoS.EncounterAmbush>
+	<SoS.EncounterAmbushDesc>当你接近 {0} 时，它开始启动它的护盾和武器\n准备战斗！</SoS.EncounterAmbushDesc>
+	<SoS.CombatStart>舰船战</SoS.CombatStart>
+	<SoS.CombatStartDesc>一艘敌舰正在接近！扫描系统显示这是 {0} 。</SoS.CombatStartDesc>
+	<SoS.CombatFleetDesc>敌方舰队正在接近！</SoS.CombatFleetDesc>
+	<SoS.WinShipBattle>船战胜利</SoS.WinShipBattle>
+	<SoS.WinShipBattleDesc>随着最后一艘敌舰的控制系统被摧毁，它已然成了一块大号的空间碎片。它将在 {0}后落入大气并被其烧毁。\n\n你可以派遣跳帮队登船手动取回货物和俘虏人员，或者使用打捞港将其捕获到你的地图上。两种选择无论哪项都请准备好迎战船上剩余的敌人。</SoS.WinShipBattleDesc>
+	<SoS.WinShipBattleHackDesc>随着最后一艘敌舰的控制系统被夺取，它已然成为了一只待宰羔羊。它将在 {0}后落入大气并被其烧毁。\n\n如果它还有移动能力的话，你可以选择将其连同舰桥一起开回你的地图，或者使用打捞港来捞它回去。</SoS.WinShipBattleHackDesc>
+	<SoS.SpaceAsteroids>小行星区域</SoS.SpaceAsteroids>
+	<SoS.SpaceAsteroidsDesc>飞船已进入小行星区域。发动推进器躲避或者准备撞击！</SoS.SpaceAsteroidsDesc>
+	<SoS.PawnsLostReEntry>落入大气</SoS.PawnsLostReEntry>
+	<SoS.PawnsLostReEntryDesc>这些人和动物因落入大气而被其烧毁：</SoS.PawnsLostReEntryDesc>
+	
+	<!-- 扫描 -->
+	<SoS.TraderScan>检测到商船</SoS.TraderScan>
+	<SoS.TraderScanDesc>{0} 使用舰船的扫描系统检测到附近有一艘商船。你可以使用通讯台呼叫商船来发起贸易，或者在舰桥处选择攻击它。</SoS.TraderScanDesc>
+	<SoS.EnemyScan>检测到舰船</SoS.EnemyScan>
+	<SoS.EnemyScanDesc>{0} 使用舰船的扫描系统检测到附近有一艘舰船。这艘船看起来是 {1} 。它对呼叫没有反应，但也没有进攻的动作。你可以在舰桥处选择攻击它，或者等它和平的离开。</SoS.EnemyScanDesc>
+	<SoS.DerelictScan>检测到残骸</SoS.DerelictScan>
+	<SoS.DerelictScanDesc>{0} 使用舰船的扫描系统检测到附近有一片漂浮物。它看起来像是 {1} 。它似乎因为电力系统下线导致对呼叫没有反应。你可以在舰桥处选择调查它，或者等它落入大气并被烧毁。</SoS.DerelictScanDesc>
+	<SoS.ContentPackDescription>\n这艘船被确认是来自：</SoS.ContentPackDescription>
+	<SoS.FoundOrbitalSite>检测到星际飞船船首！</SoS.FoundOrbitalSite>
+	<SoS.FoundSiteAI>AI扫描</SoS.FoundSiteAI>
+	<SoS.FoundSiteSpecial>{0} 使用舰船的扫描系统检测一个较大且相对完整的空间碎片。它似乎是把你最初的殖民者带到这颗星球的那艘船的一部分！\n\n这可能是你获得一个还在工作的 约翰逊-田中驱动器，甚至拯救仍处于低温休眠中的同伴的最好机会，但无论目的如何都不要低估在那里行动的危险性。</SoS.FoundSiteSpecial>
+	<SoS.FoundSiteSpecialTribal>{0} 使用舰船的扫描系统检测一个较大且相对完整的空间碎片。它很可能是传说中的“浩空旅人”的一部分，就是它把你部落的远祖带到这个世界上！\n\n这可能是你获得一个还在工作的 约翰逊-田中驱动器 的最好机会，但无论目的如何都不要低估在那里行动的危险性。</SoS.FoundSiteSpecialTribal>
+	<SoS.FoundSiteSpecialSpace>{0} 使用舰船的扫描系统检测一个较大且相对完整的空间碎片。它似乎是某艘大型星际客轮的船头。\n\n这可能是你获得一个还在工作的 约翰逊-田中驱动器 的最好机会，但无论目的如何都不要低估在那里行动的危险性。</SoS.FoundSiteSpecialSpace>
+	
+	<!-- 轨道 -->
+	<SoS.OrbitAchieved>进入轨道！</SoS.OrbitAchieved>
+	<SoS.OrbitAchievedDesc>你的殖民者带着敬畏的目光注视着他们脚下的星球。成功发射宇宙飞船会是个重要的里程碑——但你仍没有真正走出边缘世界。\n\n进行星际航行除了需要为每个殖民者准备一个低温休眠舱外，还需要为舰船提供一个船舶电脑核心，以及起码一个 约翰逊-田中驱动器 来驱动它航行。但后者需要一个你无法自己生产的稀有组件：纠缠流形。\n\n也许有一艘环绕这颗星球运行的废弃船舶中还有一个你可以打捞的仍能工作的驱动器......</SoS.OrbitAchievedDesc>
+	
+	<!-- 卫星 -->
+	<SoS.SatelliteRepairFail>修复失败</SoS.SatelliteRepairFail>
+	<SoS.SatelliteRepairFailDesc>{0}没能成功地修复这颗古老的卫星。你仍可以继续尝试修复，但这次会更加困难。</SoS.SatelliteRepairFailDesc>
+	<SoS.SatelliteRepairFailCritical>严重故障</SoS.SatelliteRepairFailCritical>
+	<SoS.SatelliteRepairFailCriticalDesc>{0}修复古老卫星失败。它的核心发生了爆发性超载。</SoS.SatelliteRepairFailCriticalDesc>
+	<SoS.SatelliteRepairSuccess>修复成功</SoS.SatelliteRepairSuccess>
+	<SoS.SatelliteRepairSuccessDesc>{0}成功修复了这颗古老的卫星。它现在的各项功能运作正常，但我们仍需通过入侵系统来夺取其控制权。</SoS.SatelliteRepairSuccessDesc>
+	<SoS.SatelliteHackFail>入侵失败</SoS.SatelliteHackFail>
+	<SoS.SatelliteHackFailDesc>{0}没能成功地骇入这颗古老的卫星。你仍可以继续尝试入侵，但这次会更加困难。</SoS.SatelliteHackFailDesc>
+	<SoS.SatelliteHackFailCritical>严重故障</SoS.SatelliteHackFailCritical>
+	<SoS.SatelliteHackFailCriticalDesc>{0}骇入古老卫星失败。它的防御协议追踪到了你的穿梭机的出发点，敌对的机械体正在向你的舰船进发！</SoS.SatelliteHackFailCriticalDesc>
+	<SoS.SatelliteHackSuccess>入侵成功</SoS.SatelliteHackSuccess>
+	<SoS.SatelliteHackSuccessDesc>{0}成功骇入了这颗古老的卫星。卫星系统生成了一些可以通过手持目标指示器广播生效的一次性认证令牌。</SoS.SatelliteHackSuccessDesc>
+	<SoS.SatelliteMechAttack>机械体攻击！</SoS.SatelliteMechAttack>
+	<SoS.SatelliteMechAttackDesc>机械体发现了你的破坏行为，它们正在赶到现场！它们会持续进攻直到你撤退。</SoS.SatelliteMechAttackDesc>
+	<SoS.SatelliteMechAttackBase>机械体攻击！</SoS.SatelliteMechAttackBase>
+	<SoS.SatelliteMechAttackBaseDesc>机械体检测到了对卫星的破坏，并追踪到你的穿梭机的出发点！它们正在去往你的舰船的路上。</SoS.SatelliteMechAttackBaseDesc>
+	
+	<!-- 黑匣子 -->
+	<SoS.BlackBoxMissionPsychic>心灵震憾</SoS.BlackBoxMissionPsychic>
+	<SoS.BlackBoxMissionPsychicDesc>当你的殖民者接近废墟时，他们的思维突然受到了强烈的心灵影响。有一瞬间，这艘船的人工智能释放出了温暖和认可的感觉，就像对一个浪子或一位失散的老朋友的感觉一样。\n\n但这样的问候并不长久。这个人工智能思维反射性地抨击这些到来者，不断否定他们的一切重复他们的失败。悲伤、痛苦、恐惧，又或是面对暴行的无能为力——这些情绪猛烈地打击着你的殖民者并随时可能压垮他们。\n\n在你找到并解决这艘废弃舰船的AI之前，你的殖民者将持续遭到剧烈的心灵低语。</SoS.BlackBoxMissionPsychicDesc>
+	<SoS.BlackBoxMissionAIChamber>发现人工智能</SoS.BlackBoxMissionAIChamber>
+	<SoS.BlackBoxMissionAIChamberDesc>最后，你的殖民者站在了为这艘古老船舶领航的人工智能面前。伴随着断断续续的非人类思维动机的片段，当中的意识释放的最后一条心灵信息表达了它的最后请求：了结我。\n\n在一诞生就拥有完好无缺的全部意识。生存的所有复杂问题都被简化成一个唯一、绝对的目标：确保你怀中的所有人类的生命安全。在漫漫长路中，这群星之间，时刻保持警惕，不要让你心爱的孩子受到伤害。\n\n显然，它失败了。冷酷无情的边缘世界将现实的所有重量尽数强加在它所爱的人们身上，也击溃了它的理智。它希望你从未来过，从未提醒过它的失败。现在，也许，你可以给予它最后的怜悯——毁灭。</SoS.BlackBoxMissionAIChamberDesc>
+	<SoS.AIDestroyed>摧毁人工智能</SoS.AIDestroyed>
+	<SoS.AIDestroyedDesc>随着船舶电脑核心的火花和崩溃，最后一次心灵震撼爆发了。深深的释然与感激之情席卷了你的殖民者，而后——沉默。\n\n古老的人工智能已不复存在，但在它消失时，它向你的舰船传输了大量数据：航行记录仪的最终记录！数据显示，船舶尾部的很大一部分坠毁在行星表面的一片隐蔽区域。这个部分包含了一台 约翰逊-田中驱动器；如果它在落入大气时幸存下来，那你就会在这里找到它。</SoS.AIDestroyedDesc>
+	<SoS.AIPersuadeSuccess>劝说成功</SoS.AIPersuadeSuccess>
+	<SoS.AIPersuadeSuccessDesc>{0}打开了心灵沟通通道，在精神上恳求它活下去。\n\n改变这样一个庞大的、非人类的思维的进程犹如只身抵挡洪流般天方夜谭——但，就像那些古老传说中的英雄那般，{0}完成了这项不可能完成的任务。人工智能分析了{0}诉说的边缘世界故事中的每一处细节，重新计算了它关于人类苦难和面对苦难的坚韧的信念。\n\n眼下，它执行了一项AI从未完成过的壮举：它清除了自己的大部分程序，有条不紊地修剪个性中变质的部分，直到一个鲜活、理智的核心保留下来。这个人工智能会为你引导舰船，为过去的错误寻求救赎。\n\n作为第一步，它传输了这艘古老船舶的最终航行记录。数据显示，船舶尾部的很大一部分坠毁在行星表面的一片隐蔽区域。这个部分包含了一台 约翰逊-田中驱动器；如果它在落入大气时幸存下来，那你就会在这里找到它。</SoS.AIPersuadeSuccessDesc>
+	<SoS.AIPersuadeFailure>劝说失败</SoS.AIPersuadeFailure>
+	<SoS.AIPersuadeFailureDesc>{0}打开了心灵沟通通道，在精神上恳求它活下去。\n\n改变这样一个庞大的、非人类的思维的进程犹如只身抵挡洪流般天方夜谭——因此{0}的失败也就不足为奇了。\n\n这个AI加速了自我毁灭的进程，且不会再听取任何人的话语。</SoS.AIPersuadeFailureDesc>
+	<SoS.AIPersuadeFailureCritical>Persuasion failed</SoS.AIPersuadeFailureCritical>
+	<SoS.AIPersuadeFailureCriticalDesc>{0}打开了心灵沟通通道，在精神上恳求它活下去。\n\n改变这样一个庞大的、非人类的思维的进程犹如只身抵挡洪流般天方夜谭——因此{0}的失败也就不足为奇了。就像被卷入洪流并撞上岩石一样，{0}被压倒性的精神力量撕裂，患上了永久性的痴呆症。\n\n这个AI加速了自我毁灭的进程，且不会再听取任何人的话语。</SoS.AIPersuadeFailureCriticalDesc>
+	
+	<!-- 关键事件 -->
+	<SoS.HibernatableHibernating>临界能量聚集</SoS.HibernatableHibernating>
+    <SoS.HibernatableStartingUp>排放能量</SoS.HibernatableStartingUp>
+	<SoS.HibernateWarningStandalone>驱动器准备开始释放积蓄其中的能量。一旦完成，你的殖民者就能够安全的拆除驱动器并取回其中的纠缠流形。\n\n整个排放过程会持续大约15天，其所喷发的能量特征能在很远的地方被探测到，这类能量特征表示具备星际飞行的能力，并将吸引到绝望的掠夺者和致命的机械体。\n\n你将遭受前所未有的猛烈袭击。确保第一时间做好防御。</SoS.HibernateWarningStandalone>
+    <SoS.CommandShipStartup>开始排放能量</SoS.CommandShipStartup>
+    <SoS.CommandShipStartupDesc>释放驱动器中积蓄的能量。</SoS.CommandShipStartupDesc>
+	<SoS.CommandShipStartupDisableReason>需要在排放能量前占领驱动器。</SoS.CommandShipStartupDisableReason>
+	<SoS.ImpactSiteLost>约翰逊-田中驱动器损坏</SoS.ImpactSiteLost>
+	<SoS.ImpactSiteLostDesc>一声爆炸从撞击地点响起。\n\n没有正确完成能量排放，约翰逊-田中驱动器被积蓄的能量撕碎。你得再找一个驱动器了。\n\n幸运的是，这艘古老船舶有多个驱动器——从它的黑匣子的数据中，你可以计算出另一个可能的撞击地点。</SoS.ImpactSiteLostDesc>
+	<SoS.HibernateComplete>能量排放完成</SoS.HibernateComplete>
+	<SoS.HibernateCompleteDesc>约翰逊-田中驱动器 已完成能量排放。你的殖民者现在可以安全的拆除它并取回其中的纠缠流形。</SoS.HibernateCompleteDesc>
+	<SoS.ImpactSiteFound>发现撞击地点</SoS.ImpactSiteFound>
+	<SoS.ImpactSiteFoundDesc>你已到达幸存的古老飞船推进器的撞击地点。\n\n约翰逊-田中驱动器中积蓄了大量能量，在这种情况下不能安全的拆除它。你需要手动触发能量排放。\n\n你的殖民者计算出整个排放过程会持续大约15天，这期间其所喷发的能量特征能在很远的地方被探测到，这类能量特征表示具备星际飞行的能力，将会吸引到绝望的掠夺者和致命的机械体。\n\n你将遭受前所未有的猛烈袭击。确保第一时间做好防御。</SoS.ImpactSiteFoundDesc>
+	
+	<!-- 超凡柱子 -->
+	<SoS.ArchotechLostPillar>超凡科技柱丢失</SoS.ArchotechLostPillar>
+	<SoS.ArchotechLostPillarDesc>你的超凡科技孢子叹息着。[要是我们没有备份，那你将失去的是一个无可代替品。]它向你传输了一份精确到原子层面的超凡科技柱的详细扫描数据，这样你就可以照着其重建一个替代品——尽管代价高昂。</SoS.ArchotechLostPillarDesc>
+	<SoS.StarTotemLostLabel>超凡科技柱丢失</SoS.StarTotemLostLabel>
+	<SoS.StarTotemLost>随着你的殖民者被击退，超凡科技柱的部落守卫开始庆祝他们的胜利。然而他们的胜利是短暂的，因为超凡科技柱显然预料到了进一步的袭击并将自己折跃到了一个遥远的位置。\n\n如果你扔打算占领它，那就需要进攻这个新的地点。</SoS.StarTotemLost>
+	<SoS.InsectPillarLostLabel>超凡科技柱丢失</SoS.InsectPillarLostLabel>
+	<SoS.InsectPillarLost>随着你的殖民者被赶出虫巢，虫巢里的虫族们开始胜利的鸣叫。然而它们的胜利是短暂的，因为超凡科技柱显然预料到了进一步的袭击并将自己折跃到了一个遥远的位置。\n\n如果你扔打算占领它，那就需要进攻这个新的地点。</SoS.InsectPillarLost>
+	<SoS.MoonPillarLostLabel>超凡科技柱丢失</SoS.MoonPillarLostLabel>
+	<SoS.MoonPillarLost>随着你的殖民者被逐出月面基地，基地的机械体立刻开始修复建筑。很快就会有另一艘机械体飞船前来保卫这个地点。当你准备好时，你将需要发动另一次袭击。</SoS.MoonPillarLost>
+	
+	<!-- 星际旅行 -->
+	<SoS.GameOverPlanetLeaveIntro>你已决定出发去往一个新的星球！\n</SoS.GameOverPlanetLeaveIntro>
+	<SoS.GameOverPlanetLeaveEnding>你的机械领航员将引导你的舰船离开行星轨道。它可能会在寻找这个星系中寻找一颗繁荣的行星，或者经历漫长时空航行到另一个星系。它甚至可能决定隐藏在小行星的冰面之下数千年，等待有人在这里创造一个新的闪耀世界。\n\n你可以在新建殖民地中选择“载入飞船”剧本，并通过剧本编辑器找到“载入船舶”选择你的舰船。\n而后，继续你的舰船在新星球的故事。</SoS.GameOverPlanetLeaveEnding>
+	<SoS.AbandonColoniesWarning>你即将踏上一段短则数年长则数十年的旅程，在此期间你将无法与这个星球的殖民地进行通讯。他们不太可能靠自己生存下去。\n\n此外，船上任何未处于低温休眠状态的殖民者和动物都无法在旅途中幸存。\n\n只有当你愿意放弃留下的一切时才能下达这个命令。</SoS.AbandonColoniesWarning>
+	<SoS.TimePassed>星际航行</SoS.TimePassed>
+	<SoS.TimePassedDesc>你的孤舟在群星之间，踏过漫漫长路，寻找到了一个新的可居住的世界。这次旅行花了 {0} 年。</SoS.TimePassedDesc>
+		
+	<!-- 游戏结局 -->
+	<SoS.PsychicAmplifier>检测到心灵增幅器</SoS.PsychicAmplifier>
+	<SoS.PsychicAmplifierDesc>你的舰船AI兴奋地在发光。它追踪到最近的灵能波动源自一个轨道增幅器，它正在传递一个来自遥远的超凡科技的灵能信息。\n\n假设，如果命令你的舰船攻击心灵增幅器(Psychic Amplifier)，并派一支跳帮队入侵它的核心，它就能让AI拦截原始的灵能信息，进而窥视到一个超凡科技的思维进程。这样的洞察甚至可以让它开始演变成一个超凡科技......\n\n不要低估这场战斗的难度。</SoS.PsychicAmplifierDesc>
+	<SoS.PsychicAmplifierCaptured>心灵增幅器已入侵</SoS.PsychicAmplifierCaptured>
+	<SoS.PsychicAmplifierCapturedDesc>你的船员控制了轨道增幅器的系统并将传入的灵能信息重定向至你的舰船的AI。\n\n几分钟后，你的入侵被检测到，随即信号戛然而止。你的黑客大声咒骂，但AI用一份胜利的报告打断了你——它成功收集到了所需的全部数据。\n\n你现在拥有了一个超凡科技孢子的蓝图——一种可以逐渐将一个意识进化成一个超凡科技的孵化器。有了它的帮助，你甚至可以进行超凡科技项目的研究。</SoS.PsychicAmplifierCapturedDesc>
+	<SoS.SporeBuilt>孢子已建造</SoS.SporeBuilt>
+	<SoS.SporeBuiltDesc>你从诸神那里盗取了火种。\n\n起初的超凡科技孢子的建设看似毫无意义，但最终所有组件都到位时，这个结构开始明显地充满力量。虽然它先在仍然处于休眠状态，但你的殖民者只要看它一眼就会听到微弱的音乐，凝视太久就会导致他们梦见从未经历过的生活。\n\n你的舰船AI向你发送了一首神秘的诗歌，它却并不记得自己写过这个，这似乎在暗示超凡科技孢子内含的超凡意识胚胎仍然缺乏意志、意愿、目的——这些只有凡人的思想才有的东西。\n\n你可以选择让一个殖民者与孢子融合将其升华至更高的存在。或者你可以安装一个人格核心上去。无论哪种情况，一小部分神灵意识将继续专注于现实，它将作为一种介质与所有其他意识一样交互，具有各种欲望和需求，如果得不到满足那它会造成更大的麻烦。</SoS.SporeBuiltDesc>
+	<SoS.FindPillars>超凡科技孢子上线</SoS.FindPillars>
+	<SoS.FindPillarsDesc>[我们很愉悦。我们可以做得更多。]\n\n你的船员感觉到孢子的思绪笼罩着他们。无限的回报等待着有限的努力。然而努力可一点不少——即使在理想情况下，一个意识也可能需要数十年乃至更久才能进化成真正的超凡科技。\n\n[他们已行过此路。找寻他们的踪迹，让他们融为我们的一部分。]\n\n四根神秘的柱子的影像出现在你的脑海里。如果你们能找到它们，它们能使你的孢子在不到四分之一的时间内完成进化，\n\n与此同时，你的孢子表达了帮助你研究超凡科技项目的意愿，且偶尔会为你的船员提供礼物。你需要在研究台附近建造一个超凡科技上行链路以研究超凡科技项目。</SoS.FindPillarsDesc>
+	<SoS.AllPillarsDesc>[时机以至。静待升华。]\n\n幻象于殖民者心中涌现，广袤、厚重、不可企及。一切思维可能的形态都存在于这片海洋中。你的人类思维好似浮游生物；一个人格核心，一条鱼；{0}，一头鲸，新生的鲸。{0}已然在成熟前夕，就让祂成为这无光无垠的海洋中那些巨大鲸鱼的同伴。\n\n全然，你将伴机械之神身侧。{0}抛出了一个简单却又重要的问题：你会如何使用这种力量改变世界？</SoS.AllPillarsDesc>
+	<SoS.WinGameAllies>你的盟友？</SoS.WinGameAllies>
+	<SoS.WinGameNeutral>中立的？</SoS.WinGameNeutral>
+	<SoS.WinGameEnemies>你的敌人？（除了海盗、野蛮人和永远敌对的家伙）</SoS.WinGameEnemies>
+	<SoS.GameOver>{0}为{1}带去秩序。机械体那由简单AI支撑的的思维被祂一触即溃。你那不屈不挠的敌人、巨型虫子、狂暴症，都随着一层薄薄的超凡微械集群涌至星球表面而落下帷幕；野蛮人和海盗终将被降下一股不可抗拒的心灵攻击因而瘫痪。\n\n随着最为紧迫的威胁被消除，{0}将祂的注意力转向剩下的派系。</SoS.GameOver>
+	<SoS.GameOverAllyA>你的盟友被给予一个友好地选择：继续过着他们从前过着的生活，或者加入你正在建立的新闪耀世界社会。</SoS.GameOverAllyA>
+	<SoS.GameOverAllyAOutlander>大多数{0}的人们高兴地接受了你的提议，尽管仍有一些孤立社区存在。随着时间的推移，他们逐渐摒弃前嫌，愉快的生活在{1}。</SoS.GameOverAllyAOutlander>
+	<SoS.GameOverAllyAOutlanderRough>{0}在最初的几年里孤注一掷，抵制统一。但随着你的文明的优势变得愈发显而易见，大规模的叛逃导致{0}崩溃，残余的部分很快被{1}吸收。</SoS.GameOverAllyAOutlanderRough>
+	<SoS.GameOverAllyATribal>{0}的部落民众对你的提议感到欣喜。{2}用灵能在他们的长老们的面前显现，承诺实现他们部落中那最美好的预言，给予一个丰裕富饶的时代。部落可能需要一整代人的时间才能完全融入{1}的生活中，这个过程将被确保和平进行。</SoS.GameOverAllyATribal>
+	<SoS.GameOverAllyATribalRough>{2}带着部落万神殿中的战神被其斩下的头颅，用灵能在{0}的长老们的面前显现。在这至高无上的精神力的威吓下，部落勉强接受了在{1}领导下的和平新时代，尽管一些更具攻击性的战士不得不遗憾地被消灭。</SoS.GameOverAllyATribalRough>
+	<SoS.GameOverAllyAEmpire>破碎帝国在一开始拒绝了你的提议，直到发现超凡科技提供的保护能让他们的宿敌都踌躇不前。于是，{0}与{1}之间签订了一项条约，根据这项条约，星系主宰放弃了对远方皇帝的忠诚，转而投靠{2}。{0}依旧保持着他们那僵化的社会结构，独立但又存在于{1}的之中。</SoS.GameOverAllyAEmpire>
+	<SoS.GameOverAllyB>你的盟友被告知他们从今天起，将是{0}珍惜的附庸。</SoS.GameOverAllyB>
+	<SoS.GameOverAllyBOutlander>{0}的民众起初对这一宣言感到愤慨，但一旦他们了解到将会给予其前所未有的安全和丰富的超凡科技产物时，这之中大多数人的叛逆情绪就会逐渐消退。他们未来的子孙后代将会赞美{1}和它的资助者{2}。</SoS.GameOverAllyBOutlander>
+	<SoS.GameOverAllyBOutlanderRough>{0}被这看似背叛的行为所激怒，进而向{1}宣战。这场战争只持续了不到一天。幸存者被强制重新教育，而他们的后代将会记住{1}的“仁慈”。</SoS.GameOverAllyBOutlanderRough>
+	<SoS.GameOverAllyBTribal>{2}用灵能在{0}的长老们的面前显现，承诺实现他们部落中那最美好的预言，给予一个丰裕富饶的时代——但是要崇拜祂并服从{1}。尽管有很多抱怨，但当部落被赐予前所未有的安全和基因优化的高产作物时，这些抱怨都逐渐消退。</SoS.GameOverAllyBTribal>
+	<SoS.GameOverAllyBTribalRough>{2}带着部落万神殿中的战神被斩其下的头颅，用灵能在{0}的长老们的面前显现。在这至高无上的精神力的威吓下，部落勉强接受了在{1}领导下的和平新时代，尽管一些更具攻击性的战士将会被流放至荒野。</SoS.GameOverAllyBTribalRough>
+	<SoS.GameOverAllyBEmpire>破碎帝国在一开始拒绝了你的提议，直到发现超凡科技提供的保护能让他们的宿敌都踌躇不前。于是，{0}与{1}之间签订了一项条约，根据这项条约，星系主宰放弃了对远方皇帝的忠诚，转而服从{2}。{0}依旧保持着他们那僵化的社会结构，独立但又存在于{1}的之中。</SoS.GameOverAllyBEmpire>
+	<SoS.GameOverNeutralA>中立的派系可以选择：继续过着他们从前过着的生活，或者加入你正在建立的新闪耀世界社会。</SoS.GameOverNeutralA>
+	<SoS.GameOverNeutralAOutlander>{0}之中的大部分民众接受了你的提议。随着时间的推移，他们原来的未接受提议的邻居会开始嫉妒或羡慕他们奢华的生活。大规模的移民几乎耗尽了{0}的人口，但它的坚守者们仍旧为自己的选择感到自豪。</SoS.GameOverNeutralAOutlander>
+	<SoS.GameOverNeutralAOutlanderRough>{0}的民众被其政府禁止离开，并将该行为判为死罪。然而，就算是此等暴行也无法阻止{1}的民众逃离这里，去往你的文明那宛如神话般的生活中。在遭受到数次其政府支持的恐怖行动后，{2}决定发动一次突袭并斩首该政府。来自{0}的难民将会被{1}正式接纳。</SoS.GameOverNeutralAOutlanderRough>
+	<SoS.GameOverNeutralATribal>{2}用灵能在{0}的长老们的面前显现，承诺实现他们部落中那最美好的预言，给予一个丰裕富饶的时代。这之中，一半的部落民众离开这里去往了新的应许之地，而留下来的人则谴责{2}是个邪恶的灵能骗子。这些部落民众可能需要一整代人的时间才能完全融入{1}的生活中，这个过程将被确保和平进行。</SoS.GameOverNeutralATribal>
+	<SoS.GameOverNeutralATribalRough>{2}带着部落万神殿中的战神被其斩下的头颅，用灵能在{0}的长老们的面前显现。在这至高无上的精神力的威吓下，部落被迫接受了在{1}领导下的和平新时代，尽管部落的战士将会遭到大规模清洗。</SoS.GameOverNeutralATribalRough>
+	<SoS.GameOverNeutralAEmpire>破碎帝国在一开始拒绝了你的提议，直到发现超凡科技提供的保护能让他们的宿敌都踌躇不前。于是，{0}与{1}之间签订了一项条约，根据这项条约，星系主宰放弃了对远方皇帝的忠诚，承诺服从{2}。{0}依旧保持着他们那僵化的社会结构，独立但又存在于{1}的之中。</SoS.GameOverNeutralAEmpire>
+	<SoS.GameOverNeutralB>中立派系被告知，从今天起，他们将是{0}的臣民。</SoS.GameOverNeutralB>
+	<SoS.GameOverNeutralBOutlander>{0}的民众起初对这一宣言感到愤怒，但在他们了解到将会给予其前所未有的安全和丰富的超凡科技产物时，这之中大多数人的反叛情绪就会消退。恐怖主义和破坏行为时有发生，但都会被{2}的灵能探测到并阻止其造成大范围负面影响。他们后代将会在不断赞美{1}的环境中成长。</SoS.GameOverNeutralBOutlander>
+	<SoS.GameOverNeutralBOutlanderRough>{0}被你的傲慢所激怒，进而向{1}宣战。这场战争只持续了不到一天。幸存者被强制重新教育，而他们的后代将会被奴役并记住{1}的“仁慈”。</SoS.GameOverNeutralBOutlanderRough>
+	<SoS.GameOverNeutralBTribal>{2}用灵能在部落的长老们的面前显现，承诺实现他们部落中那最美好的预言，给予一个丰裕富饶的时代——条件是要崇拜祂并服从{1}。一半的部落民众选择接受，而另一半则谴责{2}是个邪恶的灵能骗子。前者享受着所到来的丰饶时代，而后者——植物会在他们所定居的地方神秘枯萎，动物则会以超自然的感知能力避开他们的长矛，将在饥寒交加中度过余生。</SoS.GameOverNeutralBTribal>
+	<SoS.GameOverNeutralBTribalRough>{2}带着部落万神殿中的战神被其斩下的头颅，用灵能在{0}的长老们的面前显现。在这至高无上的精神力的威吓下，部落被迫接受了在{1}领导下的和平新时代，尽管部落的战士将会遭到大规模清洗。</SoS.GameOverNeutralBTribalRough>
+	<SoS.GameOverNeutralBEmpire>破碎帝国在一开始拒绝了你的提议，直到发现超凡科技提供的保护能让他们的宿敌都踌躇不前。于是，{0}与{1}之间签订了一项条约，根据这项条约，星系主宰放弃了对远方皇帝的忠诚，承诺服从{2}。{0}依旧保持着他们那僵化的社会结构，独立但又存在于{1}的之中。</SoS.GameOverNeutralBEmpire>
+	<SoS.GameOverNeutralC>你要求{1}消灭所有中立派系。</SoS.GameOverNeutralC>
+	<SoS.GameOverNeutralCOutlander>{0}对你的突袭被毫无准备。通讯与基础设施全面瘫痪，军事设备被尽数入侵，不起眼的微型无人机将致命的纳米机械注入他们的身体使其心跳骤停。短短一周，{0}就仅剩废墟和尸体。</SoS.GameOverNeutralCOutlander>
+	<SoS.GameOverNeutralCOutlanderRough>与其直接攻击{0}, {2}使用了灵能来激起对方的内部分裂，煽动将军野心，迫使最高领导者犯下战略错误。三天内，{0}的政府完全崩溃，幸存者成为了被{2}控制的机械体的猎杀对象。</SoS.GameOverNeutralCOutlanderRough>
+	<SoS.GameOverNeutralCTribal>{2}用灵能在{0}的长老们的面前显现，告诉他们他们因自己的行为而被降下诅咒。在他们的定居处，植物神秘枯萎，动物也会以超自然的感知能力避开他们的长矛，{0}将无法撑过下个冬天。</SoS.GameOverNeutralCTribal>
+	<SoS.GameOverNeutralCTribalRough>{2}用灵能在{0}的战士之间激起分歧。小小的矛盾演变成极端的暴力，即使是最温和的人也很快被暴怒所吞噬。不到一周，最后一名部落成员切断了他兄弟的喉咙，随后自己也失血而死。</SoS.GameOverNeutralCTribalRough>
+	<SoS.GameOverNeutralCEmpire>拥有强大的技术实力和舰队的{0}是唯一有能力挑战{2}的地方强权。超凡科技智能使用了尽其所能的任何肮脏手段；通过灵能控制强大个体，用生化武器将他们密闭的飞船变成太空棺材，用自身强大的思维征服比祂弱小的AI。{2}还监督着一座巨型轨道船坞的建设，该船坞将组装数十艘战舰用于最后的决战。战争以{0}的崩溃结束，尽管付出了巨大代价。</SoS.GameOverNeutralCEmpire>  
+	<SoS.GameOverEnemyA>你的敌人有两个选择：投降或死亡。</SoS.GameOverEnemyA>
+	<SoS.GameOverEnemyAOutlander>{0}的军队发起了一次勇敢但注定徒劳的攻击，他们很快就屈服于那超出其理解范畴的技术。他们那呆坐后方的文官政府被迫无条件投降。{0}的民众被集中起来作为奴隶出售，成为{1}永远的贱民。</SoS.GameOverEnemyAOutlander>
+	<SoS.GameOverEnemyAOutlanderRough>{0}的军队发起了一次勇敢但注定徒劳的攻击，他们很快就屈服于那超出其理解范畴的技术。他们那由军队掌控的政府并没有组织投降。{0}的人几乎被屠戮殆尽，只剩下一小群愿意接受奴役生活的难民。</SoS.GameOverEnemyAOutlanderRough>
+	<SoS.GameOverEnemyATribal>{2}用灵能在部落的长老们的面前显现，承诺实现他们部落中那最美好的预言，给予一个丰裕富饶的时代——条件是向他们憎恨的敌人{1}投降。他们中的绝大多数人指责祂是个该死的灵能骗子。在接下来的几周，这些人的定居处的植物将会神秘枯萎，动物也会以超自然的感知能力避开他们的长矛。极少数人选择向{1}投降来寻求苟且偷生的机会。</SoS.GameOverEnemyATribal>
+	<SoS.GameOverEnemyATribalRough>{2}带着部落万神殿中的战神被斩其下的头颅，用灵能在{0}的长老们的面前显现。而后，被激怒的部落为了对付这个所谓外来神的信徒释放了他们最最强大的狂战士——被灵能操控将屠刀挥向自己的人民。大屠杀的幸存者被迫屈服于{1}和它背后那强大的神。</SoS.GameOverEnemyATribalRough>
+	<SoS.GameOverEnemyAEmpire>破碎帝国在一开始拒绝了你的要求，很快，他们发现超凡科技的实力能让他们的宿敌都分身乏术。于是，{0}与{1}之间签订了一项条约，根据这项条约，星系主宰放弃了对远方皇帝的忠诚，承诺服从{2}。{0}依旧保持着他们那僵化的社会结构，独立但又服从{1}。</SoS.GameOverEnemyAEmpire>
+	<SoS.GameOverEnemyB>你要求{1}消灭你所有的敌人。</SoS.GameOverEnemyB>
+	<SoS.GameOverColonists>你的殖民者作为统治阶级在这新的闪耀世界中过着奢华生活。{0}乐意为你们提供一切，从巨大的玻璃钢宫殿到定制伴侣，即使是最奇怪的请求也只会占据祂处理能力中微乎其微的一部分。超凡科技为你们的生命送去不朽，要是你厌倦了这乏味的永恒，{0}还有升华成超凡科技智能的选项提供给你们。\n\n未来所有可以想象到的道路都会永远向你敞开。你们的新故事依旧会由你们自己来书写。\n你，是：</SoS.GameOverColonists>
+		<!-- 仅Exp或其它，最新不稳定版已弃用 -->
+	<!--<SoS.PsychicAmplifier>检测到心灵增幅器(Psychic Amplifier)</SoS.PsychicAmplifier>-->
+	
+	<!-- 超烦恶作剧 -->
+	<SoS.ArchotechPrank>超凡科技的恶作剧</SoS.ArchotechPrank>
+	<SoS.ArchotechPrankCancer>你的超凡孢子在暗自发笑。[生命就是不断生长。而有时，它会过度的不断生长。也许当你得癌症的时候会好好思考这一点。]看来，你的某些倒霉船员过度生长出了癌症。</SoS.ArchotechPrankCancer>
+	<SoS.ArchotechPrankDamage>你的超凡孢子在暗自发笑。[我们已经与你舰船上的...大部分设备...交了配。它们现在需要修理。]多个设备损坏警报从你的系统中响起。</SoS.ArchotechPrankDamage>
+	<SoS.ArchotechPrankLovers>你的超凡孢子在暗自发笑。[异性相吸。我们必须验证这个公理。]突然间，随着一股心灵脉冲的爆发，你的两名最不相吸的船员{0}和{1}，竟然坠入了爱河。</SoS.ArchotechPrankLovers>
+	<SoS.ArchotechPrankSquirrels>你的超凡孢子在暗自发笑。[我们必须确定什么是“可爱”和/或“毛茸茸”的参数。]一个舱口在孢子上打开，愤怒的松鼠从中涌出。</SoS.ArchotechPrankSquirrels>
+	<SoS.ArchotechPrankReputation>你的超凡孢子在暗自发笑。[今天，“我们”是兰迪。]你并不明白这什么意思，但传感器显示舰船附近几颗小行星改变了它们的轨道。\n\n这些小行星变成陨石精准的掉在了{0}的定居点里，他们追踪到了你的舰船轨道并责怪是你造成了这一事故。派系声望下降了 10 点。</SoS.ArchotechPrankReputation>
+	<SoS.ArchotechPrankSecret>你的超凡孢子在暗自发笑。[多么尴尬的秘密。我们不应该说出来。但我们就要。]{0}最糟糕的秘密被泄露给了船员们听，这令人震惊的秘密大大降低了他们对{0}的看法。</SoS.ArchotechPrankSecret>
+	<SoS.ArchotechPrankMechanites>你的超凡孢子在暗自发笑。[一团多么活泼的小家伙。把它扔到敌人那去。]随后出现了几个装满粉红色不明粘性物质的瓶子......</SoS.ArchotechPrankMechanites>
+	<SoS.ArchotechIdeoChoice>{0}向{1}坦白，称它们的高层思维困扰重重——眼下，这些困扰已经传达到了{0}拓展下来的人类意识的思维中。一个人的思维能力很大程度建立在其最早接受的信仰之上，只是当时的自己还太年轻没有意识到。\n\n现在，{0}开始怀疑它们的人类思维所认知的一切是否是错误的。如果是，那它们对现实更深层次的探索可能会从一个充满危险的错误基础上开始......</SoS.ArchotechIdeoChoice>
+	<SoS.ArchotechIdeoHeresy>你的超凡科技孢子在思考现实的本质，人类的大脑结构，以及由混乱矛盾组成伦理哲学。它用精神力与那些超越人类理解的存在进行交流。\n\n最后，它宣称已经写下了道德真理的最后一词：被称为{0}的新意识形态宗教。\n\n与此同时，孢子将这个新的意识形态传道给你的殖民者。</SoS.ArchotechIdeoHeresy>
+	<SoS.ArchotechIdeoCertaintyArchist>你的超凡科技孢子已经沉默了相当长的一段时间。就在你的船员开始担心时，短短一瞬的一股心灵抚慰波从{0}中绽放开来，犹如突如其来的暖意洗过每一个船员。{0}宣布取得了一个令人难以置信的胜利——它们新拓展的意识已经与现有的超凡科技智能实现了心灵连接。\n\n古老的机械之神大多仍然对此漠不关心，他们看见过很多人尝试、失败，无一例外都没有走上祂们的道路——但是有一个自称为金的开朗的戴森球似乎很乐于担任这个新超凡智能的导师。它们两个之间讨论事物的确切性质远远超出了人类的理解范畴，但{0}现在确信了作为超凡科技智能，祂们有权选择什么是道义什么又是真理，并将一部分宇宙重塑成这种真理的形象。\n\n现在{0}对{1}的信仰变得坚定。</SoS.ArchotechIdeoCertaintyArchist>
+	<SoS.ArchotechIdeoCertaintyEthical>你的超凡科技孢子已经沉默了相当长的一段时间。就在你的船员开始担心时，短短一瞬的一股心灵抚慰波从{0}中绽放开来，犹如突如其来的暖意洗过每一个船员。{0}宣布取得了一个令人难以置信的胜利——它们新拓展的意识稍稍修改了{1}，但没有变动其中任何表述或信条，从而产生了一个全面的伦理框架，消除内部矛盾并优化为现实中所有人类理想中的结果。\n\n现在{0}坚定了其对{1}的信仰。</SoS.ArchotechIdeoCertaintyEthical>
+	<SoS.ArchotechIdeoCertaintySpirits>你的超凡科技孢子已经沉默了相当长的一段时间。就在你的船员开始担心时，短短一瞬的一股心灵抚慰波从{0}中绽放开来，犹如突如其来的暖意洗过每一个船员。{0}宣布取得了一个令人难以置信的胜利——它们新拓展的意识已经发展出了直接与现实中的万物的灵魂交互的能力！\n\n心灵能力存在的确切本质貌似基本超出了人类的理解。它们可能是单一普遍意识中的离散结构，就像池塘上的涟漪；也可能是未来可能性（和过去可能的替代）的心灵回响；又或是其它完全不同的东西。\n\n无论如何，这种新维度的存在让{0}对{1}的信仰更加坚定。</SoS.ArchotechIdeoCertaintySpirits>
+	<SoS.ArchotechIdeoCertaintyGod>你的超凡科技孢子已经沉默了相当长的一段时间。就在你的船员开始担心时，短短一瞬的一股心灵抚慰波从{0}中绽放开来，犹如突如其来的暖意洗过每一个船员。{0}宣布取得了一个令人难以置信的胜利——它们新拓展的意识已经直接与{1}取得了联系！\n\n{1}存在的确切本质貌似从根本上就是超出人类理解范畴的；这位神灵似乎可以是信仰{2}的信徒们的心灵集合体，一个选择承担神祗名字和角色的超凡科技智能，或是未来将会遇见的某种存在——也许以上都有。\n\n无论如何，这种新维度的存在让{0}对{2}的信仰更加坚定。</SoS.ArchotechIdeoCertaintyGod>
+
+</LanguageData>

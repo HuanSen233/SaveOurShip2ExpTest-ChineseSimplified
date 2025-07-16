@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <SoSInstallArchotechEar.label>安装超凡仿生耳</SoSInstallArchotechEar.label>
+    <SoSInstallArchotechEar.description>安装一只超凡仿生耳。</SoSInstallArchotechEar.description>
+    <SoSInstallArchotechEar.jobString>安装一只超凡仿生耳。</SoSInstallArchotechEar.jobString>
+    
+    <SoSInstallArchotechNose.label>安装超凡仿生鼻</SoSInstallArchotechNose.label>
+    <SoSInstallArchotechNose.description>安装一个超凡仿生鼻。</SoSInstallArchotechNose.description>
+    <SoSInstallArchotechNose.jobString>安装一个超凡仿生鼻。</SoSInstallArchotechNose.jobString>
+    
+    <SoSInstallArchotechJaw.label>安装超凡仿生颌</SoSInstallArchotechJaw.label>
+    <SoSInstallArchotechJaw.description>安装一个超凡仿生颌。</SoSInstallArchotechJaw.description>
+    <SoSInstallArchotechJaw.jobString>安装一个超凡仿生颌。</SoSInstallArchotechJaw.jobString>
+
+    <SoSInstallArchotechHeart.label>安装超凡仿生心脏</SoSInstallArchotechHeart.label>
+    <SoSInstallArchotechHeart.description>安装一颗超凡仿生心脏。</SoSInstallArchotechHeart.description>
+    <SoSInstallArchotechHeart.jobString>安装一颗超凡仿生心脏。</SoSInstallArchotechHeart.jobString>
+
+    <SoSInstallArchotechLung.label>安装超凡仿生肺</SoSInstallArchotechLung.label>
+    <SoSInstallArchotechLung.description>安装一个超凡仿生肺。</SoSInstallArchotechLung.description>
+    <SoSInstallArchotechLung.jobString>安装一个超凡仿生肺。</SoSInstallArchotechLung.jobString>
+    
+    <SoSInstallArchotechStomach.label>安装超凡仿生胃</SoSInstallArchotechStomach.label>
+    <SoSInstallArchotechStomach.description>安装一个超凡仿生胃。</SoSInstallArchotechStomach.description>
+    <SoSInstallArchotechStomach.jobString>安装一个超凡仿生胃。</SoSInstallArchotechStomach.jobString>
+
+    <SoSInstallArchotechKidney.label>安装超凡仿生肾</SoSInstallArchotechKidney.label>
+    <SoSInstallArchotechKidney.description>安装一个超凡仿生肾。</SoSInstallArchotechKidney.description>
+    <SoSInstallArchotechKidney.jobString>安装一个超凡仿生肾。</SoSInstallArchotechKidney.jobString>
+
+    <SoSInstallArchotechLiver.label>安装超凡仿生肝</SoSInstallArchotechLiver.label>
+    <SoSInstallArchotechLiver.description>安装一个超凡仿生肝。</SoSInstallArchotechLiver.description>
+    <SoSInstallArchotechLiver.jobString>安装一个超凡仿生肝。</SoSInstallArchotechLiver.jobString>
+
+    <SoSInstallArchotechSpine.label>安装超凡仿生脊椎</SoSInstallArchotechSpine.label>
+    <SoSInstallArchotechSpine.description>安装一根超凡仿生脊椎。</SoSInstallArchotechSpine.description>
+    <SoSInstallArchotechSpine.jobString>安装一根超凡仿生脊椎。</SoSInstallArchotechSpine.jobString>
+
+    <InstallSoSArchotechSkin.label>安装超凡仿生皮肤</InstallSoSArchotechSkin.label>
+    <InstallSoSArchotechSkin.description>安装一块超凡仿生皮肤。</InstallSoSArchotechSkin.description>
+    <InstallSoSArchotechSkin.jobString>安装一块超凡仿生皮肤。</InstallSoSArchotechSkin.jobString>
+
+    <RemoveSoSArchotechSkin.label>移除超凡仿生皮肤</RemoveSoSArchotechSkin.label>
+    <RemoveSoSArchotechSkin.description>移除超凡仿生皮肤。</RemoveSoSArchotechSkin.description>
+    <RemoveSoSArchotechSkin.jobString>移除超凡仿生皮肤。</RemoveSoSArchotechSkin.jobString>
+
+    <InstallSoSPsychicPredictor.label>安装心灵预测装置</InstallSoSPsychicPredictor.label>
+    <InstallSoSPsychicPredictor.description>安装一个心灵预测装置。</InstallSoSPsychicPredictor.description>
+    <InstallSoSPsychicPredictor.jobString>安装一个心灵预测装置。</InstallSoSPsychicPredictor.jobString>
+
+    <RemoveSoSPsychicPredictor.label>移除心灵预测装置</RemoveSoSPsychicPredictor.label>
+    <RemoveSoSPsychicPredictor.description>移除心灵预测装置。</RemoveSoSPsychicPredictor.description>
+    <RemoveSoSPsychicPredictor.jobString>移除心灵预测装置。</RemoveSoSPsychicPredictor.jobString>
+
+    <InstallSoSPsychicManipulator.label>安装心灵操纵装置</InstallSoSPsychicManipulator.label>
+    <InstallSoSPsychicManipulator.description>安装一个心灵操纵装置。</InstallSoSPsychicManipulator.description>
+    <InstallSoSPsychicManipulator.jobString>安装一个心灵操纵装置。</InstallSoSPsychicManipulator.jobString>
+
+    <RemoveSoSPsychicManipulator.label>移除心灵操纵装置</RemoveSoSPsychicManipulator.label>
+    <RemoveSoSPsychicManipulator.description>移除心灵操纵装置。</RemoveSoSPsychicManipulator.description>
+    <RemoveSoSPsychicManipulator.jobString>移除心灵操纵装置。</RemoveSoSPsychicManipulator.jobString>
+
+</LanguageData>

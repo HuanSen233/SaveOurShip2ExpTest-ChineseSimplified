@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <CarryToCryptonest.reportString>将卵塞进休眠卵箱。</CarryToCryptonest.reportString>
+    
+    <OperateScannerSpace.reportString>使用TargetA进行扫描。</OperateScannerSpace.reportString>
+    
+    <HackSatellite.reportString>入侵TargetA。</HackSatellite.reportString>
+    
+    <RepairSatellite.reportString>修复TargetA。</RepairSatellite.reportString>
+
+    <PersuadeAI.reportString>说服TargetA。</PersuadeAI.reportString>
+
+    <HackBlackBoxConsole.reportString>入侵TargetA。</HackBlackBoxConsole.reportString>
+
+    <LoadTorpedoTube.reportString>装填鱼雷发射器。</LoadTorpedoTube.reportString>
+
+    <LoadShipBuilding.reportString>给TargetA加燃料。</LoadShipBuilding.reportString>
+
+    <ManShipBridge.reportString>操纵舰桥。</ManShipBridge.reportString>
+
+    <HackEnemyShip.reportString>入侵TargetA。</HackEnemyShip.reportString>
+
+    <HackAirlock.reportString>入侵TargetA。</HackAirlock.reportString>
+
+    <BreachAirlock.reportString>切割TargetA。</BreachAirlock.reportString>
+
+    <DefendBreacher.reportString>守卫TargetA。</DefendBreacher.reportString>
+
+    <RepairItemWithGel.reportString>修复TargetA。</RepairItemWithGel.reportString>
+
+    <SacrificeToArchotech.reportString>献祭TargetA。</SacrificeToArchotech.reportString>
+
+    <FleeVacuum.reportString>逃离真空环境。</FleeVacuum.reportString>
+
+    <InstallConsciousness.reportString>安装TargetB的意识。</InstallConsciousness.reportString>
+
+    <MergeWithSpore.reportString>与超凡科技孢子融合。</MergeWithSpore.reportString>
+
+    <ResurrectHologram.reportString>快速制造替代纳米机械。</ResurrectHologram.reportString>
+
+</LanguageData>

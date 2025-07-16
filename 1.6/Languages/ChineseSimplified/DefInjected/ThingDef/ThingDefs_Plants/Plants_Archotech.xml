@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <Plant_Vanoroot.label>虚空根</Plant_Vanoroot.label>
+    <Plant_Vanoroot.description>虚空根是一种生长迅速，其块茎含有甜味汁液和淀粉且营养丰富的优质粮食作物。它的细胞通过吸收虚空能量来进行生长，因此它不需要太阳光。</Plant_Vanoroot.description>
+    <RawVanoroot.label>虚空块茎</RawVanoroot.label>
+    <RawVanoroot.description>生虚空块茎。</RawVanoroot.description>
+
+    <Plant_Hypnobloom.label>引梦花</Plant_Hypnobloom.label>
+    <Plant_Hypnobloom.description>一种形似玫瑰但色彩如彩虹般绚丽的花朵，引梦花会释放出令人感到放松的信息素和微弱的心灵信号，能增强人们对美的感知。</Plant_Hypnobloom.description>
+
+    <Plant_Slaughtermelon.label>爆屠瓜</Plant_Slaughtermelon.label>
+    <Plant_Slaughtermelon.description>一种浑身长满刺状硬壳的甜瓜，内部浸满了化合燃料。爆炸性极高。不可食用，但可以收获化合燃料或与简易爆炸装置一起用于围墙防御。</Plant_Slaughtermelon.description>
+    
+    <Plant_Pharmatree.label>药基树</Plant_Pharmatree.label>
+    <Plant_Pharmatree.description>一种生长缓慢的灌木，其树液可以被提炼成高纯度的中性胺。它的叶子也能泡出整个银河系最难喝的茶。</Plant_Pharmatree.description>
+
+    <Plant_Fireflower.label>耀阳花</Plant_Fireflower.label>
+    <Plant_Fireflower.description>一种美丽的花朵，其会通过虚空能量来迅速产生光和热。可将房间内的温度提高至21摄氏度。如果它被点燃就会产生小范围爆炸。</Plant_Fireflower.description>
+
+    <Plant_Meatbush.label>鲜肉簇</Plant_Meatbush.label>
+    <Plant_Meatbush.description>一种体表黏滑的植物，它的叶子的口感和营养与优质牛肉别无二致。当它被收割时会发出奇怪的咕咕声，其被描述为“令人不安”和“证明超凡科技也有幽默感”。</Plant_Meatbush.description>
+
+    <Plant_AmbrosiaArchotech.label>仙馐树</Plant_AmbrosiaArchotech.label>
+    <Plant_AmbrosiaArchotech.description>一种稀有的能收获仙馐果的灌木。食用仙馐果会产生一种弱性的化学亢奋作用，从而让人感到心情愉悦。但你眼前这种仙馐树可不能在没有超凡科技孢子的帮助下被种植。\n\n稀有、美丽、诱人..种种特点使仙馐果被冠上了“众神美馔”的称号。</Plant_AmbrosiaArchotech.description>
+
+</LanguageData>

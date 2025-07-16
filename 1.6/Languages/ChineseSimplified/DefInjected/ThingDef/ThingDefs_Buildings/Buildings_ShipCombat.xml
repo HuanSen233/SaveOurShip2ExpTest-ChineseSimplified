@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <!-- 护盾 -->
+    <ShipCombatShieldGenerator.label>舰载护盾发生器</ShipCombatShieldGenerator.label>
+    <ShipCombatShieldGenerator.description>一个能产生动能排斥场的设备。能够向外射击，但无法射入。\n\n在阻挡攻击时会产生热量。如果没有连接到热容网络或热容不足，那么护盾发生器将损坏并需要修理。\n\n建议在热容蓄热过多时关闭护盾，否则会导致散热系统受损。</ShipCombatShieldGenerator.description>
+    <ShipCombatShieldGeneratorMini.label>小型舰载护盾发生器</ShipCombatShieldGeneratorMini.label>
+    <ShipCombatShieldGeneratorMini.description>一个小号的能产生动能排斥场的设备。能够向外射击，但无法射入。\n\n由于它体积较小，当其在阻挡攻击时产生的热量是标准护盾发生器的125%。如果没有连接到热容网络或热容不足，那么护盾发生器将损坏并需要修理。\n\n建议在热容蓄热过多时关闭护盾，否则会导致散热系统受损。</ShipCombatShieldGeneratorMini.description>
+    <!-- 热容 -->
+    <ShipHeatConduit.label>热能导管</ShipHeatConduit.label>
+    <ShipHeatConduit.description>在飞船中传递热量的流体管道。</ShipHeatConduit.description>
+    
+    <ShipHeatsink.label>船舶散热鳍片</ShipHeatsink.label>
+    <ShipHeatsink.description>一个能慢慢散出热容系统内蓄热的散热器。如果蓄热接近最大热容量则会受损，并在损毁时释放其中存储的热量。当不在战斗中时，将会快速恢复热容量。如果舰船处于隐形状态则无法将热量散入太空。\n\n热容量：200 Hu\n向太空散热：4 Hu/秒\n自散热：1 Hu/秒</ShipHeatsink.description>
+    <ShipHeatsinkLarge.label>大型船舶散热鳍片</ShipHeatsinkLarge.label>
+    <ShipHeatsinkLarge.description>一个大号的能慢慢散出热容系统内蓄热的散热器。如果蓄热接近最大热容量则会受损，并在损毁时释放其中存储的热量。当不在战斗中时，将会快速恢复热容量。如果舰船处于隐形状态则无法将热量散入太空。\n\n热容量：1000 Hu\n向太空散热：16 Hu/秒\n自散热：3 Hu/秒</ShipHeatsinkLarge.description>
+    
+    <ShipHeatManifold.label>船舶冷却剂罐</ShipHeatManifold.label>
+    <ShipHeatManifold.description>一个用来存储舰船产生的多余热量的冷却剂罐。当不处在真空环境下时，会将热量缓慢的散出到所在房间。如果蓄热接近最大热容量则会受损，并在损毁时释放其中存储的热量。\n\n热容量：800 Hu/秒\n自散热：2 Hu/秒</ShipHeatManifold.description>
+    <ShipHeatBankLarge.label>大型船舶冷却剂罐</ShipHeatBankLarge.label>
+    <ShipHeatBankLarge.description>一个大号的用来存储舰船产生的多余热量的冷却剂罐。当不处在真空环境下时，会将热量缓慢的散出到所在房间。如果蓄热接近最大热容量则会受损，并在损毁时释放其中存储的热量。\n\n热容量：4000 Hu/秒\n自散热：6 Hu/秒</ShipHeatBankLarge.description>
+    
+    <ShipPurgePort.label>船舶紧急排热端口</ShipPurgePort.label>
+    <ShipPurgePort.description>一种将热量引导至低熔点金属（如银）的系统。将携带热量的熔融银喷射入太空是一种昂贵，但可以迅速清除热容系统内蓄热的方式。护盾将会在排放过程中关闭。</ShipPurgePort.description>
+    <ShipPurgePortLarge.label>大型船舶紧急排热端口</ShipPurgePortLarge.label>
+    <ShipPurgePortLarge.description>一种能快速将热量引导至低熔点金属（如银）的系统。将携带热量的熔融银喷射入太空是一种昂贵，但可以迅速清除热容系统内蓄热的方式。护盾将会在排放过程中关闭。</ShipPurgePortLarge.description>
+    <!-- 机炮 -->
+    <ShipTurret_ACI.label>舰载机炮</ShipTurret_ACI.label>
+    <ShipTurret_ACI.description>一门能快速加速铀弹至极高速度的飞船炮塔。需要弹药，但射击时不消耗能量，且只会产生很少的热量。仅适用于近距离作战。能够用于地面舰船防御。\n\n可以安全的放置在房间内，因为他会突出在舰船的顶部。\n可以设置为点防御模式用来拦截鱼雷和穿梭机，而不是直接攻击敌舰。\n必须通过热容网络连接到领航员控制台、战术控制台或船舶核心。\n需要足够的储能和热容才能正常运作。</ShipTurret_ACI.description>
+    <ShipTurret_ACI.comps.CompSchedule.fuelLabel>重新装填前剩余射击次数</ShipTurret_ACI.comps.CompSchedule.fuelLabel>
+    <ShipTurret_ACI.comps.CompSchedule.fuelGizmoLabel>铀弹</ShipTurret_ACI.comps.CompSchedule.fuelGizmoLabel>
+    <ShipTurret_ACI.comps.CompSchedule.outOfFuelMessage>弹药耗尽</ShipTurret_ACI.comps.CompSchedule.outOfFuelMessage>
+    <ShipTurret_ACITop.label>舰载机炮</ShipTurret_ACITop.label>
+    <ShipTurret_ACITop.description>实弹舰炮。最好在近距离使用。</ShipTurret_ACITop.description>
+    <ShipTurret_ACITop.verbs.Verb_Shoot.label>发射机炮弹</ShipTurret_ACITop.verbs.Verb_Shoot.label>
+    <Bullet_Fake_ACI.label>机炮弹</Bullet_Fake_ACI.label>
+    <Proj_ShipTurretACI.label>机炮弹</Proj_ShipTurretACI.label>
+    <Bullet_Ground_ACI.label>机炮弹</Bullet_Ground_ACI.label>
+
+    <ShipTurret_ACII.label>大型舰载机炮</ShipTurret_ACII.label>
+    <ShipTurret_ACII.description>一门能快速加速铀弹至极高速度的大型舰炮。需要弹药，但射击时不消耗能量，且只会产生很少的热量。仅适用于近距离作战。\n\n可以安全的放置在房间内，因为他会突出在舰船的顶部。\n必须通过热容网络连接到领航员控制台、战术控制台或船舶核心。\n需要足够的储能和热容才能正常运作。</ShipTurret_ACII.description>
+    <ShipTurret_ACII.comps.CompSchedule.fuelLabel>重新装填前剩余射击次数</ShipTurret_ACII.comps.CompSchedule.fuelLabel>
+    <ShipTurret_ACII.comps.CompSchedule.fuelGizmoLabel>铀弹</ShipTurret_ACII.comps.CompSchedule.fuelGizmoLabel>
+    <ShipTurret_ACII.comps.CompSchedule.outOfFuelMessage>弹药耗尽</ShipTurret_ACII.comps.CompSchedule.outOfFuelMessage>
+    <ShipTurret_ACIITop.label>大型舰载机炮</ShipTurret_ACIITop.label>
+    <ShipTurret_ACIITop.description>实弹舰炮。最好在近距离使用。</ShipTurret_ACIITop.description>
+    <ShipTurret_ACIITop.verbs.Verb_Shoot.label>发射大型机炮弹</ShipTurret_ACIITop.verbs.Verb_Shoot.label>
+    <Bullet_Fake_ACII.label>大型机炮弹</Bullet_Fake_ACII.label>
+    <Proj_ShipTurretACII.label>大型机炮弹</Proj_ShipTurretACII.label>
+
+    <ShipTurret_ACIII.label>舰载巨炮</ShipTurret_ACIII.label>
+    <ShipTurret_ACIII.description>一门顶尖水准的巨型舰载自动火炮，可以迅速的将巨大的铀弹加速至极高的速度。需要弹药，但射击时不消耗能量，且只会产生很少的热量。仅适用于近距离作战。\n\n可以安全的放置在房间内，因为他会突出在舰船的顶部。\n必须通过热容网络连接到领航员控制台、战术控制台或船舶核心。\n需要足够的储能和热容才能正常运作。</ShipTurret_ACIII.description>
+    <ShipTurret_ACIII.comps.CompSchedule.fuelLabel>重新装填前剩余射击次数</ShipTurret_ACIII.comps.CompSchedule.fuelLabel>
+    <ShipTurret_ACIII.comps.CompSchedule.fuelGizmoLabel>铀弹</ShipTurret_ACIII.comps.CompSchedule.fuelGizmoLabel>
+    <ShipTurret_ACIII.comps.CompSchedule.outOfFuelMessage>弹药耗尽</ShipTurret_ACIII.comps.CompSchedule.outOfFuelMessage>
+    <ShipTurret_ACIIITop.label>巨型舰载机炮</ShipTurret_ACIIITop.label>
+    <ShipTurret_ACIIITop.description>实弹舰炮。最好在近距离使用。</ShipTurret_ACIIITop.description>
+    <ShipTurret_ACIIITop.verbs.Verb_Shoot.label>发射巨型机炮弹</ShipTurret_ACIIITop.verbs.Verb_Shoot.label>
+    <Bullet_Fake_ACIII.label>巨型机炮弹</Bullet_Fake_ACIII.label>
+    <Proj_ShipTurretACIII.label>巨型机炮弹</Proj_ShipTurretACIII.label>
+    <!-- 激光炮 -->
+    <ShipTurret_Laser.label>舰载激光炮</ShipTurret_Laser.label>
+    <ShipTurret_Laser.description>一门能发射强大激光的飞船炮塔。它能对敌舰造成毁灭性的伤害，但只能在近距离开火。能够用于地面舰船防御。\n\n可以安全的放置在房间内，因为他会突出在舰船的顶部。\n可以设置为点防御模式用来拦截鱼雷和穿梭机，而不是直接攻击敌舰。\n必须通过热容网络连接到领航员控制台、战术控制台或船舶核心。\n需要足够的储能和热容才能正常运作。</ShipTurret_Laser.description>
+    <ShipTurret_LaserTop.label>舰载激光炮</ShipTurret_LaserTop.label>
+    <ShipTurret_LaserTop.description>舰载激光炮。射程短，但破坏力强。</ShipTurret_LaserTop.description> 
+    <ShipTurret_LaserTop.verbs.Verb_Shoot.label>发射激光束</ShipTurret_LaserTop.verbs.Verb_Shoot.label>
+    <Bullet_Fake_Laser.label>激光束</Bullet_Fake_Laser.label>
+    <Proj_ShipTurretLaser.label>激光束</Proj_ShipTurretLaser.label>
+    <Bullet_Ground_Laser.label>激光束</Bullet_Ground_Laser.label>
+
+    <ShipTurret_Laser_Large.label>大型舰载激光炮</ShipTurret_Laser_Large.label>
+    <ShipTurret_Laser_Large.description>一门能发射强大激光的大型舰炮。它能对敌舰造成毁灭性的伤害，但只能在近距离开火。\n\n可以安全的放置在房间内，因为他会突出在舰船的顶部。\n必须通过热容网络连接到领航员控制台、战术控制台或船舶核心。\n需要足够的储能和热容才能正常运作。</ShipTurret_Laser_Large.description>
+    <ShipTurret_LaserTop_Large.label>大型舰载激光炮</ShipTurret_LaserTop_Large.label>
+    <ShipTurret_LaserTop_Large.description>舰载激光炮。射程短，但破坏力强。</ShipTurret_LaserTop_Large.description> 
+    <ShipTurret_LaserTop_Large.verbs.Verb_Shoot.label>发射高能激光束</ShipTurret_LaserTop_Large.verbs.Verb_Shoot.label>
+    <Proj_ShipTurretLaserTwo.label>高能激光束</Proj_ShipTurretLaserTwo.label>
+    <!-- 等离子 -->
+    <ShipTurret_Plasma.label>舰载等离子炮</ShipTurret_Plasma.label>
+    <ShipTurret_Plasma.description>一门能发射高温等离子体的飞船炮塔。这种各方面性能平衡的武器适合在中距离作战使用。能够用于地面舰船防御。\n\n可以安全的放置在房间内，因为他会突出在舰船的顶部。\n必须通过热容网络连接到领航员控制台、战术控制台或船舶核心。\n需要足够的储能和热容才能正常运作。</ShipTurret_Plasma.description>
+    <ShipTurret_PlasmaTop.label>舰载等离子炮</ShipTurret_PlasmaTop.label>
+    <ShipTurret_PlasmaTop.description>舰载激光炮。射程中等，各项性能平衡。</ShipTurret_PlasmaTop.description> 
+    <ShipTurret_PlasmaTop.verbs.Verb_Shoot.label>发射等离子团</ShipTurret_PlasmaTop.verbs.Verb_Shoot.label>
+    <Bullet_Fake_Plasma.label>等离子团</Bullet_Fake_Plasma.label>
+    <Proj_ShipTurretPlasma.label>等离子团</Proj_ShipTurretPlasma.label>
+    <Bullet_Ground_Plasma.label>等离子团</Bullet_Ground_Plasma.label>
+
+    <ShipTurret_Plasma_Large.label>大型舰载等离子炮</ShipTurret_Plasma_Large.label>
+    <ShipTurret_Plasma_Large.description>一门能发射强大激光的大型舰炮。这种各方面性能平衡的武器适合在中距离作战使用。\n\n可以安全的放置在房间内，因为他会突出在舰船的顶部。\n必须通过热容网络连接到领航员控制台、战术控制台或船舶核心。\n需要足够的储能和热容才能正常运作。</ShipTurret_Plasma_Large.description>
+    <ShipTurret_PlasmaTop_Large.label>大型舰载等离子炮</ShipTurret_PlasmaTop_Large.label>
+    <ShipTurret_PlasmaTop_Large.description>舰载激光炮。射程短，但破坏力强。</ShipTurret_PlasmaTop_Large.description> 
+    <ShipTurret_PlasmaTop_Large.verbs.Verb_Shoot.label>发射大型等离子团</ShipTurret_PlasmaTop_Large.verbs.Verb_Shoot.label>
+    <Bullet_Fake_Plasma_Large.label>大型等离子团</Bullet_Fake_Plasma_Large.label>
+    <Proj_ShipTurretPlasma_Large.label>大型等离子团</Proj_ShipTurretPlasma_Large.label>
+    <!-- 轨道炮 -->
+    <ShipTurret_Kinetic.label>舰载轨道炮</ShipTurret_Kinetic.label>
+    <ShipTurret_Kinetic.description>一门能将金属弹丸加速到相对论速度的飞船炮塔。可以命中远距离的目标，但不太精确。能够用于地面舰船防御。\n\n可以安全的放置在房间内，因为他会突出在舰船的顶部。\n必须通过热容网络连接到领航员控制台、战术控制台或船舶核心。\n需要足够的储能和热容才能正常运作。</ShipTurret_Kinetic.description>
+    <ShipTurret_KineticTop.label>舰载轨道炮</ShipTurret_KineticTop.label>
+    <ShipTurret_KineticTop.description>舰载轨道炮。最好在远距离使用。</ShipTurret_KineticTop.description> 
+    <ShipTurret_KineticTop.verbs.Verb_Shoot.label>发射轨道炮弹</ShipTurret_KineticTop.verbs.Verb_Shoot.label>
+    <Bullet_Fake_Kinetic.label>轨道炮弹</Bullet_Fake_Kinetic.label>
+    <Proj_ShipTurretKinetic.label>轨道炮弹</Proj_ShipTurretKinetic.label>
+    <Bullet_Ground_Kinetic.label>轨道炮弹</Bullet_Ground_Kinetic.label>
+    
+    <ShipTurret_Kinetic_Large.label>大型舰载轨道炮</ShipTurret_Kinetic_Large.label>
+    <ShipTurret_Kinetic_Large.description>一门能将金属弹丸加速到相对论速度的大型舰炮。可以命中远距离的目标，但不太精确。\n\n可以安全的放置在房间内，因为他会突出在舰船的顶部。\n必须通过热容网络连接到领航员控制台、战术控制台或船舶核心。\n需要足够的储能和热容才能正常运作。</ShipTurret_Kinetic_Large.description>
+    <ShipTurret_KineticTop_Large.label>大型舰载轨道炮</ShipTurret_KineticTop_Large.label>
+    <ShipTurret_KineticTop_Large.description>舰载轨道炮。最好在远距离使用。</ShipTurret_KineticTop_Large.description> 
+    <ShipTurret_KineticTop_Large.verbs.Verb_Shoot.label>发射大型轨道炮弹</ShipTurret_KineticTop_Large.verbs.Verb_Shoot.label>
+    <Bullet_Fake_Kinetic_Large.label>大型轨道炮弹</Bullet_Fake_Kinetic_Large.label>
+    <Proj_ShipTurretKinetic_Large.label>大型轨道炮弹</Proj_ShipTurretKinetic_Large.label>
+    <!-- 脊峰炮 -->
+    <ShipSpinalEmitter.label>脊峰电容器</ShipSpinalEmitter.label>
+    <ShipSpinalEmitter.description>脊峰武器的第一部分。连接一个或多个脊峰放大器，然后在末端安装一个脊峰炮口以完成组装。</ShipSpinalEmitter.description>
+    <ShipSpinalAmplifier.label>脊峰放大器</ShipSpinalAmplifier.label>
+    <ShipSpinalAmplifier.description>脊峰武器的中间部分。将一个或多个放大器连接到电容器上，然后在末端安装一个脊峰炮口以完成组装。\n\n将基础伤害提高25%，但同时也会增加相同百分比的能耗和产热。</ShipSpinalAmplifier.description>
+    
+    <ShipSpinalBarrelLaser.label>脊峰炮：激光</ShipSpinalBarrelLaser.label>
+    <ShipSpinalBarrelLaser.description>脊峰武器的最终部分。\n\n这个部分应该安装在飞船外部，除非你想给自己的船开个新洞。\n必须通过热容网络连接到领航员控制台、战术控制台或船舶核心。\n需要足够的储能和热容才能正常运作。</ShipSpinalBarrelLaser.description>
+    <ShipTurret_SpinalMountTopLaser.label>脊峰激光炮</ShipTurret_SpinalMountTopLaser.label>
+    <ShipTurret_SpinalMountTopLaser.description>主力舰武器。</ShipTurret_SpinalMountTopLaser.description>
+    <ShipTurret_SpinalMountTopLaser.verbs.Verb_Shoot.label>发射死光</ShipTurret_SpinalMountTopLaser.verbs.Verb_Shoot.label>
+    <Proj_ShipSpinalBeamLaser.label>死光</Proj_ShipSpinalBeamLaser.label>
+
+    <ShipSpinalBarrelPlasma.label>脊峰炮：等离子</ShipSpinalBarrelPlasma.label>
+    <ShipSpinalBarrelPlasma.description>脊峰武器的最终部分。\n\n这个部分应该安装在飞船外部，除非你想给自己的船开个新洞。\n必须通过热容网络连接到领航员控制台、战术控制台或船舶核心。\n需要足够的储能和热容才能正常运作。</ShipSpinalBarrelPlasma.description>
+    <ShipTurret_SpinalMountTopPlasma.label>脊峰等离子炮</ShipTurret_SpinalMountTopPlasma.label>
+    <ShipTurret_SpinalMountTopPlasma.description>主力舰武器。</ShipTurret_SpinalMountTopPlasma.description>
+    <ShipTurret_SpinalMountTopPlasma.verbs.Verb_Shoot.label>发射巨型等离子团</ShipTurret_SpinalMountTopPlasma.verbs.Verb_Shoot.label>
+    <Bullet_Fake_Plasma_XL.label>巨型等离子团</Bullet_Fake_Plasma_XL.label>
+    <Proj_ShipSpinalBeamPlasma.label>巨型等离子团</Proj_ShipSpinalBeamPlasma.label>
+
+    <ShipSpinalBarrelKinetic.label>脊峰炮：轨道炮</ShipSpinalBarrelKinetic.label>
+    <ShipSpinalBarrelKinetic.description>脊峰武器的最终部分。\n\n这个部分应该安装在飞船外部，除非你想给自己的船开个新洞。\n必须通过热容网络连接到领航员控制台、战术控制台或船舶核心。\n需要足够的储能和热容才能正常运作。</ShipSpinalBarrelKinetic.description>
+    <ShipTurret_SpinalMountTopKinetic.label>脊峰轨道炮</ShipTurret_SpinalMountTopKinetic.label>
+    <ShipTurret_SpinalMountTopKinetic.description>主力舰武器。</ShipTurret_SpinalMountTopKinetic.description>
+    <ShipTurret_SpinalMountTopKinetic.verbs.Verb_Shoot.label>发射轨道炮弹</ShipTurret_SpinalMountTopKinetic.verbs.Verb_Shoot.label>
+    <!-- 鱼雷 -->
+
+    <Artillery_ShipTorpedo_One.label>鱼雷发射器</Artillery_ShipTorpedo_One.label>
+    <ShipTorpedoOne.label>鱼雷发射器</ShipTorpedoOne.label>
+    <ShipTorpedoOne.description>储存并发射精准且威力巨大的鱼雷，但鱼雷抵达目标的速度较慢，易受到点防御系统的拦截。\n\n鱼雷容量：7\n射速：5/分钟</ShipTorpedoOne.description>
+    <Artillery_ShipTorpedo_One.label>鱼雷发射器</Artillery_ShipTorpedo_One.label>
+    <Artillery_ShipTorpedo_One.description>鱼雷发射器。能对护盾造成精准而巨大的破坏，但容易受到点防御系统的拦截。</Artillery_ShipTorpedo_One.description>
+
+    <ShipTorpedoTwo.label>鱼雷发射器(双联装)</ShipTorpedoTwo.label>
+    <ShipTorpedoTwo.description>储存并发射精准且威力巨大的鱼雷，但鱼雷抵达目标的速度较慢，易受到点防御系统的拦截。\n\n鱼雷容量：14\n射速：10/分钟</ShipTorpedoTwo.description>
+    <Artillery_ShipTorpedo_Two.label>鱼雷发射器(双联装)</Artillery_ShipTorpedo_Two.label>
+    <Artillery_ShipTorpedo_Two.description>鱼雷发射器。能对护盾造成精准而巨大的破坏，但容易受到点防御系统的拦截。</Artillery_ShipTorpedo_Two.description>
+    
+    <ShipTorpedoSix.label>鱼雷发射器(六联装)</ShipTorpedoSix.label>
+    <ShipTorpedoSix.description>储存并发射精准且威力巨大的鱼雷，但鱼雷抵达目标的速度较慢，易受到点防御系统的拦截。\n\n鱼雷容量：28\n射速：30/分钟</ShipTorpedoSix.description>
+    <Artillery_ShipTorpedo.label>鱼雷发射器(六联装)</Artillery_ShipTorpedo.label>
+    <Artillery_ShipTorpedo.description>鱼雷发射器。能对护盾造成精准而巨大的破坏，但容易受到点防御系统的拦截。</Artillery_ShipTorpedo.description>
+    
+    <!-- 碎片 -->
+    <Proj_ShipDebrisA.label>船体碎片</Proj_ShipDebrisA.label>
+    <Proj_ShipDebrisB.label>船体碎片</Proj_ShipDebrisB.label>
+    <Proj_ShipDebrisC.label>船体碎片</Proj_ShipDebrisC.label>
+    <Proj_ShipDebrisD.label>船体碎片</Proj_ShipDebrisD.label>
+    <Proj_ShipRockA.label>船体碎片</Proj_ShipRockA.label>
+    <Proj_ShipRockB.label>船体碎片</Proj_ShipRockB.label>
+    <Proj_ShipRockC.label>船体碎片</Proj_ShipRockC.label>
+    <Proj_ShipDebrisD.label>船体碎片</Proj_ShipDebrisD.label>
+
+</LanguageData>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <!-- 船体 -->
+    <Ship_BeamArchotech_Unpowered.label>超凡科技船体(无线路)</Ship_BeamArchotech_Unpowered.label>
+    <Ship_BeamArchotech_Unpowered.description>由超凡科技设计的飞船船体的外部结构部件，但不包括电缆和热能导管。</Ship_BeamArchotech_Unpowered.description>
+    <Ship_BeamArchotech.label>超凡科技船体</Ship_BeamArchotech.label>
+    <Ship_BeamArchotech.description>由超凡科技设计的飞船船体的外部结构部件，其中包括电缆、热能导管和维生气体导管。</Ship_BeamArchotech.description>
+
+    <Ship_Corner_Archo_OneOne.label>超凡科技船舶斜角装甲(1x1)</Ship_Corner_Archo_OneOne.label>
+    <Ship_Corner_Archo_OneOne.description>由超凡科技设计的有角度的舰船装甲。</Ship_Corner_Archo_OneOne.description>
+    <Ship_Corner_Archo_OneOneFlip.label>超凡科技船舶斜角装甲(1x1)翻转</Ship_Corner_Archo_OneOneFlip.label>
+    <Ship_Corner_Archo_OneOneFlip.description>由超凡科技设计的有角度的舰船装甲。</Ship_Corner_Archo_OneOneFlip.description>
+    <Ship_Corner_Archo_OneTwo.label>超凡科技船舶斜角装甲(1x2)</Ship_Corner_Archo_OneTwo.label>
+    <Ship_Corner_Archo_OneTwo.description>由超凡科技设计的有角度的舰船装甲。</Ship_Corner_Archo_OneTwo.description>
+    <Ship_Corner_Archo_OneTwoFlip.label>超凡科技船体斜角装甲(1x2)翻转</Ship_Corner_Archo_OneTwoFlip.label>
+    <Ship_Corner_Archo_OneTwoFlip.description>由超凡科技设计的有角度的舰船装甲。</Ship_Corner_Archo_OneTwoFlip.description>
+    <Ship_Corner_Archo_OneThree.label>超凡科技船舶斜角装甲(1x3)</Ship_Corner_Archo_OneThree.label>
+    <Ship_Corner_Archo_OneThree.description>由超凡科技设计的有角度的舰船装甲。</Ship_Corner_Archo_OneThree.description>
+    <Ship_Corner_Archo_OneThreeFlip.label>超凡科技船舶斜角装甲(1x3)翻转</Ship_Corner_Archo_OneThreeFlip.label>
+    <Ship_Corner_Archo_OneThreeFlip.description>由超凡科技设计的有角度的舰船装甲。</Ship_Corner_Archo_OneThreeFlip.description>
+
+    <ShipHullTileArchotech.label>超凡科技船舶底板</ShipHullTileArchotech.label>
+    <ShipHullTileArchotech.description>由超凡科技设计的适合航天任务的船舶底板。将这格空间（以及在其上建造的任何建筑）指定为舰船的一部分。</ShipHullTileArchotech.description>
+    <!-- 太阳能 -->
+    <ShipInside_SolarGeneratorArchotech.label>超凡科技船舶太阳能发电机</ShipInside_SolarGeneratorArchotech.label>
+    <ShipInside_SolarGeneratorArchotech.description>使用光子的能量将自身与附近恒星的光球纠缠在一起，能吸收到比直接照射阳光来得多的能量。在太空可输出1200W，在星球表面可输出600W。不能在黑暗或人造光源环境中工作。</ShipInside_SolarGeneratorArchotech.description>
+    <!-- 通风口 -->
+    <ShipInside_PassiveVentArchotech.label>超凡科技船舶通风口</ShipInside_PassiveVentArchotech.label>
+    <ShipInside_PassiveVentArchotech.description>与热容网络交换热量，将舰船内部冷却或加热到所需温度。在热容网络没有中蓄热时可以选择使用电力加热房间。</ShipInside_PassiveVentArchotech.description>
+    <!-- 气闸 -->
+    <ShipAirlockArchotech.label>超凡科技船舶气闸</ShipAirlockArchotech.label>
+    <ShipAirlockArchotech.description>允许进入舰船或在舰船内划分房间。其生成的低能等离子屏障能防止气体逸出。</ShipAirlockArchotech.description>
+    <!-- 推进器 -->
+    <Ship_Engine_Archotech.label>反物质推进器</Ship_Engine_Archotech.label>
+    <Ship_Engine_Archotech.description>一种先进的战斗推进器，能够实现巨大的爆发速度。使用异形粒子作为燃料。\n\n不能在行星大气中工作。\n推力：6000\n燃料消耗：1 异形粒子/秒</Ship_Engine_Archotech.description>
+    <!-- 电力 -->
+    <ArchotechAntimatterReactor.label>反物质反应堆</ArchotechAntimatterReactor.label>
+    <ArchotechAntimatterReactor.description>通过湮灭异形粒子来产生巨大的能量。让其受损可不是个好主意。</ArchotechAntimatterReactor.description>
+    <!-- 战斗 -->
+    <ShipHeatsinkAntiEntropy.label>反熵热容器</ShipHeatsinkAntiEntropy.label>
+    <ShipHeatsinkAntiEntropy.description>由超凡科技设计的先进热容器。利用异形粒子的物理学性质将多余的热量直接转化为可用能源。即使舰船处在隐形状态下也可以缓慢恢复热容量。\n\n热容量：200 Hu\n热转换：5 Hu/秒 转换为 1 kW/秒</ShipHeatsinkAntiEntropy.description>
+    
+    <ArchotechShieldGenerator.label>超凡科技护盾发生器</ArchotechShieldGenerator.label>
+    <ArchotechShieldGenerator.description>一个先进的能产生动能排斥场的设备。能够向外射击，但无法射入。\n\n在阻挡攻击时产生的热量是标准护盾发生器的75%。\n在阻挡攻击时会产生热量。如果没有连接到热容网络或热容不足，那么护盾发生器将损坏并需要修理。\n\n建议在热容蓄热过多时关闭护盾，否则会导致散热系统受损。</ArchotechShieldGenerator.description>
+    <!-- 孢子 -->
+    <ShipArchotechSpore.label>超凡科技孢子</ShipArchotechSpore.label>
+    <ShipArchotechSpore.description>供人类或机器意识自我升华为超凡科技的思维孵化器。\n\n其绝大部分算力都用于在内部，思考其自身结构何和其它无法理解的奥秘，但剩下的算力也足够作为一艘船舶的电脑核心。\n\n让殖民者在附近冥想或向其献祭囚犯等方式可以改善它的情绪。如果情绪低落，他可能会对你进行“恶作剧”。\n\n建造多个超凡科技孢子并不会使礼物来得更频繁，但它门可以独立发展自己的心灵场强度。</ShipArchotechSpore.description>
+    
+    <ArchotechUplink.label>超凡科技上行链路</ArchotechUplink.label>
+    <ArchotechUplink.description>允许人类研究员与你的超凡科技孢子的一部分思维进行合作。将其放在高级研究台附近，以解锁超凡科技科研项目。一个研究台最多可以同时连接一个超凡科技上行链路。</ArchotechUplink.description>
+    
+    <ShipArchotechPillarA.label>超凡科技柱-阿尔法</ShipArchotechPillarA.label>
+    <ShipArchotechPillarA.description>一个复杂且古怪的装置，没有人类可以理解的功能，但其显然会以某种方式推挤你的超凡科技孢子的计划。\n\n建造多于一个的相同柱体不会给你带来任何好处。</ShipArchotechPillarA.description>
+    <ShipArchotechPillarB.label>超凡科技柱-贝塔</ShipArchotechPillarB.label>
+    <ShipArchotechPillarB.description>一个复杂且古怪的装置，没有人类可以理解的功能，但其显然会以某种方式推挤你的超凡科技孢子的计划。\n\n建造多于一个的相同柱体不会给你带来任何好处。</ShipArchotechPillarB.description>
+    <ShipArchotechPillarC.label>超凡科技柱-伽马</ShipArchotechPillarC.label>
+    <ShipArchotechPillarC.description>一个复杂且古怪的装置，没有人类可以理解的功能，但其显然会以某种方式推挤你的超凡科技孢子的计划。\n\n建造多于一个的相同柱体不会给你带来任何好处。</ShipArchotechPillarC.description>
+    <ShipArchotechPillarD.label>超凡科技柱-德尔塔</ShipArchotechPillarD.label>
+    <ShipArchotechPillarD.description>一个复杂且古怪的装置，没有人类可以理解的功能，但其显然会以某种方式推挤你的超凡科技孢子的计划。\n\n建造多于一个的相同柱体不会给你带来任何好处。</ShipArchotechPillarD.description>
+    <!-- 武器 -->
+    <ShipSpinalBarrelPsychic.label>脊峰炮：噬灵者</ShipSpinalBarrelPsychic.label>
+    <ShipSpinalBarrelPsychic.description>脊峰武器的最终部分。发射一束定向的心灵冲击光束，使范围内的目标暂时陷入心灵冲击状态，但可能造成脑损伤。无视船体（会被护盾阻挡）。\n\n与其它的脊峰武器不同，噬灵者不会给你的舰船开个新洞，因此可以将其安全地安装在舰船内部。\n必须通过热容网络连接到领航员控制台、战术控制台或船舶核心。\n需要足够的储能和热容才能正常运作。</ShipSpinalBarrelPsychic.description>
+    <ShipTurret_SpinalMountTopPsychic.label>噬灵者心灵冲击炮</ShipTurret_SpinalMountTopPsychic.label>
+    <ShipTurret_SpinalMountTopPsychic.description>主力舰武器。</ShipTurret_SpinalMountTopPsychic.description>
+    <ShipTurret_SpinalMountTopPsychic.verbs.Verb_Shoot.label>发射心灵冲击光束</ShipTurret_SpinalMountTopPsychic.verbs.Verb_Shoot.label>
+    <Bullet_Fake_Psychic.label>心灵冲击光束</Bullet_Fake_Psychic.label>
+    <Proj_ShipTurretPsychic.label>心灵冲击光束</Proj_ShipTurretPsychic.label>
+    
+    <ShipSpinalBarrelMechanite.label>脊峰炮：解构者</ShipSpinalBarrelMechanite.label>
+    <ShipSpinalBarrelMechanite.description>脊峰武器的最终部分。一门经过改装用以发射解构微械团的轨道炮。\n\n这个部分应该安装在飞船外部，除非你想给自己的船开个新洞并且感受一次被解构的感觉。\n必须通过热容网络连接到领航员控制台、战术控制台或船舶核心。\n需要足够的储能和热容才能正常运作。</ShipSpinalBarrelMechanite.description>
+    <ShipTurret_SpinalMountTopMechanite.label>解构微械发射器</ShipTurret_SpinalMountTopMechanite.label>
+    <ShipTurret_SpinalMountTopMechanite.description>主力舰武器。</ShipTurret_SpinalMountTopMechanite.description>
+    <ShipTurret_SpinalMountTopMechanite.verbs.Verb_Shoot.label>发射解构微械团</ShipTurret_SpinalMountTopMechanite.verbs.Verb_Shoot.label>
+    <Bullet_Fake_Mechanite.label>解构微械团</Bullet_Fake_Mechanite.label>
+    <Proj_ShipTurretMechanite.label>解构微械团</Proj_ShipTurretMechanite.label>
+
+    <MechaniteFire.label>解构微械</MechaniteFire.label>
+    <MechaniteSpark.description>解构微械</MechaniteSpark.description>
+
+    <Weapon_GrenadeMechanite.label>装有不明粉红粘性物质的瓶子</Weapon_GrenadeMechanite.label>
+    <Weapon_GrenadeMechanite.description>装满了奇怪的粉红粘性物质的玻璃瓶。孢子建议你将其投向你的敌人。</Weapon_GrenadeMechanite.description>
+    <Weapon_GrenadeMechanite.verbs.Verb_Shoot.label>投掷装有不明粉红粘性物质的瓶子</Weapon_GrenadeMechanite.verbs.Verb_Shoot.label>
+    <Proj_GrenadeMechanite.label>解构者鸡尾酒</Proj_GrenadeMechanite.label>
+    <!-- 设备 -->
+    <ArchoRecycler.label>纳米机械拆解台</ArchoRecycler.label>
+    <ArchoRecycler.description>使用解构微械将任何物体拆解为构成它的基本材料，且效率近乎完美。</ArchoRecycler.description>
+
+</LanguageData>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <ArchotechMechanites.label>纳米机械组装</ArchotechMechanites.label>
+    <ArchotechMechanites.description>设计简单的纳米机械，以原子为单位组装或修复物体。</ArchotechMechanites.description>
+    
+    <ArchotechBioMechanites.label>生物纳米机械集成</ArchotechBioMechanites.label>
+    <ArchotechBioMechanites.description>设计专用于生物的纳米机械与其接口，以及改进现有的生物学。</ArchotechBioMechanites.description>
+    
+    <ArchotechBioMechanitesTwo.label>集群智能</ArchotechBioMechanitesTwo.label>
+    <ArchotechBioMechanitesTwo.description>赋予纳米机械蜂群格式塔智能思维，使它们能集体诊断和修复躯体损伤——甚至是起死回生。</ArchotechBioMechanitesTwo.description>
+    
+    <ArchotechArchites.label>超凡基因学</ArchotechArchites.label>
+    <ArchotechArchites.description>---需要生物科技DLC---\n\n设计你自己的超凡科技异种，将超凡胶囊和超凡基因组添加到你的孢子礼物选项中。</ArchotechArchites.description>
+    
+    <SoSArchotechOrgans.label>器官重构</SoSArchotechOrgans.label>
+    <SoSArchotechOrgans.description>从分子层面开始重新定义生物学，创造出更加优秀的器官。</SoSArchotechOrgans.description>
+    
+    <ArchotechAnimals.label>动物重构</ArchotechAnimals.label>
+    <ArchotechAnimals.description>超越自然演化，创造一个由超凡科技设计的生物构成的生态系统，这些生物不需要杀戮、受苦或死亡，并且能为它们的人类伙伴带来巨大的的好处。</ArchotechAnimals.description>
+    
+    <ArchotechPlants.label>植物重构</ArchotechPlants.label>
+    <ArchotechPlants.description>超越自然演化，创造一个目的明确的植物生态系统，为人类提供巨大的好处。</ArchotechPlants.description>
+    
+    <ArchotechMechaniteWeapon.label>解构微械</ArchotechMechaniteWeapon.label>
+    <ArchotechMechaniteWeapon.description>设计用于将物体从原子层面分解的纳米机械——用于回收不需要的物品，或者“回收”敌方舰船。</ArchotechMechaniteWeapon.description>
+    
+    <ArchotechHullConversion.label>构型优化</ArchotechHullConversion.label>
+    <ArchotechHullConversion.description>自动将船体转换到超凡科技船体。这不会影响大型建筑结构，例如散热器和护盾发生器。</ArchotechHullConversion.description>
+    
+    <ArchotechPsychicField.label>心灵场形成</ArchotechPsychicField.label>
+    <ArchotechPsychicField.description>发现心灵能力的基本原理，让你的超凡科技孢子开始形成一个心灵场。</ArchotechPsychicField.description>
+    <ArchotechPsychicField.discoveredLetterTitle>关于：心灵场</ArchotechPsychicField.discoveredLetterTitle>
+    <ArchotechPsychicField.discoveredLetterText>你的超凡科技孢子现在已经会开始形成一个心灵场。一旦积累了足够的场强并完成了必要的研究，你就可以要求你的超凡科技孢子执行一些大范围的心灵能力。场强会自行缓慢增长，也可以通过让殖民者在孢子附近冥想来稍微增加一点点，但都不如在旁边安装超凡科技柱来得快。</ArchotechPsychicField.discoveredLetterText>
+    
+    <ArchotechPsychicManipulation.label>心灵场操纵</ArchotechPsychicManipulation.label>
+    <ArchotechPsychicManipulation.description>利用心灵场来产生一些简单的灵能，给一片区域施加心灵抚慰，或者用心灵冲击放到一个人。</ArchotechPsychicManipulation.description>
+    
+    <ArchotechBroadManipulation.label>广域操纵</ArchotechBroadManipulation.label>
+    <ArchotechBroadManipulation.description>用灵能将信息透过梦境传达给成千上万的人，影响一个派系对你的看法。通过通讯台与他们联系以使用这种能力。</ArchotechBroadManipulation.description>
+    
+    <ArchotechPsylink.label>启灵神经</ArchotechPsylink.label>
+    <ArchotechPsylink.description>---需要皇权DLC---\n\n使你的超凡科技孢子能为殖民者提供或升级启灵神经。但这会消耗大量的场强。</ArchotechPsylink.description>
+    
+    <ArchotechPsychicEffectors.label>心灵装置</ArchotechPsychicEffectors.label>
+    <ArchotechPsychicEffectors.description>设计有使用限制的灵能装置，例如心灵冲击枪和动物心灵脉冲发生器。</ArchotechPsychicEffectors.description>
+    
+    <ArchotechPsychicWeapon.label>心灵武器</ArchotechPsychicWeapon.label>
+    <ArchotechPsychicWeapon.description>设计利用灵能来削弱敌舰船员的舰载武器。</ArchotechPsychicWeapon.description>
+    
+    <ArchotechPsychicSoulLink.label>心灵存档</ArchotechPsychicSoulLink.label>
+    <ArchotechPsychicSoulLink.description>将个体的意识连接到超凡科技孢子上。如果目标的身体被摧毁，心灵存档可以将其意识下载到来世棺材里。</ArchotechPsychicSoulLink.description>
+    
+    <ArchotechExotics.label>异形粒子</ArchotechExotics.label>
+    <ArchotechExotics.description>深入探讨人们当今普遍理解的物理定理，发现具有异常行为的各类粒子。</ArchotechExotics.description>
+    
+    <ArchotechVanometrics.label>虚空能量</ArchotechVanometrics.label>
+    <ArchotechVanometrics.description>设计一种通过收集虚空能量来产能的电池，它可以在不使用任何燃料的情况下生成免费的能源。</ArchotechVanometrics.description>
+    
+    <ArchotechShields.label>先进护盾</ArchotechShields.label>
+    <ArchotechShields.description>使用异形粒子来提高你的船舶护盾发生器的效率。</ArchotechShields.description>
+    
+    <ArchotechHeatsink.label>反熵</ArchotechHeatsink.label>
+    <ArchotechHeatsink.description>使用异形粒子建造能完全将热量转换为能量的热转换器，不再需要把热量辐射到太空中。</ArchotechHeatsink.description>
+    
+    <ArchotechAntimatter.label>物质反转</ArchotechAntimatter.label>
+    <ArchotechAntimatter.description>开发一种利用异形粒子来高效生产反粒子的方法。</ArchotechAntimatter.description>
+    
+    <ArchotechEngine.label>反物质推进器</ArchotechEngine.label>
+    <ArchotechEngine.description>在战斗中使用异形粒子来产生推力。</ArchotechEngine.description>
+    
+    <ArchotechReactor.label>反物质反应堆</ArchotechReactor.label>
+    <ArchotechReactor.description>利用异形粒子来快速产生巨量能源。</ArchotechReactor.description>
+    
+    <ArchotechPillarA.label>定位阿尔法柱</ArchotechPillarA.label>
+    <ArchotechPillarA.description>发现一根超凡科技柱的位置。这个特殊的标本位于环绕这颗星球的某条轨道上。</ArchotechPillarA.description>
+    <ArchotechPillarA.discoveredLetterTitle>检测到超凡科技柱</ArchotechPillarA.discoveredLetterTitle>
+    <ArchotechPillarA.discoveredLetterText>你已经成功识别出一根超凡科技柱所在的位置！这个标本位于地平线号空间站上，那是一座古老的星球改造站。\n\n扫描显示，该空间站的穹顶部分与内部的机械体已经维持了其内部的生态系统数千年而安然无恙。空间站还安装了大量重型武器，看来它们并不欢迎访客。\n\n你需要在舰桥处选择与地平线号交战。</ArchotechPillarA.discoveredLetterText>
+    
+    <ArchotechPillarB.label>定位贝塔柱</ArchotechPillarB.label>
+    <ArchotechPillarB.description>发现一根超凡科技柱的位置。这个特殊的标本位于星球的一个卫星上。</ArchotechPillarB.description>
+    <ArchotechPillarB.discoveredLetterTitle>检测到超凡科技柱</ArchotechPillarB.discoveredLetterTitle>
+    <ArchotechPillarB.discoveredLetterText>你已经成功识别出一根超凡科技柱所在的位置！这个标本正在卫星上的一处机械体基地当中被研究。\n\n扫描显示基地被一艘大型机械体战舰保护着。\n\n要接近机械体基地请在舰桥处选择“突袭月面基地”选项。</ArchotechPillarB.discoveredLetterText>
+    
+    <ArchotechPillarC.label>定位伽马柱</ArchotechPillarC.label>
+    <ArchotechPillarC.description>发现一根超凡科技柱的位置。这个特殊的标本位于星球表面的某个地方。</ArchotechPillarC.description>
+    <ArchotechPillarC.discoveredLetterTitle>检测到超凡科技柱</ArchotechPillarC.discoveredLetterTitle>
+    <ArchotechPillarC.discoveredLetterText>你已经成功识别出一根超凡科技柱所在的位置！这个标本是这颗星球上的部落文化中记载的最神圣的圣物，他们称其为星辰图腾。\n\n这里曾是一个神圣的聚会地点，相互敌对的部落在此旗帜下也会和平地交谈，但现在这里被一个野蛮的狂战士部落占领并亵渎。\n\n当你的突袭对抵达现场时，你接结交到的所有部落盟友也会一齐加入这场战斗，他们渴望看到神圣的图腾回到友善的一方手中。</ArchotechPillarC.discoveredLetterText>
+    
+    <ArchotechPillarD.label>定位德尔塔柱</ArchotechPillarD.label>
+    <ArchotechPillarD.description>发现一根超凡科技柱的位置。这个特殊的标本位于星球地壳下的某个地方。</ArchotechPillarD.description>
+    <ArchotechPillarD.discoveredLetterTitle>检测到超凡科技柱</ArchotechPillarD.discoveredLetterTitle>
+    <ArchotechPillarD.discoveredLetterText>你已经成功识别出一根超凡科技柱所在的位置！这个标本位于地下深处的一个巨型虫巢中心。\n\n扫描显示哪里有大量的基因改造昆虫和其衍生种群，以及一些异常读数——可能是一大群洞穴蜘蛛或者什么更糟糕的东西。\n\n建议让你的突袭队练习一下格斗技能......</ArchotechPillarD.discoveredLetterText>
+
+</LanguageData>

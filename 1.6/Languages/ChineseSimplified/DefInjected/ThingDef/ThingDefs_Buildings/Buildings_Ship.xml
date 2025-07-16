@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <!-- 未完成标记========== -->
+    <!-- 船体 -->
+    <Ship_Beam_Unpowered.label>标准船体(无线路)</Ship_Beam_Unpowered.label>
+    <Ship_Beam_Unpowered.description>飞船船体的外部结构部件，但不包括电缆和热能导管。</Ship_Beam_Unpowered.description>
+    <Ship_Beam.label>标准船体</Ship_Beam.label>
+    <Ship_Beam.description>飞船船体的外部结构部件，其中包括电缆、热能导管和维生气体导管。</Ship_Beam.description>
+
+    <Ship_Corner_OneOne.label>标准船舶斜角装甲(1x1)</Ship_Corner_OneOne.label>
+    <Ship_Corner_OneOne.description>有角度的舰船装甲。</Ship_Corner_OneOne.description>
+    <Ship_Corner_OneOneFlip.label>标准船舶斜角装甲(1x1)翻转</Ship_Corner_OneOneFlip.label>
+    <Ship_Corner_OneOneFlip.description>有角度的舰船装甲。</Ship_Corner_OneOneFlip.description>
+    <Ship_Corner_OneTwo.label>标准船舶斜角装甲(1x2)</Ship_Corner_OneTwo.label>
+    <Ship_Corner_OneTwo.description>有角度的舰船装甲。</Ship_Corner_OneTwo.description>
+    <Ship_Corner_OneTwoFlip.label>标准船舶斜角装甲(1x2)翻转</Ship_Corner_OneTwoFlip.label>
+    <Ship_Corner_OneTwoFlip.description>有角度的舰船装甲。</Ship_Corner_OneTwoFlip.description>
+    <Ship_Corner_OneThree.label>标准船舶斜角装甲(1x3)</Ship_Corner_OneThree.label>
+    <Ship_Corner_OneThree.description>有角度的舰船装甲。</Ship_Corner_OneThree.description>
+    <Ship_Corner_OneThreeFlip.label>标准船舶斜角装甲(1x3)翻转</Ship_Corner_OneThreeFlip.label>
+    <Ship_Corner_OneThreeFlip.description>有角度的舰船装甲。</Ship_Corner_OneThreeFlip.description>
+
+    <ShipHullTile.label>标准船舶底板</ShipHullTile.label>
+    <ShipHullTile.description>适合航天任务的船舶底板。将这格空间（以及在其上建造的任何建筑）指定为舰船的一部分。</ShipHullTile.description>
+    <!-- 太阳能 -->
+    <ShipInside_SolarGenerator.label>标准船舶太阳能发电机</ShipInside_SolarGenerator.label>
+    <ShipInside_SolarGenerator.description>利用太阳光来发电。在太空可输出600W，在星球表面可输出300W。不能在黑暗或人造光源环境中工作。</ShipInside_SolarGenerator.description>
+    <!-- 通风口 -->
+    <ShipInside_PassiveVent.label>标准船舶通风口</ShipInside_PassiveVent.label>
+    <ShipInside_PassiveVent.description>与热容网络交换热量，将舰船内部冷却或加热到所需温度。在热容网络没有中蓄热时可以选择使用电力加热房间。</ShipInside_PassiveVent.description>
+    <!-- 气闸 -->
+    <ShipAirlock.label>标准船舶气闸</ShipAirlock.label>
+    <ShipAirlock.description>允许进入舰船或在舰船内划分房间。其生成的低能等离子屏障能防止气体逸出。</ShipAirlock.description>
+    <!-- 对接装置 -->
+    <ShipAirlockBeam.label>船舶对接装置</ShipAirlockBeam.label>
+    <ShipAirlockBeam.description>舰船对接系统的一半。将两个这东西放在船舶气闸旁边并向外朝向真空区域：|o| 其中 | 代表对接装置，o代表船舶气闸，然后，气闸将获得扩展对接装置向外延伸最长3地格的能力。\n\n气闸走廊不适合星际航行和大气再入，因此舰船对接将自动分离。</ShipAirlockBeam.description>
+    <!-- 挂载点 -->
+    <ShipHardpointSmall.label>小型船舶挂载点</ShipHardpointSmall.label>
+    <ShipHardpoint.label>船舶挂载点</ShipHardpoint.label>
+    <ShipHardpointExtraMedium.label>大型船舶挂载点</ShipHardpointExtraMedium.label>
+    <ShipHardpointLarge.label>超大型船舶挂载点</ShipHardpointLarge.label>
+    <ShipHardpoints.description>用于将建筑和炮塔连接到舰船外部的支撑结构。任何建造在其上的建筑都将被视为舰船的一部分。\n\n其整合了纳米复合装甲可将放置在这上面的炮塔受到的伤害减少一半。</ShipHardpoints.description>
+    <!-- 推进器 -->
+    <Ship_Engine_Small.label>小型火箭推进器</Ship_Engine_Small.label>
+    <Ship_Engine_Small.description>一种使用化合燃料驱动的推进器，能将舰船送入轨道。不能进行星际航行。\n\n推力：500\n燃料消耗：1 化合燃料/秒\n最大起飞重量：750</Ship_Engine_Small.description>
+    <Ship_Engine.label>火箭推进器</Ship_Engine.label>
+    <Ship_Engine.description>一种使用化合燃料驱动的推进器，能将舰船送入轨道。不能进行星际航行。\n\n推力：1000\n燃料消耗：2 化合燃料/秒\n最大起飞重量：1000</Ship_Engine.description>
+    <Ship_Engine_Large.label>核能推进器</Ship_Engine_Large.label>
+    <Ship_Engine_Large.description>一种使用核燃料驱动的核动力推进器，能将舰船送入轨道。不能进行星际航行。\n\n推力：3000\n燃料消耗：3 核燃料舱/秒\n最大起飞重量：4000</Ship_Engine_Large.description>
+    
+    <Ship_Thruster.label>RCS推进器</Ship_Thruster.label>
+    <Ship_Thruster.description>用于让舰船在地图上移动的小型推进器。每2000点舰船重量需要一个。</Ship_Thruster.description>
+    
+    <Ship_Engine_Interplanetary.label>约翰逊-田中驱动器</Ship_Engine_Interplanetary.label>
+    <Ship_Engine_Interplanetary.description>一种极度先进的无工质推进器，能够进行行星和星际间航行。\n\n不能在行星大气中工作。\n\nJT驱动质量极限：10000\n推力：500</Ship_Engine_Interplanetary.description>
+    <Ship_Engine_Interplanetary_Large.label>大型约翰逊-田中驱动器</Ship_Engine_Interplanetary_Large.label>
+    <Ship_Engine_Interplanetary_Large.description>一种极度先进的无工质推进器，能够进行行星和星际间航行。\n\n不能在行星大气中工作。这种安装了两个纠缠流形且配置更高效的大号版本通常能在大型军舰上发现。\n\nJT驱动质量极限：30000\n推力：2000</Ship_Engine_Interplanetary_Large.description>
+    <!-- 舰桥/控制台 -->
+    <ShipPilotSeatMini.label>船舶领航员控制台</ShipPilotSeatMini.label>
+    <ShipPilotSeatMini.description>允许殖民者驾驶舰船。</ShipPilotSeatMini.description>
+    <ShipConsoleTactical.label>船舶战术控制台</ShipConsoleTactical.label>
+    <ShipConsoleTactical.description>提供武器选择和目标选择的选项，并根据操作者的射击技能增加舰船武器的精度。</ShipConsoleTactical.description>
+    <ShipConsoleScience.label>船舶科学控制台</ShipConsoleScience.label>
+    <ShipConsoleScience.description>允许殖民者扫描轨道上感兴趣的物体，从轨道上观察星球表面并在战斗中扫描敌舰内部。</ShipConsoleScience.description>
+    
+    <Ship_DroneCore.label>无人船舶核心</Ship_DroneCore.label>
+    <Ship_DroneCore.description>一个简单的计算机核心，内置一个低级AI。虽然无法解决创造性问题或引导星际航行，但足矣代替人类在战斗中驾驶舰船。</Ship_DroneCore.description>
+    <Ship_ComputerCore.label>船舶电脑核心</Ship_ComputerCore.label>
+    <Ship_ComputerCore.description>一个搭载有人格AI的电脑核心，可以驾驶你的舰船，精准地发射武器，或者在漫长的星际航行中担任领航员。其包含了一个纳米机械培育舱，允许AI生成一个微械凝胶体来与世界交互。</Ship_ComputerCore.description>
+    <!-- 传感器 -->
+    <Ship_SensorCluster.label>基础集成传感器</Ship_SensorCluster.label>
+    <Ship_SensorCluster.description>搭载了基本的舰船操作所需的传感器。允许舰船进入轨道或观察一个区域并在所观察的区域着陆。</Ship_SensorCluster.description>
+    <Ship_SensorClusterAdv.label>先进集成传感器</Ship_SensorClusterAdv.label>
+    <Ship_SensorClusterAdv.description>更先进的舰船传感器。在基础传感器上增加了对事件点的扫描与扫描敌舰内部的功能。</Ship_SensorClusterAdv.description>
+    <!-- 生命支持系统 -->
+    <Ship_LifeSupport.label>船舶生命支持系统</Ship_LifeSupport.label>
+    <Ship_LifeSupport.description>在所有完全密封的船舱内释放氧气。保持未穿着宇航服且非低温休眠状态下的殖民者和动物的生命。\n\n虽然每艘舰船只需要一个生命支持系统，但备用的生命支持系统可以在紧急情况下拯救船员的生命。</Ship_LifeSupport.description>
+    <Ship_LifeSupport_Small.label>小型船舶生命支持系统</Ship_LifeSupport_Small.label>
+    <Ship_LifeSupport_Small.description>在所有完全密封的船舱内释放氧气。保持未穿着宇航服且非低温休眠状态下的殖民者和动物的生命。为了能塞进更小的船，这个版本采用了更紧凑的设计，但也牺牲了能源利用效率。\n\n虽然每艘舰船只需要一个生命支持系统，但备用的生命支持系统可以在紧急情况下拯救船员的生命。</Ship_LifeSupport_Small.description>
+    <!-- 电力 -->
+    <ShipCapacitorSmall.label>船舶电容器</ShipCapacitorSmall.label>
+    <ShipCapacitorSmall.description>高效地存储高达1000Wd的电力。</ShipCapacitorSmall.description>
+    <ShipCapacitor.label>船舶电容阵列</ShipCapacitor.label>
+    <ShipCapacitor.description>高效地存储高达10000Wd的电力。</ShipCapacitor.description>
+    
+    <Ship_Reactor.label>船用裂变反应堆</Ship_Reactor.label>
+    <Ship_Reactor.description>一台紧凑且能够独立运行的裂变反应堆。通过燃烧核燃料舱进行产能。如果有可用的热容系统则将热量排放到热容系统中，否则将热量排放到所在房间内。\n\n其基础产能为10000W，可通过几种愈发不稳定的超频模式来提高。</Ship_Reactor.description>
+    <Ship_Reactor_Small.label>小型裂变反应堆</Ship_Reactor_Small.label>
+    <Ship_Reactor_Small.description>一台紧凑且能够独立运行的裂变反应堆。通过燃烧核燃料舱进行产能。如果有可用的热容系统则将热量排放到热容系统中，否则将热量排放到所在房间内。\n\n其基础产能为3000W，可通过几种愈发不稳定的超频模式来提高。</Ship_Reactor_Small.description>
+    <!-- 港口 -->
+    <ShipShuttleBay.label>穿梭机停靠港</ShipShuttleBay.label>
+    <ShipShuttleBay.description>提供停靠穿梭机的功能的设施。这个先进的停靠港含有能自动修理穿梭机部件的纳米机械，会将部件修理至一半生命值，并且能使小人维修穿梭机的速度加倍。它的内部还能存储燃料，并且可以自动为停靠在其上的穿梭机添加燃料。\n\n停靠港上不能有障碍物。帝国的穿梭机可以在没有飞船着陆信标的情况下着陆在停靠港。</ShipShuttleBay.description>
+    <ShipShuttleBayLarge.label>大型穿梭机停靠港</ShipShuttleBayLarge.label>
+    <ShipShuttleBayLarge.description>提供停靠最大重型穿梭机的功能的设施。这个先进的停靠港含有能自动修理穿梭机部件的纳米机械，会将部件修理至一半生命值，并且能使小人维修穿梭机的速度加倍。它的内部还能存储燃料，并且可以自动为停靠在其上的穿梭机添加燃料。\n\n停靠港上不能有障碍物。帝国的穿梭机可以在没有飞船着陆信标的情况下着陆在停靠港。</ShipShuttleBayLarge.description>
+    
+    <ShipSalvageBay.label>打捞港</ShipSalvageBay.label>
+    <ShipSalvageBay.description>移动沉船残骸到你的地图上，或者移除地图上不需要的残骸。可以建造更多的打捞港以容纳更大的船舶。\n\n重量限制：5000</ShipSalvageBay.description>
+    <ShipSalvageBayNano.label>闪耀科技打捞港</ShipSalvageBayNano.label>
+    <ShipSalvageBayNano.description>与普通的打捞港不同，这个版本使用了基于反向JT原理的牵引光束。它可以移动沉船残骸到你的地图上，或者移除地图上不需要的残骸。还可以检索到敌舰残骸周围那些小的松散物品。</ShipSalvageBayNano.description>
+    <!-- 隐形装置 -->
+    <ShipCloakingDevice.label>隐形装置</ShipCloakingDevice.label>
+    <ShipCloakingDevice.description>生成一个可隐藏船舶热发射源的屏障，能防止你的舰船被其它舰船的被动扫描系统检测到。这可以防止随机舰船战事件，但无法在战斗中生效。它也不能防止赏金猎人们那强大的扫描仪发现你。\n\n当装置启动时，舰船散热系统将被禁用，热容上限也会持续消耗。</ShipCloakingDevice.description>
+    <!-- 不完全是休眠舱 -->
+    <Ship_CryptosleepCasket.label>船舶低温休眠舱</Ship_CryptosleepCasket.label>
+    <Ship_CryptosleepCasket.description>一个带有多个内置定时器和备用措施的低温休眠舱。可以在没有人为干预的情况下打开。在舰船发生灾难性事故时，它还可以作为逃生舱使用。\n\n建议在任何舰船上都至少装备一个这样的设备。</Ship_CryptosleepCasket.description>
+    
+    <SpaceCrib.label>太空婴儿床</SpaceCrib.label>
+    <SpaceCrib.description>一张适合那些困倦宝宝的高科技床。一旦生命支持系统故障，其保护性外壳将会闭合并，内部将独立进行循环氧气并调节温度，从而保护住其中的使用者。在舰船发生灾难性事故时，它还可以作为逃生舱使用。\n\n它不是个低温休眠舱，不能在星际航行期间保护使用者的生命。</SpaceCrib.description>
+    
+    <CrittersleepCasket.label>小型动物低温休眠舱(8)</CrittersleepCasket.label>
+    <CrittersleepCasket.description>一个自行供电的低温休眠舱，能容纳最多8只小动物并使它们进入低温休眠状态。在将动物放入低温休眠舱之前应对它们进行医学麻醉。</CrittersleepCasket.description>
+    <CrittersleepCasketLarge.label>大型动物低温休眠舱(32)</CrittersleepCasketLarge.label>
+    <CrittersleepCasketLarge.description>一个大号的自行供电的低温休眠舱，能容纳最多32只小动物并使它们进入低温休眠状态。在将动物放入低温休眠舱之前应对它们进行医学麻醉。</CrittersleepCasketLarge.description>
+    
+    <Cryptonest.label>低温休眠卵箱</Cryptonest.label>
+    <Cryptonest.description>一个专为禽类受精卵设计的自行供电的低温休眠舱，能容纳最多16可卵并使它们进入低温休眠状态。</Cryptonest.description>
+    <!-- 来世棺材 -->
+    <Ship_AvatarCasket.label>来世棺材</Ship_AvatarCasket.label>
+    <Ship_AvatarCasket.description>一个含有能解构已故人体，并构建一个能放仿造其原始生物功能的凝胶体的纳米机械蜂群的装置。\n解构出的意识能被完好无缺地转移到一个人造心灵神经中，该物体会保存在设备的储槽中，并通过心灵纠缠的方式操控其微械凝胶体。一个来世棺材只能保存一个意识。</Ship_AvatarCasket.description>
+    <!-- 泡沫泵 -->
+    <HullFoamDistributor.label>泡沫船体填充泵</HullFoamDistributor.label>
+    <HullFoamDistributor.description>一台用于在整个舰船分布泡沫填充物的泵站。当船体的一部分在战斗中被摧毁时，该系统将自动使用船体修补泡沫填补漏洞。</HullFoamDistributor.description>
+    
+    <HullFoamWall.label>气密泡沫填充船体</HullFoamWall.label>
+    <HullFoamWall.description>一种可用于密封船体的泡沫板。</HullFoamWall.description>
+    <ShipHullfoamTile.label>气密泡沫填充底板</ShipHullfoamTile.label>
+    <ShipHullfoamTile.description>气密船体泡沫，喷涂以填补缺失的船体底板</ShipHullfoamTile.description>
+    <!-- 气闸延伸物 -->
+    <ShipAirlockBeamWall.label>气闸墙</ShipAirlockBeamWall.label>
+    <ShipAirlockBeamWall.description>一面由气闸延伸出的气密墙。</ShipAirlockBeamWall.description>
+    <ShipAirlockBeamWallInert.label>气闸墙</ShipAirlockBeamWallInert.label>
+    <ShipAirlockBeamWallInert.description>一面由气闸延伸出的气密墙。</ShipAirlockBeamWallInert.description>
+    <ShipAirlockBeamTile.label>气闸地板</ShipAirlockBeamTile.label>
+    <!-- 壁灯 -->
+    <WallSunLampSoS.label>壁挂式太阳灯</WallSunLampSoS.label>
+    <WallSunLampSoS.description>一盏可以挂在墙上的太阳灯，将一片区域照亮到足以种植农作物，但需要消耗大量电力。夜晚时会自动关闭。它的效率不如正常的立式太阳灯，但它就是可以安在墙上。</WallSunLampSoS.description>
+    <WallSunLampSoS.comps.CompSchedule.offMessage>植物休眠期间关闭</WallSunLampSoS.comps.CompSchedule.offMessage>
+    <!-- 飞船蓝图 -->
+    <ShipBPBomberHeavy.label>舰船蓝图(重型轰炸机)</ShipBPBomberHeavy.label>
+    <ShipBPBomberHeavy.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。\n\n类别：重型轰炸机\n一艘全副武装的飞船，但无法独自在太空中进行长期行动。\n\n舰船重量：1092\n尺寸：28 x 26\n推重比：3.151\n战斗评级：130\n\n武器：\n1x大型舰载激光炮\n2x舰载激光炮\n2x鱼雷发射器\n2x舰载等离子炮\n\n所需资源：\n钢铁：5447\n玻璃钢：1937\n高级零部件：91\n零部件：168\n铀：160\n白银：225\n黄金：4\n\n全部建造所需研究：\n第一阶段：\n星际航行基础、电力、空调\n第二阶段：\n火箭推进器\n第三阶段：\n船舶导航、巡洋舰武器、船舶热容系统、船用裂变反应堆、舰载激光炮、基础传感器、泡沫灭火器、舰载护盾发生器、电容器阵列、舰载鱼雷、舰载等离子炮、生命支持系统</ShipBPBomberHeavy.description>
+    
+    <ShipBPCargoFirefly.label>舰船蓝图(萤火虫级运输船)</ShipBPCargoFirefly.label>
+    <ShipBPCargoFirefly.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。\n\n类别：萤火虫级运输\n有大载货舱的无武装运输船。\n\n舰船重量：4720\n尺寸：79 x 50\n推重比：1.644\n战斗评级：63\n\n武器：\n没有\n\n所需资源：\n钢铁：25099\n玻璃钢：5890\n高级零部件：202\n零部件：740\n黄金：16\n铀：170\n纠缠流形：1\n白银：100\n\n全部建造所需研究：\n第一阶段：\n星际航行基础、电力、太阳能板、空调\n第二阶段：\n火箭推进器、船用裂变反应堆、约翰逊-田中驱动器\n第三阶段：\n船舶导航、先进传感器、微电子基础、逃生舱、生命支持系统、打捞港、生命体征监测仪、穿梭机停靠港、复杂家具、船舶热容系统、机械加工、泡沫灭火器、医疗床、电容器阵列</ShipBPCargoFirefly.description>
+    
+    <ShipBPCorvette.label>舰船蓝图(轻型护卫舰)</ShipBPCorvette.label>
+    <ShipBPCorvette.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。\n\n类别：轻型护卫舰\n一艘很小的轻型护卫舰。\n\n舰船重量：1868\n尺寸：36 x 20\n推重比：2.371\n战斗评级：132\n\n武器：\n2x鱼雷发射器\n4x舰载激光炮\n2x舰载轨道炮\n\n所需资源：\n钢铁：9328\n玻璃钢：2971\n高级零部件：131\n零部件：315\n白银：900\n黄金：4\n铀：120\n\n全部建造所需研究：\n第一阶段：\n星际航行基础、电力、空调\n第二阶段：\n火箭推进器\n第三阶段：\n船舶导航、船舶热容系统、舰载护盾发生器、微电子基础、基础传感器、船用裂变反应堆、舰载鱼雷、生命支持系统、机械加工、泡沫灭火器、显像管电视、舰载激光炮、电容器阵列、舰载轨道炮、打捞港</ShipBPCorvette.description>
+
+    <ShipBPCorvetteGunship.label>舰船蓝图(炮艇巡洋舰)</ShipBPCorvetteGunship.label>
+    <ShipBPCorvetteGunship.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。\n\n类别：轻型巡洋舰\n一艘航速缓慢但全副武装的轻型巡洋舰。\n\n舰船重量：3694\n尺寸：69 x 26\n推重比：1.400\n战斗评级：262\n\n武器：\n8x舰载激光炮\n2x大型舰载轨道炮\n2x大型舰载等离子炮\n\n所需资源：\n钢铁：20404\n高级零部件：245\n玻璃钢：6390\n零部件：651\n铀：530\n黄金：4\n白银：1700\n\n全部建造所需研究：\n第一阶段：\n星际航行基础、电力、空调\n第二阶段：\n火箭推进器\n第三阶段：\n船舶导航、舰载激光炮、基础传感器、微电子基础、舰载护盾发生器、船舶热容系统、巡洋舰武器、泡沫灭火器、电容器阵列、平板电视、医疗床、逃生舱、船用裂变反应堆、机械加工、打捞港、生命支持系统、生命体征监测仪</ShipBPCorvetteGunship.description>
+
+    <ShipBPCorvetteTorpedo.label>舰船蓝图(雷击巡洋舰)</ShipBPCorvetteTorpedo.label>
+    <ShipBPCorvetteTorpedo.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。\n\n类别：轻型巡洋舰\n一艘重型鱼雷轻巡洋舰。\n\n舰船重量：3733\n尺寸：60 x 36\n推重比：1.853\n战斗评级：313\n\n武器：\n6x舰载激光炮\n2x大型舰载等离子炮\n2x鱼雷发射器(双联装)\n\n所需资源：\n钢铁：21371\n玻璃钢：6070\n高级零部件：274\n零部件：651\n铀：325\n白银：900\n黄金：20\n\n全部建造所需研究：\n第一阶段：\n星际航行基础、电力、空调\n第二阶段：\n火箭推进器\n第三阶段：\n船舶导航、舰载激光炮、巡洋舰武器、微电子基础、电容器阵列、逃生舱、显像管电视、船舶热容系统、医疗床、舰载护盾发生器、生命支持系统、生命体征监测仪、基础传感器、船用裂变反应堆、舰载鱼雷、泡沫灭火器、紧急排热端口，打捞港、机械加工</ShipBPCorvetteTorpedo.description>
+
+    <ShipBPCorvetteWinged.label>舰船蓝图(飞翼巡洋舰)</ShipBPCorvetteWinged.label>
+    <ShipBPCorvetteWinged.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。\n\n类别：轻型巡洋舰\n一艘有翼轻型巡洋舰。\n\n舰船重量：3101\n尺寸：44 x 48\n推重比：1.758\n战斗评级：179\n\n武器：\n1x大型舰载轨道炮\n6x舰载激光炮\n2x鱼雷发射器\n\n所需资源：\n钢铁：15648\n高级零部件：172\n玻璃钢：4794\n零部件：548\n铀：220\n黄金：4\n白银：900\n\n全部建造所需研究：\n第一阶段：\n星际航行基础、电力、空调\n第二阶段：\n火箭推进器\n第三阶段：\n船舶导航、电容器阵列、巡洋舰武器、微电子基础、生命支持系统、生命体征监测仪、医疗床、基础传感器、舰载激光炮、船用裂变反应堆、打捞港、船舶热容系统、逃生舱、显像管电视、舰载护盾发生器、舰载鱼雷、泡沫灭火器</ShipBPCorvetteWinged.description>
+
+    <ShipBPFrigateArcher.label>舰船蓝图(射手座级巡航舰)</ShipBPFrigateArcher.label>
+    <ShipBPFrigateArcher.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。\n\n类别：射手座级巡航舰\n一艘灵活的巡航舰，相对较高的航速与搭载的一门脊峰轨道炮，使得射手座级巡航舰非常适合远距离作战。\n\n舰船重量：7425\n尺寸：76 x 44\n推重比：1.909\n战斗评级：640\n\n武器：\n10x舰载激光炮\n2x大型舰载等离子炮\n1x脊峰炮：轨道炮\n2x鱼雷发射器\n\n所需资源：\n钢铁：40579\n高级零部件：548\n玻璃钢：12097\n零部件：1091\n铀：750\n白银：1100\n黄金：52\n布：130\n原木：55\n\n全部建造所需研究：\n第一阶段：\n星际航行基础、电力、空调\n第二阶段：\n火箭推进器、船用裂变反应堆\n第三阶段：\n船舶导航，舰载激光炮、主力舰武器、微电子基础、逃生舱、修补泡沫、舰载护盾发生器、先进传感器、船舶热容系统、医疗床、生命支持系统、电容器阵列、巡洋舰武器、机械加工、精密装配、紧急排热端口、泡沫灭火器、穿梭机停靠港、打捞港、多元分析仪、水栽培、舰载鱼雷、复杂家具、医药生产、复杂衣物、生命体征监测仪、平板电视</ShipBPFrigateArcher.description>
+
+    <ShipBPFrigateWinged.label>舰船蓝图(飞翼巡航舰)</ShipBPFrigateWinged.label>
+    <ShipBPFrigateWinged.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。\n\n类别：巡航舰\n一艘大且有力的巡航舰\n\n舰船重量：8249\n尺寸：77 x 60\n推重比：1.781\n战斗评级：674\n\n武器：\n2x舰载等离子炮\n2x鱼雷发射器(双联装)\n2x大型舰载轨道炮\n10x舰载激光炮\n1x脊峰炮：轨道炮\n1x大型舰载激光炮\n\n所需资源：\n钢铁：45369\n高级零部件：566\n玻璃钢：13290\n零部件：1323\n铀：800\n布：50\n原木：25\n黄金：52\n白银：1100\n\n全部建造所需研究：\n第一阶段：\n星际航行基础、电力、空调\n第二阶段：\n火箭推进器、船用裂变反应堆\n第三阶段：\n船舶导航、打捞港、电容器阵列、微电子基础、穿梭机停靠港、舰载等离子炮、逃生舱、生命支持系统。舰载鱼雷、医疗床、水栽培、生命体征监测仪、修补泡沫、机械加工、复杂家具、先进传感器、舰载护盾发生器、泡沫灭火器、巡洋舰武器、舰载激光炮、船舶热容系统、主力舰武器、多元分析仪、精密装配、紧急排热端口、平板电视</ShipBPFrigateWinged.description>
+
+    <ShipBPCorvetteMartian.label>舰船蓝图(老式火星巡洋舰)</ShipBPCorvetteMartian.label>
+    <ShipBPCorvetteMartian.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。\n\n类别：老式火星巡洋舰\n一款久经历练的设计。\n\n舰船重量：2516\n尺寸：59 x 22\n推重比：1.733\n战斗评级：137\n\n武器：\n6x舰载机炮\n1x鱼雷发射器(双联装)\n\n所需资源：\n钢铁：12796\n玻璃钢：3622\n高级零部件：146\n黄金：20\n零部件：397\n铀：300\n白银：100\n\n全部建造所需研究：\n第一阶段：\n星际航行基础、电力、空调\n第二阶段：\n火箭推进器、船用裂变反应堆\n第三阶段：\n船舶导航、基础传感器、舰载机炮、电容器阵列、微电子基础、水栽培、船舶热容系统、机械加工、打捞港、先进传感器、平板电视、舰载鱼雷、医疗床、生命体征监测仪、生命支持系统</ShipBPCorvetteMartian.description>
+
+    <ShipBPTransportSmall.label>舰船蓝图(小型运输船)</ShipBPTransportSmall.label>
+    <ShipBPTransportSmall.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。\n\n类别：小型运输船\n一艘轻武装小型运输船\n\n舰船重量：1472\n尺寸：30 x 22\n推重比：1.974\n战斗评级：44\n\n武器：\n2x舰载激光炮\n\n所需资源：\n钢铁：7461\n玻璃钢：2084\n高级零部件：91\n零部件：249\n黄金：4\n铀：40\n白银：250\n\n全部建造所需研究：\n第一阶段：\n星际航行基础、电力、空调\n第二阶段：\n火箭推进器\n第三阶段：\n船舶导航、微电子基础、平板电视、生命支持系统、基础传感器、打捞港、船舶热容系统、舰载激光炮、船用裂变反应堆、舰载护盾发生器、机械加工、医疗床、生命体征监测仪、泡沫灭火器、电容器阵列</ShipBPTransportSmall.description>
+
+    <ShipBPExplorationVessel.label>舰船蓝图(科考船)</ShipBPExplorationVessel.label>
+    <ShipBPExplorationVessel.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。\n\n类别：科学考察船\n一艘为探索边缘世界而设计的带有大型考察设备的科考船。\n\n舰船重量：4104\n尺寸：49 x 36\n推重比：1.877\n战斗评级：197\n\n武器：\n6x舰载激光炮\n2x大型舰载激光炮\n\n所需资源：\n钢铁：22334\n高级零部件：246\n玻璃钢：6185\n零部件：672\n铀：320\n黄金：24\n白银：1000\n\n全部建造所需研究：\n第一阶段：\n星际航行基础、电力、空调\n第二阶段：\n火箭推进器、船用裂变反应堆\n第三阶段：\n船舶导航、平板电视、逃生舱、多元分析仪、微电子基础、舰载激光炮、生命支持系统、复杂家具、医疗床、穿梭机停靠港、舰载护盾发生器、修补泡沫、生命体征监测仪、基础传感器、船舶热容系统、泡沫灭火器、水栽培、电容器阵列、巡洋舰武器、机械加工</ShipBPExplorationVessel.description>
+
+    <ShipBPCorvetteArrowhead.label>舰船蓝图(箭头巡洋舰)</ShipBPCorvetteArrowhead.label>
+    <ShipBPCorvetteArrowhead.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。\n\n类别：轻型巡洋舰\n一艘较小的轻型巡洋舰。\n\n舰船重量：3152\n尺寸：44 x 38\n推重比：1.412\n战斗评级：167\n\n武器：\n1x大型舰载激光炮\n4x舰载激光炮\n2x鱼雷发射器\n\n所需资源：\n钢铁：15871\n高级零部件：172\n玻璃钢：4454\n零部件：501\n铀：190\n白银：900\n黄金：4\n\n全部建造所需研究：\n第一阶段：\n星际航行基础、电力、空调\n第二阶段：\n火箭推进器、船用裂变反应堆\n第三阶段：\n船舶导航、平板电视、微电子基础、巡洋舰武器、逃生舱、舰载护盾发生器、泡沫灭火器、舰载激光炮、基础传感器、舰载鱼雷、修补泡沫、生命支持系统、电容器阵列、船舶热容系统、打捞港、医疗床、生命体征监测仪、机械加工</ShipBPCorvetteArrowhead.description>
+
+    <ShipBPFrigateIronclad.label>舰船蓝图(抗破级巡航舰)</ShipBPFrigateIronclad.label>
+    <ShipBPFrigateIronclad.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。\n\n类别：抗破级巡航舰\n造型独特的大型巡航舰。\n\n舰船重量：8162\n尺寸：86 x 64\n推重比：1.719\n战斗评级：735\n\n武器：\n6x大型舰载等离子炮\n8x舰载激光炮\n3x大型舰载轨道炮\n8x舰载等离子炮\n2x鱼雷发射器(双联装)\n\n所需资源：\n钢铁：43471\n高级零部件：502\n玻璃钢：11766\n零部件：1233\n铀：480\n布：50\n原木：25\n黄金：106\n人格核心：1\n白银：1100\n\n全部建造所需研究：\n第一阶段：\n星际航行基础、电力、空调\n第二阶段：\n火箭推进器、船用裂变反应堆\n第三阶段：\n船舶导航、船舶热容系统、电容器阵列、舰载激光炮、微电子基础、巡洋舰武器、复杂家具、多元分析仪、逃生舱、先进传感器、船舶电脑核心、平板电视、医疗床、打捞港、穿梭机停靠港、机械加工、精密装配、泡沫灭火器、舰载鱼雷、水栽培、生命支持系统、舰载护盾发生器、修补泡沫、紧急排热端口、生命体征监测仪</ShipBPFrigateIronclad.description>
+
+    <ShipBPCorvetteArdent.label>舰船蓝图(热心级巡洋舰)</ShipBPCorvetteArdent.label>
+    <ShipBPCorvetteArdent.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。\n\n类别：热心级巡洋舰\n一艘又大又快的巡洋舰。\n\n舰船重量：3746\n尺寸：49 x 32\n推重比：2.201\n战斗评级：320\n\n武器：\n6x舰载激光炮\n2x大型舰载等离子炮\n2x鱼雷发射器\n2x大型舰载轨道炮\n\n所需资源：\n钢铁：22030\n玻璃钢：6274\n高级零部件：300\n零部件：651\n铀：490\n黄金：20\n白银：900\n\n全部建造所需研究：\n第一阶段：\n星际航行基础、电力、空调\n第二阶段：\n火箭推进器、船用裂变反应堆\n第三阶段：\n船舶导航、微电子基础、舰载激光炮、电容器阵列、逃生舱、巡洋舰武器、基础传感器、打捞港、舰载护盾发生器、医药生产、医疗床、精密装配、紧急排热端口、舰载鱼雷、机械加工、船舶热容系统、先进传感器、复杂家具、泡沫灭火器、生命支持系统、平板电视、生命体征监测仪</ShipBPCorvetteArdent.description>
+
+    <ShipBPMiningRig.label>舰船蓝图(采矿钻井平台)</ShipBPMiningRig.label>
+    <ShipBPMiningRig.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。\n\n类别：采矿钻井平台\n一艘缓慢但内部空间宽敞的船，其配备了一门大型采矿激光。\n\n舰船重量：4026\n尺寸：62 x 40\n推重比：1.191\n战斗评级：190\n\n武器：\n2x舰载激光炮\n1x脊峰炮：激光\n\n所需资源：\n钢铁：20646\n玻璃钢：5829\n高级零部件：191\n零部件：636\n黄金：4\n铀：140\n白银：900\n\n全部建造所需研究：\n第一阶段：\n星际航行基础、电力、太阳能板、空调\n第二阶段：\n火箭推进器\n第三阶段：\n船舶导航、微电子基础、平板电视、基础传感器、医疗床、舰载激光炮、船舶热容系统、电容器阵列、机械加工、舰载护盾发生器、复杂家具、逃生舱、生命支持系统、船用裂变反应堆、打捞港、主力舰武器</ShipBPMiningRig.description>
+
+    <ShipBPDestroyer.label>舰船蓝图(雷击驱逐舰)</ShipBPDestroyer.label>
+    <ShipBPDestroyer.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。\n\n类别：大型驱逐舰\n一艘全副武装的大型战舰。\n\n舰船重量：8214\n尺寸：107 x 44\n推重比：1.376\n战斗评级：804\n\n武器：\n10x舰载激光炮\n6x鱼雷发射器(双联装)\n3x大型舰载轨道炮\n4x大型舰载激光炮\n\n所需资源：\n钢铁：45802\n玻璃钢：13275\n高级零部件：588\n零部件：1331\n铀：830\n黄金：32\n白银：1900\n\n全部建造所需研究：\n第一阶段：\n星际航行基础、电力、空调\n第二阶段：\n火箭推进器、船用裂变反应堆\n第三阶段：\n船舶导航、平板电视、微电子基础、水栽培、逃生舱、医疗床、舰载激光炮、生命体征监测仪、先进传感器、修补泡沫、生命支持系统、电容器阵列、舰载鱼雷、紧急排热端口、打捞港、船舶热容系统、舰载护盾发生器、巡洋舰武器、泡沫灭火器、自动机枪塔、穿梭机停靠港、机械加工、复杂家具</ShipBPDestroyer.description>
+
+    <ShipBPCruiserThor.label>舰船蓝图(雷神级巡洋舰)</ShipBPCruiserThor.label>
+    <ShipBPCruiserThor.description>一张三段式可复用的蓝图，只要有能力建造其中的各个部分，就可以照图建造出一艘完整的飞船。蓝图可以随时放置，但下一阶段只会在所需部分已建成时再放置。\n\n类别：雷神级巡洋舰\n一艘全副武装的大型巡洋舰。\n\n舰船重量：14617\n尺寸：134 x 48\n推重比：1.455\n战斗评级：1816\n\n武器：\n8x大型舰载轨道炮\n18x舰载激光炮\n16x舰载等离子炮\n2x脊峰炮：轨道炮\n8x鱼雷发射器(双联装)\n\n所需资源：\n钢铁：78409\n玻璃钢：25883\n高级零部件：1158\n黄金：86\n人格核心：1\n铀：2070\n零部件：1986\n白银：2800\n布：50\n原木：25\n\n全部建造所需研究：\n第一阶段：\n星际航行基础、电力、空调\n第二阶段：\n火箭推进器、船用裂变反应堆\n第三阶段：\n船舶电脑核心、巡洋舰武器、逃生舱、舰载激光炮、平板电视、穿梭机停靠港、医疗床、生命体征监测仪、电容器阵列、精密装配、船舶热容系统、舰载等离子炮、舰载护盾发生器、打捞港、泡沫灭火器、机械加工、主力舰武器、舰载鱼雷、紧急排热端口、水栽培、医药生产、船舶导航、微电子基础、先进传感器、复杂家具、修补泡沫、生命支持系统</ShipBPCruiserThor.description>
+
+    <!-- 其它 -->
+    <ShipMoveBlueprint.label>舰船的新位置</ShipMoveBlueprint.label>
+    <ShipMoveBlueprint.description>选择你想要舰船移动到的目标位置。</ShipMoveBlueprint.description>
+    <MinifiedThingShipMove.label>微缩物体</MinifiedThingShipMove.label>
+    <Ship_FakeBeam.label>船体</Ship_FakeBeam.label>
+    <Ship_FakeBeam.description>飞船船体的外部结构部件，其中包括电缆、热能导管和维生气体导管。</Ship_FakeBeam.description>
+    <SoS2DummyObject.label>虚拟标记</SoS2DummyObject.label>
+    <SoS2DummyObject.description>将在此位置生成起始小人，不用去求助于其它出生点——休眠舱、打捞港、舰桥。只在起始地图上使用。</SoS2DummyObject.description>
+    <!-- 无用 -->
+    <ShipInside_PassiveCooler.label>虚拟Def</ShipInside_PassiveCooler.label>
+    <ShipInside_PassiveCooler.description>不要用这个。这玩意儿的存在是因为Dubs一直拒绝修复他那边的Bug。</ShipInside_PassiveCooler.description>
+    <!-- 调试用物体，不会出现在正常游戏流程中。这堆东西的相关科研项目均被隐藏，启用开发者模式以使其显示。 -->
+    <Ship_DroneCoreMicro.label>Debug 小无人核心</Ship_DroneCoreMicro.label>
+    <Ship_DroneCoreMicro.description>不 要 用 在 正 常 的 游 戏 流 程 中 。一个简单的计算机核心，内置一个低级AI。虽然无法解决创造性问题或引导星际航行，但足矣代替人类在战斗中驾驶舰船。</Ship_DroneCoreMicro.description>
+    <Ship_Engine_Micro.label>Debug 小推进器</Ship_Engine_Micro.label>
+    <Ship_Engine_Micro.description>不 要 用 在 正 常 的 游 戏 流 程 中 。一种使用化合燃料驱动的推进器，能将舰船送入轨道。不能进行星际航行。\n\n推力：500\n燃料消耗：1 化合燃料/秒\n最大起飞重量：750</Ship_Engine_Micro.description>
+    <ShipHullTileDebug.label>Debug 硬的底板</ShipHullTileDebug.label>
+    <ShipHullTileDebug.description>不 要 用 在 正 常 的 游 戏 流 程 中 。适合航天任务的船舶底板。将这格空间（以及在其上建造的任何建筑）指定为舰船的一部分。</ShipHullTileDebug.description>
+    <Ship_Beam_debug.label>Debug 硬的船体</Ship_Beam_debug.label>
+    <Ship_Beam_debug.description>不 要 用 在 正 常 的 游 戏 流 程 中 。飞船船体的外部结构部件，其中包括电缆、热能导管和维生气体导管。</Ship_Beam_debug.description>
+
+</LanguageData>

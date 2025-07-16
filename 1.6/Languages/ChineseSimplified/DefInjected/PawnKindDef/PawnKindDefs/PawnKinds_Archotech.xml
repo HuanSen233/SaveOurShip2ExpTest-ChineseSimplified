@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <Archocat.label>超凡猫</Archocat.label>
+    <Archocat.lifeStages.0.label>超凡猫幼崽</Archocat.lifeStages.0.label>
+    
+    <Archomutt.label>超凡犬</Archomutt.label>
+    <Archomutt.lifeStages.0.label>超凡犬幼崽</Archomutt.lifeStages.0.label>
+    
+    <Archojerboa.label>超凡跳鼠</Archojerboa.label>
+    <Archojerboa.lifeStages.0.label>超凡跳鼠幼崽</Archojerboa.lifeStages.0.label>
+    
+    <Archoffalo.label>超凡雪牛</Archoffalo.label>
+    <Archoffalo.lifeStages.0.label>超凡雪牛幼崽</Archoffalo.lifeStages.0.label>
+    
+    <Archolope.label>超凡爆炸羊</Archolope.label>
+    <Archolope.lifeStages.0.label>超凡爆炸羊幼崽</Archolope.lifeStages.0.label>
+    
+    <Archothrumbo.label>超凡敲击兽</Archothrumbo.label>
+    <Archothrumbo.lifeStages.0.label>超凡敲击兽幼崽</Archothrumbo.lifeStages.0.label>
+    
+    <Archotortoise.label>超凡龟</Archotortoise.label>
+    <Archotortoise.lifeStages.0.label>超凡龟幼崽</Archotortoise.lifeStages.0.label>
+    
+    <Archopanda.label>超凡熊猫</Archopanda.label>
+    <Archopanda.lifeStages.0.label>超凡熊猫幼崽</Archopanda.lifeStages.0.label>
+    
+    <Archostrich.label>超凡鸵鸟</Archostrich.label>
+    <Archostrich.lifeStages.0.label>超凡鸵鸟幼崽</Archostrich.lifeStages.0.label>
+    
+    <Archospider.label>超凡蜘蛛</Archospider.label>
+    <Archospider.lifeStages.0.label>超凡蜘蛛幼体</Archospider.lifeStages.0.label>
+
+</LanguageData>

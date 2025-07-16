@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <!-- 船体 -->
+    <Ship_BeamMech_Unpowered.label>机械体船体(无线路)</Ship_BeamMech_Unpowered.label>
+    <Ship_BeamMech_Unpowered.description>机械体飞船船体的外部结构部件，但不包括电缆和热能导管。</Ship_BeamMech_Unpowered.description>
+    <Ship_BeamMech.label>机械体船体</Ship_BeamMech.label>
+    <Ship_BeamMech.description>机械体飞船船体的外部结构部件，其中包括电缆、热能导管和维生气体导管。</Ship_BeamMech.description>
+
+    <Ship_Corner_OneOne_Mech.label>机械体船舶斜角装甲(1x1)</Ship_Corner_OneOne_Mech.label>
+    <Ship_Corner_OneOne_Mech.description>有角度的舰船装甲。</Ship_Corner_OneOne_Mech.description>
+    <Ship_Corner_OneOne_MechFlip.label>机械体船舶斜角装甲(1x1)翻转</Ship_Corner_OneOne_MechFlip.label>
+    <Ship_Corner_OneOne_MechFlip.description>有角度的舰船装甲。</Ship_Corner_OneOne_MechFlip.description>
+    <Ship_Corner_OneTwo_Mech.label>机械体船舶斜角装甲(1x2)</Ship_Corner_OneTwo_Mech.label>
+    <Ship_Corner_OneTwo_Mech.description>有角度的舰船装甲。</Ship_Corner_OneTwo_Mech.description>
+    <Ship_Corner_OneTwoFlip_Mech.label>机械体船体斜角装甲(1x2)翻转</Ship_Corner_OneTwoFlip_Mech.label>
+    <Ship_Corner_OneTwoFlip_Mech.description>有角度的舰船装甲。</Ship_Corner_OneTwoFlip_Mech.description>
+    <Ship_Corner_OneThree_Mech.label>机械体船舶斜角装甲(1x3)</Ship_Corner_OneThree_Mech.label>
+    <Ship_Corner_OneThree_Mech.description>有角度的舰船装甲。</Ship_Corner_OneThree_Mech.description>
+    <Ship_Corner_OneThreeFlip_Mech.label>机械体船舶斜角装甲(1x3)翻转</Ship_Corner_OneThreeFlip_Mech.label>
+    <Ship_Corner_OneThreeFlip_Mech.description>有角度的舰船装甲。</Ship_Corner_OneThreeFlip_Mech.description>
+
+    <ShipHullTileMech.label>机械体船舶底板</ShipHullTileMech.label>
+    <ShipHullTileMech.description>用机械体技术建造的适合航天任务的船舶底板。将这格空间（以及在其上建造的任何建筑）指定为舰船的一部分。</ShipHullTileMech.description>
+    <!-- 太阳能 -->
+    <ShipInside_SolarGeneratorMech.label>机械体船舶太阳能发电机</ShipInside_SolarGeneratorMech.label>
+    <ShipInside_SolarGeneratorMech.description>利用太阳光来发电。在太空可输出750W，在星球表面可输出375W。不能在黑暗或人造光源环境中工作。</ShipInside_SolarGeneratorMech.description>
+    <!-- 通风口 -->
+    <ShipInside_PassiveVentMechanoid.label>机械体船舶通风口</ShipInside_PassiveVentMechanoid.label>
+    <ShipInside_PassiveVentMechanoid.description>与热容网络交换热量，将舰船内部冷却或加热到所需温度。在热容网络没有中蓄热时可以选择使用电力加热房间。</ShipInside_PassiveVentMechanoid.description>
+    <!-- 气闸 -->
+    <ShipAirlockMech.label>机械体船舶气闸</ShipAirlockMech.label>
+    <ShipAirlockMech.description>允许进入舰船或在舰船内划分房间。其生成的低能等离子屏障能防止气体逸出。</ShipAirlockMech.description>
+
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <Sara.label>「宇航员」萨拉</Sara.label>
+    <Sara.description>萨拉知道一个殖民地的真正力量来自其科学技术。她不会通过财富值来计算威胁规模，而是考虑你的殖民地的科研进度和高科技建筑的数量。</Sara.description>
+
+    <Kim.label>「天命」金</Kim.label>
+    <Kim.description>金认为你的殖民者肩负着特殊的使命——或许是继承她的衣钵。她不太可能对那些在殖民地待了很多年的人施加有害事件，而更倾向于让新来者在边缘世界的残酷中接受考验。</Kim.description>
+
+</LanguageData>

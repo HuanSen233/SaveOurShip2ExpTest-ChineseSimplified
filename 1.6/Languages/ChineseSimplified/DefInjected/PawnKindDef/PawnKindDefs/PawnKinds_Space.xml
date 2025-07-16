@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <SpaceCannibal.label>太空相食者</SpaceCannibal.label>
+
+    <SpaceCrew.label>船员</SpaceCrew.label>
+
+    <SpaceCrewEVA.label>机组成员</SpaceCrewEVA.label>
+
+    <SpaceCrewMarine.label>轻装海军陆战队员</SpaceCrewMarine.label>
+
+    <SpaceCrewMarineHeavy.label>重装海军陆战队员</SpaceCrewMarineHeavy.label>
+
+    <SoSHologram.label>微械凝胶体</SoSHologram.label>
+
+    <Astromite.label>宇宙螨</Astromite.label>
+    <Astromite.lifeStages.0.label>宇宙螨幼体</Astromite.lifeStages.0.label>
+
+    <Stellapede.label>宇宙阔步虫</Stellapede.label>
+    <Stellapede.lifeStages.0.label>宇宙阔步虫幼体</Stellapede.lifeStages.0.label>
+
+    <Cosmopillar.label>宙柱蛆</Cosmopillar.label>
+    <Cosmopillar.lifeStages.0.label>宙柱蛆幼体</Cosmopillar.lifeStages.0.label>
+
+</LanguageData>

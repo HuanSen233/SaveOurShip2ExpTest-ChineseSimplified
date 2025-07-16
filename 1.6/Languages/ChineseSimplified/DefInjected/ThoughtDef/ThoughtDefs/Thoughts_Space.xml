@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <!-- 太空 -->
+    <SpaceThoughts.stages.space-0.label>太空！</SpaceThoughts.stages.space-0.label>
+    <SpaceThoughts.stages.space-0.description>好耶！</SpaceThoughts.stages.space-0.description>
+
+    <SpaceThoughts.stages.space-1.label>太空......</SpaceThoughts.stages.space-1.label>
+    <SpaceThoughts.stages.space-1.description>这未免太空旷了点！*战栗*</SpaceThoughts.stages.space-1.description>
+
+    <SpaceThoughts.stages.EVA-0.label>舱外活动</SpaceThoughts.stages.EVA-0.label>
+    <SpaceThoughts.stages.EVA-0.description>天哪！我真的在做这个！</SpaceThoughts.stages.EVA-0.description>
+
+    <SpaceThoughts.stages.EVA-1.label>舱外活动</SpaceThoughts.stages.EVA-1.label>
+    <SpaceThoughts.stages.EVA-1.description>我为什么要这么做？！</SpaceThoughts.stages.EVA-1.description>
+    <!-- 来世棺材等 -->
+    <ProsthophileImmortal.stages.body_modder_immortal.label>不朽身形</ProsthophileImmortal.stages.body_modder_immortal.label>
+    <ProsthophileImmortal.stages.body_modder_immortal.description>我现在真正摆脱了苦弱的肉体！</ProsthophileImmortal.stages.body_modder_immortal.description>
+
+    <ProsthophobeImmortal.stages.body_gone.label>躯体泯灭</ProsthophobeImmortal.stages.body_gone.label>
+    <ProsthophobeImmortal.stages.body_gone.description>我是一台正在拼命说服自己是人类的机器。</ProsthophobeImmortal.stages.body_gone.description>
+
+</LanguageData>
