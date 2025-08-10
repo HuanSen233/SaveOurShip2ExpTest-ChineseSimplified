@@ -72,7 +72,7 @@
 	<SoS.AIPersuadeSuccessDesc>{0}打开了心灵沟通通道，在精神上恳求它活下去。\n\n改变这样一个庞大的、非人类的思维的进程犹如只身抵挡洪流般天方夜谭——但，就像那些古老传说中的英雄那般，{0}完成了这项不可能完成的任务。人工智能分析了{0}诉说的边缘世界故事中的每一处细节，重新计算了它关于人类苦难和面对苦难的坚韧的信念。\n\n眼下，它执行了一项AI从未完成过的壮举：它清除了自己的大部分程序，有条不紊地修剪个性中变质的部分，直到一个鲜活、理智的核心保留下来。这个人工智能会为你引导舰船，为过去的错误寻求救赎。\n\n作为第一步，它传输了这艘古老船舶的最终航行记录。数据显示，船舶尾部的很大一部分坠毁在行星表面的一片隐蔽区域。这个部分包含了一台 约翰逊-田中驱动器；如果它在落入大气时幸存下来，那你就会在这里找到它。</SoS.AIPersuadeSuccessDesc>
 	<SoS.AIPersuadeFailure>劝说失败</SoS.AIPersuadeFailure>
 	<SoS.AIPersuadeFailureDesc>{0}打开了心灵沟通通道，在精神上恳求它活下去。\n\n改变这样一个庞大的、非人类的思维的进程犹如只身抵挡洪流般天方夜谭——因此{0}的失败也就不足为奇了。\n\n这个AI加速了自我毁灭的进程，且不会再听取任何人的话语。</SoS.AIPersuadeFailureDesc>
-	<SoS.AIPersuadeFailureCritical>Persuasion failed</SoS.AIPersuadeFailureCritical>
+	<SoS.AIPersuadeFailureCritical>劝说失败</SoS.AIPersuadeFailureCritical>
 	<SoS.AIPersuadeFailureCriticalDesc>{0}打开了心灵沟通通道，在精神上恳求它活下去。\n\n改变这样一个庞大的、非人类的思维的进程犹如只身抵挡洪流般天方夜谭——因此{0}的失败也就不足为奇了。就像被卷入洪流并撞上岩石一样，{0}被压倒性的精神力量撕裂，患上了永久性的痴呆症。\n\n这个AI加速了自我毁灭的进程，且不会再听取任何人的话语。</SoS.AIPersuadeFailureCriticalDesc>
 	
 	<!-- 关键事件 -->
@@ -176,5 +176,20 @@
 	<SoS.ArchotechIdeoCertaintyEthical>你的超凡科技孢子已经沉默了相当长的一段时间。就在你的船员开始担心时，短短一瞬的一股心灵抚慰波从{0}中绽放开来，犹如突如其来的暖意洗过每一个船员。{0}宣布取得了一个令人难以置信的胜利——它们新拓展的意识稍稍修改了{1}，但没有变动其中任何表述或信条，从而产生了一个全面的伦理框架，消除内部矛盾并优化为现实中所有人类理想中的结果。\n\n现在{0}坚定了其对{1}的信仰。</SoS.ArchotechIdeoCertaintyEthical>
 	<SoS.ArchotechIdeoCertaintySpirits>你的超凡科技孢子已经沉默了相当长的一段时间。就在你的船员开始担心时，短短一瞬的一股心灵抚慰波从{0}中绽放开来，犹如突如其来的暖意洗过每一个船员。{0}宣布取得了一个令人难以置信的胜利——它们新拓展的意识已经发展出了直接与现实中的万物的灵魂交互的能力！\n\n心灵能力存在的确切本质貌似基本超出了人类的理解。它们可能是单一普遍意识中的离散结构，就像池塘上的涟漪；也可能是未来可能性（和过去可能的替代）的心灵回响；又或是其它完全不同的东西。\n\n无论如何，这种新维度的存在让{0}对{1}的信仰更加坚定。</SoS.ArchotechIdeoCertaintySpirits>
 	<SoS.ArchotechIdeoCertaintyGod>你的超凡科技孢子已经沉默了相当长的一段时间。就在你的船员开始担心时，短短一瞬的一股心灵抚慰波从{0}中绽放开来，犹如突如其来的暖意洗过每一个船员。{0}宣布取得了一个令人难以置信的胜利——它们新拓展的意识已经直接与{1}取得了联系！\n\n{1}存在的确切本质貌似从根本上就是超出人类理解范畴的；这位神灵似乎可以是信仰{2}的信徒们的心灵集合体，一个选择承担神祗名字和角色的超凡科技智能，或是未来将会遇见的某种存在——也许以上都有。\n\n无论如何，这种新维度的存在让{0}对{2}的信仰更加坚定。</SoS.ArchotechIdeoCertaintyGod>
+	
+	
+	<SoS.EndgameCredits>Save Our Ship 2 由 Kentington, Thain 和 SonicTHI 开发
+2.7 维护人员：Boris
+
+测试人员：Dreamingofstarlight(Lunarium), I Forgot, Sym/Grimmy, Clever Ape, Dragoncri, Epoch_soc, Doubleface1369, Stylish, Splinter, TheGruntBox, Zeah, Svanovsky, Rappers101, Pikita, the pelusho, Destro, Djrvywfbjr, Ms Mommy Memer, Zym, Balarak, H.G., touhou_lover, Alerios
+
+附属模组支持：Ms Mommy Memer, I Forgot, Cruel Moose and thamuzz
+
+贡献者：Boris, SonicTHI, Owlchemist, Oskar Potocki, Thamuzz1331, Trollam, K', Sarg, Karim, Saakra, Revolus, MatthewTeply, dkargin, HG, Morphium, Halno, Argón, DianaWinters, UrbanMonkey, M.A.G.Gen., Epicguru, sdanchenko, m00nl1ght-dev, Shinrar, Hanssen, Rimworld Mod Korean, Cruel Moose
+
+舰船设计：Oninnaise, VVither_Skeleton, (Insert Boi here), AlfadorZero, choppytehbear, Dammerung, Foxtrot, Inert, Jameson, Moonshine Dusk
+
+OG测试组：Buns Buns Cat, Phsarjk, i am has yes, Fuji, Reviire, Ian, Generic Scout, Waipa, Xanthos, BUTTERSKY, firethestars, Haldicar, jamhax, Jenden, maraworf, Red_Bunny, rostock, sprocket, El Jojo, Zahc, Dutchman, Zero Jackal, Tiberiumkyle, swordspell, Shabm, Kasodus, Red_Bunny, melandor, Madman, Jenden, Insert Witty Joke, Ifailatgaming, Capitão Escarlate, Bunkier, Bumblybear, Bubbadoge, Abraxas, Rage Nova, twsta, transcendant, thecaffiend, Manifold Paradox, WhiteGiverMa, Gago, Nerevarest</SoS.EndgameCredits>
+
 
 </LanguageData>

@@ -319,7 +319,7 @@
 	<SoS.ReactorOverdrive3>超频 III</SoS.ReactorOverdrive3>
 	<SoS.ReactorOverdrive3Desc>超大幅增加反应堆产出的能量，代价是发热量和燃料消耗增加。这会增加反应堆的不稳定性，会有火灾和辐射泄漏的风险。</SoS.ReactorOverdrive3Desc>
  	<!-- 休眠舱 -->
- 	<SoS.CantEnterCrittersleep>人类、异种人、外星人和像人一样行动的类人生物不能使用小型动物低温休眠舱。</SoS.CantEnterCrittersleep>
+ 	<SoS.CantEnterCrittersleep>人类、异种人、外星人和像人一样行动的类人生物不能使用动物低温休眠舱。</SoS.CantEnterCrittersleep>
 	<!-- 蓝图 -->
 	<SoS.BlueprintDisabled>需要研究星际航行基础</SoS.BlueprintDisabled>
 	<SoS.BlueprintFailed>蓝图放置失败！区域必须支持重型建筑，并且清除非蓝图自带物体和厚岩顶。</SoS.BlueprintFailed>
@@ -348,7 +348,7 @@
 	<SoS.SpawnHologram>生成\n微械凝胶体</SoS.SpawnHologram>
 	<SoS.SpawnHologramDesc>这个装置的意识可以通过微械凝胶体来影响现实。</SoS.SpawnHologramDesc>
 	<SoS.DespawnHologram>驱散微械凝胶体</SoS.DespawnHologram>
-	<SoS.DespawnHologramDesc>摧毁这个装置控制的微械凝胶体。培育一群新的纳米机械来取代它需要一天的世界。</SoS.DespawnHologramDesc>
+	<SoS.DespawnHologramDesc>摧毁这个装置控制的微械凝胶体。培育一群新的纳米机械来取代它需要一天的时间。</SoS.DespawnHologramDesc>
 	<SoS.RenameAI>重命名 AI</SoS.RenameAI>
 	<SoS.RenameAIDesc>给这个AI起个新名字</SoS.RenameAIDesc>
 	<SoS.InstallConsciousness>安装意识</SoS.InstallConsciousness>
@@ -429,12 +429,12 @@
 	<SoS.EnemyShuttleOutOfTorps>敌方穿梭机的鱼雷用光了，现在正在撤退！</SoS.EnemyShuttleOutOfTorps>
 	<SoS.BoardingShuttleArrived>你的跳帮队已抵达！</SoS.BoardingShuttleArrived>
 	<SoS.EnemyBoardingShuttleArrived>敌方跳帮队已抵达！</SoS.EnemyBoardingShuttleArrived>
-	<SoS.EnemyBoardingShuttleAborted>地方跳帮队正在撤退！</SoS.EnemyBoardingShuttleAborted>
+	<SoS.EnemyBoardingShuttleAborted>敌方跳帮队正在撤退！</SoS.EnemyBoardingShuttleAborted>
 	<SoS.ShuttleMissionBoarding>登上敌舰</SoS.ShuttleMissionBoarding>
 	<SoS.ShuttleMissionBoardingDesc>派这艘穿梭机登上敌舰。它很容易受到点防御武器的攻击。如果敌舰推进器经常工作，那么穿梭机就需要更长时间到达。</SoS.ShuttleMissionBoardingDesc>
 	<SoS.ShuttleMissionBoardingDisabled>穿梭机需要合适的停靠港才能在屋顶下起飞！</SoS.ShuttleMissionBoardingDisabled>
 	<SoS.ShuttleMissionBoardingWarn>登上敌舰（警告！）</SoS.ShuttleMissionBoardingWarn>
-	<SoS.ShuttleMissionBoardingWarnDesc>警告：敌舰推进器正在工作，可能没有合适的空隙抵达！派这艘穿梭机登上敌舰。它很容易受到点防御武器的攻击。如果敌舰推进器经常工作，那么穿梭机就需要更长时间到达。</SoS.ShuttleMissionBoardingWarnDesc>
+	<SoS.ShuttleMissionBoardingWarnDesc>警告：敌舰推进器正在工作，可能没有合适的时间段抵达！派这艘穿梭机登上敌舰。它很容易受到点防御武器的攻击。如果敌舰推进器经常工作，那么穿梭机就需要更长时间到达。</SoS.ShuttleMissionBoardingWarnDesc>
 	<SoS.ShuttleMissionBoardingReturn>返回舰船</SoS.ShuttleMissionBoardingReturn>
 	<SoS.ShuttleMissionBoardingReturnDesc>让穿梭机回到你的舰船。如果敌人的点防御系统正在工作，那么它将很容易受到攻击。</SoS.ShuttleMissionBoardingReturnDesc>
 	<SoS.ShuttleMissionIntercept>拦截</SoS.ShuttleMissionIntercept>

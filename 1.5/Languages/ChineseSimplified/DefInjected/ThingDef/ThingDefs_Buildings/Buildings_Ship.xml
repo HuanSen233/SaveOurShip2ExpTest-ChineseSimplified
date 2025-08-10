@@ -119,7 +119,7 @@
     <Ship_AvatarCasket.description>一个含有能解构已故人体，并构建一个能放仿造其原始生物功能的凝胶体的纳米机械蜂群的装置。\n解构出的意识能被完好无缺地转移到一个人造心灵神经中，该物体会保存在设备的储槽中，并通过心灵纠缠的方式操控其微械凝胶体。一个来世棺材只能保存一个意识。</Ship_AvatarCasket.description>
     <!-- 泡沫泵 -->
     <HullFoamDistributor.label>泡沫船体填充泵</HullFoamDistributor.label>
-    <HullFoamDistributor.description>一台用于在整个舰船分布泡沫填充物的泵站。当船体的一部分在战斗中被摧毁时，该系统将自动使用船体修补泡沫填补漏洞。</HullFoamDistributor.description>
+    <HullFoamDistributor.description>一台用于在整个舰船分布泡沫填充物的泵站。当船体的一部分在战斗中被摧毁时，该系统将自动使用船体修补泡沫填补破洞。</HullFoamDistributor.description>
     
     <HullFoamWall.label>气密泡沫填充船体</HullFoamWall.label>
     <HullFoamWall.description>一种可用于密封船体的泡沫板。</HullFoamWall.description>

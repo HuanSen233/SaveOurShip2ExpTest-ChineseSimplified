@@ -36,7 +36,7 @@
     <SoSGameplayTips.tips.29>穿梭机在太空中能安全的保护住其内部的乘客与货物并将他们运抵舰船，绝不会使他们暴露在真空中。</SoSGameplayTips.tips.29>
     <SoSGameplayTips.tips.30>默认情况下，一艘穿梭机只有一个领航员座位。你可以通过升级来增加成员座位、武器系统、护盾和其它什么升级——在货舱空间被挤占的同时。</SoSGameplayTips.tips.30>
         <SoSGameplayTips.tips.31>由于一些技术上的限制，敌方穿梭机在敌舰上被视为一种敌方单位，但这不妨碍它会阻止你拆除和占领建筑。</SoSGameplayTips.tips.31>
-        <SoSGameplayTips.tips.32>由于一些技术原因，敌方穿梭机在敌舰上被视为一种敌方单位，但这不妨碍它会阻止你拆除和占领建筑。</SoSGameplayTips.tips.32>
+        <SoSGameplayTips.tips.32>挂载点可用作个人穿梭机甚至3x3的普通穿梭机的临时停靠点。但显而易见的，挂载点与正经船舱的最大差别是前者会完全暴露在真空环境里。</SoSGameplayTips.tips.32>
 
 
     <!-- 舰船杂项 -->
@@ -46,7 +46,7 @@
     <SoSGameplayTips.tips.36>你可以让船用裂变反应堆超频工作，在火灾和辐射泄漏的风险下增加其输出功率。</SoSGameplayTips.tips.36>
     <SoSGameplayTips.tips.37>每个船舶电容器中都包含有一个集成断路系统，能防止短路事故。</SoSGameplayTips.tips.37>
     <SoSGameplayTips.tips.38>多亏了水载培和人造土壤基质，这些科技成果使得在轨道上建立一个可以完全自给自足的殖民地成为可能。</SoSGameplayTips.tips.38>
-    <SoSGameplayTips.tips.39>大多数殖民者对会对进入太空这事感到兴奋，在舱外活动时更是如此。但对于懦弱的人和地表主义者来说这些事情可不算好。</SoSGameplayTips.tips.39>
+    <SoSGameplayTips.tips.39>大多数殖民者对会对进入太空这事感到兴奋，在舱外活动时更是如此。但对于懦弱的人和穴居者来说这些事情可不算好。</SoSGameplayTips.tips.39>
     <SoSGameplayTips.tips.40>舰船上的集成传感器和科学控制台可以远程观察一片区域地图，使你能提前规划攻击战术或侦察登陆地点。</SoSGameplayTips.tips.40>
     <SoSGameplayTips.tips.41>为了正常的着陆舰船，你需要挑选一片足够大的能支撑重型建筑的区域，并且这之上没有建筑，也不能有厚岩顶覆盖。</SoSGameplayTips.tips.41>
     <SoSGameplayTips.tips.42>有时你会在轨道上遇到商船。你可以尝试劫掠他们，但这会导致恶名的增长并被悬赏，那些赏金猎人会因此频繁的追捕你。</SoSGameplayTips.tips.42>

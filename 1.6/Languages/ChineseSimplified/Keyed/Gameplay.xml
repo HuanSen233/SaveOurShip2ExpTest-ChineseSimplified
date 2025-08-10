@@ -1,22 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-	<!-- 剧本 -->
+	<!-- All new tags should start with SoS. -->
+	
+	<!-- scenario selection -->
 	<SoS.NoShipsToLoad>没有舰船可供载入。载入飞船剧本就是用选定的舰船开一个从太空开始的游戏，这需要你让你的一些舰船前往新星球后，它们才可以在此处被选定载入。如果要正常的在太空开始的游戏请选择失事飞船或空间站剧本。</SoS.NoShipsToLoad>
-	<!-- 世界/轨道 -->
-	<SoS.MoveEast>向东推进</SoS.MoveEast>
-	<SoS.MoveEastDesc>让舰船按轨道向东推进。</SoS.MoveEastDesc>
+	<!-- world/orbit -->
 	<SoS.MoveWest>向西推进</SoS.MoveWest>
 	<SoS.MoveWestDesc>让舰船按轨道向西推进。</SoS.MoveWestDesc>
-	<SoS.MoveSouth>向南推进</SoS.MoveSouth>
-	<SoS.MoveSouthDesc>让舰船按轨道向西南进。</SoS.MoveSouthDesc>
+	<SoS.MoveEast>向东推进</SoS.MoveEast>
+	<SoS.MoveEastDesc>让舰船按轨道向东推进。</SoS.MoveEastDesc>
 	<SoS.MoveNorth>向北推进</SoS.MoveNorth>
-	<SoS.MoveNorthDesc>让舰船按轨道向北推进。</SoS.MoveNorthDesc>
+	<SoS.MoveNorthDesc>让舰船按轨道向北进。</SoS.MoveNorthDesc>
+	<SoS.MoveSouth>向南推进</SoS.MoveSouth>
+	<SoS.MoveSouthDesc>让舰船按轨道向南推进。</SoS.MoveSouthDesc>
 	<SoS.MoveStop>停止推进</SoS.MoveStop>
 	<SoS.MoveStopDesc>反向推进进入同步轨道。</SoS.MoveStopDesc>
-	<SoS.AbandonHome>弃船\n(没事别点)</SoS.AbandonHome>
-	<SoS.AbandonHomeDesc>放弃当前舰船，船上的殖民者会全部消失。</SoS.AbandonHomeDesc>
+	<SoS.AbandonHome>弃船</SoS.AbandonHome>
+	<SoS.AbandonHomeDesc>放弃当前舰船，船上的殖民者会全部消失！</SoS.AbandonHomeDesc>
 	<SoS.LeaveGraveyard>抛弃沉船漂浮物</SoS.LeaveGraveyard>
-	<SoS.LeaveGraveyardDesc>让这些残骸变成太空垃圾。</SoS.LeaveGraveyardDesc>
+	<SoS.LeaveGraveyardDesc>让这些残骸变成听天由命的太空垃圾。</SoS.LeaveGraveyardDesc>
+	<!-- Verse formating will spread name over several {n} fields, so got to use 2 strings -->
 	<SoS.LeaveGraveyardConfirmation1>你确定要抛弃掉这东西？即使</SoS.LeaveGraveyardConfirmation1>
 	<SoS.LeaveGraveyardConfirmation2>上面有 {0} 个建筑？</SoS.LeaveGraveyardConfirmation2>
 	<SoS.LeaveGraveyardConfirmationColonistsParagraph>警告！这个即将被抛弃的区域内有 {0} 个你的殖民者，如果选择继续，那么他们同样会被抛弃。</SoS.LeaveGraveyardConfirmationColonistsParagraph>
@@ -26,9 +29,7 @@
 	<SoS.BurnUpPlayerPrevented>建造飞船舰桥等相关设备可以稳定轨道。</SoS.BurnUpPlayerPrevented>
 	<SoS.BurnUpCountdown>在 {0} 后落入大气！</SoS.BurnUpCountdown>
 	<SoS.BurnUpCountdownTip>这张地图将在{0}后落入大气。上面的一切都会被摧毁。</SoS.BurnUpCountdownTip>
-		<!-- 仅Exp或其它，最新不稳定版已弃用 -->
-	<SoS.SettleSpaceSites>不能在太空定居</SoS.SettleSpaceSites>
-	<!-- 战斗 -->
+	<!-- combat -->
 	<SoS.CombatTooltip>显示敌舰与你舰之间的距离，以及所有正在两者之间飞行的炮弹和穿梭机。\n\n红色：激光、实弹炮的最佳射程\n绿色：等离子的最佳射程\n蓝色：轨道炮的最佳射程\n紫色：鱼雷的射程\n小色条：大型武器的最大射程但不精准\n穿梭机可以在任何距离使用</SoS.CombatTooltip>
 	<SoS.CombatRetreat>后撤</SoS.CombatRetreat>
 	<SoS.CombatRetreatDesc>尽量远离敌舰</SoS.CombatRetreatDesc>
@@ -52,7 +53,7 @@
 	<SoS.WrecksPreventMove>地图上的残骸不能移动！</SoS.WrecksPreventMove>
 	<SoS.RemoveWrecks>移除残骸</SoS.RemoveWrecks>
 	<SoS.RemoveWrecksDesc>将地图上的所有残骸移除，就是什么都不会留下的移除。</SoS.RemoveWrecksDesc>
-	<SoS.RemoveWrecksConfirm>移除地图上所有残骸？\n\n这将移除任何无法移动的船只或残骸！它们会被太空碎片摧毁。</SoS.RemoveWrecksConfirm>
+	<SoS.RemoveWrecksConfirm>移除地图上所有残骸？\n\n这将移除任何无法移动的船只或残骸！它们最终会被太空碎片摧毁。</SoS.RemoveWrecksConfirm>
 	<SoS.WithdrawWrecks>撤出残骸</SoS.WithdrawWrecks>
 	<SoS.WithdrawWrecksDesc>从战斗中撤出所有残骸</SoS.WithdrawWrecksDesc>
 	<SoS.WithdrawWrecksConfirm>把所有残骸撤进坟场？如果你输了或者逃跑，敌人将攻击你的坟场。如果你赢了可以用打捞港捞回少量燃料。</SoS.WithdrawWrecksConfirm>
@@ -74,54 +75,46 @@
 	<SoS.EnemyShipRetreating>敌舰正在试图撤退！</SoS.EnemyShipRetreating>
 	<SoS.EnemyShipRetreated>敌舰逃走了！</SoS.EnemyShipRetreated>
 	<SoS.EnemyShipAdrift>敌舰已进入漂浮状态，正在慢慢失去轨道！</SoS.EnemyShipAdrift>
-		<!-- 仅Exp或其它，最新不稳定版已弃用 -->
-	<SoS.ShipFleet>舰队</SoS.ShipFleet>
-	<SoS.AttackShip>攻击</SoS.AttackShip>
-	<SoS.AttackShipDesc>攻击</SoS.AttackShipDesc>
-	<SoS.AttackShipPirate>尝试掠夺</SoS.AttackShipPirate>
-	<SoS.AttackShipEngage>尝试交战</SoS.AttackShipEngage>
-	<SoS.ApproachShip>调查</SoS.ApproachShip>
-	<SoS.ApproachShipDesc>接近并调查</SoS.ApproachShipDesc>
-	<!-- 打捞、捕获 -->
+	<!-- salvage/capture -->
 	<SoS.ReturnShip>移回</SoS.ReturnShip>
 	<SoS.ReturnShipDesc>将舰船移回你的稳定轨道</SoS.ReturnShipDesc>
 	<SoS.CaptureShip>捕获</SoS.CaptureShip>
 	<SoS.CaptureShipDesc>将舰船移到你的地图上</SoS.CaptureShipDesc>
 	<SoS.LaunchFailPawns>发现非玩家殖民地单位：{0}，起飞中止。</SoS.LaunchFailPawns>
 	<SoS.MoveWreckCommand>移动残骸</SoS.MoveWreckCommand>
-	<SoS.MoveWreckCommandDesc>移动你的地图上被选中的残骸。</SoS.MoveWreckCommandDesc>
+	<SoS.MoveWreckCommandDesc>移动你的地图上被选中的残骸</SoS.MoveWreckCommandDesc>
 	<SoS.MoveWreckFlipCommand>翻转残骸</SoS.MoveWreckFlipCommand>
-	<SoS.MoveWreckFlipCommandDesc>移动并翻转在你的地图上被选中的残骸。</SoS.MoveWreckFlipCommandDesc>
+	<SoS.MoveWreckFlipCommandDesc>移动并翻转在你的地图上被选中的残骸</SoS.MoveWreckFlipCommandDesc>
 	<SoS.MoveWreckRotCommand>旋转残骸</SoS.MoveWreckRotCommand>
-	<SoS.MoveWreckRotCommandDesc>移动并逆时针旋转在你的地图上被选中的残骸。</SoS.MoveWreckRotCommandDesc>
+	<SoS.MoveWreckRotCommandDesc>移动并逆时针旋转在你的地图上被选中的残骸</SoS.MoveWreckRotCommandDesc>
 	<SoS.SalvageCommand>捕获 {0} 上的残骸</SoS.SalvageCommand>
-	<SoS.SalvageCommandDesc>选中目标地图 {0} 上的舰船残骸将其捕获到你的地图上。</SoS.SalvageCommandDesc>
+	<SoS.SalvageCommandDesc>选中目标地图 {0} 上的舰船残骸将其捕获到你的地图上</SoS.SalvageCommandDesc>
 	<SoS.SalvageBeam>打捞 {0} 上的碎片</SoS.SalvageBeam>
-	<SoS.SalvageBeamDesc>打捞目标地图 {0} 上的所有松散的、自由漂浮的碎片(物品)到选定的打捞港。</SoS.SalvageBeamDesc>
+	<SoS.SalvageBeamDesc>打捞目标地图 {0} 上的所有松散的、自由漂浮的碎片(物品)到选定的打捞港</SoS.SalvageBeamDesc>
 	<SoS.SalvageStablize>稳定 {0} 轨道</SoS.SalvageStablize>
 	<SoS.SalvageStablizeFuel>稳定目标轨道需要 {0} 单位的燃料！</SoS.SalvageStablizeFuel>
 	<SoS.SalvageStablizeDesc>稳定 {0} 的轨道，推迟其落入大气的结局。这需要足够的打捞港，并消耗你的舰船推进器中的燃料。</SoS.SalvageStablizeDesc>
 	<SoS.SalvageStablizeConfirm>稳定 {0} 的轨道。这需要足够的打捞港空间，且会消耗你的舰船推进器中 {1} 单位的燃料。</SoS.SalvageStablizeConfirm>
- 	<SoS.SalvageStablizeForever>长期维持 {0} 的轨道</SoS.SalvageStablizeForever>
- 	<SoS.SalvageStablizeForeverDesc>长期维持 {0} 的轨道。一般情况下，这些废墟和被击败的敌舰的地图都会在一定时间后自动销毁，这个选项的存在可能会对想要在除本舰外的太空地图上建造空间站，或类似东西的人来说可能会有所帮助。</SoS.SalvageStablizeForeverDesc>
-	<SoS.SalvageDisabled>在舰船战中或者有敌人在地图上！</SoS.SalvageDisabled>
+	<SoS.SalvageStablizeForever>长期维持 {0} 的轨道</SoS.SalvageStablizeForever>
+	<SoS.SalvageStablizeForeverDesc>长期维持 {0} 的轨道。一般情况下，这些废墟和被击败的敌舰的地图都会在一定时间后自动销毁，这个选项的存在可能会对想要在除本舰外的太空地图上建造空间站，或类似东西的人来说可能会有所帮助。</SoS.SalvageStablizeForeverDesc>
+	<SoS.SalvageDisabled>无法打捞：在舰船战中或者有敌人在地图上！</SoS.SalvageDisabled>
 	<SoS.SalvageAbandonConfirm>你确定要放弃目标吗？\n任何与它相连或在上面的东西都会落入大气中被烧毁！</SoS.SalvageAbandonConfirm>
-	<SoS.SalvageBridge>不能用打捞港移动完整的舰船，夺取或摧毁舰桥。</SoS.SalvageBridge>
+	<SoS.SalvageBridge>不能用打捞港移动完整的舰船，需要夺取或摧毁其舰桥。</SoS.SalvageBridge>
 	<SoS.SalvageFailMass>在可以移动的舰船上没有足够的打捞港。捕获所选目标需要打捞港空间 {0}，而舰船上只有 {1}</SoS.SalvageFailMass>
 	<SoS.SalvageFailFuel>你的舰船推进器中没有足够的燃料。需要有 {0} 单位燃料，而实际只有 {1}</SoS.SalvageFailFuel>
 	<SoS.SalvageNoSpace>打捞港没有足够的空间。</SoS.SalvageNoSpace>
 	<SoS.SalvageEnemiesPresent>在收拾掉所有敌人后可以使用打捞港捕获。</SoS.SalvageEnemiesPresent>
 	<SoS.ClaimWrecksCommand>占领残骸</SoS.ClaimWrecksCommand>
-	<SoS.ClaimWrecksCommandDesc>占领这张地图上的所有残骸。</SoS.ClaimWrecksCommandDesc>
+	<SoS.ClaimWrecksCommandDesc>占领这张地图上的所有残骸</SoS.ClaimWrecksCommandDesc>
 	<SoS.ClaimWrecksSuccess>占领 {0} 个建筑！</SoS.ClaimWrecksSuccess>
 	<SoS.ClaimWrecksDisabled>有敌人在地图上！</SoS.ClaimWrecksDisabled>
 	<SoS.RemoveWrecksCommand>移除残骸</SoS.RemoveWrecksCommand>
-	<SoS.RemoveWrecksCommandDesc>移除这张地图上选中的残骸。</SoS.RemoveWrecksCommandDesc>
-	<!-- 建造限制 -->
+	<SoS.RemoveWrecksCommandDesc>移除这张地图上选中的残骸</SoS.RemoveWrecksCommandDesc>
+	<!-- placeworkers -->
 	<SoS.PlaceOnShipHull>必须建造在船舶底板上。</SoS.PlaceOnShipHull>
 	<SoS.EnginePlaceRotation>必须和其它推进器朝向同一方向！</SoS.EnginePlaceRotation>
-	<!-- 通讯、贸易 -->
-	<SoS.TradeComms>联络 </SoS.TradeComms>
+	<!-- comms/trade -->
+	<SoS.TradeComms>联络 {0}</SoS.TradeComms>
 	<SoS.TradeTradeWith>要求与他们进行交易。</SoS.TradeTradeWith>
 	<SoS.TradeTradeDecline>{0} 因为你的恶名不想与你交易。</SoS.TradeTradeDecline>
 	<SoS.PirateTradeDemand>要求他们交出货物（这是海盗行为！会增加你的恶名值）</SoS.PirateTradeDemand>
@@ -131,7 +124,7 @@
 	<SoS.TradePayBounty>支付你的赏金以消除恶名（需要：{0} 银）</SoS.TradePayBounty>
 	<SoS.NotEnoughForBounty>你需要有 {0} 银在轨道交易信标的范围内</SoS.NotEnoughForBounty>
 	<SoS.PirateHail>一艘海盗船在向你招手。\n</SoS.PirateHail>
-	<SoS.PirateHailPirate>他们肯定知道你名声。</SoS.PirateHailPirate>
+	<SoS.PirateHailPirate>他们肯定清楚你名声怎样。</SoS.PirateHailPirate>
 	<SoS.PirateHailNormal>如果你无视他们的话他们很可能会攻击你。</SoS.PirateHailNormal>
 	<SoS.PirateTalk>与未知的海盗船通讯\n\n\n</SoS.PirateTalk>
 	<SoS.PirateTalkPirate>他们知道你的名声，他们问你是否想要进行交易。</SoS.PirateTalkPirate>
@@ -140,34 +133,35 @@
 	<SoS.PirateTalkNormal>他们要求你交出价值 {0} 银的贵重物品。\n\n要是你视而不见的话那么他们最终会攻击你。\n\n你可以尝试进行谈判或使用古老的海盗识别码，但这可能会使他们愤怒并立即攻击你。</SoS.PirateTalkNormal>
 	<SoS.PirateTrade>和他们交易</SoS.PirateTrade>
 	<SoS.PirateDemand>乖乖交钱</SoS.PirateDemand>
-	<SoS.PirateDemandFail>白银不足：{0}</SoS.PirateDemandFail>
+	<SoS.PirateDemandFail>白银不足需要：{0}</SoS.PirateDemandFail>
 	<SoS.PirateParley>谈一谈？</SoS.PirateParley>
 	<SoS.PirateParleyFail>谈判失败</SoS.PirateParleyFail>
 	<SoS.PirateParleyFailDesc>你与海盗谈判失败了。他们开始进攻。</SoS.PirateParleyFailDesc>
 	<SoS.PirateParleyWin>谈判成功</SoS.PirateParleyWin>
 	<SoS.PirateParleyWinDesc>你设法说服了海盗不要打劫你的船。</SoS.PirateParleyWinDesc>
 	<SoS.PirateAttacksBetray>海盗背叛代码</SoS.PirateAttacksBetray>
-	<SoS.PirateAttacksBetrayDesc>看来盗贼之间没有荣誉可言</SoS.PirateAttacksBetrayDesc>
+	<SoS.PirateAttacksBetrayDesc>看来盗贼之间没有荣誉可言。</SoS.PirateAttacksBetrayDesc>
 	<SoS.PirateAttacksPay>海盗攻击</SoS.PirateAttacksPay>
-	<SoS.PirateAttacksPayDesc>海盗们认为你给的报酬不够好，他们转头开始攻击你。</SoS.PirateAttacksPayDesc>
+	<SoS.PirateAttacksPayDesc>海盗们认为你给的“报酬”不够好，他们转头开始攻击你。</SoS.PirateAttacksPayDesc>
 	<SoS.PirateAttacksWait>海盗攻击</SoS.PirateAttacksWait>
 	<SoS.PirateAttacksWaitDesc>海盗们决定不等了并开始对你发动攻击。</SoS.PirateAttacksWaitDesc>
+	<SoS.PirateImmediateAttack>一艘海盗船正在抢劫你。他们或许想在开火前先与你谈谈，但他们无法跟一艘没有配备通电的通讯台的舰船交谈。</SoS.PirateImmediateAttack>
 	<SelectEverything>选择所有</SelectEverything>
 	<SelectEverythingDesc>选择所有。</SelectEverythingDesc>
-	<!-- 舰桥 -->
+	<!-- bridge -->
 	<SoS.StatsShipName>舰船名称：{0}</SoS.StatsShipName>
 	<SoS.StatsNotoriety>恶名值：{0}</SoS.StatsNotoriety>
 	<SoS.StatsShipMass>舰船重量：{0}</SoS.StatsShipMass>
 	<SoS.StatsShipMaxTakeoff>舰船最大起飞重量：{0}</SoS.StatsShipMaxTakeoff>
 	<SoS.StatsShipEnergy>舰船储能：{0} / {1} Wd</SoS.StatsShipEnergy>
 	<SoS.StatsShipHeat>舰船热容：{0} / {1} HU{2}</SoS.StatsShipHeat>
-	<SoS.StatsShipHeatMaximum>最大热容：{0}</SoS.StatsShipHeatMaximum>
 	<SoS.StatsShipHeatMaximumShort>最大</SoS.StatsShipHeatMaximumShort>
+	<SoS.StatsShipHeatMaximum>最大热容：{0}</SoS.StatsShipHeatMaximum>
 	<SoS.StatsShipCombatRating>战力评级：{0}</SoS.StatsShipCombatRating>
 	<SoS.StatsShipCombatThrust>推重比：{0}</SoS.StatsShipCombatThrust>
-	<SoS.ReportInterReady>为星际旅行做好准备。</SoS.ReportInterReady>
+	<SoS.ReportInterReady>已为星际旅行做好准备。</SoS.ReportInterReady>
 	<SoS.ReportInterNotReady>这些没有准备好星际旅行：</SoS.ReportInterNotReady>
-	<SoS.ReportNeedPilot>舰船需要领航员在舰桥或有AI核心。</SoS.ReportNeedPilot>
+	<SoS.ReportNeedPilot>舰船需要领航员在舰桥或有船舶电脑核心。</SoS.ReportNeedPilot>
 	<SoS.NeedsMoreFuel>需要 {1} 单位燃料在推进器中，但推进器里只有 {0} 单位燃料。</SoS.NeedsMoreFuel>
 	<SoS.NeedsMorePower>舰船需要 {0} Wd 电量在储能设备中。</SoS.NeedsMorePower>
 	<SoS.NeedsMoreJTEngines>需要更多的 约翰逊-田中驱动器 才能驱动这艘大船。</SoS.NeedsMoreJTEngines>
@@ -176,7 +170,7 @@
 	<SoS.ToggleScanShips>舰船扫描</SoS.ToggleScanShips>
 	<SoS.ToggleScanShipsDesc>切换扫描舰船</SoS.ToggleScanShipsDesc>
 	<SoS.ToggleScanSites>站点扫描</SoS.ToggleScanSites>
-	<SoS.ToggleScanSitesDesc>切换扫描事件点</SoS.ToggleScanSitesDesc>
+	<SoS.ToggleScanSitesDesc>切换扫描事件站点</SoS.ToggleScanSitesDesc>
 	<SoS.ToggleShields>切换护盾</SoS.ToggleShields>
 	<SoS.ToggleShieldsDesc>激活或关闭舰船的护盾发生器</SoS.ToggleShieldsDesc>
 	<SoS.ToggleCloak>切换隐形</SoS.ToggleCloak>
@@ -190,67 +184,51 @@
 	<SoS.MoveFlip>翻转舰船</SoS.MoveFlip>
 	<SoS.MoveFlipDesc>水平翻转舰船</SoS.MoveFlipDesc>
 	<SoS.MoveRot>旋转舰船</SoS.MoveRot>
-	<SoS.MoveRotNo>船上有不可旋转、不是正方形的建筑！</SoS.MoveRotNo>
+	<SoS.MoveRotNo>船上有不可旋转，且不是正方形的建筑！</SoS.MoveRotNo>
 	<SoS.MoveRotDesc>逆时针旋转舰船</SoS.MoveRotDesc>
 	<SoS.MoveFail>移动失败！</SoS.MoveFail>
 	<SoS.MoveFailDesc>舰船移动失败！重新检查你的船，如果有物块出错就重新加载存档。这通常是由于某些建筑物没有被正确移除导致的。\n移动失败：{0}</SoS.MoveFailDesc>
 	<SoS.MoveFailPilot>舰船舰桥需要有领航员才能移动。</SoS.MoveFailPilot>
-	<SoS.MoveFailRCS>至少需要1个RCS推进器来移动舰船。</SoS.MoveFailRCS>
-	<SoS.MoveFailFuel>需要 {0} 单位燃料来移动舰船。</SoS.MoveFailFuel>
+	<SoS.MoveFailRCS>至少需要1个RCS推进器来移动舰船</SoS.MoveFailRCS>
+	<SoS.MoveFailFuel>需要 {0} 单位燃料来移动舰船</SoS.MoveFailFuel>
 	<SoS.MoveFailFaction>来自另一派系的舰船靠近目标区域。移动中止。</SoS.MoveFailFaction>
 	<SoS.MoveFailCombat>主要舰船地图正在战斗中。</SoS.MoveFailCombat>
-	<SoS.Land>舰船登陆</SoS.Land>
+	<SoS.Land>舰船着陆</SoS.Land>
 	<SoS.LandDesc>让这艘船在这里着陆 </SoS.LandDesc>
 	<SoS.Rebuild>舰船部件被毁自动重建</SoS.Rebuild>
 	<SoS.RebuildDesc>放置这艘船上被毁建筑的蓝图。</SoS.RebuildDesc>
-	<SoS.BridgeConnectTooltip>没有舰桥连接到船舶！请检查领航员控制台、战术控制台、无人船舶核心和船舶电脑核心是否连接到热容和电力网络。</SoS.BridgeConnectTooltip>
- 	<SoS.BridgeSelectOuterdoors>选择外围气闸</SoS.BridgeSelectOuterdoors>
- 	<SoS.BridgeSelectOuterdoorsDesc>选择这艘舰船上所有与真空环境直接接触的气闸。</SoS.BridgeSelectOuterdoorsDesc>
-
-		<!-- 仅Exp或其它，最新不稳定版已弃用 -->
-	<SoS.StatsUIEnergy>储能：{0} / {1}</SoS.StatsUIEnergy>
-	<SoS.StatsUIHeat>热容：{0} / {1}</SoS.StatsUIHeat>
-	<SoS.StatsUIHull>船体结构：{0}%</SoS.StatsUIHull>
-	<SoS.StatsUIShields>护盾：{0}</SoS.StatsUIShields>
-	<SoS.StatsUIEnergyNA>储能：N/A</SoS.StatsUIEnergyNA>
-	<SoS.StatsUIHeatNA>热容：N/A</SoS.StatsUIHeatNA>
-	<SoS.StatsUINA>N/A</SoS.StatsUINA>
-	<SoS.Hack>入侵</SoS.Hack>
-	<SoS.HackFailed>入侵失败</SoS.HackFailed>
-	<SoS.ReportNeedEnergy>至少需要 100Wd 电量在船舶电容器中</SoS.ReportNeedEnergy>
-	<!-- 故事 -->
+	<SoS.BridgeConnectTooltip>没有舰桥连接到船舶！请检查领航员控制台、战术控制台、无人船舶核心和船舶电脑核心是否正常连接到热容和电力网络。</SoS.BridgeConnectTooltip>
+	<SoS.BridgeSelectOuterdoors>选择外围气闸</SoS.BridgeSelectOuterdoors>
+	<SoS.BridgeSelectOuterdoorsDesc>选择这艘舰船上所有与真空环境直接接触的气闸</SoS.BridgeSelectOuterdoorsDesc>
+	<!-- story -->
 	<SoS.QuestPillarA>攻击\n地平线号空间站</SoS.QuestPillarA>
-	<SoS.QuestPillarADesc>攻击超凡科技星球改造站并尝试回收一根超凡科技柱。</SoS.QuestPillarADesc>
+	<SoS.QuestPillarADesc>攻击超凡科技星球改造站并尝试回收一根超凡科技柱</SoS.QuestPillarADesc>
 	<SoS.QuestPillarB>突袭\n月面基地</SoS.QuestPillarB>
 	<SoS.QuestPillarBDesc>攻击机械体的月球基地并尝试回收一根超凡科技柱。\n\n这同时也会招来一艘机械体战舰！</SoS.QuestPillarBDesc>
-	<!-- 扫描 -->
+	<!-- scan -->
 	<SoS.scanRegion>扫描</SoS.scanRegion>
 	<SoS.scanRegionDesc>扫描并揭示星球表面的一片区域。</SoS.scanRegionDesc>
 	<SoS.ScanMap>观察区域</SoS.ScanMap>
 	<SoS.ScanMapDesc>观察星球表面的一片区域</SoS.ScanMapDesc>
 	<SoS.ScanMapStop>结束观察</SoS.ScanMapStop>
 	<SoS.ScanMapStopDesc>停止观察 {0}。除非有殖民者在场否则这会导致地图刷新。</SoS.ScanMapStopDesc>
-	<!-- 推进器 -->
+	<!-- engines -->
 	<SoS.ToggleEngines>切换舰船推进器</SoS.ToggleEngines>
 	<SoS.ToggleEnginesDesc>启动舰船推进器以规避危险。</SoS.ToggleEnginesDesc>
-	<!-- 气闸 -->
+	<!-- airlock -->
 	<SoS.ToggleDock>切换对接装置</SoS.ToggleDock>
 	<SoS.ToggleDockDesc>将对接装置扩展至3地格外</SoS.ToggleDockDesc>
 	<SoS.AirlockHacked>气闸入侵成功！</SoS.AirlockHacked>
 	<SoS.AirlockHackFailed>气闸入侵失败！</SoS.AirlockHackFailed>
 	<SoS.AirlockBreached>气闸切割完成！</SoS.AirlockBreached>
-		<!-- 仅Exp或其它，最新不稳定版已弃用 -->
-	<SoS.AirlockBreach>切割</SoS.AirlockBreach>
-	<!-- 气闸状态 -->
+	<!-- unfold -->
 	<SoS.UnfoldStatus>状态：</SoS.UnfoldStatus>
 	<SoS.UnfoldRetracted>已收回</SoS.UnfoldRetracted>
 	<SoS.UnfoldExtended>已扩展</SoS.UnfoldExtended>
 	<SoS.UnfoldExtending>正在扩展</SoS.UnfoldExtending>
 	<SoS.UnfoldRetracting>正在收回</SoS.UnfoldRetracting>
 	<SoS.UnfoldBlocked>必须放置在无障碍物或其它可供其扩展的地方。</SoS.UnfoldBlocked>
-	<SoS.UnDockWarning>警告：在已扩展时移动船舶将收回所有舰船对接装置。</SoS.UnDockWarning>
-		<!-- 仅Exp或其它，最新不稳定版已弃用 -->
-	<!-- 热容 -->
+	<!-- heat -->
     <SoS.HeatStored>热容网络蓄热/容量：{0} HU / {1} HU ({2})</SoS.HeatStored>
 	<SoS.HeatWithPower>使用电力加热</SoS.HeatWithPower>
 	<SoS.HeatWithPowerDesc>当热容网络中没有足够的热量时使用电力进行加热。</SoS.HeatWithPowerDesc>
@@ -265,23 +243,14 @@
 	<SoS.HeatCritical>危险！极端高温！</SoS.HeatCritical>
 	<SoS.HeatNotConnected>没有连接到热容网络</SoS.HeatNotConnected>
 	<SoS.HeatTurretEnergy>开火所需能量：</SoS.HeatTurretEnergy>
-	<SoS.ExpelSuperheatedAir>排出过热空气</SoS.ExpelSuperheatedAir>
-	<SoS.ExpelSuperheatedAirDesc>使用这个通风口排出目标房间中的过热空气。该过程会对你的船舶生命支持系统造成损坏(基于房间大小，并且会在耐久度耗尽时将其摧毁)，这些伤害会均摊到多个生命支持系统上(当前每个系统会受到 {0} 伤害)。\n\n房间里的所有不能进行EVA的人都会受到爆炸性失压！</SoS.ExpelSuperheatedAirDesc>
-	<SoS.AirNotSuperheated>没有过热空气</SoS.AirNotSuperheated>
-	<SoS.NoLifeSupport>没有有效的船舶生命支持系统</SoS.NoLifeSupport>
-	<SoS.HeatDepletionLevel>消耗水平：{0}</SoS.HeatDepletionLevel>
-	<SoS.BreakCloakAtHeat>热容上限消耗阈值</SoS.BreakCloakAtHeat>
-	<SoS.BreakCloakAtHeatDesc>当热容网络整体的热容上限消耗至设定百分比时，将关闭隐形装置使其可以恢复。</SoS.BreakCloakAtHeatDesc>
-	<SoS.CloakBrokenAtHeat>热容上限耗尽，隐形装置失效！</SoS.CloakBrokenAtHeat>
-		<!-- 仅Exp或其它，最新不稳定版已弃用 -->
-	<!-- 武器 -->
+	<!-- turret -->
 	<SoS.TurretNotInShipCombat>警告：炮塔处于非舰船战状态所以不会开火。</SoS.TurretNotInShipCombat>
-	<SoS.TurretInPointDefense>警告：炮塔处于点防御模式所以不会瞄准敌舰。</SoS.TurretInPointDefense>
+	<SoS.TurretInPointDefense>警告：炮塔处于点防御模式所以不会瞄准敌舰</SoS.TurretInPointDefense>
 	<SoS.TurretExtractTorpedo>取出鱼雷</SoS.TurretExtractTorpedo>
 	<SoS.TurretExtractTorpedoDesc>卸载所有已装填的鱼雷，以便使用其它类型鱼类替换。</SoS.TurretExtractTorpedoDesc>
 	<SoS.TurretExtractOneTorpedo>取出一枚鱼雷</SoS.TurretExtractOneTorpedo>
 	<SoS.TurretExtractOneTorpedoDesc>只卸载已装填的鱼雷中的一枚，以便使用其它类型鱼类替换。</SoS.TurretExtractOneTorpedoDesc>
-	<SoS.TurretExtract>取出 </SoS.TurretExtract>
+	<SoS.TurretExtract>取出</SoS.TurretExtract>
 	<SoS.TurretOptimalRange>使用最佳射程</SoS.TurretOptimalRange>
 	<SoS.TurretOptimalRangeDesc>使这个炮塔只对处于最佳射程内的目标开火</SoS.TurretOptimalRangeDesc>
 	<SoS.TurretPointDefense>点防御模式</SoS.TurretPointDefense>
@@ -291,65 +260,52 @@
 	<SoS.TorpedoNotLoaded>不装填</SoS.TorpedoNotLoaded>
 	<SoS.TorpedoFullyLoaded>满载</SoS.TorpedoFullyLoaded>
 	<SoS.TorpedoNone>没有鱼雷</SoS.TorpedoNone>
-	<SoS.AmplifierCount>脊峰放大：{0}</SoS.AmplifierCount>
-	<SoS.SpinalCapNotFound>没有找到脊峰放大器。</SoS.SpinalCapNotFound>
+	<SoS.AmplifierCount>脊峰聚能：{0}</SoS.AmplifierCount>
+	<SoS.SpinalCapNotFound>没有找到脊峰聚能器。</SoS.SpinalCapNotFound>
 	<SoS.CannotFireDueToHeat>{0} 无法开火：热容不足</SoS.CannotFireDueToHeat>
 	<SoS.CannotFireDueToPower>{0} 无法开火：能量不足</SoS.CannotFireDueToPower>
 	<SoS.CannotFireDueToAmmo>{0} 无法开火：弹药不足</SoS.CannotFireDueToAmmo>
-	<!-- 护盾 -->
+	<!-- shield -->
 	<SoS.ShieldRadius>当前半径/目标半径：{0}/{1}</SoS.ShieldRadius>
 	<SoS.ResetShieldRadius>重置护盾半径</SoS.ResetShieldRadius>
 	<SoS.ResetShieldRadiusDesc>重置护盾半径为40。</SoS.ResetShieldRadiusDesc>
-	<SoS.DecShieldRadius>减小护盾半径</SoS.DecShieldRadius>
-	<SoS.IncShieldRadius>增大护盾半径</SoS.IncShieldRadius>
+	<SoS.DecreaseShieldRadiusDesc>减小护盾半径</SoS.DecreaseShieldRadiusDesc>
+	<SoS.IncreaseShieldRadiusDesc>增大护盾半径</SoS.IncreaseShieldRadiusDesc>
 	<SoS.FoamFill>填补损伤</SoS.FoamFill>
-	<SoS.FoamFillDesc>让舰船上的泡沫船体填充泵修补舰船受损区域。</SoS.FoamFillDesc>
+	<SoS.FoamFillDesc>让舰船上的泡沫船体填充泵填补舰船受损区域的船体、底板和气闸。</SoS.FoamFillDesc>
 	<SoS.FoamFillDisabled>不需要填补或泡沫船体填充泵缺少修补泡沫。</SoS.FoamFillDisabled>
-		<!-- 仅Exp或其它，最新不稳定版已弃用 -->
-	<SoS.ShieldRadiusReset>重置护盾半径</SoS.ShieldRadiusReset>
-	<SoS.ShieldRadiusResetDesc>重置护盾半径为40。</SoS.ShieldRadiusResetDesc>
-	<SoS.ShieldRadiusDec>减小护盾半径</SoS.ShieldRadiusDec>
-	<SoS.ShieldRadiusInc>增大护盾半径</SoS.ShieldRadiusInc>
-	<!-- 反应堆 -->
-	<SoS.ReactorInstability>不稳定性：{0}</SoS.ReactorInstability>
+	<!-- reactor -->
+	<SoS.ReactorInstability>不稳定度：{0}</SoS.ReactorInstability>
 	<SoS.ReactorOverdrive>超频 I</SoS.ReactorOverdrive>
 	<SoS.ReactorOverdriveDesc>增加反应堆产出的能量，代价是发热量和燃料消耗增加。</SoS.ReactorOverdriveDesc>
 	<SoS.ReactorOverdrive2>超频 II</SoS.ReactorOverdrive2>
-	<SoS.ReactorOverdrive2Desc>大幅增加反应堆产出的能量，代价是发热量和燃料消耗增加。这会增加反应堆的不稳定性，会有火灾和辐射泄漏的风险。</SoS.ReactorOverdrive2Desc>
+	<SoS.ReactorOverdrive2Desc>大幅增加反应堆产出的能量，代价是发热量和燃料消耗增加。这会增加反应堆的不稳定度，会有火灾和辐射泄漏的风险。</SoS.ReactorOverdrive2Desc>
 	<SoS.ReactorOverdrive3>超频 III</SoS.ReactorOverdrive3>
-	<SoS.ReactorOverdrive3Desc>超大幅增加反应堆产出的能量，代价是发热量和燃料消耗增加。这会增加反应堆的不稳定性，会有火灾和辐射泄漏的风险。</SoS.ReactorOverdrive3Desc>
- 	<!-- 休眠舱 -->
- 	<SoS.CantEnterCrittersleep>人类、异种人、外星人和像人一样行动的类人生物不能使用小型动物低温休眠舱。</SoS.CantEnterCrittersleep>
-	<!-- 蓝图 -->
+	<SoS.ReactorOverdrive3Desc>超大幅增加反应堆产出的能量，代价是发热量和燃料消耗增加。这会增加反应堆的不稳定度，会有火灾和辐射泄漏的风险。</SoS.ReactorOverdrive3Desc>
+	<!-- caskets -->
+	<SoS.CantEnterCrittersleep>人类、异种人、外星人和像人一样行动的类人生物不能使用动物低温休眠舱。</SoS.CantEnterCrittersleep>
+	<!-- blueprints -->
 	<SoS.BlueprintDisabled>需要研究星际航行基础</SoS.BlueprintDisabled>
-	<SoS.BlueprintFailed>蓝图放置失败！区域必须支持重型建筑，并且清除非蓝图自带物体和厚岩顶。</SoS.BlueprintFailed>
+	<SoS.BlueprintFailed>蓝图放置失败！蓝图所需区域必须支持重型建筑，并且清除非蓝图自带物体和厚岩顶。</SoS.BlueprintFailed>
 	<SoS.BlueprintPlace1>船体框架\n蓝图</SoS.BlueprintPlace1>
-	<SoS.BlueprintPlace1Desc>放置船舶护板和船体框架的蓝图。在放置其它船体框架蓝图前先建造这个！</SoS.BlueprintPlace1Desc>
+	<SoS.BlueprintPlace1Desc>放置船舶护板和船体框架的蓝图。在放置其它船体框架蓝图前先建造完这个！</SoS.BlueprintPlace1Desc>
 	<SoS.BlueprintPlace2>其它船体框架\n蓝图</SoS.BlueprintPlace2>
-	<SoS.BlueprintPlace2Desc>放置其它船体框架的蓝图。在放置舰船内部设备蓝图前先建造这个！</SoS.BlueprintPlace2Desc>
+	<SoS.BlueprintPlace2Desc>放置其它船体框架的蓝图。在放置舰船内部设备蓝图前先建造完这个！</SoS.BlueprintPlace2Desc>
 	<SoS.BlueprintPlace3>船舶内部设备\n蓝图</SoS.BlueprintPlace3>
-	<SoS.BlueprintPlace3Desc>放置船舶内部设备的蓝图。请先建造船体框架与其它船体框架再建造这个！</SoS.BlueprintPlace3Desc>
-	<!-- 修复 -->
-	<SoSRestoreHull>修复船体</SoSRestoreHull>
-	<SoSRestoreHullDesc>在残骸处建造新的船体</SoSRestoreHullDesc>
-	<SoSAlreadyRestoring>这个区域已经在修复中了！</SoSAlreadyRestoring>
-	<SoSMustDesignateWreckage>指定舰船残骸</SoSMustDesignateWreckage>
-	<!-- 单位、EVA -->
+	<SoS.BlueprintPlace3Desc>放置船舶内部设备的蓝图。请先建造完船体框架与其它船体框架再建造这个！</SoS.BlueprintPlace3Desc>
+	<!-- pawns/eva -->
 	<SoS.DamagedReactorHurtsPawn>{0} 正在被反应堆产生的辐射灼伤！</SoS.DamagedReactorHurtsPawn>
-	<SoS.EVACapable>EVA兼容</SoS.EVACapable>
+	<SoS.EVACapable>EVA兼容。</SoS.EVACapable>
 	<SoS.AtmosphereVacuum>真空环境</SoS.AtmosphereVacuum>
 	<SoS.Atmosphere>可呼吸环境</SoS.Atmosphere>
 	<SoS.AtmosphereNonBreathable>不可呼吸环境</SoS.AtmosphereNonBreathable>
-	<SoS.AtmosphereBreach>该空间不合规！</SoS.AtmosphereBreach>
-		<!-- 仅Exp或其它，最新不稳定版已弃用 -->
-	<SoS.CocoonPlaceFail>无法生成滞眠茧！</SoS.CocoonPlaceFail>
-	<SoS.CocoonMalnourished>使用者处在营养不良状态</SoS.CocoonMalnourished>
-	<!-- 凝胶体、孢子 -->
+	<SoS.AtmosphereBreach>该空间不合规！需要填上漏洞！</SoS.AtmosphereBreach>
+	<!-- holo/spore -->
 	<SoS.SpawnHologram>生成\n微械凝胶体</SoS.SpawnHologram>
-	<SoS.SpawnHologramDesc>这个装置的意识可以通过微械凝胶体来影响现实。</SoS.SpawnHologramDesc>
-	<SoS.DespawnHologram>驱散微械凝胶体</SoS.DespawnHologram>
-	<SoS.DespawnHologramDesc>摧毁这个装置控制的微械凝胶体。培育一群新的纳米机械来取代它需要一天的世界。</SoS.DespawnHologramDesc>
-	<SoS.RenameAI>重命名 AI</SoS.RenameAI>
+	<SoS.SpawnHologramDesc>这个装置的意识可以通过微械凝胶体来影响现实</SoS.SpawnHologramDesc>
+	<SoS.DespawnHologram>驱散\n微械凝胶体</SoS.DespawnHologram>
+	<SoS.DespawnHologramDesc>摧毁这个装置控制的微械凝胶体。培育一群新的纳米机械来取代它需要一天的时间</SoS.DespawnHologramDesc>
+	<SoS.RenameAI>重命名AI</SoS.RenameAI>
 	<SoS.RenameAIDesc>给这个AI起个新名字</SoS.RenameAIDesc>
 	<SoS.InstallConsciousness>安装意识</SoS.InstallConsciousness>
 	<SoS.InstallConsciousnessThisOne>装载意识：{0}</SoS.InstallConsciousnessThisOne>
@@ -358,17 +314,17 @@
 	<SoS.InstallCoreDesc>让你的殖民者在这个设备上安装一个人格核心</SoS.InstallCoreDesc>
 	<SoS.NoBrains>没有装载意识</SoS.NoBrains>
 	<SoS.NoCores>没有可用的人格核心</SoS.NoCores>
-	<SoS.SpawnHologramDelay>纳米机械再生中：{0} 后可用</SoS.SpawnHologramDelay>
+	<SoS.SpawnHologramDelay>纳米机械培育中：{0} 后可用</SoS.SpawnHologramDelay>
 	<SoS.HologramColor>微械凝胶体\n颜色</SoS.HologramColor>
 	<SoS.HologramColorDesc>为这个微械凝胶体选择一个颜色</SoS.HologramColorDesc>
 	<SoS.EquipRanged>远程攻击模式</SoS.EquipRanged>
-	<SoS.EquipRangedDesc>让这个全息投影使用激光来进行远程攻击</SoS.EquipRangedDesc>
+	<SoS.EquipRangedDesc>让这个微械凝胶体使用激光来进行远程攻击</SoS.EquipRangedDesc>
 	<SoS.EquipMelee>近战攻击模式</SoS.EquipMelee>
-	<SoS.EquipMeleeDesc>给这个全息投影一把刀和一个能量护盾</SoS.EquipMeleeDesc>
-	<SoS.ResurrectBrain>制造替代纳米机械</SoS.ResurrectBrain>
-	<SoS.ResurrectBrainDesc>使用复活机械液为这个意识快速制造一个新的微械凝胶体</SoS.ResurrectBrainDesc>
+	<SoS.EquipMeleeDesc>给这个微械凝胶体一把刀和一个能量护盾</SoS.EquipMeleeDesc>
+	<SoS.ResurrectBrain>生成替代纳米机械</SoS.ResurrectBrain>
+	<SoS.ResurrectBrainDesc>使用复活机械液为这个意识快速生成一个新的微械凝胶体</SoS.ResurrectBrainDesc>
 	<SoS.CantScanFormgel>微械凝胶体不适合做扫描工作</SoS.CantScanFormgel>
-	<SoS.ArchoGift>解锁超凡科技礼物</SoS.ArchoGift>
+	<SoS.ArchoGift>解锁超凡科技礼物：</SoS.ArchoGift>
 	<SoS.ArchotechGoodwillPlus>增加心灵敏感度（+10，消耗 {0} 心灵场强度）</SoS.ArchotechGoodwillPlus>
 	<SoS.ArchotechGoodwillMinus>降低心灵敏感度（-10，消耗 {0} 心灵场强度）</SoS.ArchotechGoodwillMinus>
 	<SoS.ArchotechFieldStrengthLow>心灵场强度不足</SoS.ArchotechFieldStrengthLow>
@@ -377,27 +333,27 @@
 	<SoS.ArchotechShock>心灵冲击</SoS.ArchotechShock>
 	<SoS.ArchotechShockDesc>对一个单位施加心灵冲击（消耗 {0} 心灵场强度）</SoS.ArchotechShockDesc>
 	<SoS.ArchotechInsanity>心灵错乱</SoS.ArchotechInsanity>
-	<SoS.ArchotechInsanityDesc>对一个单位施加心灵错乱使其狂暴（消耗 {0} 心灵场强度）</SoS.ArchotechInsanityDesc>
+	<SoS.ArchotechInsanityDesc>对一个单位施加心灵错乱（消耗 {0} 心灵场强度）</SoS.ArchotechInsanityDesc>
 	<SoS.ArchotechPsylink>启灵</SoS.ArchotechPsylink>
-	<SoS.ArchotechPsylinkDesc>给予一个小人一个等级的启灵神经（消耗 {0} 心灵场强度）</SoS.ArchotechPsylinkDesc>
-	<SoS.ArchotechSoulLink>心灵存档</SoS.ArchotechSoulLink>
-	<SoS.ArchotechSoulLinkDesc>将一个小人的意识连接到这个超凡科技孢子上。如果目标的身体被摧毁，心灵存档可以将其意识下载到来世棺材里，与死前一模一样。（消耗 {0} 心灵场强度）</SoS.ArchotechSoulLinkDesc>
-	<SoS.ArchotechSoulDownload>下载心灵存档（{0}）</SoS.ArchotechSoulDownload>
+	<SoS.ArchotechPsylinkDesc>给予一个单位一个等级的启灵神经（消耗 {0} 心灵场强度）</SoS.ArchotechPsylinkDesc>
+	<SoS.ArchotechSoulLink>心灵连通</SoS.ArchotechSoulLink>
+	<SoS.ArchotechSoulLinkDesc>将一个单位的意识连接到这个超凡科技孢子上。如果目标的身体被摧毁，心灵存档可以将其意识下载到来世棺材里，与死前一模一样。（消耗 {0} 心灵场强度）</SoS.ArchotechSoulLinkDesc>
+	<SoS.ArchotechSoulDownload>下载心灵连通意识（{0}）</SoS.ArchotechSoulDownload>
 	<SoS.ArchotechSoulDownloadDesc>下载 {0} 的意识到一台来世棺材里。</SoS.ArchotechSoulDownloadDesc>
 	<SoS.ArchotechOptimizeMatter>超凡科技船体优化</SoS.ArchotechOptimizeMatter>
-	<SoS.ArchotechOptimizeMatterDesc>自动将在一个缓慢扩大的转换半径内的船体转换到超凡科技船体。这不会影响大型建筑结构，例如散热器和护盾发生器。</SoS.ArchotechOptimizeMatterDesc>
+	<SoS.ArchotechOptimizeMatterDesc>自动将在一个缓慢扩大的转换半径内的船体转换到超凡科技船体。这不会影响到例如散热器和护盾发生器等大型建筑结构。</SoS.ArchotechOptimizeMatterDesc>
 	<SoS.ArchotechGiftParticles>将礼物换成异形粒子</SoS.ArchotechGiftParticles>
 	<SoS.ArchotechGiftParticlesDesc>自动接受超凡科技礼物并将其全部转换成异形粒子</SoS.ArchotechGiftParticlesDesc>
 	<SoS.ArchotechDemandGift>索要礼物</SoS.ArchotechDemandGift>
 	<SoS.ArchotechDemandGiftDesc>要求你的超凡科技孢子立刻赠送礼物。这会导致其产生一个可累积的-40心情惩罚！</SoS.ArchotechDemandGiftDesc>
 	<SoS.ArchotechNoGiftsUnlocked>没有研究解锁的礼物</SoS.ArchotechNoGiftsUnlocked>
 	<SoS.ArchotechEvolve>启动超凡进化</SoS.ArchotechEvolve>
-	<SoS.ArchotechEvolveDesc>将你的超凡科技孢子进化成一个真正的超凡科技，并为这个世界开创一个崭新的时代。\n\n这将会结束游戏！</SoS.ArchotechEvolveDesc>
+	<SoS.ArchotechEvolveDesc>将你的超凡科技孢子进化成一个真正的超凡科技，并为这个世界开创一个崭新的时代。\n\n这将会使游戏迎来结局！</SoS.ArchotechEvolveDesc>
 	<SoS.ArchotechMoodLow>超凡科技孢子情绪低落</SoS.ArchotechMoodLow>
 	<SoS.ArchotechMoodLowDesc>你的超凡科技孢子不高兴了，它可能会对你的舰船或船员玩“恶作剧”。\n\n孢子的情绪可以通过让殖民者在附近冥想来缓慢改善，或者通过献祭囚犯的方式取悦它。</SoS.ArchotechMoodLowDesc>
 	<SoS.ArchotechMoodLowNoRoyDesc>你的超凡科技孢子心情很差，它会对你的舰船或船员玩“恶作剧”。\n\n孢子的情绪可以通过献祭囚犯来快速改善。</SoS.ArchotechMoodLowNoRoyDesc>
-	<!-- 超凡动物 -->
-	<SoS.ArchoAnimalSuddenDeath>由于某种宇宙事件，一种超凡动物出现了但又很快就消失了。也许这是某些事情即将到来的征兆。</SoS.ArchoAnimalSuddenDeath>
+	<!-- archoanimals -->
+	<SoS.ArchoAnimalSuddenDeath>由于某种宇宙事件，一种超凡动物出现了但又很快就消失。也许这是某些事情即将到来的征兆。</SoS.ArchoAnimalSuddenDeath>
 	<SoS.ArchoAnimalSporeDeath>由于没有了超凡科技的指引，{0} 已经消亡。</SoS.ArchoAnimalSporeDeath>
 	<SoS.CraftArchocat>生成 超凡猫</SoS.CraftArchocat>
 	<SoS.CraftArchomutt>生成 超凡犬</SoS.CraftArchomutt>
@@ -411,10 +367,10 @@
 	<SoS.CraftArchothrumbo>生成 超凡敲击兽</SoS.CraftArchothrumbo>
 	<SoS.ArcholifeChangeSkin>改变动物样貌</SoS.ArcholifeChangeSkin>
 	<SoS.ArcholifeChangeSkinDesc>这种生物似乎可以随意改变自身形态，但只能在几种不同的形态之间改变。</SoS.ArcholifeChangeSkinDesc>
-	<!-- 纳米机械 -->
+	<!-- mechanites -->
 	<SoS.MechanitesInHomeArea>解构微械！</SoS.MechanitesInHomeArea>
     <SoS.MechanitesInHomeAreaDesc>家里到处都是解构微械。</SoS.MechanitesInHomeAreaDesc>
-	<!-- 穿梭机 -->
+	<!-- shuttles -->
 	<SoS.ShuttleMissionFloatBoard>任务：跳帮队突击检查</SoS.ShuttleMissionFloatBoard>
 	<SoS.ShuttleMissionFloatBoardWarn>任务：跳帮队突击检查（警告！）</SoS.ShuttleMissionFloatBoardWarn>
 	<SoS.ShuttleMissionFloatIntercept>任务：拦截鱼雷/穿梭机</SoS.ShuttleMissionFloatIntercept>
@@ -429,47 +385,53 @@
 	<SoS.EnemyShuttleOutOfTorps>敌方穿梭机的鱼雷用光了，现在正在撤退！</SoS.EnemyShuttleOutOfTorps>
 	<SoS.BoardingShuttleArrived>你的跳帮队已抵达！</SoS.BoardingShuttleArrived>
 	<SoS.EnemyBoardingShuttleArrived>敌方跳帮队已抵达！</SoS.EnemyBoardingShuttleArrived>
-	<SoS.EnemyBoardingShuttleAborted>地方跳帮队正在撤退！</SoS.EnemyBoardingShuttleAborted>
+	<SoS.EnemyBoardingShuttleAborted>敌方跳帮队正在撤退！</SoS.EnemyBoardingShuttleAborted>
 	<SoS.ShuttleMissionBoarding>登上敌舰</SoS.ShuttleMissionBoarding>
 	<SoS.ShuttleMissionBoardingDesc>派这艘穿梭机登上敌舰。它很容易受到点防御武器的攻击。如果敌舰推进器经常工作，那么穿梭机就需要更长时间到达。</SoS.ShuttleMissionBoardingDesc>
-	<SoS.ShuttleMissionBoardingDisabled>穿梭机需要合适的停靠港才能在屋顶下起飞！</SoS.ShuttleMissionBoardingDisabled>
+	<SoS.ShuttleMissionBoardingDisabled>穿梭机需要处在合适的停靠港才能在屋顶下起飞！</SoS.ShuttleMissionBoardingDisabled>
 	<SoS.ShuttleMissionBoardingWarn>登上敌舰（警告！）</SoS.ShuttleMissionBoardingWarn>
-	<SoS.ShuttleMissionBoardingWarnDesc>警告：敌舰推进器正在工作，可能没有合适的空隙抵达！派这艘穿梭机登上敌舰。它很容易受到点防御武器的攻击。如果敌舰推进器经常工作，那么穿梭机就需要更长时间到达。</SoS.ShuttleMissionBoardingWarnDesc>
+	<SoS.ShuttleMissionBoardingWarnDesc>警告：敌舰推进器正在工作，可能没有合适的时间段抵达！派这艘穿梭机登上敌舰。它很容易受到点防御武器的攻击。如果敌舰推进器经常工作，那么穿梭机就需要更长时间到达。</SoS.ShuttleMissionBoardingWarnDesc>
 	<SoS.ShuttleMissionBoardingReturn>返回舰船</SoS.ShuttleMissionBoardingReturn>
 	<SoS.ShuttleMissionBoardingReturnDesc>让穿梭机回到你的舰船。如果敌人的点防御系统正在工作，那么它将很容易受到攻击。</SoS.ShuttleMissionBoardingReturnDesc>
 	<SoS.ShuttleMissionIntercept>拦截</SoS.ShuttleMissionIntercept>
 	<SoS.ShuttleMissionInterceptDesc>派这艘穿梭机拦截来袭的鱼雷和敌方穿梭机。\n\n它将一直执行任务直到燃料不足或严重损坏，你可以中途将其召回。</SoS.ShuttleMissionInterceptDesc>
 	<SoS.ShuttleMissionStrafe>射击敌舰</SoS.ShuttleMissionStrafe>
-	<SoS.ShuttleMissionStrafeDesc>派这艘穿梭机用炮塔射击敌舰。它很容易受到点防御武器的攻击。如果敌舰推进器经常工作，那么穿梭机就需要更长时间到达。\n\n它将一直执行任务直到燃料不足或严重损坏，你可以中途将其召回。</SoS.ShuttleMissionStrafeDesc>
+	<SoS.ShuttleMissionStrafeDesc>派这艘穿梭机用炮塔射击敌舰。它很容易受到点防御武器的攻击。如果敌舰推进器经常工作，那么穿梭机就需要更长时间到达。\n\n它将一直执行任务直到燃料不足或严重损坏，你可以中途将其召回。\n\n发出此命令后，敌舰地图上将提供指定攻击区域选项，可使符合要求的穿梭机攻击所指定的目标。</SoS.ShuttleMissionStrafeDesc>
 	<SoS.ShuttleMissionBomb>雷击敌舰</SoS.ShuttleMissionBomb>
-	<SoS.ShuttleMissionBombDesc>派这艘穿梭机用鱼雷攻击敌舰。它自身很容易受到点防御武器的攻击，而它的鱼雷不会。如果敌舰推进器经常工作，那么穿梭机就需要更长时间到达。\n\n它将一直执行任务直到燃料不足或严重损坏，你可以中途将其召回。</SoS.ShuttleMissionBombDesc>
+	<SoS.ShuttleMissionBombDesc>派这艘穿梭机用鱼雷攻击敌舰。它自身很容易受到点防御武器的攻击，而它的鱼雷不会。如果敌舰推进器经常工作，那么穿梭机就需要更长时间到达。\n\n它将一直执行任务直到燃料不足或严重损坏，你可以中途将其召回。\n\n发出此命令后，敌舰地图上将提供指定攻击区域选项，可使符合要求的穿梭机攻击所指定的目标。</SoS.ShuttleMissionBombDesc>
 	<SoS.RecallShuttle>{0}（执行：{1} ）</SoS.RecallShuttle>
 	<SoS.RecallShuttleDesc>改变穿梭机的任务。</SoS.RecallShuttleDesc>
 	<SoS.RetreatAtHealth>穿梭机因耐久度自动撤退阈值</SoS.RetreatAtHealth>
-	<SoS.RetreatAtHealthDesc>当这艘穿梭机的耐久度低于设定百分比时，它将自动撤退</SoS.RetreatAtHealthDesc>
+	<SoS.RetreatAtHealthDesc>当这艘穿梭机的耐久度低于设定百分比时，它将自动撤退。</SoS.RetreatAtHealthDesc>
 	<SoS.CancelBoarding>取消跳帮？你的穿梭机会返回你的舰船。</SoS.CancelBoarding>
 	<SoS.NoHardpoints>穿梭机没有足够的挂载点来装这个炮塔。</SoS.NoHardpoints>
 	<SoS.NotEnoughCargoSpace>这一升级将使穿梭机的载货能力降至零以下。</SoS.NotEnoughCargoSpace>
 	<SoS.HoverJump>本地航班</SoS.HoverJump>
 	<SoS.HoverJump.Desc>起飞并着陆在同一张地图上，消耗 5 单位燃料</SoS.HoverJump.Desc>
-	<SoS.NotEnoughFuel>燃料不足</SoS.NotEnoughFuel>
-	<SoS.UnderRoof>不能在屋顶下发射</SoS.UnderRoof>
 	<SoS.TargetShuttles>指定攻击区域</SoS.TargetShuttles>
 	<SoS.TargetShuttlesDesc>指定执行射击和雷击任务的穿梭机应该瞄准的位置。</SoS.TargetShuttlesDesc>
-	<SoS.NotEnoughFuelToLaunchShuttle>没有足够的燃料发射穿梭机</SoS.NotEnoughFuelToLaunchShuttle>
-	<SoS.CannotLaunchUnderRoof>穿梭机不能直接在屋顶下发射，你应该将它停在穿梭机停靠港再发射</SoS.CannotLaunchUnderRoof>
 	<SoS.ToggleField>切换船体通道</SoS.ToggleField>
 	<SoS.ToggleFieldDesc>允许单位和车辆通过这个可通行的船体</SoS.ToggleFieldDesc>
 	<SoS.ChooseLocationAndLand>选定地点并着陆</SoS.ChooseLocationAndLand>
+	<!-- Temporary fix for VehFW to show fule cost. This key wa missing, also resulting strin is crooped, so got to have the number at the start so it is not lost -->
 	<VF_VehicleFuelCost>消耗 {0} 单位燃料</VF_VehicleFuelCost>
-	<VF_Fix_CannotLaunchRotated>无法启动 {0} ，需要将其摆正。</VF_Fix_CannotLaunchRotated>
-		<!-- 仅Exp或其它，最新不稳定版已弃用 -->
-	<SoS.ShuttleToggleShield>切换护盾</SoS.ShuttleToggleShield>
-	<SoS.ShuttleToggleShieldDesc>开启或关闭这个护盾</SoS.ShuttleToggleShieldDesc>
-	<SoS.ShuttlesMore>更多穿梭机</SoS.ShuttlesMore>
-	<SoS.HoverJumpDesc>起飞并着陆在同一张地图上，消耗 5 单位燃料</SoS.HoverJumpDesc>
-	
-	<!-- 未归类 -->
+	<!-- Temporary fix for Vehicke Framework message-->
+	<SoS.VF_Fix_CannotLaunchRotated>无法启动 {0} ，需要将其摆正。</SoS.VF_Fix_CannotLaunchRotated>
+	<SoSRestoreHull>修复船体</SoSRestoreHull>
+	<SoSRestoreHullDesc>在残骸处建造新的船体</SoSRestoreHullDesc>
+	<SoSAlreadyRestoring>这个区域已经在修复中了！</SoSAlreadyRestoring>
+	<SoSMustDesignateWreckage>必须指定在报废船体上</SoSMustDesignateWreckage>
+	<SoS.UnDockWarning>警告：在已扩展时移动船舶将收回所有舰船对接装置。</SoS.UnDockWarning>
+	<SoS.ExpelSuperheatedAir>排出过热空气</SoS.ExpelSuperheatedAir>
+	<SoS.ExpelSuperheatedAirDesc>使用这个通风口排出目标房间中的过热空气。该过程会对你的船舶生命支持系统造成损坏(基于房间大小，并且会在耐久度耗尽时将其摧毁)，这些伤害会均摊到多个生命支持系统上(当前每个系统会受到 {0} 伤害)。\n\n房间里的所有不能进行EVA的人都会受到爆炸性失压！</SoS.ExpelSuperheatedAirDesc>
+	<SoS.AirNotSuperheated>没有过热空气</SoS.AirNotSuperheated>
+	<SoS.NoLifeSupport>没有有效的船舶生命支持系统</SoS.NoLifeSupport>
+	<SoS.HeatDepletionLevel>消耗程度：{0}</SoS.HeatDepletionLevel>
+	<SoS.BreakCloakAtHeat>热容上限消耗阈值</SoS.BreakCloakAtHeat>
+	<SoS.BreakCloakAtHeatDesc>当热容网络整体的热容上限消耗至设定百分比时，将关闭隐形装置使其可以恢复。</SoS.BreakCloakAtHeatDesc>
+	<SoS.CloakBrokenAtHeat>热容上限耗尽，隐形装置失效！</SoS.CloakBrokenAtHeat>
+	<SoS.NotEnoughFuelToLaunchShuttle>没有足够的燃料发射穿梭机</SoS.NotEnoughFuelToLaunchShuttle>
+	<SoS.CannotLaunchUnderRoof>穿梭机不能直接在屋顶下发射，你应该将它停在穿梭机合适停靠港再发射</SoS.CannotLaunchUnderRoof>
 	<SoSBreachAirlock>切割气闸</SoSBreachAirlock>
 	<SoSHackAirlock>入侵气闸</SoSHackAirlock>
 	<SoSAttackShip>攻击 {0}</SoSAttackShip>
@@ -482,26 +444,188 @@
 	<SoSHackBridge>入侵舰桥</SoSHackBridge>
 	<SoSCantPlaceCocoon>无法生成滞眠茧！</SoSCantPlaceCocoon>
 	<SoSAlreadyMalnourished>使用者处在营养不良状态</SoSAlreadyMalnourished>
-	<SoSToggleShield>切换护盾</SoSToggleShield>
-	<SoSToggleShieldDesc>激活或关闭这个护盾</SoSToggleShieldDesc>
+	<SoS.ToggleShield>切换护盾</SoS.ToggleShield>
+	<SoS.ToggleShieldDesc>激活或关闭这个护盾</SoS.ToggleShieldDesc>
 	<SoSCantVentCloaked>无法排热：处于隐形状态</SoSCantVentCloaked>
-	<SoSMoreShuttles> 更多穿梭机</SoSMoreShuttles>
 	<SoSCombatEnergy>储能：</SoSCombatEnergy>
-	<SoSCombatNoEnergy>储能：N/A</SoSCombatNoEnergy>
-	<SoSCombatHeat>热容：</SoSCombatHeat>
-	<SoSCombatNoHeat>热容：N/A</SoSCombatNoHeat>
-	<SoSCombatHull>船体结构：</SoSCombatHull>
-	<SoSCombatShields>护盾：</SoSCombatShields>
-	<SoSCombatNone>N/A</SoSCombatNone>
 	<SoSCantSettleSpaceSites>不能在太空定居</SoSCantSettleSpaceSites>
 	<SoSNoPowerSupply>舰船无能源</SoSNoPowerSupply>
 	<SoSCarryToCryptonest>运送至休眠舱</SoSCarryToCryptonest>
 	<SoSConsciousness>意识：{0}</SoSConsciousness>
 	<SoSAIName>AI名字：{0}</SoSAIName>
 	<SoSNoMapObserve>无法扫描并观察这种类型的区域。它的拥有者可能在此处部署了能干扰传感器的技术。</SoSNoMapObserve>
-	<SoSBreathable>可呼吸</SoSBreathable>
+	<SoS.Breathable>可呼吸</SoS.Breathable>
+	<!-- satellite -->
+	<SoS.SatelliteRepair>修复</SoS.SatelliteRepair>
+	<SoS.SatelliteHack>入侵</SoS.SatelliteHack>
 
-	<!-- 地图中抛射物偏移 -->
+	<!-- This scetion and lower were added during major translation upgrade -->
+	<!-- Archotech and endgame stuff -->
+	<SoS.ArchotechIdeoKeep>发现了 {0} 的真相</SoS.ArchotechIdeoKeep>
+	<SoS.ArchotechIdeoNew>发现了一种新的意识形态</SoS.ArchotechIdeoNew>
+	<SoS.ArchotechIdeoKeepFaith>所有人为这一真理欢呼！</SoS.ArchotechIdeoKeepFaith>
+	<SoS.ArchotechIdeoDialogTitle>信仰危机</SoS.ArchotechIdeoDialogTitle>
+
+	<SoS.ArchotechInspectMood>情绪</SoS.ArchotechInspectMood>
+	<SoS.ArchotechInspectPsychicFieldStrength>心灵场强</SoS.ArchotechInspectPsychicFieldStrength>
+	<SoS.ArchotechInspectLinked>连接</SoS.ArchotechInspectLinked>
+	<SoS.ArchotechInspectStored>存储</SoS.ArchotechInspectStored>
+
+	<SoS.AllPillarsEnd>重塑世界</SoS.AllPillarsEnd>
+	<SoS.AllPillarsCancel>再体会一下凡人的生活</SoS.AllPillarsCancel>
+	<SoS.WinGameAlliesAlly>给他们一个选择——加入或维持现状</SoS.WinGameAlliesAlly>
+	<SoS.WinGameAlliesTakeover>武力吞并</SoS.WinGameAlliesTakeover>
+	<SoS.WinGameNeutralAlly>给他们一个选择——加入或维持现状</SoS.WinGameNeutralAlly>
+	<SoS.WinGameNeutralTakeover>武力吞并</SoS.WinGameNeutralTakeover>
+	<SoS.WinGameNeutralKill>抹除存在</SoS.WinGameNeutralKill>
+	<SoS.WinGameEnemiesTakeover>武力吞并</SoS.WinGameEnemiesTakeover>
+	<SoS.WinGameEnemiesKill>抹除存在</SoS.WinGameEnemiesKill>
+	<SoS.ArchotechGiftQuestDesc>来自 {0} 的礼物</SoS.ArchotechGiftQuestDesc>
+
+	<!-- Dev commands -->
+	<SoS.Dev.LaunchToSpecificTileLabel>调试：发射到特定地格</SoS.Dev.LaunchToSpecificTileLabel>
+	<SoS.Dev.LaunchToSpecificTileDesc>选择一个大地图地块与船舶关联。根据所选地块的纬度，太阳能板会相应的提高或降低发电效率。任务和文化DLC的事件点将在选定的地块附近生成。</SoS.Dev.LaunchToSpecificTileDesc>
+	<SoS.Dev.ShipBridgeHackLabel>调试：入侵舰桥</SoS.Dev.ShipBridgeHackLabel>
+	<SoS.Dev.ShipBridgeHackDesc>立刻控制这艘船</SoS.Dev.ShipBridgeHackDesc>
+
+	<SoS.Dev.StartEnemyBoardingLabel>调试：开始敌人跳帮</SoS.Dev.StartEnemyBoardingLabel>
+	<SoS.Dev.StartShipBattle>调试：开始舰船战</SoS.Dev.StartShipBattle>
+	<SoS.Dev.StartRandomFleetBattle>调试：开始随机舰队战</SoS.Dev.StartRandomFleetBattle>
+	<SoS.Dev.LoadShipFromDatabase>调试：从数据库加载舰船</SoS.Dev.LoadShipFromDatabase>
+	<SoS.Dev.LoadWreckFromDatabase>调试：从数据库加载残骸</SoS.Dev.LoadWreckFromDatabase>
+	<SoS.SpawnHologramLabel>调试：立刻生成微械凝胶体</SoS.SpawnHologramLabel>
+	<SoS.Dev.ShipPositionReset>调试：重置位置</SoS.Dev.ShipPositionReset>
+	<SoS.Dev.ShipPositionResetDesc>重置舰船位置为默认值。</SoS.Dev.ShipPositionResetDesc>
+	<SoS.Dev.RemoveShip>调试：移除舰船</SoS.Dev.RemoveShip>
+	<SoS.Dev.RemoveShipDesc>移除一艘出了bug的舰船和它所在的地图</SoS.Dev.RemoveShipDesc>
+	<SoS.DebugMode.Ship>舰船 {0}</SoS.DebugMode.Ship>
+	<SoS.DebugMode.Wreck>残骸 {0}</SoS.DebugMode.Wreck>
+
+	<SoS.ToggleSlowLabel>切换减速时间</SoS.ToggleSlowLabel>
+
+	<!-- Shuttles -->
+	<SoS.ShipMapMission.Intercept>拦截</SoS.ShipMapMission.Intercept>
+	<SoS.ShipMapMission.Strafe>射击</SoS.ShipMapMission.Strafe>
+	<SoS.ShipMapMission.Bomb>雷击</SoS.ShipMapMission.Bomb>
+	<SoS.ShipMapMission.Board>跳帮</SoS.ShipMapMission.Board>
+	<SoS.ShipMapMission.Return>返回</SoS.ShipMapMission.Return>
+	<!-- This is used when telling what shuttle is doing now. Like Shuttle 1 (Bombing) -->
+	<SoS.ShipMapMission.Intercepting>正在拦截</SoS.ShipMapMission.Intercepting>
+	<SoS.ShipMapMission.Strafing>正在射击</SoS.ShipMapMission.Strafing>
+	<SoS.ShipMapMission.Bombing>正在雷击</SoS.ShipMapMission.Bombing>
+	<SoS.ShipMapMission.Boarding>正在跳帮</SoS.ShipMapMission.Boarding>
+	<SoS.ShipMapMission.Retreating>正在返回</SoS.ShipMapMission.Retreating>
+
+	<SoS.ShipCloakingInactive><![CDATA[<color=red>处于真空环境，热容网络未连接</color>]]></SoS.ShipCloakingInactive>
+	<SoS.ShipSensorObserving>正在观察 {0}</SoS.ShipSensorObserving>
+
+	<SoS.LoadedTorpedoHE>{0} 高爆鱼雷</SoS.LoadedTorpedoHE>
+	<SoS.LoadedTorpedoEMP>{0} EMP鱼雷</SoS.LoadedTorpedoEMP>
+	<SoS.LoadedTorpedoAM>{0} 反粒子鱼雷</SoS.LoadedTorpedoAM>
+
+	<!-- Starship bow quest -->
+	<SoS.AIPersuade>劝说其活下去</SoS.AIPersuade>
+	<SoS.BlackBoxHack>入侵</SoS.BlackBoxHack>
+	<SoS.ReactorDisableSuccess>反应堆关闭成功！</SoS.ReactorDisableSuccess>
+	<SoS.DoorOpenSuccess>门已经成功打开！</SoS.DoorOpenSuccess>
+	<SoS.BlackBoxHackFailed>入侵失败</SoS.BlackBoxHackFailed>
+	<SoS.BlackBoxHackFailedCritical>严重故障 - 反应堆进入超临界状态！</SoS.BlackBoxHackFailedCritical>
+
+	<!-- Ship buildings and hardware -->
+	<SoS.HolodeckOnline>现行程序：{0}</SoS.HolodeckOnline>
+	<SoS.HolodeckOffline>离线</SoS.HolodeckOffline>
+
+	<SoS.FuelInfo>{0}：{1} / {2}</SoS.FuelInfo>
+	<SoS.FuelAvailableTime>{0}</SoS.FuelAvailableTime>
+	<SoS.FuelEmptyInfo>{0} ({1}x {2})</SoS.FuelEmptyInfo>
+	<SoS.ConfiguredTargetFuelLevel>目标：{0}</SoS.ConfiguredTargetFuelLevel>
+	<SoS.Dev.ShipIndexAndPath>舰船索引：{0} / 核心路径：{1}</SoS.Dev.ShipIndexAndPath>
+	<SoS.Dev.ShipIndex>舰船索引：{0}</SoS.Dev.ShipIndex>
+	<!-- States that selected bridge is primary. Caps for better visibility is ok on debug, not user text -->
+	<SoS.Dev.IsPrimaryCore>*主核心*</SoS.Dev.IsPrimaryCore>
+
+	<SoS.Dev.HeatDetailed>Grid: {0} / Ratio: {1} Depletion Ratio: {2} / Temp: {3}</SoS.Dev.HeatDetailed>
+	<SoS.HeatTurretEnergyNull>开火用能量：不可用</SoS.HeatTurretEnergyNull>
+	<SoS.HeatTurretEnergy>开火用能量：{0} Wd</SoS.HeatTurretEnergy>
+	<SoS.DecreaseShieldRadius10Label>- 10</SoS.DecreaseShieldRadius10Label>
+	<SoS.DecreaseShieldRadius1Label>- 1</SoS.DecreaseShieldRadius1Label>
+	<SoS.IncreaseShieldRadius1Label>+ 1</SoS.IncreaseShieldRadius1Label>
+	<SoS.IncreaseShieldRadius10Label>+ 10</SoS.IncreaseShieldRadius10Label>
+
+	<SoS.EnergyShieldStatusLabel>护盾</SoS.EnergyShieldStatusLabel>
+	<SoS.EnergyShieldStatusDesc>{0} / {1}</SoS.EnergyShieldStatusDesc>
+
+	<!-- Ship combat stuff -->
+	<SoS.Combat.MapShipInfo>SOS2 {0} | 舰船：{1} | 房间：{2}</SoS.Combat.MapShipInfo>
+
+	<SoS.Combat.ShipName>名字：{0}</SoS.Combat.ShipName>
+	<SoS.Combat.ShipInfo>地图：{0}\n部件：{1}\n派系：{2}\n建筑：{3}\n重量：{4}\n推重比：{5}\n区域：{6}\n核心：{7}\n核心：{8}\n最大路径：{9}</SoS.Combat.ShipInfo>
+	<SoS.Combat.PlayerShuttleInfo>{0} ({1})</SoS.Combat.PlayerShuttleInfo>
+	<SoS.Combat.PlayerShuttleMore>({0} 更多穿梭机)</SoS.Combat.PlayerShuttleMore>
+	<SoS.Combat.PlayerShuttleInfo2>{0} ({1})</SoS.Combat.PlayerShuttleInfo2>
+	<SoS.Combat.ShuttleInfo>{0} ({1})</SoS.Combat.ShuttleInfo>
+	<SoS.Combat.EnemyShuttlesCount>({0} 更多穿梭机)</SoS.Combat.EnemyShuttlesCount>
+	<SoS.Combat.Energy>储能：{0} / {1}</SoS.Combat.Energy>
+	<SoS.Combat.NoEnergy>储能：N/A</SoS.Combat.NoEnergy>
+	<SoS.Combat.Heat>蓄热：{0} / {1}</SoS.Combat.Heat>
+	<SoS.Combat.NoHeat>蓄热：N/A</SoS.Combat.NoHeat>
+	<SoS.Combat.Hull>耐久：{0}</SoS.Combat.Hull>
+	<SoS.Combat.Shields>护盾：{0}</SoS.Combat.Shields>
+	<SoS.NA>N/A</SoS.NA>
+
+	<!-- Scenarios -->
+	<SoS.LoadShip.DiscardLog>丢弃日志：{0}</SoS.LoadShip.DiscardLog>
+	<SoS.LoadShip.DiscardTales>丢弃故事：{0}</SoS.LoadShip.DiscardTales>
+	<SoS.LoadShip.ScenPartDesc>载入舰船 {0}\n这将禁用许多情景类选项，例如更改起始人物。</SoS.LoadShip.ScenPartDesc>
+
+	<SoS.SpaceStart.StartOn>开始于：{0}</SoS.SpaceStart.StartOn>
+	<SoS.SpaceStart.StartOnShip>开始于：舰船</SoS.SpaceStart.StartOnShip>
+	<SoS.SpaceStart.StartOnStation>开始于：空间站</SoS.SpaceStart.StartOnStation>
+
+	<SoS.SpaceStart.DamageShip>受损的船：{0}</SoS.SpaceStart.DamageShip>
+	<SoS.SpaceStart.DamageShipTrue>受损的船：启用</SoS.SpaceStart.DamageShipTrue>
+	<SoS.SpaceStart.DamageShipFalse>受损的船：禁用</SoS.SpaceStart.DamageShipFalse>
+
+	<SoS.True>启用</SoS.True>
+	<SoS.False>禁用</SoS.False>
+
+	<SoS.ShipStartFlags.None>无</SoS.ShipStartFlags.None>
+	<SoS.ShipStartFlags.Ship>舰船</SoS.ShipStartFlags.Ship>
+	<SoS.ShipStartFlags.Station>空间站</SoS.ShipStartFlags.Station>
+	<SoS.ShipStartFlags.LoadShip>载入舰船</SoS.ShipStartFlags.LoadShip>
+
+	<SoS.Error.VersionNotMatch>SOS2 {0} 至少需要 边缘世界 1.{1}.{2} 或更高版本！</SoS.Error.VersionNotMatch>
+	<SoS.Error.UpdateYourGame>更新你的游戏！</SoS.Error.UpdateYourGame>
+	<SoS.Error.NoHarmony>错误：SOS2 需要前置模组 Harmony ！下载并启用它!</SoS.Error.NoHarmony>
+	<SoS.Error.NoHarmonyDesc>它必须加载在模组列表的顶部，比核心更前边的最顶上！</SoS.Error.NoHarmonyDesc>
+	<SoS.Error.NoVehicleFramework>错误：SOS2 需要前置模组 Vehicle Framework ！下载并启用它!</SoS.Error.NoVehicleFramework>
+	<SoS.Error.NoVehicleFrameworkDesc>必须将其放在SOS2之前加载！</SoS.Error.NoVehicleFrameworkDesc>
+	<SoS.Error.AddOnHasOldVersionShip>SOS2: 模组“{0}”包含了SpaceShipDef: “{1}"。该舰船可在随机舰船事件中生成，但有个问题是它是用旧版CreationKit工具保存的！</SoS.Error.AddOnHasOldVersionShip>
+
+	<SoS.CommunicationRefused>这艘船拒绝了你的呼叫</SoS.CommunicationRefused>
+
+	<SoS.CommunicationNoResponse>没有回应</SoS.CommunicationNoResponse>
+
+	<SoS.VehicleHeatStored>蓄热：{0} / {1}</SoS.VehicleHeatStored>
+	<SoS.VehicleHeatCompsCount>; 组件：{0}</SoS.VehicleHeatCompsCount>
+	<SoS.VehicleHeatComps>组件：{0}</SoS.VehicleHeatComps>
+
+	<SoS.Dev.OrbitingShipInfo>State: {0} Altitude: {1}\nRadius: {2} Theta: {3} Phi: {4}\nDrawPos: {5}\noriginDrawPos: {6}\ntargetDrawPos: {7}</SoS.Dev.OrbitingShipInfo>
+
+	<!-- Mechanite fire -->
+	<SoS.MechanitesOn>有机械体在：{0}</SoS.MechanitesOn>
+	<SoS.MechanitesDisassembling>正在拆解机械体</SoS.MechanitesDisassembling>
+	<SoS.MechaniteSizeLower>机械体体型：{0}</SoS.MechaniteSizeLower>
+
+	<!-- TranslatorFormattedStringExtensions.Translate -->
+	<!-- Locations/world objects -->
+	<SoS.Location.ObservedArea>观察区域 {0}</SoS.Location.ObservedArea>
+	<SoS.Location.ShipFleet>舰队 {0}</SoS.Location.ShipFleet>
+	<!-- 0 is ship name, 1 is map ID -->
+	<SoS.Location.ShipNameAndMapID>{0} {1}</SoS.Location.ShipNameAndMapID>
+	<SoS.Location.WreckageNumbered>{0} 的残骸</SoS.Location.WreckageNumbered>
+
+	<!-- Projectiles missing map-->
 	<SoS.ActorPlayer>玩家</SoS.ActorPlayer>
 	<SoS.ActorEnemy>敌方</SoS.ActorEnemy>
 	<SoS.DodgeChanceAlert>{0} 的闪避几率：{1}</SoS.DodgeChanceAlert>
@@ -513,8 +637,7 @@
 闪避几率基于目标舰船的推重比进行计算，理论上推重比越高的舰船闪避几率越大。操纵领航员控制台的单位的智识技能可以一定程度上增加闪避几率。操纵战术控制台的单位的射击技能可以一定程度上降低敌舰的闪避几率。
 地图上那些推重比最低最慢的舰船也会被考虑进去。
 成功的闪避意味着炮弹会严重偏离瞄准点，甚至不会进入目标地图。</SoS.DodgeChanceExplanation>
-
-	<!-- 闪避机制 -->
+	<!-- Dodge mechanics -->
 	<SoS.DodgeNoEnginePower>无法规避，无可工作的推进器或地图上有残骸。需要检查推进器状态和清理所有残骸。</SoS.DodgeNoEnginePower>
 	<SoS.DodgeNoRCSOnShip>舰船 {0} 需要RCS推进器来执行规避命令。</SoS.DodgeNoRCSOnShip>
 	<SoS.DodgeOnCooldown>RCS推进器冷却中。下一次规避动作需要等待 {0} 秒。</SoS.DodgeOnCooldown>
@@ -522,5 +645,33 @@
 	<SoS.DodgeLeftDesc>使用舰船右侧的RCS推进器将舰船向左推进以执行规避动作。</SoS.DodgeLeftDesc>
 	<SoS.DodgeRight>向右闪避</SoS.DodgeRight>
 	<SoS.DodgeRightDesc>使用舰船右侧的RCS推进器将舰船向左推进以执行规避动作。</SoS.DodgeRightDesc>
-
+	
+	<!-- obsolete/unused
+	<SoS.PirateTradeEmpire>Our act of piracy against the Empire has not gone unnoticed!</SoS.PirateTradeEmpire>
+	<SoS.MoveFailPawns>Player pawn in {0}, ship move aborted.</SoS.MoveFailPawns>
+	<SoS.TargetEnd>Stop targeting</SoS.TargetEnd>
+	<SoS.TargetEndDesc>Stop targeting your current target with your weapons.</SoS.TargetEndDesc>
+	<ShipTorpedoLoaded>Loaded: {0}</ShipTorpedoLoaded>
+	<MustNotPlaceOnShipPart>Space occupied.</MustNotPlaceOnShipPart>
+	<MustPlaceInsideShip>Must place inside a fully enclosed ship hull.</MustPlaceInsideShip>
+	<MustPlaceNearSpinalMountPort>Must place adjacent to a spinal-mount module</MustPlaceNearSpinalMountPort>
+	<MustPlaceInsideShipFramework>Must place in a room bordered only by ship parts.</MustPlaceInsideShipFramework>
+	<MeditationFocusPerPillarAbstract>{1} per nearby archotech pillar (max {0})</MeditationFocusPerPillarAbstract>
+	<MeditationFocusPerPillar>{2} per nearby archotech pillar ({0} / {1})</MeditationFocusPerPillar>
+	<SporeNeedsName>Your archotech spore requests that you grant it a name.</SporeNeedsName>
+	<NoSalvageBays>No salvage bays available</NoSalvageBays>
+	<SalvageShip>Salvage enemy ship</SalvageShip>
+	<SalvageShipCancel>Abandon enemy ship</SalvageShipCancel>
+	<SalvageShipCancelDesc>Leave the enemy ship behind without salvaging it. Do not do this if any of your crew are still aboard.</SalvageShipCancelDesc>
+	<ShipWallLightDisco>Disco Mode</ShipWallLightDisco>
+	<ShipWallLightDiscoDesc>Set this light to cycle through the color spectrum</ShipWallLightDiscoDesc>
+	<SoSHologramDrug>Simulate Drug</SoSHologramDrug>
+	<SoSHologramDrugDesc>Affect this mind with a simulated version of an organic drug.</SoSHologramDrugDesc>
+	<SoSHologramDrugTaken>Effects of {1} applied to {0}</SoSHologramDrugTaken>
+	<SoSHologramRelay>Relay hologram</SoSHologramRelay>
+	<SoSHologramRelayDesc>Temporarily transfer a hologram to this location, even across great distances</SoSHologramRelayDesc>
+	<SoSHologramRelayStop>Stop relaying hologram</SoSHologramRelayStop>
+	<SoSHologramRelayStopDesc>Return {0} to the hologram's original map</SoSHologramRelayStopDesc>
+	<SoSHologramApparel>Wear holographic apparel</SoSHologramApparel>
+	<SoSHologramApparelDesc>Simulate apparel on this hologram</SoSHologramApparelDesc> -->
 </LanguageData>

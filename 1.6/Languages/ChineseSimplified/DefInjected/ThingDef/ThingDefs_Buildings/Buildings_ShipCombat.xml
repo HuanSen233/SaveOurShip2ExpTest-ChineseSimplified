@@ -20,9 +20,9 @@
     <ShipHeatBankLarge.description>一个大号的用来存储舰船产生的多余热量的冷却剂罐。当不处在真空环境下时，会将热量缓慢的散出到所在房间。如果蓄热接近最大热容量则会受损，并在损毁时释放其中存储的热量。\n\n热容量：4000 Hu/秒\n自散热：6 Hu/秒</ShipHeatBankLarge.description>
     
     <ShipPurgePort.label>船舶紧急排热端口</ShipPurgePort.label>
-    <ShipPurgePort.description>一种将热量引导至低熔点金属（如银）的系统。将携带热量的熔融银喷射入太空是一种昂贵，但可以迅速清除热容系统内蓄热的方式。护盾将会在排放过程中关闭。</ShipPurgePort.description>
+    <ShipPurgePort.description>一种将热量引导至低熔点金属（如银）的系统。将携带热量的熔融银喷射入太空是一种昂贵，但可以迅速清除热容系统内蓄热的方式。护盾将会在排放过程中关闭。\n\n注满燃料的排热端口可将舰船的热容网络中的20000单位蓄热排出。</ShipPurgePort.description>
     <ShipPurgePortLarge.label>大型船舶紧急排热端口</ShipPurgePortLarge.label>
-    <ShipPurgePortLarge.description>一种能快速将热量引导至低熔点金属（如银）的系统。将携带热量的熔融银喷射入太空是一种昂贵，但可以迅速清除热容系统内蓄热的方式。护盾将会在排放过程中关闭。</ShipPurgePortLarge.description>
+    <ShipPurgePortLarge.description>一种能快速将热量引导至低熔点金属（如银）的系统。将携带热量的熔融银喷射入太空是一种昂贵，但可以迅速清除热容系统内蓄热的方式。护盾将会在排放过程中关闭。\n\n注满燃料的大型排热端口可将舰船的热容网络中的100000单位蓄热排出。</ShipPurgePortLarge.description>
     <!-- 机炮 -->
     <ShipTurret_ACI.label>舰载机炮</ShipTurret_ACI.label>
     <ShipTurret_ACI.description>一门能快速加速铀弹至极高速度的飞船炮塔。需要弹药，但射击时不消耗能量，且只会产生很少的热量。仅适用于近距离作战。能够用于地面舰船防御。\n\n可以安全的放置在房间内，因为他会突出在舰船的顶部。\n可以设置为点防御模式用来拦截鱼雷和穿梭机，而不是直接攻击敌舰。\n必须通过热容网络连接到领航员控制台、战术控制台或船舶核心。\n需要足够的储能和热容才能正常运作。</ShipTurret_ACI.description>
@@ -109,9 +109,9 @@
     <Proj_ShipTurretKinetic_Large.label>大型轨道炮弹</Proj_ShipTurretKinetic_Large.label>
     <!-- 脊峰炮 -->
     <ShipSpinalEmitter.label>脊峰电容器</ShipSpinalEmitter.label>
-    <ShipSpinalEmitter.description>脊峰武器的第一部分。连接一个或多个脊峰放大器，然后在末端安装一个脊峰炮口以完成组装。</ShipSpinalEmitter.description>
-    <ShipSpinalAmplifier.label>脊峰放大器</ShipSpinalAmplifier.label>
-    <ShipSpinalAmplifier.description>脊峰武器的中间部分。将一个或多个放大器连接到电容器上，然后在末端安装一个脊峰炮口以完成组装。\n\n将基础伤害提高25%，但同时也会增加相同百分比的能耗和产热。</ShipSpinalAmplifier.description>
+    <ShipSpinalEmitter.description>脊峰武器的第一部分。连接一个或多个脊峰聚能器，然后在末端安装一个脊峰炮口以完成组装。</ShipSpinalEmitter.description>
+    <ShipSpinalAmplifier.label>脊峰聚能器</ShipSpinalAmplifier.label>
+    <ShipSpinalAmplifier.description>脊峰武器的中间部分。将一个或多个聚能器连接到电容器上，然后在末端安装一个脊峰炮口以完成组装。\n\n将基础伤害提高25%，但同时也会增加相同百分比的能耗和产热。</ShipSpinalAmplifier.description>
     
     <ShipSpinalBarrelLaser.label>脊峰炮：激光</ShipSpinalBarrelLaser.label>
     <ShipSpinalBarrelLaser.description>脊峰武器的最终部分。\n\n这个部分应该安装在飞船外部，除非你想给自己的船开个新洞。\n必须通过热容网络连接到领航员控制台、战术控制台或船舶核心。\n需要足够的储能和热容才能正常运作。</ShipSpinalBarrelLaser.description>
