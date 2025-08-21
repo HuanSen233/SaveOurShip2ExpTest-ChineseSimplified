@@ -415,8 +415,6 @@
 	<SoS.ChooseLocationAndLand>选定地点并着陆</SoS.ChooseLocationAndLand>
 	<!-- Temporary fix for VehFW to show fule cost. This key wa missing, also resulting strin is crooped, so got to have the number at the start so it is not lost -->
 	<VF_VehicleFuelCost>消耗 {0} 单位燃料</VF_VehicleFuelCost>
-	<!-- Temporary fix for Vehicke Framework message-->
-	<SoS.VF_Fix_CannotLaunchRotated>无法启动 {0} ，需要将其摆正。</SoS.VF_Fix_CannotLaunchRotated>
 	<SoSRestoreHull>修复船体</SoSRestoreHull>
 	<SoSRestoreHullDesc>在残骸处建造新的船体</SoSRestoreHullDesc>
 	<SoSAlreadyRestoring>这个区域已经在修复中了！</SoSAlreadyRestoring>
