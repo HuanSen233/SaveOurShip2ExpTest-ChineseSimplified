@@ -32,7 +32,7 @@
     <SoS2ShuttleUpgradeTree.nodes.11.label>船载自动紧急医疗机</SoS2ShuttleUpgradeTree.nodes.11.label>
     <SoS2ShuttleUpgradeTree.nodes.11.description>在穿梭机上安装自动化的急救系统及其机械臂。这些系统会快速的为乘员包扎流血的伤口，但治疗质量并不高。\n&lt;color=#bb8f04&gt;-250 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.11.description>
     <SoS2ShuttleUpgradeTree.nodes.12.label>隐形装置</SoS2ShuttleUpgradeTree.nodes.12.label>
-    <SoS2ShuttleUpgradeTree.nodes.12.description>安装一个小型隐形装置来提高在战斗中的闪避几率。它自带的散热器那不多的热容量也会分配给护盾。\n&lt;color=#bb8f04&gt;+25% 太空战闪避几率，+50 热容量，-500 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.12.description>
+    <SoS2ShuttleUpgradeTree.nodes.12.description>安装一个小型隐形装置来提高在战斗中的闪避几率。它自带的散热器那不多的热容量也会分配给护盾。在启用奥德赛DLC时，该装置可使穿梭机具备信号干扰器的特性。\n&lt;color=#bb8f04&gt;+25% 太空战闪避几率，+50 热容量，-500 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.12.description>
     <SoS2ShuttleUpgradeTree.nodes.13.label>辅助散热器</SoS2ShuttleUpgradeTree.nodes.13.label>
     <SoS2ShuttleUpgradeTree.nodes.13.description>安装一个辅助散热器并将其分配给护盾。\n&lt;color=#bb8f04&gt;+200 热容量，-100 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.13.description>
     <SoS2ShuttleUpgradeTree.nodes.14.label>超凡科技断层空间</SoS2ShuttleUpgradeTree.nodes.14.label>
