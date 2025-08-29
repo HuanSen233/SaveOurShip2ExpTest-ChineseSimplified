@@ -277,12 +277,4 @@
     <Holodeck_AI.generalRules.rulesStrings.3>subject_story->领导了所谓的塔耳塔洛斯计划，该计划旨在让犯罪分子处于可人为创作出的无尽的痛苦状态</Holodeck_AI.generalRules.rulesStrings.3>
     <Holodeck_AI.generalRules.rulesStrings.4>subject_gerund->强迫人格AI用于娱乐目的</Holodeck_AI.generalRules.rulesStrings.4>
 
-    <ResearchShipDebugItems.label>调试用物品</ResearchShipDebugItems.label>
-    <ResearchShipDebugItems.description>调试 - 能使你的殖民者在基本的计算机辅助下驾驶一艘船。</ResearchShipDebugItems.description>
-    <ResearchShipDebugItems.generalRules.rulesStrings.0>subject->船舶导航</ResearchShipDebugItems.generalRules.rulesStrings.0>
-    <ResearchShipDebugItems.generalRules.rulesStrings.1>subject_story->在一次飞船意外着陆中幸存下来，且决定下次要再做一次</ResearchShipDebugItems.generalRules.rulesStrings.1>
-    <ResearchShipDebugItems.generalRules.rulesStrings.2>subject_story->超控舰船的目标计算机，用一枚鱼雷精确地摧毁敌方的巨型建筑</ResearchShipDebugItems.generalRules.rulesStrings.2>
-    <ResearchShipDebugItems.generalRules.rulesStrings.3>subject_story->谨慎规画了一条穿过伊什瓦拉星球那致密的碎片场的航线</ResearchShipDebugItems.generalRules.rulesStrings.3>
-    <ResearchShipDebugItems.generalRules.rulesStrings.4>subject_gerund->手动驾驶飞船</ResearchShipDebugItems.generalRules.rulesStrings.4>
-
 </LanguageData>
