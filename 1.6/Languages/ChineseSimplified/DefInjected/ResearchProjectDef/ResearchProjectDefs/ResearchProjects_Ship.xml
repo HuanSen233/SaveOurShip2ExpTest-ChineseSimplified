@@ -62,6 +62,8 @@
 
     <ShipSpaceSuits.label>舱外活动装备</ShipSpaceSuits.label>
     <ShipSpaceSuits.description>内置有自给自足的生命支持系统，使殖民者能够在外太空中生存。</ShipSpaceSuits.description>
+    <ShipSpaceSuits.discoveredLetterTitle>关于：失压与缺氧</ShipSpaceSuits.discoveredLetterTitle>
+    <ShipSpaceSuits.discoveredLetterText>你现在解锁了制造EVA套装的技术。这能为接下来要进入太空的殖民者提供巨大帮助，帮他们抵御暴露在真空环境中的危险：失压与缺氧。失压伤是由于人体暴露在低压环境下会不断受伤，并最终导致死亡。缺氧是由于真空环境中没有可呼吸气体会导致逐渐窒息，最终死亡。EVA套装还有特定基因和植入物，以及带有生命支持系统的气密环境都可以保护殖民者不受危险，使你免受太空旅行中的这两种威胁。</ShipSpaceSuits.discoveredLetterText>
     <ShipSpaceSuits.generalRules.rulesStrings.0>subject->舱外活动装备</ShipSpaceSuits.generalRules.rulesStrings.0>
     <ShipSpaceSuits.generalRules.rulesStrings.1>subject_story->费了很大劲才发现人类眼球对真空的反应</ShipSpaceSuits.generalRules.rulesStrings.1>
     <ShipSpaceSuits.generalRules.rulesStrings.2>subject_story->带领着一个游牧小行星矿工部落，他们将自己的太空服奉为祖传之宝。</ShipSpaceSuits.generalRules.rulesStrings.2>
