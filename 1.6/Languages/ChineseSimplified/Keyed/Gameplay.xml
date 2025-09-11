@@ -324,6 +324,8 @@
 	<SoS.ResurrectBrain>生成替代纳米机械</SoS.ResurrectBrain>
 	<SoS.ResurrectBrainDesc>使用复活机械液为这个意识快速生成一个新的微械凝胶体</SoS.ResurrectBrainDesc>
 	<SoS.CantScanFormgel>微械凝胶体不适合做扫描工作</SoS.CantScanFormgel>
+	<!-- Archotech -->
+	<SoS.Archotech.ResearchTabName>超凡科技</SoS.Archotech.ResearchTabName>
 	<SoS.ArchoGift>解锁超凡科技礼物：</SoS.ArchoGift>
 	<SoS.ArchotechGoodwillPlus>增加心灵敏感度（+10，消耗 {0} 心灵场强度）</SoS.ArchotechGoodwillPlus>
 	<SoS.ArchotechGoodwillMinus>降低心灵敏感度（-10，消耗 {0} 心灵场强度）</SoS.ArchotechGoodwillMinus>
