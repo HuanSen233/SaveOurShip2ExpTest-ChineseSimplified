@@ -638,13 +638,13 @@
 地图上那些推重比最低最慢的舰船也会被考虑进去。
 成功的闪避意味着炮弹会严重偏离瞄准点，甚至不会进入目标地图。</SoS.DodgeChanceExplanation>
 	<!-- Dodge mechanics -->
-	<SoS.DodgeNoEnginePower>无法规避，无可工作的推进器或地图上有残骸。需要检查推进器状态和清理所有残骸。</SoS.DodgeNoEnginePower>
-	<SoS.DodgeNoRCSOnShip>舰船 {0} 需要RCS推进器来执行规避命令。</SoS.DodgeNoRCSOnShip>
-	<SoS.DodgeOnCooldown>RCS推进器冷却中。下一次规避动作需要等待 {0} 秒。</SoS.DodgeOnCooldown>
+	<SoS.DodgeNoEnginePower>无法闪避，无可工作的推进器或地图上有残骸。需要检查推进器状态和清理所有残骸。</SoS.DodgeNoEnginePower>
+	<SoS.DodgeNoRCSOnShip>舰船 {0} 需要RCS推进器来执行闪避命令。</SoS.DodgeNoRCSOnShip>
+	<SoS.DodgeOnCooldown>RCS推进器冷却中。下一次闪避需要等待 {0} 秒。</SoS.DodgeOnCooldown>
 	<SoS.DodgeLeft>向左闪避</SoS.DodgeLeft>
-	<SoS.DodgeLeftDesc>使用舰船右侧的RCS推进器将舰船向左推进以执行规避动作。</SoS.DodgeLeftDesc>
+	<SoS.DodgeLeftDesc>使用舰船右舷的RCS推进器将舰船向左推进以执行规避动作。</SoS.DodgeLeftDesc>
 	<SoS.DodgeRight>向右闪避</SoS.DodgeRight>
-	<SoS.DodgeRightDesc>使用舰船右侧的RCS推进器将舰船向左推进以执行规避动作。</SoS.DodgeRightDesc>
+	<SoS.DodgeRightDesc>使用舰船左舷的RCS推进器将舰船向左推进以执行规避动作。</SoS.DodgeRightDesc>
 	
 	<!-- obsolete/unused
 	<SoS.PirateTradeEmpire>Our act of piracy against the Empire has not gone unnoticed!</SoS.PirateTradeEmpire>
