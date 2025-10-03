@@ -4,7 +4,7 @@
     <ResearchTabShip.generalTitle>[Save Our Ship 2] 船舶研究项目</ResearchTabShip.generalTitle>
     <ResearchTabShip.generalDescription>解锁飞船组件和其它航天技术。</ResearchTabShip.generalDescription>
 
-    <ResearchTabArchotech.label>Archotech</ResearchTabArchotech.label><!-- 因为SOS2隐藏科研Tab读的label而非defName，所以这里不能汉化，除非你有解决方法 -->
+    <!--<ResearchTabArchotech.label>Archotech</ResearchTabArchotech.label>--><!-- 因为SOS2隐藏科研Tab读的label而非defName，所以这里不能汉化，除非你有解决方法 -->
     <ResearchTabArchotech.generalTitle>[Save Our Ship 2] 超凡科技研究项目</ResearchTabArchotech.generalTitle>
     <ResearchTabArchotech.generalDescription>[任何极致科技都不能真正地看清我]</ResearchTabArchotech.generalDescription>
 
