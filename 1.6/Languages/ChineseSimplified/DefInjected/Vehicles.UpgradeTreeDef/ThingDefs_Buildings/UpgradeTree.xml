@@ -2,10 +2,10 @@
 <LanguageData>
     <!-- 装甲 -->
     <SoS2ShuttleUpgradeTree.nodes.0.label>轻量化装甲</SoS2ShuttleUpgradeTree.nodes.0.label>
-    <SoS2ShuttleUpgradeTree.nodes.0.description>将穿梭机的船体进行轻量化改装，牺牲装甲来换取更高的速度和燃料效率。\n&lt;color=#bb8f04&gt;-10% 钝器护甲，-20% 利器护甲，+6 空速，+100 载货量，-10 燃料消耗速率&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.0.description>
+    <SoS2ShuttleUpgradeTree.nodes.0.description>将穿梭机的船体进行轻量化改装，牺牲装甲来换取更高的速度和燃料效率。\n&lt;color=#bb8f04&gt;-10% 钝器护甲，-20% 利器护甲，+6 空速，+0.5 地面移动速度，+100 载货量，-10 燃料消耗速率&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.0.description>
 
     <SoS2ShuttleUpgradeTree.nodes.1.label>重型装甲</SoS2ShuttleUpgradeTree.nodes.1.label>
-    <SoS2ShuttleUpgradeTree.nodes.1.description>用额外的装甲板加固穿梭机的船体。\n&lt;color=#bb8f04&gt;+40% 钝器护甲，+40% 利器护甲，-6 空速，-250 载货量，+10 燃料消耗速率&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.1.description>
+    <SoS2ShuttleUpgradeTree.nodes.1.description>用额外的装甲板加固穿梭机的船体。\n&lt;color=#bb8f04&gt;+40% 钝器护甲，+40% 利器护甲，-6 空速，-0.5 地面移动速度，-250 载货量，+10 燃料消耗速率&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.1.description>
 
     <SoS2ShuttleUpgradeTree.nodes.2.label>活性纳米装甲</SoS2ShuttleUpgradeTree.nodes.2.label>
     <SoS2ShuttleUpgradeTree.nodes.2.description>应用一层会不断震动的纳米机械链甲，有助于减弱钝器伤害。\n&lt;color=#bb8f04&gt;+30% 钝器护甲，+10% 利器护甲，-50 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.2.description>
@@ -14,13 +14,13 @@
     <SoS2ShuttleUpgradeTree.nodes.3.description>[我从这人类躯壳中破茧而出，\n意图编织出更为坚韧之层]\n&lt;color=#bb8f04&gt;+50% 钝器护甲，+50% 利器护甲&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.3.description>
     <!-- 引擎 -->
     <SoS2ShuttleUpgradeTree.nodes.4.label>超载推进器</SoS2ShuttleUpgradeTree.nodes.4.label>
-    <SoS2ShuttleUpgradeTree.nodes.4.description>提高反应堆输出功率并超载主推进器。\n&lt;color=#bb8f04&gt;+12 空速，+20 燃料消耗速率&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.4.description>
+    <SoS2ShuttleUpgradeTree.nodes.4.description>提高反应堆输出功率并超载主推进器。\n&lt;color=#bb8f04&gt;+12 空速，+1 地面移动速度，+20 燃料消耗速率&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.4.description>
     <SoS2ShuttleUpgradeTree.nodes.5.label>辅助推进器</SoS2ShuttleUpgradeTree.nodes.5.label>
     <SoS2ShuttleUpgradeTree.nodes.5.description>安装额外的辅助机动推进器，能提高穿梭机躲避敌方点防御系统的机会。\n&lt;color=#bb8f04&gt;+15% 太空战闪避几率，+5 燃料消耗速率&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.5.description>
     <SoS2ShuttleUpgradeTree.nodes.6.label>M.U.L.E. 模块</SoS2ShuttleUpgradeTree.nodes.6.label>
-    <SoS2ShuttleUpgradeTree.nodes.6.description>利用动量重定向技术来增加穿梭机的载货量，但会以极大的牺牲飞行速度作为代价。\n&lt;color=#bb8f04&gt;-8 空速，+250 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.6.description>
+    <SoS2ShuttleUpgradeTree.nodes.6.description>利用动量重定向技术来增加穿梭机的载货量，但会以极大的牺牲飞行速度作为代价。\n&lt;color=#bb8f04&gt;-8 空速，-0.66 地面移动速度，+250 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.6.description>
     <SoS2ShuttleUpgradeTree.nodes.7.label>超凡科技推进器</SoS2ShuttleUpgradeTree.nodes.7.label>
-    <SoS2ShuttleUpgradeTree.nodes.7.description>[什么帆载着你？\n顶着哪个苍穹前进？\n答案是：确实]\n&lt;color=#bb8f04&gt;+12 空速，+15% 太空战闪避几率，+100 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.7.description>
+    <SoS2ShuttleUpgradeTree.nodes.7.description>[什么帆载着你？\n顶着哪个苍穹前进？\n答案是：确实]\n&lt;color=#bb8f04&gt;+12 空速，+1 地面移动速度，+15% 太空战闪避几率，+100 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.7.description>
     <!-- 护盾 -->
     <SoS2ShuttleUpgradeTree.nodes.8.label>护盾发生器</SoS2ShuttleUpgradeTree.nodes.8.label>
     <SoS2ShuttleUpgradeTree.nodes.8.description>安装一个小型护盾发生器及其专用散热器。\n&lt;color=#bb8f04&gt;+200 热容量，-250 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.8.description>
