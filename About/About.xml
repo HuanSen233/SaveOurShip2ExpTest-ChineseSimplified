@@ -19,7 +19,7 @@
 		<li>kentington.saveourship2</li>
 	</loadAfter>
 
-    <modVersion>25/10/17/super_unstable_R1</modVersion>
+    <modVersion>25/10/30/super_unstable_R1</modVersion>
     <description>
 主要用于Save Our Ship 2 ExpTest(拯救飞船2实验版)的简体中文汉化。
 实验版大抵是停更了，望周知。
@@ -31,7 +31,7 @@
 Github: https://github.com/HuanSen233/SaveOurShip2ExpTest-ChineseSimplified
 MIT License: https://github.com/HuanSen233/SaveOurShip2ExpTest-ChineseSimplified/blob/main/LICENSE
 
-SoS2super_unstable: https://github.com/Bqr1s/SaveOurShip2/tree/super_unstable
+SoS2super_unstable Github: https://github.com/Bqr1s/SaveOurShip2/tree/super_unstable
 SoS2 Github: https://github.com/KentHaeger/SaveOurShip2
     </description>
 

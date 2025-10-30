@@ -6,6 +6,10 @@
 	<EscapeShipFoundLabel>发现飞船</EscapeShipFoundLabel>
 	<EscapeShipFound>你抵达了沙隆·白石给你的坐标\n\n飞船早已准备好发射，但是他的化合燃料推进器只能把你送入轨道。你需要设法弄到一个 约翰逊-田中驱动器 ，以此来朝星际旅行的目标更进一步。也许可以在空间碎片中找到线索......</EscapeShipFound>
 	
+	<!-- Tutorial-style letter on how base game difficulty change doesn't affect ship battle-->
+	<SoS.Letter.DifficultyChanged>检测到基础游戏难度发生变化，注意：舰船战难度系数不会受到基础游戏难度的影响</SoS.Letter.DifficultyChanged>
+	<SoS.Letter.DifficultyChangedDesc>Save our Ship 2的舰船战难度需要在“选项”→“Mod选项”→“Save our Ship”→“舰船战难度系数”中调整。</SoS.Letter.DifficultyChangedDesc>
+
 	<!-- 事件 -->
 	<SoS.LetterLabelShortCircuitDesc>电力管道的故障引起了短路。\n\n幸运的是，你的电容器的保险丝及时阻止了它放电。</SoS.LetterLabelShortCircuitDesc>
 	<SoS.EncounterStart>残骸点</SoS.EncounterStart>
