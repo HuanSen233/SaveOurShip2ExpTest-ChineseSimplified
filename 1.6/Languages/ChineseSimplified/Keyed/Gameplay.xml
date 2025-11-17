@@ -555,6 +555,10 @@
 	<SoS.EnergyShieldStatusLabel>护盾</SoS.EnergyShieldStatusLabel>
 	<SoS.EnergyShieldStatusDesc>{0} / {1}</SoS.EnergyShieldStatusDesc>
 
+	<SoS.Sensor.ConfimObserve>警告！如果玩家长时间观察地点和任务地图，而不采取如飞船或穿梭机登陆等手段派遣玩家单位前往观察处，将会导致单位逻辑和任务逻辑失效等情况。
+不用太担心，通常来讲你只需要在临近登陆前观察目的地就不会出问题。
+你确定要继续吗？</SoS.Sensor.ConfimObserve>
+
 	<!-- Ship combat stuff -->
 	<SoS.Combat.MapShipInfo>SOS2 {0} | 舰船：{1} | 房间：{2}</SoS.Combat.MapShipInfo>
 
