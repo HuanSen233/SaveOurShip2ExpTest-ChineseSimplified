@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <MakeHighExplosiveTorpedo4.label>制作高爆鱼雷 x4</MakeHighExplosiveTorpedo4.label>
+    <MakeHighExplosiveTorpedo4.description>制作4枚高爆鱼雷。</MakeHighExplosiveTorpedo4.description>
+    <MakeHighExplosiveTorpedo4.jobString>正在制作4枚高爆鱼雷。</MakeHighExplosiveTorpedo4.jobString>
+    <MakeEMPTorpedo4.label>制作EMP鱼雷 x4</MakeEMPTorpedo4.label>
+    <MakeEMPTorpedo4.description>制作4枚EMP鱼雷。</MakeEMPTorpedo4.description>
+    <MakeEMPTorpedo4.jobString>正在制作4枚EMP鱼雷。</MakeEMPTorpedo4.jobString>
+    <MakeAntigrainTorpedo4.label>制作反粒子鱼雷鱼雷 x4</MakeAntigrainTorpedo4.label>
+    <MakeAntigrainTorpedo4.description>制作4枚反粒子鱼雷鱼雷。</MakeAntigrainTorpedo4.description>
+    <MakeAntigrainTorpedo4.jobString>正在制作4枚反粒子鱼雷鱼雷。</MakeAntigrainTorpedo4.jobString>
+
+</LanguageData>

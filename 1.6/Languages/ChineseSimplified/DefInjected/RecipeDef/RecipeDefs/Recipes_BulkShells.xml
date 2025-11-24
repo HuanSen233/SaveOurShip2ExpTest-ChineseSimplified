@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <MakeAntigrainWarheadx4.label>制作反粒子弹头 x4</MakeAntigrainWarheadx4.label>
+    <MakeAntigrainWarheadx4.description>制作4个反粒子弹头。</MakeAntigrainWarheadx4.description>
+    <MakeAntigrainWarheadx4.jobString>正在制作4个反粒子弹头。</MakeAntigrainWarheadx4.jobString>
+    <MakeHighExplosiveShellx4.label>制作高爆弹 x4</MakeHighExplosiveShellx4.label>
+    <MakeHighExplosiveShellx4.description>制作4个高爆弹。</MakeHighExplosiveShellx4.description>
+    <MakeHighExplosiveShellx4.jobString>正在制作4个高爆弹。</MakeHighExplosiveShellx4.jobString>
+    <MakeEMPShellx4.label>制作EMP弹 x4</MakeEMPShellx4.label>
+    <MakeEMPShellx4.description>制作4个EMP弹。</MakeEMPShellx4.description>
+    <MakeEMPShellx4.jobString>正在制作4个EMP弹。</MakeEMPShellx4.jobString>
+
+</LanguageData>

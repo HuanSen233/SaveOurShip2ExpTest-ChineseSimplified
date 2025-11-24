@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    <MakeShuttleFuelPods100.label>制作核燃料舱x100</MakeShuttleFuelPods100.label>
+    <MakeShuttleFuelPods100.label>制作核燃料舱 x100</MakeShuttleFuelPods100.label>
     <MakeShuttleFuelPods100.description>制作100个核燃料舱。</MakeShuttleFuelPods100.description>
-    <MakeShuttleFuelPods100.jobString>制造核燃料舱。</MakeShuttleFuelPods100.jobString>
-    <MakeShuttleFuelPods1000.label>制作核燃料舱x1000</MakeShuttleFuelPods1000.label>
+    <MakeShuttleFuelPods100.jobString>正在制作100个核燃料舱。</MakeShuttleFuelPods100.jobString>
+    <MakeShuttleFuelPods1000.label>制作核燃料舱 x1000</MakeShuttleFuelPods1000.label>
     <MakeShuttleFuelPods1000.description>制作1000个核燃料舱。</MakeShuttleFuelPods1000.description>
-    <MakeShuttleFuelPods1000.jobString>制造核燃料舱。</MakeShuttleFuelPods1000.jobString>
+    <MakeShuttleFuelPods1000.jobString>正在制作1000个核燃料舱。</MakeShuttleFuelPods1000.jobString>
 
 
 </LanguageData>

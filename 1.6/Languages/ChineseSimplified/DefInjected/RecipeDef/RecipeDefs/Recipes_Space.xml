@@ -2,9 +2,9 @@
 <LanguageData>
     <MakeHullFoam.label>制作船体修补泡沫</MakeHullFoam.label>
     <MakeHullFoam.description>制作一个船体修补泡沫。</MakeHullFoam.description>
-    <MakeHullFoam.jobString>制造船体修补泡沫。</MakeHullFoam.jobString>
-    <MakeHullFoam10.label>制作船体修补泡沫x10</MakeHullFoam10.label>
+    <MakeHullFoam.jobString>正在制作一个船体修补泡沫。</MakeHullFoam.jobString>
+    <MakeHullFoam10.label>制作船体修补泡沫 x10</MakeHullFoam10.label>
     <MakeHullFoam10.description>制作10个船体修补泡沫。</MakeHullFoam10.description>
-    <MakeHullFoam10.jobString>制造船体修补泡沫。</MakeHullFoam10.jobString>
+    <MakeHullFoam10.jobString>正在制作10个船体修补泡沫。</MakeHullFoam10.jobString>
 
 </LanguageData>

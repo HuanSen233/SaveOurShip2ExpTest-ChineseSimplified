@@ -7,7 +7,9 @@
     <ShipCombatShieldGeneratorMini.description>一个小号的能产生动能排斥场的设备。能够向外射击，但无法射入。\n\n由于它体积较小，当其在阻挡攻击时产生的热量是标准护盾发生器的125%。如果没有连接到热容网络或热容不足，那么护盾发生器将损坏并需要修理。\n\n建议在热容蓄热过多时关闭护盾，否则会导致散热系统受损。</ShipCombatShieldGeneratorMini.description>
     <!-- 热容 -->
     <ShipHeatConduit.label>热能导管</ShipHeatConduit.label>
-    <ShipHeatConduit.description>在飞船中传递热量的流体管道。</ShipHeatConduit.description>
+    <ShipHeatConduit.description>在飞船中传递携带热量的流体的管道。</ShipHeatConduit.description>
+    <HiddenShipHeatConduit.label>隐藏热能导管</HiddenShipHeatConduit.label>
+    <HiddenShipHeatConduit.description>在飞船中传递携带热量的流体的管道。这款可以隐藏在船舶部件下面。</HiddenShipHeatConduit.description>
     
     <ShipHeatsink.label>船舶散热鳍片</ShipHeatsink.label>
     <ShipHeatsink.description>一个能慢慢散出热容系统内蓄热的散热器。如果蓄热接近最大热容量则会受损，并在损毁时释放其中存储的热量。当不在战斗中时，将会快速恢复热容量。如果舰船处于隐形状态则无法将热量散入太空。\n\n热容量：200 Hu\n向太空散热：4 Hu/秒\n自散热：1 Hu/秒</ShipHeatsink.description>
