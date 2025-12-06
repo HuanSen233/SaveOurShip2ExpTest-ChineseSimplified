@@ -152,6 +152,7 @@
 	<SoS.StatsShipName>舰船名称：{0}</SoS.StatsShipName>
 	<SoS.StatsNotoriety>恶名值：{0}</SoS.StatsNotoriety>
 	<SoS.StatsShipMass>舰船重量：{0}</SoS.StatsShipMass>
+	<SoS.StatsShipTakeoffMass>舰船实际起飞重量：{0}</SoS.StatsShipTakeoffMass>
 	<SoS.StatsShipMaxTakeoff>舰船最大起飞重量：{0}</SoS.StatsShipMaxTakeoff>
 	<SoS.StatsShipEnergy>舰船储能：{0} / {1} Wd</SoS.StatsShipEnergy>
 	<SoS.StatsShipHeat>舰船热容：{0} / {1} HU{2}</SoS.StatsShipHeat>
@@ -628,6 +629,11 @@
 	<!-- 0 is ship name, 1 is map ID -->
 	<SoS.Location.ShipNameAndMapID>{0} {1}</SoS.Location.ShipNameAndMapID>
 	<SoS.Location.WreckageNumbered>{0} 的残骸</SoS.Location.WreckageNumbered>
+
+	<!-- Odyssey integration -->
+	<SoS.SoftIncompatibilityWithPlatingIsSubstructure>不建议使用“SOS2飞船护板可以作为逆重飞船基架”模组。现在逆重飞船建筑可以直接安装在Save Our Ship 2的飞船上。</SoS.SoftIncompatibilityWithPlatingIsSubstructure>
+	<SoS.Ody.GravEngineOnSpaceship>降低飞船实际起飞重量，提升发射速度。</SoS.Ody.GravEngineOnSpaceship>
+	<SoS.Ody.GravEngineCanBeInstalledOnSpaceship>能够安装在Save Our Ship 2飞船而不是逆重飞船上。</SoS.Ody.GravEngineCanBeInstalledOnSpaceship>
 
 	<!-- Projectiles missing map-->
 	<SoS.ActorPlayer>玩家</SoS.ActorPlayer>
