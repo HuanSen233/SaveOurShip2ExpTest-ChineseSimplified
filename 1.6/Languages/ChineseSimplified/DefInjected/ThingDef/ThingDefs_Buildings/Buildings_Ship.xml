@@ -107,10 +107,10 @@
     <SpaceCrib.label>太空婴儿床</SpaceCrib.label>
     <SpaceCrib.description>一张适合那些困倦宝宝的高科技床。一旦生命支持系统故障，其保护性外壳将会闭合并，内部将独立进行循环氧气并调节温度，从而保护住其中的使用者。在舰船发生灾难性事故时，它还可以作为逃生舱使用。\n\n它不是个低温休眠舱，不能在星际航行期间保护使用者的生命。</SpaceCrib.description>
     
-    <CrittersleepCasket.label>小型动物低温休眠舱(8)</CrittersleepCasket.label>
-    <CrittersleepCasket.description>一个自行供电的低温休眠舱，能容纳最多8只小动物并使它们进入低温休眠状态。在将动物放入低温休眠舱之前应对它们进行医学麻醉。</CrittersleepCasket.description>
+    <CrittersleepCasket.label>小型动物低温休眠舱(4)</CrittersleepCasket.label>
+    <CrittersleepCasket.description>一个自行供电的低温休眠舱，能容纳最多4只大型动物并使它们进入低温休眠状态。在将动物放入低温休眠舱之前应对它们进行医学麻醉。</CrittersleepCasket.description>
     <CrittersleepCasketLarge.label>大型动物低温休眠舱(32)</CrittersleepCasketLarge.label>
-    <CrittersleepCasketLarge.description>一个大号的自行供电的低温休眠舱，能容纳最多32只小动物并使它们进入低温休眠状态。在将动物放入低温休眠舱之前应对它们进行医学麻醉。</CrittersleepCasketLarge.description>
+    <CrittersleepCasketLarge.description>一个大号的自行供电的低温休眠舱，能容纳最多32只小动物并使它们进入低温休眠状态。在将动物放入低温休眠舱之前应对它们进行医学麻醉。凡是瞪羚这样体型不超过0.7的动物都可以放进这个休眠舱。</CrittersleepCasketLarge.description>
     
     <Cryptonest.label>低温休眠卵箱</Cryptonest.label>
     <Cryptonest.description>一个专为禽类受精卵设计的自行供电的低温休眠舱，能容纳最多16可卵并使它们进入低温休眠状态。</Cryptonest.description>
