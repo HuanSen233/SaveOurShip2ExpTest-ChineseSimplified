@@ -27,7 +27,7 @@
     <ShipInside_SolarGenerator.description>利用太阳光来发电。在太空可输出600W，在星球表面可输出300W。不能在黑暗或人造光源环境中工作。</ShipInside_SolarGenerator.description>
     <!-- 通风口 -->
     <ShipInside_PassiveVent.label>标准船舶通风口</ShipInside_PassiveVent.label>
-    <ShipInside_PassiveVent.description>与热容网络交换热量，将舰船内部冷却或加热到所需温度。在热容网络没有中蓄热时可以选择使用电力加热房间。</ShipInside_PassiveVent.description>
+    <ShipInside_PassiveVent.description>与热容网络交换热量，将舰船舱室冷却或加热到所需温度。\n\n可以选择使用电力加热房间。</ShipInside_PassiveVent.description>
     <!-- 气闸 -->
     <ShipAirlock.label>标准船舶气闸</ShipAirlock.label>
     <ShipAirlock.description>允许进入舰船或在舰船内划分房间。其生成的低能等离子屏障能防止气体逸出。</ShipAirlock.description>
@@ -105,7 +105,7 @@
     <Ship_CryptosleepCasket.description>一个带有多个内置定时器和备用措施的低温休眠舱。可以在没有人为干预的情况下打开。在舰船发生灾难性事故时，它还可以作为逃生舱使用。\n\n建议在任何舰船上都至少装备一个这样的设备。</Ship_CryptosleepCasket.description>
     
     <SpaceCrib.label>太空婴儿床</SpaceCrib.label>
-    <SpaceCrib.description>一张适合那些困倦宝宝的高科技床。一旦生命支持系统故障，其保护性外壳将会闭合并，内部将独立进行循环氧气并调节温度，从而保护住其中的使用者。在舰船发生灾难性事故时，它还可以作为逃生舱使用。\n\n它不是个低温休眠舱，不能在星际航行期间保护使用者的生命。</SpaceCrib.description>
+    <SpaceCrib.description>一张适合那些困倦宝宝的高科技床。一旦生命支持系统故障，其保护性外壳将会闭合，届时内部会独立进行循环氧气并调节温度，从而保护住其中的使用者。在舰船发生灾难性事故时，它还可以作为逃生舱使用。\n\n它不是个低温休眠舱，不能在星际航行期间保护使用者的生命。</SpaceCrib.description>
     
     <CrittersleepCasket.label>小型动物低温休眠舱(4)</CrittersleepCasket.label>
     <CrittersleepCasket.description>一个自行供电的低温休眠舱，能容纳最多4只大型动物并使它们进入低温休眠状态。在将动物放入低温休眠舱之前应对它们进行医学麻醉。</CrittersleepCasket.description>

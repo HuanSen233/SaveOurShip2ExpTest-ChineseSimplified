@@ -631,8 +631,8 @@
 	<SoS.Location.WreckageNumbered>{0} 的残骸</SoS.Location.WreckageNumbered>
 
 	<!-- Odyssey integration -->
-	<SoS.SoftIncompatibilityWithPlatingIsSubstructure>不建议使用“SOS2飞船护板可以作为逆重飞船基架”模组。现在逆重飞船建筑可以直接安装在Save Our Ship 2的飞船上。</SoS.SoftIncompatibilityWithPlatingIsSubstructure>
-	<SoS.Ody.GravEngineOnSpaceship>降低飞船实际起飞重量，提升发射速度。</SoS.Ody.GravEngineOnSpaceship>
+	<SoS.SoftIncompatibilityWithPlatingIsSubstructure>不建议使用“SOS2飞船护板可以作为逆重飞船基架”模组。现在逆重飞船设备可以直接安装在Save Our Ship 2的飞船上。</SoS.SoftIncompatibilityWithPlatingIsSubstructure>
+	<SoS.Ody.GravEngineOnSpaceship>降低舰船实际起飞重量，加快发射入轨的速度。</SoS.Ody.GravEngineOnSpaceship>
 	<SoS.Ody.GravEngineCanBeInstalledOnSpaceship>能够安装在Save Our Ship 2飞船而不是逆重飞船上。</SoS.Ody.GravEngineCanBeInstalledOnSpaceship>
 
 	<!-- Projectiles missing map-->
