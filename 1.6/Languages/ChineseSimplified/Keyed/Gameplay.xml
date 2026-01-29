@@ -111,7 +111,7 @@
 	<SoS.RemoveWrecksCommand>移除残骸</SoS.RemoveWrecksCommand>
 	<SoS.RemoveWrecksCommandDesc>移除这张地图上选中的残骸</SoS.RemoveWrecksCommandDesc>
 	<!-- placeworkers -->
-	<SoS.PlaceOnShipHull>必须建造在船舶底板上。</SoS.PlaceOnShipHull>
+	<SoS.PlaceOnShipHull>必须建造在属于自己的船舶底板（或这之上的地板）上。</SoS.PlaceOnShipHull>
 	<SoS.EnginePlaceRotation>必须和其它推进器朝向同一方向！</SoS.EnginePlaceRotation>
 	<!-- comms/trade -->
 	<SoS.TradeComms>联络 {0}</SoS.TradeComms>
