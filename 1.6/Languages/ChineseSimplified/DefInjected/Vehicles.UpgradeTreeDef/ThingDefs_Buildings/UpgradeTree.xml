@@ -39,21 +39,21 @@
     <SoS2ShuttleUpgradeTree.nodes.14.description>[盒子中的盒子\n无限重复，\n级数收敛]\n&lt;color=#bb8f04&gt;+500 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.14.description>
     <!-- 载人 -->
     <SoS2ShuttleUpgradeTree.nodes.15.label>乘组模块(2)</SoS2ShuttleUpgradeTree.nodes.15.label>
-    <SoS2ShuttleUpgradeTree.nodes.15.description>将货舱的一小块区域改装成座椅和生命支持系统，使得穿梭机可以额外携带两名乘员。\n&lt;color=#bb8f04&gt;+2 客容量，-200 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.15.description>
+    <SoS2ShuttleUpgradeTree.nodes.15.description>将货舱的一小块区域改装成座椅和生命保障系统，使得穿梭机可以额外携带两名乘员。\n&lt;color=#bb8f04&gt;+2 客容量，-200 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.15.description>
     <SoS2ShuttleUpgradeTree.nodes.16.label>乘组模块(4)</SoS2ShuttleUpgradeTree.nodes.16.label>
-    <SoS2ShuttleUpgradeTree.nodes.16.description>将货舱的一小块区域改装成座椅和生命支持系统，使得穿梭机可以额外携带四名乘员。\n&lt;color=#bb8f04&gt;+4 客容量，-400 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.16.description>
+    <SoS2ShuttleUpgradeTree.nodes.16.description>将货舱的一小块区域改装成座椅和生命保障系统，使得穿梭机可以额外携带四名乘员。\n&lt;color=#bb8f04&gt;+4 客容量，-400 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.16.description>
     <SoS2ShuttleUpgradeTree.nodes.17.label>乘组模块(6)</SoS2ShuttleUpgradeTree.nodes.17.label>
-    <SoS2ShuttleUpgradeTree.nodes.17.description>将货舱的一块区域改装成座椅和生命支持系统，使得穿梭机可以额外携带六名乘员。\n&lt;color=#bb8f04&gt;+6 客容量，-600 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.17.description>
+    <SoS2ShuttleUpgradeTree.nodes.17.description>将货舱的一块区域改装成座椅和生命保障系统，使得穿梭机可以额外携带六名乘员。\n&lt;color=#bb8f04&gt;+6 客容量，-600 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.17.description>
     <SoS2ShuttleUpgradeTree.nodes.18.label>乘组模块(8)</SoS2ShuttleUpgradeTree.nodes.18.label>
-    <SoS2ShuttleUpgradeTree.nodes.18.description>将货舱的一块区域改装成座椅和生命支持系统，使得穿梭机可以额外携带八名乘员。\n&lt;color=#bb8f04&gt;+8 客容量，-800 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.18.description>
+    <SoS2ShuttleUpgradeTree.nodes.18.description>将货舱的一块区域改装成座椅和生命保障系统，使得穿梭机可以额外携带八名乘员。\n&lt;color=#bb8f04&gt;+8 客容量，-800 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.18.description>
     <SoS2ShuttleUpgradeTree.nodes.19.label>乘组模块(10)</SoS2ShuttleUpgradeTree.nodes.19.label>
-    <SoS2ShuttleUpgradeTree.nodes.19.description>将货舱的一大块区域改装成座椅和生命支持系统，使得穿梭机可以额外携带十名乘员。\n&lt;color=#bb8f04&gt;+10 客容量，-1000 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.19.description>
+    <SoS2ShuttleUpgradeTree.nodes.19.description>将货舱的一大块区域改装成座椅和生命保障系统，使得穿梭机可以额外携带十名乘员。\n&lt;color=#bb8f04&gt;+10 客容量，-1000 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.19.description>
     <SoS2ShuttleUpgradeTree.nodes.20.label>乘组模块(12)</SoS2ShuttleUpgradeTree.nodes.20.label>
-    <SoS2ShuttleUpgradeTree.nodes.20.description>将货舱的一大块区域改装成座椅和生命支持系统，使得穿梭机可以额外携带十二名乘员。\n&lt;color=#bb8f04&gt;+12 客容量，-1200 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.20.description>
+    <SoS2ShuttleUpgradeTree.nodes.20.description>将货舱的一大块区域改装成座椅和生命保障系统，使得穿梭机可以额外携带十二名乘员。\n&lt;color=#bb8f04&gt;+12 客容量，-1200 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.20.description>
     <SoS2ShuttleUpgradeTree.nodes.21.label>乘组模块(14)</SoS2ShuttleUpgradeTree.nodes.21.label>
-    <SoS2ShuttleUpgradeTree.nodes.21.description>将货舱的超大一块区域改装成座椅和生命支持系统，使得穿梭机可以额外携带十四名乘员。\n&lt;color=#bb8f04&gt;+14 客容量，-1400 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.21.description>
+    <SoS2ShuttleUpgradeTree.nodes.21.description>将货舱的超大一块区域改装成座椅和生命保障系统，使得穿梭机可以额外携带十四名乘员。\n&lt;color=#bb8f04&gt;+14 客容量，-1400 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.21.description>
     <SoS2ShuttleUpgradeTree.nodes.22.label>乘组模块(16)</SoS2ShuttleUpgradeTree.nodes.22.label>
-    <SoS2ShuttleUpgradeTree.nodes.22.description>将货舱的超大一块区域改装成座椅和生命支持系统，使得穿梭机可以额外携带十六名乘员。\n&lt;color=#bb8f04&gt;+16 客容量，-1600 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.22.description>
+    <SoS2ShuttleUpgradeTree.nodes.22.description>将货舱的超大一块区域改装成座椅和生命保障系统，使得穿梭机可以额外携带十六名乘员。\n&lt;color=#bb8f04&gt;+16 客容量，-1600 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.22.description>
     <!-- 武器 -->
     <SoS2ShuttleUpgradeTree.nodes.23.label>激光炮塔(挂载点A)</SoS2ShuttleUpgradeTree.nodes.23.label>
     <SoS2ShuttleUpgradeTree.nodes.23.description>在一号挂载点上安装一门激光炮塔。一艘配备了激光武器的穿梭机可以在舰船战中执行拦截和射击敌舰的任务。\n&lt;color=#bb8f04&gt;-200 载货量&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.23.description>

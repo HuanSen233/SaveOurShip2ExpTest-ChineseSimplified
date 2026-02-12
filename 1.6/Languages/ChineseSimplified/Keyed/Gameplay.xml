@@ -158,8 +158,9 @@
 	<SoS.StatsShipHeat>舰船热容：{0} / {1} HU{2}</SoS.StatsShipHeat>
 	<SoS.StatsShipHeatMaximumShort>最大</SoS.StatsShipHeatMaximumShort>
 	<SoS.StatsShipHeatMaximum>最大热容：{0}</SoS.StatsShipHeatMaximum>
-	<SoS.StatsShipCombatRating>战力评级：{0}</SoS.StatsShipCombatRating>
-	<SoS.StatsShipCombatThrust>推重比：{0}</SoS.StatsShipCombatThrust>
+	<SoS.StatsShipCombatRating>战斗评级：{0}</SoS.StatsShipCombatRating>
+	<SoS.StatsShipCombatThrust>舰船推重比：{0}</SoS.StatsShipCombatThrust>
+	<SoS.StatsShipCombatMapThrust>舰队推重比：{0}</SoS.StatsShipCombatMapThrust>
 	<SoS.ReportInterReady>已为星际旅行做好准备。</SoS.ReportInterReady>
 	<SoS.ReportInterNotReady>这些没有准备好星际旅行：</SoS.ReportInterNotReady>
 	<SoS.ReportNeedPilot>舰船需要领航员在舰桥或有船舶电脑核心。</SoS.ReportNeedPilot>
@@ -424,9 +425,9 @@
 	<SoSMustDesignateWreckage>必须指定在报废船体上</SoSMustDesignateWreckage>
 	<SoS.UnDockWarning>警告：在已扩展时移动船舶将收回所有舰船对接装置。</SoS.UnDockWarning>
 	<SoS.ExpelSuperheatedAir>排出过热空气</SoS.ExpelSuperheatedAir>
-	<SoS.ExpelSuperheatedAirDesc>使用这个通风口排出目标房间中的过热空气。该过程会对你的船舶生命支持系统造成损坏(基于房间大小，并且会在耐久度耗尽时将其摧毁)，这些伤害会均摊到多个生命支持系统上(当前每个系统会受到 {0} 伤害)。\n\n房间里的所有不能进行EVA的人都会受到爆炸性失压！</SoS.ExpelSuperheatedAirDesc>
+	<SoS.ExpelSuperheatedAirDesc>使用这个通风口排出目标房间中的过热空气。该过程会对你的船舶生命保障系统造成损坏(基于房间大小，并且会在耐久度耗尽时将其摧毁)，这些伤害会均摊到多个生命保障系统上(当前每个系统会受到 {0} 伤害)。\n\n房间里的所有不能进行EVA的人都会受到爆炸性失压！</SoS.ExpelSuperheatedAirDesc>
 	<SoS.AirNotSuperheated>没有过热空气</SoS.AirNotSuperheated>
-	<SoS.NoLifeSupport>没有有效的船舶生命支持系统</SoS.NoLifeSupport>
+	<SoS.NoLifeSupport>没有有效的船舶生命保障系统</SoS.NoLifeSupport>
 	<SoS.HeatDepletionLevel>消耗程度：{0}</SoS.HeatDepletionLevel>
 	<SoS.BreakCloakAtHeat>热容上限消耗阈值</SoS.BreakCloakAtHeat>
 	<SoS.BreakCloakAtHeatDesc>当热容网络整体的热容上限消耗至设定百分比时，将关闭隐形装置使其可以恢复。</SoS.BreakCloakAtHeatDesc>

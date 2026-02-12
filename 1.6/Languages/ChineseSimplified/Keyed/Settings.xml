@@ -34,7 +34,11 @@
 	<SoS.Settings.DifficultySoS>舰船战难度系数（最小：{0} 最大：{1} 默认：{2} 当前：{3}）</SoS.Settings.DifficultySoS>
 	<SoS.Settings.DifficultySoS.Desc>影响敌舰的大小和强度。</SoS.Settings.DifficultySoS.Desc>
 	<SoS.Settings.FrequencySoS>舰船战频率（最小：{0} 最大：{1} 默认：{2} 当前：{3}）</SoS.Settings.FrequencySoS>
-	<SoS.Settings.FrequencySoS.Desc>值越高意味着随机舰船战的频率更高。</SoS.Settings.FrequencySoS.Desc>
+	<SoS.Settings.FrequencySoS.Desc>值越高意味着随机舰船战的频率更高。
+当值为0时，玩家舰船不会遭遇舰船战，除非玩家有恶名值。
+当值为1时，舰船战间隔冷却时间为5天。小型舰船平均每5天发生一次战斗，大型飞船平均每15天发生一次战斗，此频率不受叙事者设置的影响。如果在这过程中发生由叙事者的机制所产生的舰船战（视为大型威胁，相当于太空里的袭击），则最终体现在游戏流程中的舰船战频率会更高。
+
+小型舰船 - 不超过100点战斗评级。大型舰船 - 超过1500点战斗评级。</SoS.Settings.FrequencySoS.Desc>
 	<SoS.Settings.NavyShipChance>赏金猎人生成几率（最小：{0} 最大：{1} 默认：{2} 当前：{3}）</SoS.Settings.NavyShipChance>
 	<SoS.Settings.NavyShipChance.Desc>专门来找你茬的敌舰生成几率。</SoS.Settings.NavyShipChance.Desc>
 	<SoS.Settings.FleetChance>舰队生成几率（最小：{0} 最大：{1} 默认：{2} 当前：{3}）</SoS.Settings.FleetChance>

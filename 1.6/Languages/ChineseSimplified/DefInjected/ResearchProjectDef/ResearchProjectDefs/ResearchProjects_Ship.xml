@@ -3,7 +3,7 @@
     <ShipBasics.label>星际航行基础</ShipBasics.label>
     <ShipBasics.description>解锁建造星际飞船的结构和辅助单元，这是建造飞船离开恒星系的第一步。</ShipBasics.description>
     <ShipBasics.discoveredLetterTitle>关于：发射飞船</ShipBasics.discoveredLetterTitle>
-    <ShipBasics.discoveredLetterText>逃离这个星球——最终将获得自由，也许终点会是家园。\n\n但先别急，在你考虑星际旅行之前，你需要先造艘船或者用其它什么方法，到达环绕这颗星球的轨道上。一艘适合航天任务的飞船的最低要求是要有一个火箭推进器、一个领航员控制台和一个基础集成传感器。为了你的殖民者能在太空存活，还需要船舶生命支持系统或EVA服。\n\n发射一艘飞船进入轨道所要消耗的燃料量取决于其的大小。较大的飞船需要要且只会要更多的推进器。</ShipBasics.discoveredLetterText>
+    <ShipBasics.discoveredLetterText>逃离这个星球——最终将获得自由，也许终点会是家园。\n\n但先别急，在你考虑星际旅行之前，你需要先造艘船或者用其它什么方法，到达环绕这颗星球的轨道上。一艘适合航天任务的飞船的最低要求是要有一个火箭推进器、一个领航员控制台和一个基础集成传感器。为了你的殖民者能在太空存活，还需要船舶生命保障系统或EVA服。\n\n发射一艘飞船进入轨道所要消耗的燃料量取决于其的大小。较大的飞船需要要且只会要更多的推进器。</ShipBasics.discoveredLetterText>
 
     <ShipReactor.label>船用裂变反应堆</ShipReactor.label>
     <ShipReactor.description>通过燃烧核燃料舱来获得长期持续的能量输出。</ShipReactor.description>
@@ -52,18 +52,18 @@
     <ShipSensorClusterAdv.generalRules.rulesStrings.4>subject_gerund->扫描敌舰</ShipSensorClusterAdv.generalRules.rulesStrings.4>
     <ShipSensorClusterAdv.generalRules.rulesStrings.5>subject_gerund->建造船舶传感器</ShipSensorClusterAdv.generalRules.rulesStrings.5>
 
-    <ShipLifeSupport.label>生命支持系统</ShipLifeSupport.label>
+    <ShipLifeSupport.label>生命保障系统</ShipLifeSupport.label>
     <ShipLifeSupport.description>循环氧气以保持非休眠殖民者的生命。</ShipLifeSupport.description>
-    <ShipLifeSupport.generalRules.rulesStrings.0>subject->船舶生命支持系统</ShipLifeSupport.generalRules.rulesStrings.0>
+    <ShipLifeSupport.generalRules.rulesStrings.0>subject->船舶生命保障系统</ShipLifeSupport.generalRules.rulesStrings.0>
     <ShipLifeSupport.generalRules.rulesStrings.1>subject_story->通过改良产氧藻类的基因，挽救了一艘发生缺氧事故的早期飞船。</ShipLifeSupport.generalRules.rulesStrings.1>
     <ShipLifeSupport.generalRules.rulesStrings.2>subject_story->在得知飞船的饮用水是通过汗水和污水回收出来的后，选择拒绝乘坐飞船旅行。</ShipLifeSupport.generalRules.rulesStrings.2>
     <ShipLifeSupport.generalRules.rulesStrings.3>subject_story->曾在一名吝啬到臭名昭著的飞船船长的麾下服务过，这期间曾有一次不得不使用一只旧袜子拼凑出二氧化碳洗涤器的经历。</ShipLifeSupport.generalRules.rulesStrings.3>
     <ShipLifeSupport.generalRules.rulesStrings.4>subject_gerund->让封闭环境维持宜居状态的条件</ShipLifeSupport.generalRules.rulesStrings.4>
 
     <ShipSpaceSuits.label>舱外活动装备</ShipSpaceSuits.label>
-    <ShipSpaceSuits.description>内置有自给自足的生命支持系统，使殖民者能够在外太空中生存。</ShipSpaceSuits.description>
+    <ShipSpaceSuits.description>内置有自给自足的生命保障系统，使殖民者能够在外太空中生存。</ShipSpaceSuits.description>
     <ShipSpaceSuits.discoveredLetterTitle>关于：失压与缺氧</ShipSpaceSuits.discoveredLetterTitle>
-    <ShipSpaceSuits.discoveredLetterText>你现在解锁了制造EVA套装的技术。这能为接下来要进入太空的殖民者提供巨大帮助，帮他们抵御暴露在真空环境中的危险：失压与缺氧。失压伤是由于人体暴露在低压环境下会不断受伤，并最终导致死亡。缺氧是由于真空环境中没有可呼吸气体会导致逐渐窒息，最终死亡。EVA套装还有特定基因和植入物，以及带有生命支持系统的气密环境都可以保护殖民者不受危险，使你免受太空旅行中的这两种威胁。&#10;&#10;&lt;color=#00FFFF&gt;Save Our Ship 2&lt;/color&gt;</ShipSpaceSuits.discoveredLetterText>
+    <ShipSpaceSuits.discoveredLetterText>你现在解锁了制造EVA套装的技术。这能为接下来要进入太空的殖民者提供巨大帮助，帮他们抵御暴露在真空环境中的危险：失压与缺氧。失压伤是由于人体暴露在低压环境下会不断受伤，并最终导致死亡。缺氧是由于真空环境中没有可呼吸气体会导致逐渐窒息，最终死亡。EVA套装还有特定基因和植入物，以及带有生命保障系统的气密环境都可以保护殖民者不受危险，使你免受太空旅行中的这两种威胁。&#10;&#10;&lt;color=#00FFFF&gt;Save Our Ship 2&lt;/color&gt;</ShipSpaceSuits.discoveredLetterText>
     <ShipSpaceSuits.generalRules.rulesStrings.0>subject->舱外活动装备</ShipSpaceSuits.generalRules.rulesStrings.0>
     <ShipSpaceSuits.generalRules.rulesStrings.1>subject_story->费了很大劲才发现人类眼球对真空的反应</ShipSpaceSuits.generalRules.rulesStrings.1>
     <ShipSpaceSuits.generalRules.rulesStrings.2>subject_story->带领着一个游牧小行星矿工部落，他们将自己的太空服奉为祖传之宝。</ShipSpaceSuits.generalRules.rulesStrings.2>
