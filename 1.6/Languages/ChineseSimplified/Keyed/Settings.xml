@@ -39,6 +39,8 @@
 当值为1时，舰船战间隔冷却时间为5天。小型舰船平均每5天发生一次战斗，大型飞船平均每15天发生一次战斗，此频率不受叙事者设置的影响。如果在这过程中发生由叙事者的机制所产生的舰船战（视为大型威胁，相当于太空里的袭击），则最终体现在游戏流程中的舰船战频率会更高。
 
 小型舰船 - 不超过100点战斗评级。大型舰船 - 超过1500点战斗评级。</SoS.Settings.FrequencySoS.Desc>
+	<SoS.Settings.DodgeSkillImpact>单位技能对舰船闪避能力影响（最小：{0} 最大：{1} 默认：{2} 当前：{3}）</SoS.Settings.DodgeSkillImpact>
+	<SoS.Settings.DodgeSkillImpact.Desc>该项决定了操作船舶控制台的单位的智识和射击技能，对舰船闪避机制和武器精准度的影响程度。值小于1表示影响减弱，值大于1表示影响增强。通常情况下，玩家单位的技能水平要比敌方单位更高，这意味着增强影响会降低难度，降低影响会提高难度。</SoS.Settings.DodgeSkillImpact.Desc>
 	<SoS.Settings.NavyShipChance>赏金猎人生成几率（最小：{0} 最大：{1} 默认：{2} 当前：{3}）</SoS.Settings.NavyShipChance>
 	<SoS.Settings.NavyShipChance.Desc>专门来找你茬的敌舰生成几率。</SoS.Settings.NavyShipChance.Desc>
 	<SoS.Settings.FleetChance>舰队生成几率（最小：{0} 最大：{1} 默认：{2} 当前：{3}）</SoS.Settings.FleetChance>
