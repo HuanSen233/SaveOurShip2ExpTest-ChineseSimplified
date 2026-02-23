@@ -195,8 +195,11 @@
 	<SoS.MoveFailFuel>需要 {0} 单位燃料来移动舰船</SoS.MoveFailFuel>
 	<SoS.MoveFailFaction>来自另一派系的舰船靠近目标区域。移动中止。</SoS.MoveFailFaction>
 	<SoS.MoveFailCombat>主要舰船地图正在战斗中。</SoS.MoveFailCombat>
-	<SoS.Land>舰船着陆</SoS.Land>
-	<SoS.LandDesc>让这艘船在这里着陆 </SoS.LandDesc>
+	<SoS.Land>将舰船着陆在 {0}</SoS.Land>
+	<SoS.LandDesc>让这艘船着陆在 {0}</SoS.LandDesc>
+	<!-- Used in 2 above strings as key filler when there in actual location to land available -->
+	<SoS.LandSomewhere>某处</SoS.LandSomewhere>
+	<SoS.LandNoTargetTile>没有可供着陆的地面地图。可以使用集成传感器扫描或科学控制台观察来寻找行星表面适合着陆的区域。</SoS.LandNoTargetTile>
 	<SoS.Rebuild>舰船部件被毁自动重建</SoS.Rebuild>
 	<SoS.RebuildDesc>放置这艘船上被毁建筑的蓝图。</SoS.RebuildDesc>
 	<SoS.BridgeConnectTooltip>没有舰桥连接到船舶！请检查领航员控制台、战术控制台、无人船舶核心和船舶电脑核心是否正常连接到热容和电力网络。</SoS.BridgeConnectTooltip>
