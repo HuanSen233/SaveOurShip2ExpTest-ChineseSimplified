@@ -72,23 +72,23 @@
     <ArchotechReactor.description>利用异形粒子来快速产生巨量能源。</ArchotechReactor.description>
     
     <ArchotechPillarA.label>定位阿尔法柱</ArchotechPillarA.label>
-    <ArchotechPillarA.description>发现一根超凡科技柱的位置。这个特殊的标本位于环绕这颗星球的某条轨道上。</ArchotechPillarA.description>
+    <ArchotechPillarA.description>发现一根超凡科技柱的位置。这个特殊的标本位于环绕这颗星球的某条轨道上。在完成这项研究后，需要在你的领航员控制台、无人船舶核心或船舶智能核心，这类舰桥建筑处选择“攻击地平线号空间站”选项下达攻击命令。</ArchotechPillarA.description>
     <ArchotechPillarA.discoveredLetterTitle>检测到超凡科技柱</ArchotechPillarA.discoveredLetterTitle>
-    <ArchotechPillarA.discoveredLetterText>你已经成功识别出一根超凡科技柱所在的位置！这个标本位于地平线号空间站上，那是一座古老的星球改造站。\n\n扫描显示，该空间站的穹顶部分与内部的机械体已经维持了其内部的生态系统数千年而安然无恙。空间站还安装了大量重型武器，看来它们并不欢迎访客。\n\n你需要在舰桥处选择与地平线号交战。</ArchotechPillarA.discoveredLetterText>
+    <ArchotechPillarA.discoveredLetterText>你已经成功识别出一根超凡科技柱所在的位置！这个标本位于地平线号空间站上，那是一座古老的星球改造站。\n\n扫描显示，该空间站的穹顶部分与内部的机械体已经维持了其内部的生态系统数千年而安然无恙。空间站还安装了大量重型武器，看来它们并不欢迎访客。\n\n需要在你的舰桥建筑处选择“攻击地平线号空间站”选项来开始进攻。</ArchotechPillarA.discoveredLetterText>
     
     <ArchotechPillarB.label>定位贝塔柱</ArchotechPillarB.label>
-    <ArchotechPillarB.description>发现一根超凡科技柱的位置。这个特殊的标本位于星球的一个卫星上。</ArchotechPillarB.description>
+    <ArchotechPillarB.description>发现一根超凡科技柱的位置。这个特殊的标本位于星球的一个卫星上。在完成这项研究后，需要在你的领航员控制台、无人船舶核心或船舶智能核心，这类舰桥建筑处选择“突袭月面基地”选项下达攻击命令。</ArchotechPillarB.description>
     <ArchotechPillarB.discoveredLetterTitle>检测到超凡科技柱</ArchotechPillarB.discoveredLetterTitle>
-    <ArchotechPillarB.discoveredLetterText>你已经成功识别出一根超凡科技柱所在的位置！这个标本正在卫星上的一处机械体基地当中被研究。\n\n扫描显示基地被一艘大型机械体战舰保护着。\n\n要接近机械体基地请在舰桥处选择“突袭月面基地”选项。</ArchotechPillarB.discoveredLetterText>
+    <ArchotechPillarB.discoveredLetterText>你已经成功识别出一根超凡科技柱所在的位置！这个标本正在卫星上的一处机械体基地当中被研究。\n\n扫描显示基地被一艘大型机械体战舰保护着。\n\n要接近这个机械体基地需要在你的舰桥建筑处选择“突袭月面基地”选项来开始进攻。</ArchotechPillarB.discoveredLetterText>
     
     <ArchotechPillarC.label>定位伽马柱</ArchotechPillarC.label>
-    <ArchotechPillarC.description>发现一根超凡科技柱的位置。这个特殊的标本位于星球表面的某个地方。</ArchotechPillarC.description>
+    <ArchotechPillarC.description>发现一根超凡科技柱的位置。这个特殊的标本位于星球表面的某个地方。在完成这项研究后，一个新的任务地点将在世界地图上出现。</ArchotechPillarC.description>
     <ArchotechPillarC.discoveredLetterTitle>检测到超凡科技柱</ArchotechPillarC.discoveredLetterTitle>
-    <ArchotechPillarC.discoveredLetterText>你已经成功识别出一根超凡科技柱所在的位置！这个标本是这颗星球上的部落文化中记载的最神圣的圣物，他们称其为星辰图腾。\n\n这里曾是一个神圣的聚会地点，相互敌对的部落在此旗帜下也会和平地交谈，但现在这里被一个野蛮的狂战士部落占领并亵渎。\n\n当你的突袭对抵达现场时，你接结交到的所有部落盟友也会一齐加入这场战斗，他们渴望看到神圣的图腾回到友善的一方手中。</ArchotechPillarC.discoveredLetterText>
+    <ArchotechPillarC.discoveredLetterText>你已经成功识别出一根超凡科技柱所在的位置！这个标本是这颗星球上的部落文化中记载的最神圣的圣物，他们称其为星辰图腾。\n\n这里曾是一个神圣的聚会地点，相互敌对的部落在此旗帜下也会和平地交谈，但现在这里被一个野蛮的狂战士部落占领并亵渎。\n\n当你的突袭对抵达现场时，你接结交到的所有部落盟友也会一齐加入这场战斗，他们渴望看到神圣的图腾回到友善的一方手中。\n\n现在可以在所在的星球表面找到图腾遗迹了。</ArchotechPillarC.discoveredLetterText>
     
     <ArchotechPillarD.label>定位德尔塔柱</ArchotechPillarD.label>
-    <ArchotechPillarD.description>发现一根超凡科技柱的位置。这个特殊的标本位于星球地壳下的某个地方。</ArchotechPillarD.description>
+    <ArchotechPillarD.description>发现一根超凡科技柱的位置。这个特殊的标本位于星球地壳下的某个地方。在完成这项研究后，就可以在星球表面找到洞穴入口了。</ArchotechPillarD.description>
     <ArchotechPillarD.discoveredLetterTitle>检测到超凡科技柱</ArchotechPillarD.discoveredLetterTitle>
-    <ArchotechPillarD.discoveredLetterText>你已经成功识别出一根超凡科技柱所在的位置！这个标本位于地下深处的一个巨型虫巢中心。\n\n扫描显示哪里有大量的基因改造昆虫和其衍生种群，以及一些异常读数——可能是一大群洞穴蜘蛛或者什么更糟糕的东西。\n\n建议让你的突袭队练习一下格斗技能......</ArchotechPillarD.discoveredLetterText>
+    <ArchotechPillarD.discoveredLetterText>你已经成功识别出一根超凡科技柱所在的位置！这个标本位于地下深处的一个巨型虫巢中心。\n\n扫描显示哪里有大量的基因改造昆虫和其衍生种群，以及一些异常读数——可能是一大群洞穴蜘蛛或者什么更糟糕的东西。\n\n建议让你的突袭队练习一下格斗技能......\n\n现在可以在所在的星球表面找到洞穴入口了。</ArchotechPillarD.discoveredLetterText>
 
 </LanguageData>

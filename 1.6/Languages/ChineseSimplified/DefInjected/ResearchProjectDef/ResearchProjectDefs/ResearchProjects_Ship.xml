@@ -28,7 +28,7 @@
     <ShipPilotSeat.generalRules.rulesStrings.3>subject_story->谨慎规画了一条穿过伊什瓦拉星球那致密的碎片场的航线</ShipPilotSeat.generalRules.rulesStrings.3>
     <ShipPilotSeat.generalRules.rulesStrings.4>subject_gerund->手动驾驶飞船</ShipPilotSeat.generalRules.rulesStrings.4>
 
-    <ShipComputerCore.label>船舶电脑核心</ShipComputerCore.label>
+    <ShipComputerCore.label>船舶智能核心</ShipComputerCore.label>
     <ShipComputerCore.description>允许将现有的人格AI强制转换为可用于引导船舶的电脑核心。</ShipComputerCore.description>
 
     <ShipAvatarCasket.label>来世棺材</ShipAvatarCasket.label>

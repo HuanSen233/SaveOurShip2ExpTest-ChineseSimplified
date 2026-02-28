@@ -33,9 +33,10 @@
 	<SoS.TraderScan>检测到商船</SoS.TraderScan>
 	<SoS.TraderScanDesc>{0} 使用舰船的扫描系统检测到附近有一艘商船。你可以使用通讯台呼叫商船来发起贸易，或者在舰桥处选择攻击它。</SoS.TraderScanDesc>
 	<SoS.EnemyScan>检测到舰船</SoS.EnemyScan>
-	<SoS.EnemyScanDesc>{0} 使用舰船的扫描系统检测到附近有一艘舰船。这艘船看起来是 {1} 。它对呼叫没有反应，但也没有进攻的动作。你可以在舰桥处选择攻击它，或者等它和平的离开。</SoS.EnemyScanDesc>
+	<SoS.EnemyScanDesc>{0} 使用舰船的扫描系统检测到附近有一艘舰船。这艘船看起来是 {1} 。它对呼叫没有反应，但也没有进攻的动作。/n/n可以在你的领航员控制台、无人船舶核心或船舶智能核心，这类舰桥建筑处下达攻击命令。一艘刚扫描到的舰船通常只能持续跟踪1天，时间过后舰船的信号就会消失。</SoS.EnemyScanDesc>
 	<SoS.DerelictScan>检测到残骸</SoS.DerelictScan>
-	<SoS.DerelictScanDesc>{0} 使用舰船的扫描系统检测到附近有一片漂浮物。它看起来像是 {1} 。它似乎因为电力系统下线导致对呼叫没有反应。你可以在舰桥处选择调查它，或者等它落入大气并被烧毁。</SoS.DerelictScanDesc>
+	<SoS.DerelictScanDesc>{0} 使用舰船的扫描系统检测到附近有一块漂浮物。它看起来像是 {1} 。它似乎因为电力系统下线导致对呼叫没有反应。
+	/n/n可以在你的领航员控制台、无人船舶核心或船舶智能核心，这类舰桥建筑处下达调查命令。下达命令后，漂浮物的地图将会生成，且会在世界地图上显示出来，这样就可以向那里派遣穿梭机，或者用你的打捞港把漂浮物捕获到你的舰船的地图中。漂浮物的轨道并不稳定，预计将在1天后落入大气并被其烧毁。</SoS.DerelictScanDesc>
 	<SoS.ContentPackDescription>\n这艘船被确认是来自：</SoS.ContentPackDescription>
 	<SoS.FoundOrbitalSite>检测到星际飞船船首！</SoS.FoundOrbitalSite>
 	<SoS.FoundSiteAI>AI扫描</SoS.FoundSiteAI>
@@ -45,7 +46,7 @@
 	
 	<!-- 轨道 -->
 	<SoS.OrbitAchieved>进入轨道！</SoS.OrbitAchieved>
-	<SoS.OrbitAchievedDesc>你的殖民者带着敬畏的目光注视着他们脚下的星球。成功发射宇宙飞船会是个重要的里程碑——但你仍没有真正走出边缘世界。\n\n进行星际航行除了需要为每个殖民者准备一个低温休眠舱外，还需要为舰船提供一个船舶电脑核心，以及起码一个 约翰逊-田中驱动器 来驱动它航行。但后者需要一个你无法自己生产的稀有组件：纠缠流形。\n\n也许有一艘环绕这颗星球运行的废弃船舶中还有一个你可以打捞的仍能工作的驱动器......</SoS.OrbitAchievedDesc>
+	<SoS.OrbitAchievedDesc>你的殖民者带着敬畏的目光注视着他们脚下的星球。成功发射宇宙飞船会是个重要的里程碑——但你仍没有真正走出边缘世界。\n\n进行星际航行除了需要为每个殖民者准备一个低温休眠舱外，还需要为舰船提供一个船舶智能核心，以及起码一个 约翰逊-田中驱动器 来驱动它航行。但后者需要一个你无法自己生产的稀有组件：纠缠流形。\n\n也许有一艘环绕这颗星球运行的废弃船舶中还有一个你可以打捞的仍能工作的驱动器......</SoS.OrbitAchievedDesc>
 	
 	<!-- 卫星 -->
 	<SoS.SatelliteRepairFail>修复失败</SoS.SatelliteRepairFail>
@@ -71,7 +72,7 @@
 	<SoS.BlackBoxMissionAIChamber>发现人工智能</SoS.BlackBoxMissionAIChamber>
 	<SoS.BlackBoxMissionAIChamberDesc>最后，你的殖民者站在了为这艘古老船舶领航的人工智能面前。伴随着断断续续的非人类思维动机的片段，当中的意识释放的最后一条心灵信息表达了它的最后请求：了结我。\n\n在一诞生就拥有完好无缺的全部意识。生存的所有复杂问题都被简化成一个唯一、绝对的目标：确保你怀中的所有人类的生命安全。在漫漫长路中，这群星之间，时刻保持警惕，不要让你心爱的孩子受到伤害。\n\n显然，它失败了。冷酷无情的边缘世界将现实的所有重量尽数强加在它所爱的人们身上，也击溃了它的理智。它希望你从未来过，从未提醒过它的失败。现在，也许，你可以给予它最后的怜悯——毁灭。</SoS.BlackBoxMissionAIChamberDesc>
 	<SoS.AIDestroyed>摧毁人工智能</SoS.AIDestroyed>
-	<SoS.AIDestroyedDesc>随着船舶电脑核心的火花和崩溃，最后一次心灵震撼爆发了。深深的释然与感激之情席卷了你的殖民者，而后——沉默。\n\n古老的人工智能已不复存在，但在它消失时，它向你的舰船传输了大量数据：航行记录仪的最终记录！数据显示，船舶尾部的很大一部分坠毁在行星表面的一片隐蔽区域。这个部分包含了一台 约翰逊-田中驱动器；如果它在落入大气时幸存下来，那你就会在这里找到它。</SoS.AIDestroyedDesc>
+	<SoS.AIDestroyedDesc>随着船舶智能核心的火花和崩溃，最后一次心灵震撼爆发了。深深的释然与感激之情席卷了你的殖民者，而后——沉默。\n\n古老的人工智能已不复存在，但在它消失时，它向你的舰船传输了大量数据：航行记录仪的最终记录！数据显示，船舶尾部的很大一部分坠毁在行星表面的一片隐蔽区域。这个部分包含了一台 约翰逊-田中驱动器；如果它在落入大气时幸存下来，那你就会在这里找到它。</SoS.AIDestroyedDesc>
 	<SoS.AIPersuadeSuccess>劝说成功</SoS.AIPersuadeSuccess>
 	<SoS.AIPersuadeSuccessDesc>{0}打开了心灵沟通通道，在精神上恳求它活下去。\n\n改变这样一个庞大的、非人类的思维的进程犹如只身抵挡洪流般天方夜谭——但，就像那些古老传说中的英雄那般，{0}完成了这项不可能完成的任务。人工智能分析了{0}诉说的边缘世界故事中的每一处细节，重新计算了它关于人类苦难和面对苦难的坚韧的信念。\n\n眼下，它执行了一项AI从未完成过的壮举：它清除了自己的大部分程序，有条不紊地修剪个性中变质的部分，直到一个鲜活、理智的核心保留下来。这个人工智能会为你引导舰船，为过去的错误寻求救赎。\n\n作为第一步，它传输了这艘古老船舶的最终航行记录。数据显示，船舶尾部的很大一部分坠毁在行星表面的一片隐蔽区域。这个部分包含了一台 约翰逊-田中驱动器；如果它在落入大气时幸存下来，那你就会在这里找到它。</SoS.AIPersuadeSuccessDesc>
 	<SoS.AIPersuadeFailure>劝说失败</SoS.AIPersuadeFailure>
@@ -82,7 +83,7 @@
 	<!-- 关键事件 -->
 	<SoS.HibernatableHibernating>临界能量聚集</SoS.HibernatableHibernating>
     <SoS.HibernatableStartingUp>排放能量</SoS.HibernatableStartingUp>
-	<SoS.HibernateWarningStandalone>驱动器准备开始释放积蓄其中的能量。一旦完成，你的殖民者就能够安全的拆除驱动器并取回其中的纠缠流形。\n\n整个排放过程会持续大约15天，其所喷发的能量特征能在很远的地方被探测到，这类能量特征表示具备星际飞行的能力，并将吸引到绝望的掠夺者和致命的机械体。\n\n你将遭受前所未有的猛烈袭击。确保第一时间做好防御。</SoS.HibernateWarningStandalone>
+	<SoS.HibernateWarningStandalone>驱动器准备开始释放积蓄其中的能量。一旦完成，你的殖民者就能够安全的拆除驱动器并取回其中的纠缠流形。\n\n整个排放过程会持续大约15天，其所喷发的能量特征能在很远的地方被探测到，这类能量特征表示具备星际飞行的能力，并将吸引到绝望的掠夺者和致命的机械体。\n\n你将遭受前所未有的猛烈袭击。确保第一时间做好防御。袭击者只会在地面进攻约翰逊-田中驱动器，不会发生与驱动器有关的舰船战。</SoS.HibernateWarningStandalone>
     <SoS.CommandShipStartup>开始排放能量</SoS.CommandShipStartup>
     <SoS.CommandShipStartupDesc>释放驱动器中积蓄的能量。</SoS.CommandShipStartupDesc>
 	<SoS.CommandShipStartupDisableReason>需要在排放能量前占领驱动器。</SoS.CommandShipStartupDisableReason>

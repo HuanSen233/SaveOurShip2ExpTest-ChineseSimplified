@@ -163,7 +163,7 @@
 	<SoS.StatsShipCombatMapThrust>舰队推重比：{0}</SoS.StatsShipCombatMapThrust>
 	<SoS.ReportInterReady>已为星际旅行做好准备。</SoS.ReportInterReady>
 	<SoS.ReportInterNotReady>这些没有准备好星际旅行：</SoS.ReportInterNotReady>
-	<SoS.ReportNeedPilot>舰船需要领航员在舰桥或有船舶电脑核心。</SoS.ReportNeedPilot>
+	<SoS.ReportNeedPilot>舰船需要领航员在舰桥或有船舶智能核心。</SoS.ReportNeedPilot>
 	<SoS.NeedsMoreFuel>需要 {1} 单位燃料在推进器中，但推进器里只有 {0} 单位燃料。</SoS.NeedsMoreFuel>
 	<SoS.NeedsMorePower>舰船需要 {0} Wd 电量在储能设备中。</SoS.NeedsMorePower>
 	<SoS.NeedsMoreJTEngines>需要更多的 约翰逊-田中驱动器 才能驱动这艘大船。</SoS.NeedsMoreJTEngines>
@@ -202,7 +202,7 @@
 	<SoS.LandNoTargetTile>没有可供着陆的地面地图。可以使用集成传感器扫描或科学控制台观察来寻找行星表面适合着陆的区域。</SoS.LandNoTargetTile>
 	<SoS.Rebuild>舰船部件被毁自动重建</SoS.Rebuild>
 	<SoS.RebuildDesc>放置这艘船上被毁建筑的蓝图。</SoS.RebuildDesc>
-	<SoS.BridgeConnectTooltip>没有舰桥连接到船舶！请检查领航员控制台、战术控制台、无人船舶核心和船舶电脑核心是否正常连接到热容和电力网络。</SoS.BridgeConnectTooltip>
+	<SoS.BridgeConnectTooltip>没有舰桥连接到船舶！请检查领航员控制台、战术控制台、无人船舶核心和船舶智能核心是否正常连接到热容和电力网络。</SoS.BridgeConnectTooltip>
 	<SoS.BridgeSelectOuterdoors>选择外围气闸</SoS.BridgeSelectOuterdoors>
 	<SoS.BridgeSelectOuterdoorsDesc>选择这艘舰船上所有与真空环境直接接触的气闸</SoS.BridgeSelectOuterdoorsDesc>
 	<!-- story -->
@@ -463,6 +463,11 @@
 	<!-- satellite -->
 	<SoS.SatelliteRepair>修复</SoS.SatelliteRepair>
 	<SoS.SatelliteHack>入侵</SoS.SatelliteHack>
+
+	<!-- notorietuy alert -->
+	<SoS.Alert.NotoriertyLabel>恶名值：{0}</SoS.Alert.NotoriertyLabel>
+	<SoS.Alert.NotoriertyLowDesc>不论是由于当海盗劫持商船，还是对哪里进行了轨道轰炸（附属模组：Orbital Bombardment），总之玩家的舰船现在有了恶名。目前情况还不算太糟，但要是接着抢商船或实施轰炸，那这恶名也会逐渐累积，并会因此遭到赏金猎人的追捕。</SoS.Alert.NotoriertyLowDesc>
+	<SoS.Alert.NotoriertyHighDesc>不论是由于当海盗劫持商船，还是对哪里进行了轨道轰炸（附属模组：Orbital Bombardment），总之玩家的舰船现在积累了不小的恶名，也因此遭到赏金猎人的追捕。赏金猎人相关的舰船战每隔{0}天就有可能发生一次。</SoS.Alert.NotoriertyHighDesc>
 
 	<!-- This scetion and lower were added during major translation upgrade -->
 	<!-- Archotech and endgame stuff -->
