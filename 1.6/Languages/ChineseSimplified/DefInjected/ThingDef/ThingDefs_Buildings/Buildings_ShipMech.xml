@@ -29,6 +29,6 @@
     <ShipInside_PassiveVentMechanoid.description>与热容网络交换热量，将舰船内部冷却或加热到所需温度。在热容网络没有中蓄热时可以选择使用电力加热房间。</ShipInside_PassiveVentMechanoid.description>
     <!-- 气闸 -->
     <ShipAirlockMech.label>机械体船舶气闸</ShipAirlockMech.label>
-    <ShipAirlockMech.description>允许进入舰船或在舰船内划分房间。其生成的低能等离子屏障能防止气体逸出。</ShipAirlockMech.description>
+    <ShipAirlockMech.description>允许进入舰船或在舰船内划分房间。其生成的低能等离子屏障能防止气体逸出。在奥德赛DLC的太空里，如果舰船出口处只有一个气闸，那么连接出口气闸的舰船舱室可能会在其开启时变为真空状态，因此建议在舰船出口处设置两个气闸。</ShipAirlockMech.description>
 
 </LanguageData>

@@ -29,7 +29,7 @@
     <ShipInside_PassiveVentArchotech.description>与热容网络交换热量，将舰船内部冷却或加热到所需温度。在热容网络没有中蓄热时可以选择使用电力加热房间。</ShipInside_PassiveVentArchotech.description>
     <!-- 气闸 -->
     <ShipAirlockArchotech.label>超凡科技船舶气闸</ShipAirlockArchotech.label>
-    <ShipAirlockArchotech.description>允许进入舰船或在舰船内划分房间。其生成的低能等离子屏障能防止气体逸出。</ShipAirlockArchotech.description>
+    <ShipAirlockArchotech.description>允许进入舰船或在舰船内划分房间。其生成的低能等离子屏障能防止气体逸出。在奥德赛DLC的太空里，如果舰船出口处只有一个气闸，那么连接出口气闸的舰船舱室可能会在其开启时变为真空状态，因此建议在舰船出口处设置两个气闸。</ShipAirlockArchotech.description>
     <!-- 推进器 -->
     <Ship_Engine_Archotech.label>反物质推进器</Ship_Engine_Archotech.label>
     <Ship_Engine_Archotech.description>一种先进的战斗推进器，能够实现巨大的爆发速度。使用异形粒子作为燃料。\n\n不能在行星大气中工作。\n推力：6000\n燃料消耗：1 异形粒子/秒</Ship_Engine_Archotech.description>

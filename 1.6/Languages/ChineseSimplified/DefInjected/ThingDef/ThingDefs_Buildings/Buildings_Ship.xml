@@ -30,7 +30,7 @@
     <ShipInside_PassiveVent.description>与热容网络交换热量，将舰船舱室冷却或加热到所需温度。\n\n可以选择使用电力加热房间。</ShipInside_PassiveVent.description>
     <!-- 气闸 -->
     <ShipAirlock.label>标准船舶气闸</ShipAirlock.label>
-    <ShipAirlock.description>允许进入舰船或在舰船内划分房间。其生成的低能等离子屏障能防止气体逸出。</ShipAirlock.description>
+    <ShipAirlock.description>允许进入舰船或在舰船内划分房间。其生成的低能等离子屏障能防止气体逸出。在奥德赛DLC的太空里，如果舰船出口处只有一个气闸，那么连接出口气闸的舰船舱室可能会在其开启时变为真空状态，因此建议在舰船出口处设置两个气闸。</ShipAirlock.description>
     <!-- 对接装置 -->
     <ShipAirlockBeam.label>船舶对接装置</ShipAirlockBeam.label>
     <ShipAirlockBeam.description>舰船对接系统的一半。将两个这东西放在船舶气闸旁边并向外朝向真空区域：|o| 其中 | 代表对接装置，o代表船舶气闸，然后，气闸将获得扩展对接装置向外延伸最长3地格的能力。\n\n气闸走廊不适合星际航行和大气再入，因此舰船对接将自动分离。</ShipAirlockBeam.description>
