@@ -149,6 +149,7 @@
 	<SelectEverything>选择所有</SelectEverything>
 	<SelectEverythingDesc>选择所有。</SelectEverythingDesc>
 	<!-- bridge -->
+	<SoS.Ship.DefaultName>未命名舰船</SoS.Ship.DefaultName>
 	<SoS.StatsShipName>舰船名称：{0}</SoS.StatsShipName>
 	<SoS.StatsNotoriety>恶名值：{0}</SoS.StatsNotoriety>
 	<SoS.StatsShipMass>舰船重量：{0}</SoS.StatsShipMass>
@@ -543,6 +544,19 @@
 
 	<!-- Ship buildings and hardware -->
 	<SoS.HolodeckOnline>现行程序：{0}</SoS.HolodeckOnline>
+	<!-- Holodeck progarams that are illustrated with various graphichs around active holodeck -->
+	<SoS.HolodeckProgram.SpaceBattle>太空战</SoS.HolodeckProgram.SpaceBattle>
+	<SoS.HolodeckProgram.FightClub>搏击俱乐部</SoS.HolodeckProgram.FightClub>
+	<SoS.HolodeckProgram.HotSpring>温泉</SoS.HolodeckProgram.HotSpring>
+	<SoS.HolodeckProgram.ExoticMenagerie>异种动物园</SoS.HolodeckProgram.ExoticMenagerie>
+	<SoS.HolodeckProgram.OrganTycoon>器官大亨</SoS.HolodeckProgram.OrganTycoon>
+	<SoS.HolodeckProgram.BeachCookout>海边烧烤</SoS.HolodeckProgram.BeachCookout>
+	<SoS.HolodeckProgram.GoldenPalace>黄金宫殿</SoS.HolodeckProgram.GoldenPalace>
+	<SoS.HolodeckProgram.EnchantedGarden>魔法花园‌</SoS.HolodeckProgram.EnchantedGarden>
+	<SoS.HolodeckProgram.Caveworld>洞穴世界</SoS.HolodeckProgram.Caveworld>
+	<SoS.HolodeckProgram.ArtMuseum>艺术博物馆</SoS.HolodeckProgram.ArtMuseum>
+	<SoS.HolodeckProgram.MechanoidHive>机械体巢穴</SoS.HolodeckProgram.MechanoidHive>
+	<SoS.HolodeckProgram.Psychedelia>成瘾品幻境</SoS.HolodeckProgram.Psychedelia>
 	<SoS.HolodeckOffline>离线</SoS.HolodeckOffline>
 
 	<SoS.FuelInfo>{0}：{1} / {2}</SoS.FuelInfo>
