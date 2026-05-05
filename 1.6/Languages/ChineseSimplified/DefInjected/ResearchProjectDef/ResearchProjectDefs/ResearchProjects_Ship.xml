@@ -184,7 +184,7 @@
     <ShuttleDropship.generalRules.rulesStrings.4>subject_gerund->建造超重型穿梭机</ShuttleDropship.generalRules.rulesStrings.4>
 
     <ShipTurretAC.label>舰载机炮</ShipTurretAC.label>
-    <ShipTurretAC.description>解锁建造小型舰对舰实弹武器。与能量武器不同，这种武器需要弹药但几乎不产生热量。</ShipTurretAC.description>
+    <ShipTurretAC.description>解锁建造小型舰对舰实弹武器。与能量武器不同，这种武器需要弹药不过几乎不产生热量。可用于拦截鱼雷和穿梭机。</ShipTurretAC.description>
     <ShipTurretAC.generalRules.rulesStrings.0>subject->舰载机炮</ShipTurretAC.generalRules.rulesStrings.0>
     <ShipTurretAC.generalRules.rulesStrings.1>subject_story->认为能量武器是复杂且没必要的，更喜欢金属间的撞击带来的效果</ShipTurretAC.generalRules.rulesStrings.1>
     <ShipTurretAC.generalRules.rulesStrings.2>subject_story->用草率组装的民用飞船绝望地对抗海盗的堡垒</ShipTurretAC.generalRules.rulesStrings.2>
@@ -192,7 +192,7 @@
     <ShipTurretAC.generalRules.rulesStrings.4>subject_gerund->建造舰载机炮</ShipTurretAC.generalRules.rulesStrings.4>
 
     <ShipTurretLaser.label>舰载激光炮</ShipTurretLaser.label>
-    <ShipTurretLaser.description>解锁建造小型舰对舰激光武器。具有高破坏力但仅能在短距离使用。可拦截鱼雷。</ShipTurretLaser.description>
+    <ShipTurretLaser.description>解锁建造小型舰对舰激光武器。具有高破坏力但仅能在短距离使用。可用于拦截鱼雷和穿梭机。</ShipTurretLaser.description>
     <ShipTurretLaser.generalRules.rulesStrings.0>subject->舰载激光炮</ShipTurretLaser.generalRules.rulesStrings.0>
     <ShipTurretLaser.generalRules.rulesStrings.1>subject_story->为了得到激光武器的秘密向一个超凡科技献出了一只眼睛(然后又因为激光反射失去了另一只眼睛)</ShipTurretLaser.generalRules.rulesStrings.1>
     <ShipTurretLaser.generalRules.rulesStrings.2>subject_story->使用改装过的开采激光击穿了一艘机械体突击船的装甲</ShipTurretLaser.generalRules.rulesStrings.2>
@@ -231,16 +231,16 @@
     <ShipHeatManifold.generalRules.rulesStrings.3>subject_story->对伊什瓦拉海军的座右铭“不惜一切代价去争取胜利”的理解过于片面</ShipHeatManifold.generalRules.rulesStrings.3>
     <ShipHeatManifold.generalRules.rulesStrings.4>subject_gerund->快速排出飞船上的热量</ShipHeatManifold.generalRules.rulesStrings.4>
 
-    <ShipTurretMedium.label>巡洋舰武器</ShipTurretMedium.label>
-    <ShipTurretMedium.description>解锁建造大型舰炮，适合中等体积的战舰。</ShipTurretMedium.description>
+    <ShipTurretMedium.label>重型武器装备</ShipTurretMedium.label>
+    <ShipTurretMedium.description>解锁建造大型舰炮。这种较大的炮塔难以对付来袭的鱼雷和穿梭机。</ShipTurretMedium.description>
     <ShipTurretMedium.generalRules.rulesStrings.0>subject->巡洋舰武器</ShipTurretMedium.generalRules.rulesStrings.0>
     <ShipTurretMedium.generalRules.rulesStrings.1>subject_story->被囚禁在两个对立星球之间的军备竞赛中，被迫为对立方设计飞船舰载武器</ShipTurretMedium.generalRules.rulesStrings.1>
     <ShipTurretMedium.generalRules.rulesStrings.2>subject_story->监督将一艘星际客轮改装成战舰</ShipTurretMedium.generalRules.rulesStrings.2>
     <ShipTurretMedium.generalRules.rulesStrings.3>subject_story->在索菲亚门达陷落期间领导奴隶起义，临时制造出足够威胁帝国战舰的武器</ShipTurretMedium.generalRules.rulesStrings.3>
     <ShipTurretMedium.generalRules.rulesStrings.4>subject_gerund->建造巡洋舰武器</ShipTurretMedium.generalRules.rulesStrings.4>
 
-    <ShipTurretLarge.label>主力舰武器</ShipTurretLarge.label>
-    <ShipTurretLarge.description>解锁建造模块化的脊峰武器，其通常只在主力舰上能看到。</ShipTurretLarge.description>
+    <ShipTurretLarge.label>脊峰武器装备</ShipTurretLarge.label>
+    <ShipTurretLarge.description>解锁建造模块化的脊峰武器。一门完整的脊峰炮包含一个脊峰炮口，可选装的一个或多个脊峰聚能器，以及一个脊峰电容器。</ShipTurretLarge.description>
     <ShipTurretLarge.generalRules.rulesStrings.0>subject->脊峰武器</ShipTurretLarge.generalRules.rulesStrings.0>
     <ShipTurretLarge.generalRules.rulesStrings.1>subject_story->曾在伊什瓦拉古老的最后一战中奋勇作战，使用基于小行星的武器对抗机械体那数量庞大到令人绝望的登陆舰</ShipTurretLarge.generalRules.rulesStrings.1>
     <ShipTurretLarge.generalRules.rulesStrings.2>subject_story->曾在审判号星际战舰上服役，这是一艘由超凡科技建造的飞船，据说其主炮有数公里长</ShipTurretLarge.generalRules.rulesStrings.2>
