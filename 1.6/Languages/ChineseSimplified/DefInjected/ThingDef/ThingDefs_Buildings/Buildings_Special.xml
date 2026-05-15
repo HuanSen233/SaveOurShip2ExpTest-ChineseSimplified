@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <TrapIED_Instant.label>船舶分离器</TrapIED_Instant.label>
+    <TrapIED_Instant.description>用来把一群战斗机连成一个整体。只要游戏不处于暂停状态，它就会瞬间爆炸摧毁3x3范围内的船体，将那处在同一张地图中的战斗机编队的战斗机，拆成多架独立的、有自己地图的战斗机。</TrapIED_Instant.description>
+    <TrapIED_InstantWithCR.label>有战斗评级的船舶分离器</TrapIED_InstantWithCR.label>
+    <TrapIED_InstantWithCR.description>船舶分离器，但是加了50点战斗评级。战斗机编队的战斗机在各自分离后，会因为极高的推重比而变得异常强大，所以预计需要用这种分离器来调整其战斗评级。</TrapIED_InstantWithCR.description>
+
+</LanguageData>
