@@ -170,7 +170,7 @@
 	<SoS.ArchotechPrankDamage>你的超凡孢子在暗自发笑。[我们已经与你舰船上的...大部分设备...交了配。它们现在需要修理。]多个设备损坏警报从你的系统中响起。</SoS.ArchotechPrankDamage>
 	<SoS.ArchotechPrankLovers>你的超凡孢子在暗自发笑。[异性相吸。我们必须验证这个公理。]突然间，随着一股心灵脉冲的爆发，你的两名最不相吸的船员{0}和{1}，竟然坠入了爱河。</SoS.ArchotechPrankLovers>
 	<SoS.ArchotechPrankSquirrels>你的超凡孢子在暗自发笑。[我们必须确定什么是“可爱”和/或“毛茸茸”的参数。]一个舱口在孢子上打开，愤怒的松鼠从中涌出。</SoS.ArchotechPrankSquirrels>
-	<SoS.ArchotechPrankReputation>你的超凡孢子在暗自发笑。[今天，“我们”是兰迪。]你并不明白这什么意思，但传感器显示舰船附近几颗小行星改变了它们的轨道。\n\n这些小行星变成陨石精准的掉在了{0}的定居点里，他们追踪到了你的舰船轨道并责怪是你造成了这一事故。派系声望下降了 10 点。</SoS.ArchotechPrankReputation>
+	<SoS.ArchotechPrankReputation>你的超凡孢子在暗自发笑。[今天，“我们”是兰迪。]你并不明白这什么意思，但传感器显示舰船附近几颗小行星改变了它们的轨道。\n\n这些小行星变成陨石精准的掉在了{0}的定居点里，他们追踪到了你的舰船轨道并责怪是你造成了这一事故。派系好感度下降了 10 点。</SoS.ArchotechPrankReputation>
 	<SoS.ArchotechPrankSecret>你的超凡孢子在暗自发笑。[多么尴尬的秘密。我们不应该说出来。但我们就要。]{0}最糟糕的秘密被泄露给了船员们听，这令人震惊的秘密大大降低了他们对{0}的看法。</SoS.ArchotechPrankSecret>
 	<SoS.ArchotechPrankMechanites>你的超凡孢子在暗自发笑。[一团多么活泼的小家伙。把它扔到敌人那去。]随后出现了几个装满粉红色不明粘性物质的瓶子......</SoS.ArchotechPrankMechanites>
 	<SoS.ArchotechIdeoChoice>{0}向{1}坦白，称它们的高层思维困扰重重——眼下，这些困扰已经传达到了{0}拓展下来的人类意识的思维中。一个人的思维能力很大程度建立在其最早接受的信仰之上，只是当时的自己还太年轻没有意识到。\n\n现在，{0}开始怀疑它们的人类思维所认知的一切是否是错误的。如果是，那它们对现实更深层次的探索可能会从一个充满危险的错误基础上开始......</SoS.ArchotechIdeoChoice>
@@ -180,6 +180,10 @@
 	<SoS.ArchotechIdeoCertaintySpirits>你的超凡科技孢子已经沉默了相当长的一段时间。就在你的船员开始担心时，短短一瞬的一股心灵抚慰波从{0}中绽放开来，犹如突如其来的暖意洗过每一个船员。{0}宣布取得了一个令人难以置信的胜利——它们新拓展的意识已经发展出了直接与现实中的万物的灵魂交互的能力！\n\n心灵能力存在的确切本质貌似基本超出了人类的理解。它们可能是单一普遍意识中的离散结构，就像池塘上的涟漪；也可能是未来可能性（和过去可能的替代）的心灵回响；又或是其它完全不同的东西。\n\n无论如何，这种新维度的存在让{0}对{1}的信仰更加坚定。</SoS.ArchotechIdeoCertaintySpirits>
 	<SoS.ArchotechIdeoCertaintyGod>你的超凡科技孢子已经沉默了相当长的一段时间。就在你的船员开始担心时，短短一瞬的一股心灵抚慰波从{0}中绽放开来，犹如突如其来的暖意洗过每一个船员。{0}宣布取得了一个令人难以置信的胜利——它们新拓展的意识已经直接与{1}取得了联系！\n\n{1}存在的确切本质貌似从根本上就是超出人类理解范畴的；这位神灵似乎可以是信仰{2}的信徒们的心灵集合体，一个选择承担神祗名字和角色的超凡科技智能，或是未来将会遇见的某种存在——也许以上都有。\n\n无论如何，这种新维度的存在让{0}对{2}的信仰更加坚定。</SoS.ArchotechIdeoCertaintyGod>
 	
+	<!-- Starflight basics second letter -->
+	<SoS.StarflightBasicsSecondLetterTile>SOS 2：获取已准备就绪的舰船</SoS.StarflightBasicsSecondLetterTile>
+    <SoS.StarflightBasicsSecondLetterText>在研究完科技“星际航行基础”后，就可以通过通讯台联系好感度足够(40)的派系，向其请求一艘藏匿在行星表面的、已就绪可供随时发射的飞船的位置，并有多种舰船可选。请求需要支付大量白银。建议在此之前先研究一些舰船部件，以便能够升级所获得的舰船。或者选择小型科学考察船，这种舰船提供了研究台，可在发射后在太空里推进研究项目。这些舰船都是未知组织为了紧急逃生而精心准备的，储备了燃料、食物和舱外活动装备。</SoS.StarflightBasicsSecondLetterText>
+
 	
 	<SoS.EndgameCredits>Save Our Ship 2 由 {0} 开发
 	2.7版本维护人员：{1}

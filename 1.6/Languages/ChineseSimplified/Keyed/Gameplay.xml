@@ -680,6 +680,17 @@
 	<SoS.DodgeRight>向右闪避</SoS.DodgeRight>
 	<SoS.DodgeRightDesc>使用舰船左舷的RCS推进器将舰船向左推进以执行规避动作。</SoS.DodgeRightDesc>
 	
+	<!-- Stashed ship quest -->
+	
+	<SoS.StashedShip.RequestOption>请求藏匿舰船的位置 ({0}) (花费 {1} 白银) ({2})</SoS.StashedShip.RequestOption>
+	<SoS.StashedShip.RequestOptionDummy>请求藏匿舰船的位置</SoS.StashedShip.RequestOptionDummy>
+	<SoS.StashedShip.OnCooldown>下一次请求藏匿舰船队窗口在 {0}天 后。</SoS.StashedShip.OnCooldown>
+	<SoS.StashedShip.RequiresTech>再提出请求之前需要研究科技“星际航行基础”。</SoS.StashedShip.RequiresTech>
+	<SoS.StashedShip.NoSecuroity>无人看守</SoS.StashedShip.NoSecuroity>
+	<SoS.StashedShip.MinorSceurity>轻度保护</SoS.StashedShip.MinorSceurity>
+	<SoS.StashedShip.AverageSceurity>正常戒备</SoS.StashedShip.AverageSceurity>
+	<SoS.StashedShip.HighSceurity>戒备森严</SoS.StashedShip.HighSceurity>
+	
 	<!-- obsolete/unused
 	<SoS.PirateTradeEmpire>Our act of piracy against the Empire has not gone unnoticed!</SoS.PirateTradeEmpire>
 	<SoS.MoveFailPawns>Player pawn in {0}, ship move aborted.</SoS.MoveFailPawns>

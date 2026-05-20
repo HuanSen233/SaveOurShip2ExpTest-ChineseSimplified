@@ -9,4 +9,7 @@
     <SoSMayday.label>沉船</SoSMayday.label>
     <SoSMayday.description>一艘被击毁的舰船。</SoSMayday.description>
 
+    <SoSStashedShipSitePart.label>藏匿舰船，可能存在守卫</SoSStashedShipSitePart.label>
+    <SoSStashedShipSitePart.description>一艘被藏匿的舰船。</SoSStashedShipSitePart.description>
+
 </LanguageData>
