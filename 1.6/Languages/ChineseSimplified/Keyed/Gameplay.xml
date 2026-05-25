@@ -207,6 +207,22 @@
 	<SoS.BridgeConnectTooltip>没有舰桥连接到船舶！请检查领航员控制台、战术控制台、无人船舶核心和船舶智能核心是否正常连接到热容和电力网络。</SoS.BridgeConnectTooltip>
 	<SoS.BridgeSelectOuterdoors>选择外围气闸</SoS.BridgeSelectOuterdoors>
 	<SoS.BridgeSelectOuterdoorsDesc>选择这艘舰船上所有与真空环境直接接触的气闸</SoS.BridgeSelectOuterdoorsDesc>
+	<!-- weapon groups -->
+	<SoS.CommandEnableWeaponGroups>启用武器组</SoS.CommandEnableWeaponGroups>
+	<SoS.CommandEnableWeaponGroupsDesc>武器分组系统可将舰船武器分配到不同编组中，便于在后续快速选择所需武器。此功能仅适用于玩家舰船所在地图。若不需要此功能，可以将其关闭来节省屏幕空间。</SoS.CommandEnableWeaponGroupsDesc>
+	<SoS.CommandSelectWeaponGroup>选择武器组 {0}</SoS.CommandSelectWeaponGroup>
+	<SoS.CommandSelectWeaponGroupDesc>选择特定武器组。仅限玩家舰船地图。</SoS.CommandSelectWeaponGroupDesc>
+	<SoS.CommandIncludeInWeaponGroup>添加至武器组 {0}</SoS.CommandIncludeInWeaponGroup>
+	<SoS.CommandIncludeInWeaponGroupDesc>勾选/取消勾选可将武器添加/移除对应武器组。</SoS.CommandIncludeInWeaponGroupDesc>
+	<SoS.WeaponGroup.1>1</SoS.WeaponGroup.1>
+	<SoS.WeaponGroup.2>2</SoS.WeaponGroup.2>
+	<SoS.WeaponGroup.3>3</SoS.WeaponGroup.3>
+	<SoS.WeaponGroup.4>4</SoS.WeaponGroup.4>
+	<SoS.WeaponGroup.5>5</SoS.WeaponGroup.5>
+	<SoS.WeaponGroup.6>6</SoS.WeaponGroup.6>
+	<SoS.WeaponGroup.7>7</SoS.WeaponGroup.7>
+	<SoS.WeaponGroup.8>8</SoS.WeaponGroup.8>
+	<SoS.WeaponGroup.9>9</SoS.WeaponGroup.9>
 	<!-- story -->
 	<SoS.QuestPillarA>攻击\n地平线号空间站</SoS.QuestPillarA>
 	<SoS.QuestPillarADesc>攻击超凡科技星球改造站并尝试回收一根超凡科技柱</SoS.QuestPillarADesc>
@@ -682,8 +698,12 @@
 	
 	<!-- Stashed ship quest -->
 	
-	<SoS.StashedShip.RequestOption>请求藏匿舰船的位置 ({0}) (花费 {1} 白银) ({2})</SoS.StashedShip.RequestOption>
+	<SoS.StashedShip.RequestOptionParent>请求藏匿舰船的位置</SoS.StashedShip.RequestOptionParent>
+	<SoS.StashedShip.RequestOption>{0} (花费 {1} 白银) ({2})</SoS.StashedShip.RequestOption>
+	<!-- Top-level option when unavailable -->
 	<SoS.StashedShip.RequestOptionDummy>请求藏匿舰船的位置</SoS.StashedShip.RequestOptionDummy>
+	<!-- Specific ship  option when unavailable -->
+	<SoS.StashedShip.RequestOptionDummySpecific>{0}</SoS.StashedShip.RequestOptionDummySpecific>
 	<SoS.StashedShip.OnCooldown>下一次请求藏匿舰船队窗口在 {0}天 后。</SoS.StashedShip.OnCooldown>
 	<SoS.StashedShip.RequiresTech>再提出请求之前需要研究科技“星际航行基础”。</SoS.StashedShip.RequiresTech>
 	<SoS.StashedShip.NoSecuroity>无人看守</SoS.StashedShip.NoSecuroity>
