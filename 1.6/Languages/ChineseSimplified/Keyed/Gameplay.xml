@@ -109,6 +109,7 @@
 	<SoS.ClaimWrecksCommandDesc>占领这张地图上的所有残骸</SoS.ClaimWrecksCommandDesc>
 	<SoS.ClaimWrecksSuccess>占领 {0} 个建筑！</SoS.ClaimWrecksSuccess>
 	<SoS.ClaimWrecksDisabled>有敌人在地图上！</SoS.ClaimWrecksDisabled>
+	<SoS.AutoClaimedShuttles>战斗结束后自动占领 {0} 艘穿梭机。</SoS.AutoClaimedShuttles>
 	<SoS.RemoveWrecksCommand>移除残骸</SoS.RemoveWrecksCommand>
 	<SoS.RemoveWrecksCommandDesc>移除这张地图上选中的残骸</SoS.RemoveWrecksCommandDesc>
 	<!-- placeworkers -->
@@ -150,6 +151,8 @@
 	<SelectEverything>选择所有</SelectEverything>
 	<SelectEverythingDesc>选择所有。</SelectEverythingDesc>
 	<!-- bridge -->
+	<!-- Ship name in case there is no bridge -->
+	<SoS.Ship.WreckName>残骸</SoS.Ship.WreckName>
 	<SoS.Ship.DefaultName>未命名舰船</SoS.Ship.DefaultName>
 	<SoS.StatsShipName>舰船名称：{0}</SoS.StatsShipName>
 	<SoS.StatsNotoriety>恶名值：{0}</SoS.StatsNotoriety>
@@ -487,6 +490,18 @@
 	<SoS.Alert.NotoriertyLowDesc>不论是由于当海盗劫持商船，还是对哪里进行了轨道轰炸（附属模组：Orbital Bombardment），总之玩家的舰船现在有了恶名。目前情况还不算太糟，但要是接着抢商船或实施轰炸，那这恶名也会逐渐累积，并会因此遭到赏金猎人的追捕。</SoS.Alert.NotoriertyLowDesc>
 	<SoS.Alert.NotoriertyHighDesc>不论是由于当海盗劫持商船，还是对哪里进行了轨道轰炸（附属模组：Orbital Bombardment），总之玩家的舰船现在积累了不小的恶名，也因此遭到赏金猎人的追捕。赏金猎人相关的舰船战每隔{0}天就有可能发生一次。</SoS.Alert.NotoriertyHighDesc>
 
+	<!-- Movement vlocked alert -->
+	<SoS.Alert.MovemenyBlocked>舰船行动受阻</SoS.Alert.MovemenyBlocked>
+	<SoS.Alert.MovemenyBlockedDesc>地图上存在沉船或无法移动的舰船，在舰船战中的舰船将会被阻止移动。</SoS.Alert.MovemenyBlockedDesc>	
+	<!-- TWR / Movement blocked alert -->
+	<SoS.Alert.MovemenyBlocked>玩家舰船行动受阻！</SoS.Alert.MovemenyBlocked>
+	<SoS.Alert.MovemenyBlockedDesc>地图上存在沉船或无法移动的舰船，在舰船战中的玩家舰船将会被阻止移动。</SoS.Alert.MovemenyBlockedDesc>
+	<SoS.Alert.TWR>推重比：玩家 {0}，敌方：{1}</SoS.Alert.TWR>	
+	<SoS.Alert.TWRDesc>玩家和敌方地图在舰船战中的最终推力与重量比（TWR、推重比）。当同一张地图中有多艘舰船时，这个数值将取速度最慢的舰船的推重比。
+速度最慢的玩家舰船：{0}，点此跳转至该舰船。
+速度最慢的敌方舰船：{1}。
+	</SoS.Alert.TWRDesc>	
+
 	<!-- This scetion and lower were added during major translation upgrade -->
 	<!-- Archotech and endgame stuff -->
 	<SoS.ArchotechIdeoKeep>发现了 {0} 的真相</SoS.ArchotechIdeoKeep>
@@ -553,6 +568,7 @@
 
 	<!-- Starship bow quest -->
 	<SoS.AIPersuade>劝说其活下去</SoS.AIPersuade>
+	<SoS.AIPersuadeConfirmation>劝说疯狂AI的行为存在危险，如果失败可能会导致永久性健康问题。要继续吗？</SoS.AIPersuadeConfirmation>
 	<SoS.BlackBoxHack>入侵</SoS.BlackBoxHack>
 	<SoS.ReactorDisableSuccess>反应堆关闭成功！</SoS.ReactorDisableSuccess>
 	<SoS.DoorOpenSuccess>门已经成功打开！</SoS.DoorOpenSuccess>
@@ -710,6 +726,26 @@
 	<SoS.StashedShip.MinorSceurity>轻度保护</SoS.StashedShip.MinorSceurity>
 	<SoS.StashedShip.AverageSceurity>正常戒备</SoS.StashedShip.AverageSceurity>
 	<SoS.StashedShip.HighSceurity>戒备森严</SoS.StashedShip.HighSceurity>
+	<!-- Ship category and class names -->
+	<SoS.StashedShip.RecommendedStarterShips>推荐起始舰船</SoS.StashedShip.RecommendedStarterShips>
+	<SoS.StashedShip.StarterShips>起始舰船</SoS.StashedShip.StarterShips>
+	<SoS.StashedShip.Traders>商船</SoS.StashedShip.Traders>
+	<SoS.StashedShip.Fighters>战斗机</SoS.StashedShip.Fighters>
+	<SoS.StashedShip.Bombers>轰炸机</SoS.StashedShip.Bombers>
+	<SoS.StashedShip.Corvettes>巡逻舰</SoS.StashedShip.Corvettes>
+	<SoS.StashedShip.Frigates>护卫舰</SoS.StashedShip.Frigates>
+	<SoS.StashedShip.Destroyers>驱逐舰</SoS.StashedShip.Destroyers>
+	<SoS.StashedShip.Cruisers>巡洋舰</SoS.StashedShip.Cruisers>
+	<SoS.StashedShip.Battleships>战列舰</SoS.StashedShip.Battleships>
+	<SoS.StashedShip.Battlecruisers>战列巡洋舰</SoS.StashedShip.Battlecruisers>
+	<SoS.StashedShip.Dreadnoughts>无畏舰</SoS.StashedShip.Dreadnoughts>
+	<SoS.StashedShip.Carriers>航空母舰</SoS.StashedShip.Carriers>
+	
+	<SoS.StashedShip.DevAllShips>调试：所有舰船（谨慎使用）</SoS.StashedShip.DevAllShips>
+	<SoS.StashedShip.DevAllShipsFlipped>调试：所有舰船翻转（谨慎使用）</SoS.StashedShip.DevAllShipsFlipped>
+
+	<SoS.StashedShip.Destroyers>驱逐舰</SoS.StashedShip.Destroyers>
+
 	
 	<!-- obsolete/unused
 	<SoS.PirateTradeEmpire>Our act of piracy against the Empire has not gone unnoticed!</SoS.PirateTradeEmpire>

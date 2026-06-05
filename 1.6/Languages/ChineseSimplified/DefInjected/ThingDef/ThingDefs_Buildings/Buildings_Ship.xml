@@ -43,10 +43,13 @@
     <!-- 推进器 -->
     <Ship_Engine_Small.label>小型火箭推进器</Ship_Engine_Small.label>
     <Ship_Engine_Small.description>一种使用化合燃料驱动的推进器，能将舰船送入轨道。不能进行星际航行。\n\n推力：500\n燃料消耗：1 化合燃料/秒\n最大起飞重量：750</Ship_Engine_Small.description>
+    <Ship_Engine_Small.description MayRequire="Ludeon.RimWorld.Odyssey">一种使用化合燃料驱动的推进器，能将舰船送入轨道。不能进行星际航行。\n\n推力：500\n燃料消耗：1 化合燃料/秒\n最大起飞重量：750\n\n给逆重飞船的使用说明：一种相对较小的化合燃料推进器，结构简单，能轻收固定在飞船上而不用费力安装。\n\n游戏效果：兼具推进器和燃料箱的功能。+15最大航程。必须完全放在逆重飞船基架上。</Ship_Engine_Small.description>
     <Ship_Engine.label>火箭推进器</Ship_Engine.label>
     <Ship_Engine.description>一种使用化合燃料驱动的推进器，能将舰船送入轨道。不能进行星际航行。\n\n推力：1000\n燃料消耗：2 化合燃料/秒\n最大起飞重量：1000</Ship_Engine.description>
+    <Ship_Engine.description MayRequire="Ludeon.RimWorld.Odyssey">一种使用化合燃料驱动的推进器，能将舰船送入轨道。不能进行星际航行。\n\n推力：1000\n燃料消耗：2 化合燃料/秒\n最大起飞重量：1000\n\n给逆重飞船的使用说明：一种便宜皮实的化合燃料推进器。\n\n游戏效果：兼具推进器和燃料箱的功能。+30最大航程。必须完全放在逆重飞船基架上。</Ship_Engine.description>
     <Ship_Engine_Large.label>核能推进器</Ship_Engine_Large.label>
     <Ship_Engine_Large.description>一种使用核燃料驱动的核动力推进器，能将舰船送入轨道。不能进行星际航行。\n\n推力：3000\n燃料消耗：3 核燃料舱/秒\n最大起飞重量：4000</Ship_Engine_Large.description>
+    <Ship_Engine_Large.description MayRequire="Ludeon.RimWorld.Odyssey">一种使用核燃料驱动的核动力推进器，能将舰船送入轨道。不能进行星际航行。\n\n推力：3000\n燃料消耗：3 核燃料舱/秒\n最大起飞重量：4000\n\n给逆重飞船的使用说明：这台怪兽引擎转为驱动庞大的战列舰和星际货运飞船而设计。当它被改造装到逆重飞船上时，能助你轻松地在极短时间内把你的船送到任何星球上的任何地点，且燃料效率极高...轻松过头了。\n\n游戏效果：仅需一个就能最大化航程且大大降低油耗。但是，它强大推力影响使逆重飞船的操控使其变得笨拙，这将会降低飞行质量。+500最大航程, 但是-15飞行质量。必须完全放在逆重飞船基架上。</Ship_Engine_Large.description>
     
     <Ship_Thruster.label>RCS推进器</Ship_Thruster.label>
     <Ship_Thruster.description>用于让舰船在地图上移动的小型推进器。每2000点舰船重量需要一个。</Ship_Thruster.description>

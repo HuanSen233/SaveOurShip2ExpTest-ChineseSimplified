@@ -27,6 +27,9 @@
 	<SoS.Settings.ArchoRemove.Desc>如果第三方模组在超凡科技孢子能被正常建造前生成了超凡生物，那么这个选项会将它们删除。默认：关</SoS.Settings.ArchoRemove.Desc>
 	<SoS.Settings.ArchoKill>超凡生物不能失去孢子</SoS.Settings.ArchoKill>
 	<SoS.Settings.ArchoKill.Desc>如果超凡科技孢子被摧毁，所有的超凡生物都将死亡。默认：关</SoS.Settings.ArchoKill.Desc>
+	<SoS.Settings.NeverRetreat>敌人死战不退</SoS.Settings.NeverRetreat>
+	<SoS.Settings.NeverRetreat.Desc>关掉敌人的撤退功能可能会让游戏变得更简单，尤其是当玩家舰船速度比对面慢的时候。也可用于测试。</SoS.Settings.NeverRetreat.Desc>
+
 	<SoS.Settings.Debug>调试模式</SoS.Settings.Debug>
 	<SoS.Settings.Debug.Desc>绘制船舶区域，并在屏幕上列出所有舰船、残骸，鼠标悬停其之上将把该物体的更多详细信息添加进日志。默认：关</SoS.Settings.Debug.Desc>
 	
