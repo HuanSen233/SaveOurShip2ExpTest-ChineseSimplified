@@ -30,6 +30,9 @@
 	<SoS.Settings.NeverRetreat>敌人死战不退</SoS.Settings.NeverRetreat>
 	<SoS.Settings.NeverRetreat.Desc>关掉敌人的撤退功能可能会让游戏变得更简单，尤其是当玩家舰船速度比对面慢的时候。也可用于测试。</SoS.Settings.NeverRetreat.Desc>
 
+	<SoS.Settings.AddAntiBoardingDefense>增强反登船防御</SoS.Settings.AddAntiBoardingDefense>
+	<SoS.Settings.AddAntiBoardingDefense.Desc>敌方舰船的外侧气闸附近将自动添加炮塔，增强对跳帮攻击登船阶段的防御能力。如果启用了Shredder Tech模组，那么此功能也会随机把这个模组中，那种会痛击EVA套装的炮塔放上去。要是登船过于困难可以关掉这项设置。</SoS.Settings.AddAntiBoardingDefense.Desc>	
+
 	<SoS.Settings.Debug>调试模式</SoS.Settings.Debug>
 	<SoS.Settings.Debug.Desc>绘制船舶区域，并在屏幕上列出所有舰船、残骸，鼠标悬停其之上将把该物体的更多详细信息添加进日志。默认：关</SoS.Settings.Debug.Desc>
 	
