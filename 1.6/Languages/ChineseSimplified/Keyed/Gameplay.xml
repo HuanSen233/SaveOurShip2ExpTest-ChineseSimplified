@@ -722,6 +722,7 @@
 	<SoS.StashedShip.RequestOptionDummySpecific>{0}</SoS.StashedShip.RequestOptionDummySpecific>
 	<SoS.StashedShip.OnCooldown>下一次请求藏匿舰船队窗口在 {0}天 后。</SoS.StashedShip.OnCooldown>
 	<SoS.StashedShip.RequiresTech>再提出请求之前需要研究科技“星际航行基础”。</SoS.StashedShip.RequiresTech>
+	<SoS.StashedShip.NotInSpace>藏匿在星球表面的各型舰船不会在太空中遇到。</SoS.StashedShip.NotInSpace>
 	<SoS.StashedShip.NoSecuroity>无人看守</SoS.StashedShip.NoSecuroity>
 	<SoS.StashedShip.MinorSceurity>轻度保护</SoS.StashedShip.MinorSceurity>
 	<SoS.StashedShip.AverageSceurity>正常戒备</SoS.StashedShip.AverageSceurity>
