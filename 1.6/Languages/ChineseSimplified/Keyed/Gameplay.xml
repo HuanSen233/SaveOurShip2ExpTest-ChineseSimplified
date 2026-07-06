@@ -745,35 +745,8 @@
 	<SoS.StashedShip.DevAllShips>调试：所有舰船（谨慎使用）</SoS.StashedShip.DevAllShips>
 	<SoS.StashedShip.DevAllShipsFlipped>调试：所有舰船翻转（谨慎使用）</SoS.StashedShip.DevAllShipsFlipped>
 
-	<SoS.StashedShip.Destroyers>驱逐舰</SoS.StashedShip.Destroyers>
+	<!-- Ship collision feature -->
+	<SoS.Collision.WarningMessage>玩家舰船与敌方舰船之间的距离变得非常近。需注意避免可能发生的碰撞。</SoS.Collision.WarningMessage>
+	<SoS.Collision.Message>两船相撞，双方受损！它们会相互弹开，因而拉开一定作战距离。如需要进行下一次撞击，要先等待一段时间来稳定航向再进行。</SoS.Collision.Message>
 
-	
-	<!-- obsolete/unused
-	<SoS.PirateTradeEmpire>Our act of piracy against the Empire has not gone unnoticed!</SoS.PirateTradeEmpire>
-	<SoS.MoveFailPawns>Player pawn in {0}, ship move aborted.</SoS.MoveFailPawns>
-	<SoS.TargetEnd>Stop targeting</SoS.TargetEnd>
-	<SoS.TargetEndDesc>Stop targeting your current target with your weapons.</SoS.TargetEndDesc>
-	<ShipTorpedoLoaded>Loaded: {0}</ShipTorpedoLoaded>
-	<MustNotPlaceOnShipPart>Space occupied.</MustNotPlaceOnShipPart>
-	<MustPlaceInsideShip>Must place inside a fully enclosed ship hull.</MustPlaceInsideShip>
-	<MustPlaceNearSpinalMountPort>Must place adjacent to a spinal-mount module</MustPlaceNearSpinalMountPort>
-	<MustPlaceInsideShipFramework>Must place in a room bordered only by ship parts.</MustPlaceInsideShipFramework>
-	<MeditationFocusPerPillarAbstract>{1} per nearby archotech pillar (max {0})</MeditationFocusPerPillarAbstract>
-	<MeditationFocusPerPillar>{2} per nearby archotech pillar ({0} / {1})</MeditationFocusPerPillar>
-	<SporeNeedsName>Your archotech spore requests that you grant it a name.</SporeNeedsName>
-	<NoSalvageBays>No salvage bays available</NoSalvageBays>
-	<SalvageShip>Salvage enemy ship</SalvageShip>
-	<SalvageShipCancel>Abandon enemy ship</SalvageShipCancel>
-	<SalvageShipCancelDesc>Leave the enemy ship behind without salvaging it. Do not do this if any of your crew are still aboard.</SalvageShipCancelDesc>
-	<ShipWallLightDisco>Disco Mode</ShipWallLightDisco>
-	<ShipWallLightDiscoDesc>Set this light to cycle through the color spectrum</ShipWallLightDiscoDesc>
-	<SoSHologramDrug>Simulate Drug</SoSHologramDrug>
-	<SoSHologramDrugDesc>Affect this mind with a simulated version of an organic drug.</SoSHologramDrugDesc>
-	<SoSHologramDrugTaken>Effects of {1} applied to {0}</SoSHologramDrugTaken>
-	<SoSHologramRelay>Relay hologram</SoSHologramRelay>
-	<SoSHologramRelayDesc>Temporarily transfer a hologram to this location, even across great distances</SoSHologramRelayDesc>
-	<SoSHologramRelayStop>Stop relaying hologram</SoSHologramRelayStop>
-	<SoSHologramRelayStopDesc>Return {0} to the hologram's original map</SoSHologramRelayStopDesc>
-	<SoSHologramApparel>Wear holographic apparel</SoSHologramApparel>
-	<SoSHologramApparelDesc>Simulate apparel on this hologram</SoSHologramApparelDesc> -->
 </LanguageData>

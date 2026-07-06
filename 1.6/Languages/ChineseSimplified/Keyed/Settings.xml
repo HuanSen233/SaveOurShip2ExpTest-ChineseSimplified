@@ -32,6 +32,8 @@
 
 	<SoS.Settings.AddAntiBoardingDefense>增强反登船防御</SoS.Settings.AddAntiBoardingDefense>
 	<SoS.Settings.AddAntiBoardingDefense.Desc>敌方舰船的外侧气闸附近将自动添加炮塔，增强对跳帮攻击登船阶段的防御能力。如果启用了Shredder Tech模组，那么此功能也会随机把这个模组中，那种会痛击EVA套装的炮塔放上去。要是登船过于困难可以关掉这项设置。</SoS.Settings.AddAntiBoardingDefense.Desc>	
+	<SoS.Settings.EnableCollisions>启用舰船碰撞</SoS.Settings.EnableCollisions>
+	<SoS.Settings.EnableCollisionsDesc>此功能需要奥德赛DLC。如果启用，舰船在舰船战中将可能发生碰撞，会根据当前速度和质量对双方造成伤害。发生碰撞后舰船会相互弹开，这之后双方需要一段时间稳定轨道，然后才可能再次发生碰撞。</SoS.Settings.EnableCollisionsDesc>
 
 	<SoS.Settings.Debug>调试模式</SoS.Settings.Debug>
 	<SoS.Settings.Debug.Desc>绘制船舶区域，并在屏幕上列出所有舰船、残骸，鼠标悬停其之上将把该物体的更多详细信息添加进日志。默认：关</SoS.Settings.Debug.Desc>
